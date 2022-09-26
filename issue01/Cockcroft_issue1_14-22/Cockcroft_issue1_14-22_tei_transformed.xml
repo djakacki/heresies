@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="undefined"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -15,18 +11,1656 @@
 				<p>Information about the source</p>
 			</sourceDesc>
 		</fileDesc>
-	</teiHeader>
+	<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?place_annotation_20220926121657273",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:16:57.273Z",
+	"dcterms:modified": "2022-09-26T16:16:57.273Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?place_annotation_20220926121657273#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?place_annotation_20220926121657273#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://viaf.org/viaf/9747159400281919620004/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926121745184",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:17:45.184Z",
+	"dcterms:modified": "2022-09-26T16:17:45.184Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926121745184#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926121745184#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+		"rdf:value": "new york typo"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?place_annotation_20220926121852685",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:18:52.685Z",
+	"dcterms:modified": "2022-09-26T16:18:52.685Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?place_annotation_20220926121852685#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?place_annotation_20220926121852685#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q65",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?keyword_annotation_20220926122008190",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:20:08.190Z",
+	"dcterms:modified": "2022-09-26T16:20:08.190Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?keyword_annotation_20220926122008190#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?keyword_annotation_20220926122008190#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/seg"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "marxism"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926122155180",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:21:55.180Z",
+	"dcterms:modified": "2022-09-26T16:21:55.180Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926122155180#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926122155180#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[3]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+		"rdf:value": "reference"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926122434408",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:24:34.408Z",
+	"dcterms:modified": "2022-09-26T16:24:34.408Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926122434408#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926122434408#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[4]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+		"rdf:value": "reference"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926122451297",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:24:51.297Z",
+	"dcterms:modified": "2022-09-26T16:24:51.297Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926122451297#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926122451297#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[4]/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+		"rdf:value": "reference"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?person_annotation_20220926122854554",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:28:54.554Z",
+	"dcterms:modified": "2022-09-26T16:28:54.554Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?person_annotation_20220926122854554#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?person_annotation_20220926122854554#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[4]/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q8019912",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?organization_annotation_20220926123048386",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:30:48.386Z",
+	"dcterms:modified": "2022-09-26T16:30:48.386Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?organization_annotation_20220926123048386#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?organization_annotation_20220926123048386#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[5]/orgName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://www.wikidata.org/entity/Q109320582",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926123134076",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:31:34.076Z",
+	"dcterms:modified": "2022-09-26T16:31:34.076Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926123134076#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926123134076#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[5]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+		"rdf:value": "research"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?person_annotation_20220926123232627",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:32:32.627Z",
+	"dcterms:modified": "2022-09-26T16:32:32.627Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?person_annotation_20220926123232627#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?person_annotation_20220926123232627#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[5]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q6304327",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?organization_annotation_20220926123505352",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:35:05.352Z",
+	"dcterms:modified": "2022-09-26T16:35:05.352Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?organization_annotation_20220926123505352#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?organization_annotation_20220926123505352#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[6]/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://viaf.org/viaf/145791348/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?correction_annotation_20220926123538380",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:35:38.380Z",
+	"dcterms:modified": "2022-09-26T16:35:38.380Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:editing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?correction_annotation_20220926123538380#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?correction_annotation_20220926123538380#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[7]/choice"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:Correction",
+		"dc:format": "text/xml",
+		"rdf:value": "capitalize"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?correction_annotation_20220926123645830",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:36:45.830Z",
+	"dcterms:modified": "2022-09-26T16:36:45.830Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:editing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?correction_annotation_20220926123645830#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?correction_annotation_20220926123645830#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[7]/persName[2]/choice"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:Correction",
+		"dc:format": "text/xml",
+		"rdf:value": "capitalize"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?correction_annotation_20220926124011889",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:40:11.889Z",
+	"dcterms:modified": "2022-09-26T16:40:11.889Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:editing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?correction_annotation_20220926124011889#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?correction_annotation_20220926124011889#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[7]/orgName[4]/choice"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:Correction",
+		"dc:format": "text/xml",
+		"rdf:value": "board?"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?keyword_annotation_20220926124158568",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:41:58.568Z",
+	"dcterms:modified": "2022-09-26T16:41:58.568Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?keyword_annotation_20220926124158568#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?keyword_annotation_20220926124158568#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[10]/seg"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "machismo"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?organization_annotation_20220926124212460",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:42:12.460Z",
+	"dcterms:modified": "2022-09-26T16:42:12.460Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?organization_annotation_20220926124212460#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?organization_annotation_20220926124212460#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[10]/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://www.wikidata.org/entity/Q19630440",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?organization_annotation_20220926124247603",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:42:47.603Z",
+	"dcterms:modified": "2022-09-26T16:42:47.603Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?organization_annotation_20220926124247603#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?organization_annotation_20220926124247603#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[10]/orgName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://www.wikidata.org/entity/Q5518465",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926124307989",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:43:07.989Z",
+	"dcterms:modified": "2022-09-26T16:43:07.989Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926124307989#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926124307989#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[11]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+		"rdf:value": "reference"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926124320754",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:43:20.754Z",
+	"dcterms:modified": "2022-09-26T16:43:20.754Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926124320754#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?note_annotation_20220926124320754#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[11]/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+		"rdf:value": "reference"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?person_annotation_20220926124414933",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-09-26T16:44:14.933Z",
+	"dcterms:modified": "2022-09-26T16:44:14.933Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?person_annotation_20220926124414933#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "1.8.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/Cockcroft_issue1_14-22/Cockcroft_issue1_14-22_tei_transformed.xml?person_annotation_20220926124414933#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[11]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q24007838",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "1.8.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
-			<pb n="1" />
+			<pb n="1"/>
 			<head><title>Women in the Community Mural Movement</title>
-				<lb /><persName>>Eva Cockcroft</persName>
+				<lb/><persName>&amp;gt;<persName type="real"><persName>Eva Cockcroft</persName></persName></persName>
 			</head>
-			<p>Women's role in the community mural move¬ ment is much greater than is generally recog¬ nized. Major city-sponsored mural programs in Boston (Adele Seronde and Summerthing), New Vork
-				(Susan Shapiro-Kiok and Cityarts), and Los Angeles (Judy Baca and Citywide) have been initiated and directed by women artists, who have given these programs much of their char¬ acter
+			<p>Women's role in the community mural move¬ ment is much greater than is generally recog¬ nized. Major city-sponsored mural programs in <placeName key="Boston (N.Y. : Town)" ref="http://viaf.org/viaf/9747159400281919620004/">Boston</placeName> (Adele Seronde and Summerthing), New Vork<note type="researchNote">new york typo</note>
+				(Susan Shapiro-Kiok and Cityarts), and <placeName key="Los Angeles" ref="http://www.wikidata.org/entity/Q65">Los Angeles</placeName> (Judy Baca and Citywide) have been initiated and directed by women artists, who have given these programs much of their char¬ acter
 				and philosophy. Women have led school mural projects, mural collectives, and mural¬ work with street youth. Whether working as individual muralists, members of coalitions, or in
 				collectives, women have increasingly dom¬ inated the mural movement as a force for non¬ elitism, collectivity, and the practice of so¬ cial philosophies ranging from humanism to
-				Marxism.</p>
+				Marxism<seg type="keyword"><term>marxism</term></seg>.</p>
 			<p>Murals on urban walls reflecting the aspira¬ tions of neighborhood residents began as part of the more general social upheaval of the 1960s. Artists found themselves dragged into the
 				social arena and forced to consider questions beyond those of pure form. By the late 1960s they could no longer avoid confronting questions concern¬ ing the relevance, audience, and
 				uses of their art. A number of movements arose that tried to enlarge the audience and scope of contempo¬ rary art. Minority-group and politically active artists felt both a demand and
@@ -34,40 +1668,38 @@
 				of the museums and into the cities in the form of urban super¬ graphics, environmental sculptures, street¬ works, and happenings. Out of the coincidence of these social and artistic
 				forces the communi¬ ty mural movement began in 1967-68.</p>
 			<p>The mural movement took on different forms in different locations, depending on which par¬ ticular combination of social forces spurred its beginnings. The first mural in Chicago, the
-				1967 Wall of Respect, was painted by 21 Black artists from the Organization of Black American Cul¬ ture (ÖBAC) and celebrated Black history and culture. It was a political-art
+				1967 Wall of Respect<note type="researchNote">reference</note>, was painted by 21 Black artists from the <orgName>Organization of Black American Cul¬ ture</orgName> (ÖBAC) and celebrated Black history and culture. It was a political-art
 				happening involv¬ ing musicians and poets who played and read as the painting progressed. Although women art¬ ists participated in the Wall of Respect, they were not among those who
 				continued the movement in Chicago and went from the OBAC wall to paint in Detroit. </p>
-			<p>For a long time Vanita Green's Black Women (1970) served as the token of women's participa¬ tion in the Chicago mural movement. Green was 17, a high school dropout, when she saw William
-				Walker painting the Peace and Salva¬ tion Wall of Understanding near the Cabrini¬ Green projects where she lived. After watching for a time, she asked Walker for paints and brushes and
-				on a storage shed nearby painted portraits of famous Black women from Aunt Jemima to Angela Davis. Almost immediately afterwards, the wall was defaced with large splashes of white
+			<p>For a long time <persName type="real">Vanita Green</persName>'s Black Women (1970) served as the token of women's participa¬ tion in the Chicago mural movement. Green was 17, a high school dropout, when she saw William
+				Walker painting<note type="researchNote">reference</note> the Peace and Salva¬ tion Wall of Understanding<note type="researchNote">reference</note> near the Cabrini¬ Green projects where she lived. After watching for a time, she asked Walker for paints and brushes and
+				on a storage shed nearby painted portraits of famous Black women from <persName>Aunt Jemima</persName> to <persName type="real">Angela Davis</persName>. Almost immediately afterwards, the wall was defaced with large splashes of white
 				paint, practically the only de¬ facement in Chicago up to that time. When Green saw what the vandals had done, she com¬ mented, "Before, it was just a pretty picture, but it says more
-				now." In general, though, dur¬ ing those early years women found their place largely as assistants and apprentices in one of the two major community-based Chicago mural groups: Public
-				Art Workshop, led by Mark Rogovin, and Chicago Mural Group, a multi¬ ethnic coalition led by William Walker and John Weber. </p>
-			<p>In Boston, on the other hand, women played an important role in introducing the mural idea. Boston artist Adele Seronde’s proposal calling for the use of neglected city sites to
-				transform the city into a museum was the start. Through the collaboration of Kathy Kane of the Mayor's Office of Cultural Affairs, the Institute of Con¬ temporary Art, a number of
-				Black artists, and Seronde, Summerthing was launched. It was the largest and most productive of the early mural programs, beginning in 1968 and peaking in 1970. The Summerthing program
-				combined ele¬ ments of three distinct phenomena which had emerged the preceding year—the renaissance in Black culture (Wall of Respect), the "Summer in the City Paint-in Festival" and
-				various clean-up programs, and the desire of environmental art¬ ists to work in urban spaces. Summerthing sponsored Black Power murals, children's play¬ ground and pocket-park
+				now." In general, though, dur¬ ing those early years women found their place largely as assistants and apprentices in one of the two major community-based Chicago mural groups: <orgName>Public Art Workshop</orgName>, led by <persName>Mark Rogovin</persName>, and <orgName>Chicago Mural Group</orgName>, a multi¬ ethnic coalition led by <persName key="William Walker" ref="http://www.wikidata.org/entity/Q8019912" type="real">William Walker</persName> and <persName>John Weber</persName>. </p>
+			<p>In Boston, on the other hand, women played an important role in introducing the mural idea. Boston artist <persName type="real">Adele Seronde</persName>’s proposal calling for the use of neglected city sites to
+				transform the city into a museum was the start. Through the collaboration of <persName>Kathy Kane</persName> of the <orgName>Mayor's Office of Cultural Affairs</orgName>, the <orgName>Institute of Con¬ temporary Art</orgName>, a number of
+				Black artists, and Seronde, <orgName key="Summerthing" ref="http://www.wikidata.org/entity/Q109320582">Summerthing</orgName> was launched. It was the largest and most productive of the early mural programs, beginning in 1968 and peaking in 1970. The Summerthing program
+				combined ele¬ ments of three distinct phenomena which had emerged the preceding year—the renaissance in Black culture (Wall of Respect), the "<orgName>Summer in the City Paint-in Festival</orgName>" and
+				various clean-up programs, and the desire of environmental art¬ ists to work in urban spaces. Summerthing sponsored Black Power murals<note type="researchNote">research</note>, children's play¬ ground and pocket-park
 				projects, and decora¬ tive walls—all within a framework allowing for neighborhood control. Under Seronde's direc¬ tion, the program emphasized the sociological rather than the
 				decorative aspect of public art. Many impressive walls were painted from 1968 to 1970, especially in the Black communities of Roxbury and South End-including the first women's wall,
-				Sharon Dunn's Black Women, painted in 1970. Seronde is only one of many women who <pb n="2" /> have made important contributions as organ¬ izers and administrators. Judy Baca, a
-				leading Chicana muralist in Los Angeles, obtained City funding for a similar neighborhood-oriented large-scale mural program (Citywide Murals) in 1974. Shelly Killen heads a program
-				for murals in prisons in Rhode Island, which has operated in the correctional institutions there for the past two years. Sandy Rubins Alternate Graffiti Workshop in Philadephia
-				pioneered techniques for developing the artistic potential of graffiti writers; several of her workshop graduates have become muralists in their own right. Ruth Asawa and Nancy
-				Thompson developed the Al- varado School-Community Program in San Francisco which brings community artists into the public schools to enrich the school experi¬ ence and has heped to
-				open the doors to "Art- ists in the Schools" programs around the coun- try. In fact, at the present time, the majority of the mural programs throughout the nation are directed by
+				Sharon Dunn's Black Women, painted in 1970. Seronde is only one of many women who <pb n="2"/> have made important contributions as organ¬ izers and administrators. <persName key="Judy Baca" ref="http://www.wikidata.org/entity/Q6304327" type="real">Judy Baca</persName>, a
+				leading Chicana muralist in Los Angeles, obtained City funding for a similar neighborhood-oriented large-scale mural program (<orgName>Citywide Murals</orgName>) in 1974. <persName>Shelly Killen</persName> heads a program
+				for murals in prisons in Rhode Island, which has operated in the correctional institutions there for the past two years. <persName type="real">Sandy Rubins</persName> <orgName>Alternate Graffiti Workshop</orgName> in Philadephia
+				pioneered techniques for developing the artistic potential of graffiti writers; several of her workshop graduates have become muralists in their own right. <persName>Ruth Asawa</persName> and <persName type="real">Nancy Thompson</persName> developed the <orgName>Al- varado School-Community Program</orgName> in San Francisco which brings community artists into the public schools to enrich the school experi¬ ence and has heped to
+				open the doors to "<orgName>Art- ists in the Schools</orgName>" programs around the coun- try. In fact, at the present time, the majority of the mural programs throughout the nation are directed by
 				women. </p>
 			<p>The major influx of women artists into the mural movement did not take place until 1971- 73 when news about the community walls had become better known outside the actual mural
-				communities. This was also a time of expansion for the Womens Liberation Movement. Many women artists tried mural work, but not all of them became muralists. Community mural work,
+				communities. This was also a time of expansion for the <orgName key="Women's Liberation Movement (Chicago, Ill.)" ref="http://viaf.org/viaf/145791348/">Womens Liberation Movement</orgName>. Many women artists tried mural work, but not all of them became muralists. Community mural work,
 				although highly rewarding, requires a certain kind of openness and great dedication. It also demands physical labor, community or¬ ganizing, going to meetings, and an ability to deal
 				with the great variety of people who come up to talk or make comments. However, a num- ber of the women who did become involved in the eanly 1970s now identify themselves as mur¬
 				alists and are recognized for their artistic contri¬ butions. </p>
-			<p>The development of Caryl Yasko one of the best muralists in the nation and a leader of the Chicago Mural Group, illustrates this process. like Green, Yasko was introduced to the mural
+			<p>The development of <persName>Caryl Yasko</persName> one of the best muralists in the nation and a leader of the Chicago Mural Group, illustrates this process. <choice><sic>like</sic><corr>capitalize</corr></choice> Green, Yasko was introduced to the mural
 				movement through William Waker when she volunteered as a parent-assistant for a mural he was directing with children at her neighborhood school. After this experience, Yasko and her
-				partner in a small art enterprise, Kathy judge, a ceramicist, worked with small children to paint Walls of Hope. Vasko and judge were then in- vited to join the Chicago Mural Group. In
-				the summer of 1972, Yasko directed her first major project, Under City Stone, a mural that runs throughout the 55th Street underpass in Hyde Park. Painted from Yasko's design with the
+				partner in a small art enterprise, <persName type="real">Kathy <choice><sic>judge</sic><corr>capitalize</corr></choice></persName>, a ceramicist, worked with small children to paint Walls of Hope. Vasko and judge were then in- vited to join the Chicago Mural Group. In
+				the summer of 1972, Yasko directed her first major project, <orgName>Under City Stone</orgName>, a mural that runs throughout the 55th Street underpass in Hyde Park. Painted from Yasko's design with the
 				help of a team recruited from passers-by, it shows hundreds of figures walking around and, above them, the machinery, technology, and pollu- tion of today's city. Yasko painted herself
-				in the <pb n="3" />
+				in the <pb n="3"/>
 				<caption>Caryl Yasko. I Am the People. 1974. 2659 N. Milwaukee, Chicago, Illinois. (Photo: Eva Cockcroft.)</caption> crowd—a slim young woman, paintbrushes in hand, a baby on her back.
 				The following year Yasko painted in the heart of the Black-Belt South Side with a team of young Black people. Located on a prenatal clinic wall, this mural depicts statuesque,
 				larger-than-life women with their children. In 974 Yasko broke new ground for the Chicago muralists. Although murals had become com¬ monplace in many areas of Chicago certain white
@@ -75,14 +1707,14 @@
 				also be meaningful in white working¬ class neighborhoods was in the air. In those cities where the murals had begun with the Black Power thrust of the late sixties, a move¬ ment toward
 				more general themes was begin¬ ning. In 1974 Yasko began a mammoth mural in the Logan Square area of Chicago. The mural uses symbolic figures and images to identify the values of the
 				largely Polish and Bielorussian residents of the area and to depict them work¬ ing together to maintain control in a highly technical, mechanized world. This major wal has opened the
-				door for a number of other murals in this and similar neighborhoods Yasko, however, is only one of many women muralists who have made important artistic contributions. Lucy Mahler's
-				vivid mural at the Wright Brothers School in New York is one of the earliest murals on a public school building. Astrid Fuller with her distinctive combination <caption>Marie Burton,
+				door for a number of other murals in this and similar neighborhoods Yasko, however, is only one of many women muralists who have made important artistic contributions. <persName>Lucy Mahler</persName>'s
+				vivid mural at the <orgName>Wright Brothers School</orgName> in New York is one of the earliest murals on a public school building. <persName>Astrid Fuller</persName> with her distinctive combination <caption><persName>Marie Burton</persName>,
 					director. Celebration of Cultures. 1975. Mil¬ waukee, Wisconsin. (Photo: Weber.) </caption>
-				<pb n="4" /> of a primitive literalism with surrealist images, has created a series of ambitious underpass murals in the Hyde Park area of Chicago. Holly Highfill, who painted an
-				anti-war mural in the Loop area of Chicago (1973), has gone on to do several succeeding walls with gang youth. Marie Burton, who with Highfill and Rogovin co-authored the Mural Manual,
-				works primarily with teenagers. Her Bored of Education in Chi¬ cago (1971) and the Celebration of Cultures in Milwaukee (1975) are among the most impres- sive of the school murals. And
-				these are just a few of the women muralists working on com¬ munity walls in a way that might be called the Chicago model (others are Justine DeVan, Esther Charbit, Ruth Felton, and
-				Celia Radek). </p>
+				<pb n="4"/> of a primitive literalism with surrealist images, has created a series of ambitious underpass murals in the Hyde Park area of Chicago. <persName type="real">Holly Highfill</persName>, who painted an
+				anti-war mural in the Loop area of Chicago (1973), has gone on to do several succeeding walls with gang youth. Marie Burton, who with Highfill and Rogovin co-authored the <orgName>Mural Manual</orgName>,
+				works primarily with teenagers. Her <orgName><choice><sic>Bored</sic><corr>board?</corr></choice> of Education in Chi¬ cago</orgName> (1971) and the <orgName>Celebration of Cultures</orgName> in Milwaukee (1975) are among the most impres- sive of the school murals. And
+				these are just a few of the women muralists working on com¬ munity walls in a way that might be called the Chicago model (others are <persName>Justine DeVan</persName>, <persName type="real">Esther Charbit</persName>, <persName>Ruth Felton</persName>, and
+				<persName type="real">Celia Radek</persName>). </p>
 			<p>In the Chicago model, the artist-leader of a mural team, using community and youth input, designs the wall and directs the painting of it. The community participates as a new class of
 				patrons who help to pay for the mural and are consulted on the design. In spite of the change in patronage, and participation of community people as team members the Chicago model's
 				emphasis on professionalism is fairly close to the mural tradition through the ages. Murals, after all, have rarely been painted by individu- als; mostly they are done by a group of
@@ -90,16 +1722,15 @@
 			<p>This hierarchical process has been challenged by several developments within the mural movement. One is the experimentation with women muralists have come into the movement as or¬
 				ganizers or members of a collective group. The mutual support and shared responsibility the collective offers an individual is often necessary to provide the courage to attempt a first
 				mural (and some of the labor power to finish it). Es- pecially in the case of women this factor can be decisive. </p>
-			<p>Within the Latin culture, machismo often reaches rather extreme forms yet this is coun¬ tered by a strong communal tradition. It is not surprising therefore that in 1974 a grounpof
-				Latin American women muralists--Mujeres Muralis- tas--was formed in San Francisco. Most of the women were students of recent graduates of the San Francisco Art Institute and connected
-				with the Galeria de La Raza, the center for Chicano artists in the Mission district. Their philosophy was simple and very positive: </p>
+			<p>Within the Latin culture, machismo<seg type="keyword"><term>machismo</term></seg> often reaches rather extreme forms yet this is coun¬ tered by a strong communal tradition. It is not surprising therefore that in 1974 a grounpof
+				Latin American women muralists--<orgName key="Mujeres Muralistas" ref="http://www.wikidata.org/entity/Q19630440">Mujeres Muralis</orgName>- tas--was formed in San Francisco. Most of the women were students of recent graduates of the <orgName>San Francisco Art Institute</orgName> and connected
+				with the <orgName key="Galería de la Raza" ref="http://www.wikidata.org/entity/Q5518465">Galeria de La Raza</orgName>, the center for Chicano artists in the Mission district. Their philosophy was simple and very positive: </p>
 			<quote>Our cuftures, our images are strong. It is im¬ portant that the atmosphere of the world be plagued with color and Hife. Throughout His¬ tory there have been very few women who have
 				figured in art. What you see is proof that women, too, can work at this level. That we can put together scaffolding and climb it. We offer you the colors that we make </quote>
-			<pb n="5" />
-			<pb n="6" />
-			<p>Their two best-known walls, Latinoamerica and the Paco's Tacos Stand mural were both done in the spring and summer of 1974. They celebrate the beauty and richness of the Latin
-				tradition. For Latinoamerica, the four women comprising the original core of Mujeres Mural- istas-Patricia Rodriguez, Consuelo Mendez Castillo, lrene Perez, and Graciela Carrillo de
-				Lopez--worked together to create the design Different parts of the mural are painted by each artist in her individual style; yet the mural suc¬ ceeds as a unified work because of the
+			<pb n="5"/>
+			<pb n="6"/>
+			<p>Their two best-known walls, Latinoamerica<note type="researchNote">reference</note> and the Paco's Tacos Stand<note type="researchNote">reference</note> mural were both done in the spring and summer of 1974. They celebrate the beauty and richness of the Latin
+				tradition. For Latinoamerica, the four women comprising the original core of Mujeres Mural- istas-<persName key="Patricia Rodriguez" ref="http://www.wikidata.org/entity/Q24007838">Patricia Rodriguez</persName>, <persName type="real">Consuelo Mendez Castillo</persName>, <persName>lrene Perez</persName>, and <persName type="real">Graciela Carrillo de Lopez</persName>--worked together to create the design Different parts of the mural are painted by each artist in her individual style; yet the mural suc¬ ceeds as a unified work because of the
 				clean organization, and the distinctively bright, clean color that is characteristic of the group. In the Paco's Tacos mural the unity is more tenuous. The wall divides into two
 				distinctly different halves reflecting the different artistic styles of Consuelo Mendez Castillo and Graciela Carrillo de Lopez. In many ways Mujeres Muralistas was never feally a
 				"collective," but rather a group of women who came together to work on a particular wall mural. An almost instant fame forced them into a prematurely formalized exis- tence as a
@@ -130,7 +1761,7 @@
 				Smith housing project on the lower East Side, is typical of the early sithouette style. Later murals became more complex as the technique came to include the use of drawings and slides
 				as well as photographs and the opaque projector. The jewish ethnic mural at the Bialystoker Old People's Home is a collage ofimages designed and painted by a group of Jewish teenagers
 				under the direction of Susan Caruso-Green (current director of Cityarts Workshop). </p>
-			<pb n="7" />
+			<pb n="7"/>
 			<p>Two other collective walls were painted in 1974 and 1975by lower East Side women under the direction of Tomie Arai. The Wal of Re¬ spect for Women (1974) epitomizes the non¬
 				antagonistic type of feminism portrayed on non-white community walls dealing with the theme of woman. Rather than condemning more traditional womens roles (e.g. mother, telephone
 				operator), this mural celebrates all the roles played by women. The second wall, Women Hold Up Halt the Sky (1975), palnted by many of the same women who worked or the earlier wall, as
@@ -175,7 +1806,7 @@
 			<p>Overtly feminist murals are found primarlly on VVomen's Center walls within the university world, and in certain selected city neighbor hoods-Haght-Ashbury, for example-where a base of
 				support exists. Most often, the feminist consciousness of women muralists is expressed bythesubstitution of female for male as asym- bolic or heroic figure, or even by the mere
 				inclusjon of women as active figures in any mural.</p>
-			<p>Theproblem of responsibility to the perma<pb n="8" />the nent audience, those who have to live with art, isone with whichthecommunity muralist is constantly faced. Theideal is to
+			<p>Theproblem of responsibility to the perma<pb n="8"/>the nent audience, those who have to live with art, isone with whichthecommunity muralist is constantly faced. Theideal is to
 				work constant ly at the cutting edge of issues-neither too fan ahead nor too far behind. This is a continda struggle involving a constant series of difficuft decisjons and has been
 				adirect part of my own fecent experience as a muralist. After severa years of working in a relatively radicalized uni¬ versity setting, ! undertook some murals in a very different
 				environment-a conservative small town in the Adirondack mountains. My problem was how to paint a bicentennial mura that would be accepted by the permanent resi- dents as their history
