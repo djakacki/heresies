@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
 		<fileDesc>
 			<titleStmt>
@@ -97,7 +93,7 @@
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
-	</teiHeader>
+	<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
 	<text>
 		<body>
 			<pb n="66"/>
@@ -128,7 +124,7 @@
 				show its origin, meaning, and political potential.</p>
 			<p>In "Prime Time: Art and Politics"<note>Alexa Freeman and Jackie MacMillan, "Prime
 					Time: Art and Politics," <title>Quest: A Feminist Quarterly</title> (Summer,
-					1975).</note> Alexa Freeman and Jackie MacMillan look at how art is viewed in
+					1975).</note> <persName type="real">Alexa Freeman</persName> and <persName>Jackie MacMillan</persName> look at how art is viewed in
 				this capitalist, patriarchal society and criticize activists for reacting too
 				quickly and overlooking the revolutionary potential of art. However, they in turn
 				react to male estabishment myths about abstract (non-representa- tional) art and
@@ -141,8 +137,7 @@
 				isolated genius, abstract art has offered an illusion of objectivity. Such notions
 				suggest that the content of one's work can be separated from one's political
 				beliefs. By sponsoring international exhibitions showing apolitical abstract
-				paintings by former Communist Party members, the C.I.A. (via the Museurn of Modern
-				Art) has sought to impress other nations with the cultural freedom of the U.S.A. The
+				paintings by former <orgName>Communist Party</orgName> members, the <orgName>C.I.A.</orgName> (via the <orgName>Museurn of Modern Art</orgName>) has sought to impress other nations with the cultural freedom of the U.S.A. The
 				way in which Abstract Expressionist art was defined and developed by the artists and
 				then used by others to further cold war politics in the fifties is only one example
 				of the manipulation of abstract art to create the illusory separation of art and
