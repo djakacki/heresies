@@ -5116,10 +5116,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?title_annotation_20221101173836872",
+	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?title_annotation_20221101173935964",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-01T21:38:36.872Z",
-	"dcterms:modified": "2022-11-01T21:39:35.964Z",
+	"dcterms:created": "2022-11-01T21:39:35.964Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -5129,7 +5128,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?title_annotation_20221101173836872#Target",
+		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?title_annotation_20221101173935964#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml",
@@ -5143,7 +5142,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?title_annotation_20221101173836872#Selector",
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?title_annotation_20221101173935964#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[2]/title/title"
 		}
@@ -5194,10 +5193,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?note_annotation_20221101174142707",
+	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?note_annotation_20221101174324284",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-01T21:41:42.707Z",
-	"dcterms:modified": "2022-11-01T21:41:42.707Z",
+	"dcterms:created": "2022-11-01T21:43:24.284Z",
+	"dcterms:modified": "2022-11-01T21:43:24.284Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -5207,7 +5206,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?note_annotation_20221101174142707#Target",
+		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?note_annotation_20221101174324284#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml",
@@ -5221,15 +5220,15 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?note_annotation_20221101174142707#Selector",
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?note_annotation_20221101174324284#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p[2]/note"
+			"rdf:value": "TEI/text/body/p[2]/title/note"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NoteInternal",
+		"@type": "cwrc:Note",
 		"dc:format": "text/plain",
-		"rdf:value": "\"Woman With White Stockings\" \nFrench: \"La Femme aux bas blancs\""
+		"rdf:value": "\"Woman With White Stockings\", \"La Femme aux bas blancs\""
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5264,7 +5263,7 @@
 				invite fantasies of male conquest (or fantasies that justify male domination) that
 				the subjuga- tion of the female will appear to be one of the primary motives of
 				modern erotic art.</p>
-			<p>In <persName key="Eugène Delacroix" ref="http://www.wikidata.org/entity/Q33477">Delacroix</persName>'s <title cert="high" level="a" xml:space="default" ref="https://www.eugenedelacroix.org/Woman-With-White-Stockings.html"><title key="Study of Female Nude Reclining on a Divan" ref="http://www.wikidata.org/entity/Q19015135">Woman in White Stockings</title></title> (1832), for example, an artist's model (i.e.,
+			<p>In <persName key="Eugène Delacroix" ref="http://www.wikidata.org/entity/Q33477">Delacroix</persName>'s <title cert="high" level="a" xml:space="default" ref="https://www.eugenedelacroix.org/Woman-With-White-Stockings.html"><note>"Woman With White Stockings", "La Femme aux bas blancs"</note><title key="Study of Female Nude Reclining on a Divan" ref="http://www.wikidata.org/entity/Q19015135">Woman in White Stockings</title></title> (1832), for example, an artist's model (i.e.,
 				a sexually available woman) reclines invitingly on a silken mattress. The deep red
 				drapery behind her forms a shadowy and suggestive opening. The image evokes a basic
 				male fantasy of sexual confrontation, but the model does not appear to anticipate
@@ -5273,8 +5272,7 @@
 				disturbed, her torso is uncomfortably twisted, and the position of her arms suggests
 				surrender and powerlessness. But this distress does not contradict the promise of
 				male gratification. Rather, it is offered as an explicit condition of male
-				pleasure—the artist's and the viewer's.<note type="researchNote">"Woman With White Stockings" 
-French: "La Femme aux bas blancs"</note></p>
+				pleasure—the artist's and the viewer's.</p>
 			<p>The equation of female sexual experience with surrender and victimization is so
 				familiar in what our culture designates as erotic art and so sanctioned by both
 				popular and high cultural traditions, that one hardly stops to think it odd. The
