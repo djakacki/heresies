@@ -4729,6 +4729,7 @@
 	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?note_annotation_20221030195751814",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-10-30T23:57:51.814Z",
+	"dcterms:modified": "2022-10-30T23:57:51.814Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -4754,7 +4755,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?note_annotation_20221030195751814#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p[2]/title/note[2]"
+			"rdf:value": "TEI/text/body/p[2]/title/note"
 		}
 	},
 	"oa:hasBody": {
@@ -5185,7 +5186,7 @@
 				invite fantasies of male conquest (or fantasies that justify male domination) that
 				the subjuga- tion of the female will appear to be one of the primary motives of
 				modern erotic art.</p>
-			<p>In <persName key="Eugène Delacroix" ref="http://www.wikidata.org/entity/Q33477">Delacroix</persName>'s <title>Wo<note type="citation"/>man in White Stockings<note type="researchNote">"Woman With White Stockings"</note></title> (1832), for example, an artist's model (i.e.,
+			<p>In <persName key="Eugène Delacroix" ref="http://www.wikidata.org/entity/Q33477">Delacroix</persName>'s <title cert="high" level="a" xml:space="default" ref="https://www.eugenedelacroix.org/Woman-With-White-Stockings.html"><title key="Study of Female Nude Reclining on a Divan" ref="http://www.wikidata.org/entity/Q19015135">Woman in White Stockings</title><note type="researchNote">"Woman With White Stockings"</note></title> (1832), for example, an artist's model (i.e.,
 				a sexually available woman) reclines invitingly on a silken mattress. The deep red
 				drapery behind her forms a shadowy and suggestive opening. The image evokes a basic
 				male fantasy of sexual confrontation, but the model does not appear to anticipate
