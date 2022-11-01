@@ -826,10 +826,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml?place_annotation_20221101102816973",
+	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml?person_annotation_20221101102830152",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-01T14:28:16.973Z",
-	"dcterms:modified": "2022-11-01T14:28:16.973Z",
+	"dcterms:created": "2022-11-01T14:28:30.152Z",
+	"dcterms:modified": "2022-11-01T14:28:30.152Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -839,7 +839,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml?place_annotation_20221101102816973#Target",
+		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml?person_annotation_20221101102830152#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml",
@@ -853,14 +853,14 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml?place_annotation_20221101102816973#Selector",
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml?person_annotation_20221101102830152#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/lg[7]/lg[3]/l[7]/placeName"
+			"rdf:value": "TEI/text/body/lg[7]/lg[3]/l[8]/persName"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q36014",
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q5816",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -904,10 +904,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml?person_annotation_20221101102830152",
+	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml?place_annotation_20221101102900284",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-01T14:28:30.152Z",
-	"dcterms:modified": "2022-11-01T14:28:30.152Z",
+	"dcterms:created": "2022-11-01T14:29:00.284Z",
+	"dcterms:modified": "2022-11-01T14:29:00.284Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -917,7 +917,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml?person_annotation_20221101102830152#Target",
+		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml?place_annotation_20221101102900284#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml",
@@ -931,14 +931,14 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml?person_annotation_20221101102830152#Selector",
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/clausen.xml?place_annotation_20221101102900284#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/lg[7]/lg[3]/l[8]/persName"
+			"rdf:value": "TEI/text/body/lg[7]/lg[3]/l[7]/placeName"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q5816",
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q1854",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1088,7 +1088,7 @@
 					<l>(and <persName key="Fidel Castro" ref="http://www.wikidata.org/entity/Q11256">castro</persName> hid</l>
 					<l>in the mountains</l>
 					<l>the jungles covered</l>
-					<l><placeName key="Ho Chi Minh" ref="http://www.wikidata.org/entity/Q36014">ho chi minh</placeName></l>
+					<l><placeName key="Ho Chi Minh City" ref="http://www.wikidata.org/entity/Q1854">ho chi minh</placeName></l>
 					<l>and <persName key="Mao Zedong" ref="http://www.wikidata.org/entity/Q5816">mao</persName> is whispered</l>
 					<l>change from out of the north</l>
 					<l>and lenin rode east</l>
