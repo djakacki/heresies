@@ -5119,7 +5119,7 @@
 	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?title_annotation_20221101173836872",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-01T21:38:36.872Z",
-	"dcterms:modified": "2022-11-01T21:38:36.872Z",
+	"dcterms:modified": "2022-11-01T21:39:35.964Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
