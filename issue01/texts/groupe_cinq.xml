@@ -1142,7 +1142,7 @@
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?organization_annotation_20221101174912895",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-01T21:49:12.895Z",
-	"dcterms:modified": "2022-11-01T21:49:12.895Z",
+	"dcterms:modified": "2022-11-01T21:50:50.769Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1172,7 +1172,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "org:Organization"
+		"@type": "org:Organization",
+		"@id": "http://www.wikidata.org/entity/Q2720495",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1191,7 +1193,7 @@
 		<front>
 			<head><title><orgName key="La Roquette" ref="http://www.wikidata.org/entity/Q431931">La Roquette</orgName>, Women s Prison</title></head>
 			<byline><orgName><orgName>Groupe de Cinq</orgName></orgName></byline>
-			<p>The <orgName>Group of Five</orgName> is a Paris-based collective consisting of <persName key="Martine Aballéa" ref="http://www.wikidata.org/entity/Q25873672" type="real">Martine Aballea</persName>, <persName key="Blum, Judy" ref="http://viaf.org/viaf/50922895/" type="real">Judy
+			<p>The <orgName key="Group of Five" ref="http://www.wikidata.org/entity/Q2720495">Group of Five</orgName> is a Paris-based collective consisting of <persName key="Martine Aballéa" ref="http://www.wikidata.org/entity/Q25873672" type="real">Martine Aballea</persName>, <persName key="Blum, Judy" ref="http://viaf.org/viaf/50922895/" type="real">Judy
 				Blum</persName>, <persName key="Croiset, Nicole 1950-...." ref="http://viaf.org/viaf/229710280/">Nicole Croiset</persName>, Mimi<note>last name?</note>, and <persName key="Nil Yalter" ref="http://www.wikidata.org/entity/Q19502275" type="real">Nil Yalter</persName>, who include among their skills video,
 				painting, sculpture, drawing, and poetry; and among their nationalities French,
 				Turkish, Canadian, American. This work on <orgName key="La Roquette" ref="http://www.wikidata.org/entity/Q3212411">La Roquette</orgName> began when Judy and Mimi met
