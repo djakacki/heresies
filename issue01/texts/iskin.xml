@@ -1653,6 +1653,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/iskin.xml?organization_annotation_20221101165245214",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-01T20:52:45.214Z",
+	"dcterms:modified": "2022-11-01T20:52:45.214Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Margaret Hunter"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/iskin.xml?organization_annotation_20221101165245214#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/iskin.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/iskin.xml?organization_annotation_20221101165245214#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/quote[8]/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://www.wikidata.org/entity/Q188515",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -1877,17 +1955,17 @@
 				artist's new work—collages in which the torn and mutilated fragments are reunited on
 				a cohesive surface.</p>
 			<quote>would say that these drawings were intentionally propagandistic.... It had to
-				do with consumer and sexual politics. The frame of mind that ! was in when I did
+				do with consumer and sexual politics. The frame of mind that I was in when I did
 				these drawings was severe frustration over treatment by men. The drawings were also
-				politically charged for me because ! talked about them to all kinds of groups from
+				politically charged for me because I talked about them to all kinds of groups from
 				Valley housewives to a continuation high school culture-hour class; thought people
 				would be bored by these draw<pb n="76"/>ings and they weren’t. They seemed to have a
 				good time, and related to the drawings immediately. Now, it is not necessary to
 				have a good time when viewing art, but there was blanket recognition of the issues.
 				When 1 looked in the newspaper I noticed that you could apply sexual politics,
 				directly or indirectly, to almost every image in the advertisement world; every
-				image implies sexual oromises. My original fantasy was that ! would have enough
-				money to take out a full page ad in the L.A. Times, and just change the images a
+				image implies sexual promises. My original fantasy was that I would have enough
+				money to take out a full page ad in the <orgName key="Los Angeles Times" ref="http://www.wikidata.org/entity/Q188515">L.A. Times</orgName>, and just change the images a
 				little bit. Obviously the most political thing about that was my fantasy about how
 				many people 1 could reach that way. It is the nature of good political art to be
 				recognizable and understandable by a lot of people and maybe at a visceral level
