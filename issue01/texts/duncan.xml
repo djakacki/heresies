@@ -4726,84 +4726,6 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?note_annotation_20221030195751814",
-	"type": "oa:Annotation",
-	"dcterms:created": "2022-10-30T23:57:51.814Z",
-	"dcterms:modified": "2022-10-30T23:57:51.814Z",
-	"dcterms:creator": {
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Margaret Hunter"
-	},
-	"oa:motivatedBy": "oa:describing",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?note_annotation_20221030195751814#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.2.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?note_annotation_20221030195751814#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p[2]/title/note"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NoteInternal",
-		"dc:format": "text/plain",
-		"rdf:value": "\"Woman With White Stockings\""
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.2.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?title_annotation_20221030195920177",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-10-30T23:59:20.177Z",
@@ -5162,6 +5084,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?title_annotation_20221101173836872",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-01T21:38:36.872Z",
+	"dcterms:modified": "2022-11-01T21:38:36.872Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Margaret Hunter"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?title_annotation_20221101173836872#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/duncan.xml?title_annotation_20221101173836872#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[2]/title/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q19015135",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -5186,7 +5186,7 @@
 				invite fantasies of male conquest (or fantasies that justify male domination) that
 				the subjuga- tion of the female will appear to be one of the primary motives of
 				modern erotic art.</p>
-			<p>In <persName key="Eugène Delacroix" ref="http://www.wikidata.org/entity/Q33477">Delacroix</persName>'s <title cert="high" level="a" xml:space="default" ref="https://www.eugenedelacroix.org/Woman-With-White-Stockings.html"><title key="Study of Female Nude Reclining on a Divan" ref="http://www.wikidata.org/entity/Q19015135">Woman in White Stockings</title><note type="researchNote">"Woman With White Stockings"</note></title> (1832), for example, an artist's model (i.e.,
+			<p>In <persName key="Eugène Delacroix" ref="http://www.wikidata.org/entity/Q33477">Delacroix</persName>'s <title cert="high" level="a" xml:space="default" ref="https://www.eugenedelacroix.org/Woman-With-White-Stockings.html"><title key="Study of Female Nude Reclining on a Divan" ref="http://www.wikidata.org/entity/Q19015135">Woman in White Stockings</title></title> (1832), for example, an artist's model (i.e.,
 				a sexually available woman) reclines invitingly on a silken mattress. The deep red
 				drapery behind her forms a shadowy and suggestive opening. The image evokes a basic
 				male fantasy of sexual confrontation, but the model does not appear to anticipate
