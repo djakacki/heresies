@@ -1419,6 +1419,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/iskin.xml?person_annotation_20221101141435073",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-01T18:14:35.073Z",
+	"dcterms:modified": "2022-11-01T18:14:35.073Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Margaret Hunter"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/iskin.xml?person_annotation_20221101141435073#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/iskin.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/iskin.xml?person_annotation_20221101141435073#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[16]/note/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q7648617",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -1593,10 +1671,10 @@
 				these paintings are, 1 think, more expressive of femaleness. It was a personal
 				statement for me....l can't separate my experience from a female experience; 1
 				feel powers in me, very specifically in certain centers in me.</quote>
-			<p><persName key="Suzanne Lacy" ref="http://www.wikidata.org/entity/Q7650894">Suzanne Lacy</persName>'s book <title>Rape Is</title> (1972) has a white cover which becomes
+			<p><persName key="Suzanne Lacy" ref="http://www.wikidata.org/entity/Q7650894">Suzanne Lacy</persName>'s book <title><title level="m">Rape Is</title></title> (1972) has a white cover which becomes
 				bloody red on the inside. To open the book one must tear apart a red sticker labeled
-					"rape.“<note>The precedent for this feminist use of the sticker is Susana
-					Torre's exhibition catalogue for "Twenty-Six Contemporary Women Artists“
+					"rape.“<note>The precedent for this feminist use of the sticker is <persName key="Susana Torre" ref="http://www.wikidata.org/entity/Q7648617">Susana
+					Torre</persName>'s exhibition catalogue for "Twenty-Six Contemporary Women Artists“
 					(Aldrich Museum, Ridgefield, Conn. April, 1971), in which tearing the seal
 					implied not only physical violation in order to "enter" the long-hidden works of
 					women artists, but also the destruction of a square cold black seal on a white
