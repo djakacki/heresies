@@ -949,6 +949,160 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?person_annotation_20221102185050498",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-02T22:50:50.498Z",
+	"dcterms:modified": "2022-11-02T22:50:50.498Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?person_annotation_20221102185050498#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?person_annotation_20221102185050498#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[15]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?note_annotation_20221102185110157",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-02T22:51:10.157Z",
+	"dcterms:modified": "2022-11-02T22:51:10.157Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?note_annotation_20221102185110157#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?note_annotation_20221102185110157#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[15]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+		"rdf:value": "idk who this is"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -1084,9 +1238,9 @@
 			<p>Bourgeois feminism has begun, then, in its history of leaps and starts to identify
 				and attack its sexist enemy, and taken a few long strides away from female feudalism
 				for the benefit of some bourgeois women. But the heart of the problem remains.
-				Feminists from <persName key="Tennessee Claflin" ref="http://www.wikidata.org/entity/Q7700030">Tennessee Claflin</persName> to Isadora Duncan have scored high in locating it.
-				"At the ballot box is not where the shoe pinches .It is at home where the hus- band
-				is the supreme ruler that the little difficul- ty arises; he will not surrender this
+				Feminists from <persName key="Tennessee Claflin" ref="http://www.wikidata.org/entity/Q7700030">Tennessee Claflin</persName> to <note type="researchNote">idk who this is</note><persName type="real">Isadora Duncan</persName> have scored high in locating it.
+				"At the ballot box is not where the shoe pinches. It is at home where the husband
+				is the supreme ruler that the little difficulty arises; he will not surrender this
 				absolute power unless he is compelled," wrote Claflin in 1871. <note type="researchNote">Schneir, Miriam, ed., Feminism: The Essential Historical
 					Writings, Vintage Books (New York, 1972), p. xviii.</note> Duncan, in her 1927
 				autobiography said, "Any intelligent woman who reads the marriage contract and then
