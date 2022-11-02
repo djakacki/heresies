@@ -2459,10 +2459,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?person_annotation_20221102191047335",
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?organization_annotation_20221102191259712",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-02T23:10:47.335Z",
-	"dcterms:modified": "2022-11-02T23:10:47.335Z",
+	"dcterms:created": "2022-11-02T23:12:59.712Z",
+	"dcterms:modified": "2022-11-02T23:12:59.712Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -2472,7 +2472,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?person_annotation_20221102191047335#Target",
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?organization_annotation_20221102191259712#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml",
@@ -2486,13 +2486,13 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?person_annotation_20221102191047335#Selector",
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?organization_annotation_20221102191259712#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/persName"
+			"rdf:value": "TEI/text/body/persName/orgName"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
+		"@type": "org:Organization",
 		"@id": "http://www.wikidata.org/entity/Q3656351",
 		"dc:format": "text/plain"
 	},
@@ -2756,8 +2756,8 @@
 				rights before unequal laws is flung in our faces, and even defeated (adding insult
 				to injury), the dominant media simultaneously declare the women's movement to be
 				"over" or somehow "won" because of the presence of one and a half news
-				anchor-women on TV or the financial viability of <persName key="Ms." ref="http://www.wikidata.org/entity/Q3656351">Ms. Magazine</persName>. Capitalist propaganda
-				demon- strates before our eyes that by inference, if one woman can do work that one
+				anchor-women on TV or the financial viability of <persName key="Ms." ref="http://www.wikidata.org/entity/Q3656351"><orgName key="Ms." ref="http://www.wikidata.org/entity/Q3656351">Ms. Magazine</orgName></persName>. Capitalist propaganda
+				demon-strates before our eyes that by inference, if one woman can do work that one
 				man can do, wom- en are the achieved "equals" of men. The re- sponsibility for
 				change is thus cleverly switched back onto the shoulders of <emph>individual</emph>
 				women; to change the world, all you really must do is change yourself. And the
