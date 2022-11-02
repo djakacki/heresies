@@ -1493,6 +1493,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?person_annotation_20221102190436822",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-02T23:04:36.822Z",
+	"dcterms:modified": "2022-11-02T23:04:36.822Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?person_annotation_20221102190436822#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?person_annotation_20221102190436822#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[19]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q34787",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -1674,21 +1752,21 @@
 				this relation of sexuality to political economy is also being strongly developed
 				outside a feminist context, most prominently on a major intellectual front—in the
 				tradition of French structuralism. European feminists, especially in England and
-				France, have thus been drawn to that tradition as height- ened contradictions impel
+				France, have thus been drawn to that tradition as heightened contradictions impel
 				them to seek out means for their resolution. The main tendency in this area is
 				necessarily phallocentric: it is still being written largely through the cipher of a
-				male experience of the world. But if we as wom- en don’t begin to write ourselves
+				male experience of the world. But if we as women don’t begin to write ourselves
 				into history, who will? For so far, compared to the scope of the theoretical,
 				strategic and practical task ahead, the "woman question" has really only been given
 				lip service by the most advanced intellectual sciences —not surprising since they
 				are "man-made."</p>
-			<p> Engels, Marx and others have, of course, identified the monogamous, patriarchal
+			<p> <persName key="Friedrich Engels" ref="http://www.wikidata.org/entity/Q34787">Engels</persName>, Marx and others have, of course, identified the monogamous, patriarchal
 				family as the central prison for woman. Mechanistic Marxists therefore claim that
 				releasing her from this singular prison into the work force (under socialism) must
 				guarantee her freedom. Does it? Has it?</p>
-			<p> Not significantly; not yet. The major 20th- century socialist revolutions have made
-				some progress, removing, as in China, the most bar- baric manifestations of sexist
-				domination. Im- mediately following the Soviet revolution, Lenin's program included
+			<p> Not significantly; not yet. The major 20th-century socialist revolutions have made
+				some progress, removing, as in China, the most barbaric manifestations of sexist
+				domination. Immediately following the Soviet revolution, Lenin's program included
 				not only the training of women to join the work force at all levels, but the
 				legalization of abortion, free, accessible divorce, communal daycare, etc. Within
 				ten years, however Stalinist backlash hit these fam- ily issues hardest; much
