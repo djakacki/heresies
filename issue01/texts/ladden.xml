@@ -1014,6 +1014,162 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?person_annotation_20221102181043227",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-02T22:10:43.227Z",
+	"dcterms:modified": "2022-11-02T22:10:43.227Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?person_annotation_20221102181043227#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?person_annotation_20221102181043227#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q43706",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?person_annotation_20221102181128449",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-02T22:11:28.449Z",
+	"dcterms:modified": "2022-11-02T22:11:28.449Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?person_annotation_20221102181128449#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?person_annotation_20221102181128449#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q345",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -1030,7 +1186,7 @@
 				woman by upholding that same feminine mystique which, for centuries, the Christian
 				fathers had diligently) tried to demolish: “Corporeal beauty is nothing else but
 				phlegm, and blood, and humor, and bile, and the fluid of masticated food.... " said
-				John Chrysostom, a saint, in the 4th century. "When you see a rag with any of
+				<persName key="John Chrysostom" ref="http://www.wikidata.org/entity/Q43706" type="real">John Chrysostom</persName>, a saint, in the 4th century. "When you see a rag with any of
 				these things on it, such as phlegm, or spittle, you cannot bear to touch it even
 				with the tips of your fingers. . . . Are you in a flutter of excitement about the
 				storehouses and depositories of these things?" <note type="researchNote">"An Exhortation to Theodore after His Fall," in A Select Library of the Nicene and Post-Nicene Fathers, ed. Philip Schaff et al. (New York, 1889), IX, 103-104.</note></p>
@@ -1048,7 +1204,7 @@
 				legacy bequeathed to the Middle Ages where the love of woman was a cult—an absolute
 				prerequisite for respectability. And love flourished. Of course, misogyny
 				continued to flourish too. Woman would still be called "a stinking rose" and
-				"glittering mud” and “a temple built over a sewer." <note type="researchNote">Salimbene, in From St. francis to Dante: Translations from the Chronicle of the Franciscan Salimbene (12211288). End ed., ed. and trans. C.C. Coulton (London, 1907), p. 97. and Tertullian, quoted in G.L. Simons A Hisory of Sex (London, New English Library, 1970). p. 71</note> But, as sister to Mary, she was
+				"glittering mud” and “a temple built over a sewer." <note type="researchNote">Salimbene, in From St. francis to Dante: Translations from the Chronicle of the Franciscan Salimbene (12211288). End ed., ed. and trans. C.C. Coulton (London, 1907), p. 97. and Tertullian, quoted in G.L. Simons A Hisory of Sex (London, New English Library, 1970). p. 71</note> But, as sister to <persName key="Virgin Mary" ref="http://www.wikidata.org/entity/Q345">Mary</persName>, she was
 				also the mystical elevator of the masculine soul which, by its nature, gravitated
 				toward perfection. By merely contemplating woman in her golden radiance, man could
 				rise to spiritual heights in a kind of "gilt” by association. For somewhere between
