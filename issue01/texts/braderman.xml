@@ -2349,6 +2349,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?organization_annotation_20221102190934463",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-02T23:09:34.463Z",
+	"dcterms:modified": "2022-11-02T23:09:34.463Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?organization_annotation_20221102190934463#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?organization_annotation_20221102190934463#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[22]/note/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://viaf.org/viaf/311383281/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -2576,30 +2654,30 @@
 				reactionary side emphasized that capitalism is not a system where one class exploits
 				another but is rather a collection of individuals, any one of whom can succeed if he
 				or she so decides."<note><persName key="Guettel, Charnie." ref="http://viaf.org/viaf/1981898/" type="real">Guettel, Charnie</persName>, <title><title>Marxism and Feminism</title></title>,
-					Women's Educational Press (Ontario, Canada, 1974), p. 2.</note></p>
+					<orgName key="Women's Press (Toronto)." ref="http://viaf.org/viaf/311383281/">Women's Educational Press</orgName> (Ontario, Canada, 1974), p. 2.</note></p>
 			<p> I hope it is becoming clear how ideologically messy liberalism really is from a
 				post-humanist perspective in which the individual can no longer be seen as the
-				subject of history. Liberal- ism is seen by leftists as a joke because it bears so
-				tenuously the wan hopes of a bankrupt hu- manism and is ultimately, untenable. Even
-				hard-core conservatism is more internally co- herent. Conservatives and Marxists
+				subject of history. Liberalism is seen by leftists as a joke because it bears so
+				tenuously the wan hopes of a bankrupt humanism and is ultimately, untenable. Even
+				hardcore conservatism is more internally coherent. Conservatives and Marxists
 				alike might describe capitalism as a system in which the "stronger" individuals make
-				out. The difference, of course, is that conservatives say so approv- ingly,
-				grounding their argument in the old dog- eat-dog theory of what they call human
-				nature. Marxists have favored the idea that the industri- al capitalist system tends
-				to pervert or alienate what is potentially, or at a given historical mo- ment "good"
+				out. The difference, of course, is that conservatives say so approvingly,
+				grounding their argument in the old dog-eat-dog theory of what they call human
+				nature. Marxists have favored the idea that the industrial capitalist system tends
+				to pervert or alienate what is potentially, or at a given historical moment "good"
 				in human beings. Stated so simply, both are inadequate readings but at least they
 				rehearse the consistency of these positions.</p>
 			<p> The liberal wants to enjoy the fruits of his class privilege while salving his
-				guilty con- science with a quasi-philosophic posture pro- posing that every
+				guilty conscience with a quasi-philosophic posture proposing that every
 				individual (being protected by 'equality' before the law, by ’equal' opportunity
 				measures, etc.) could theoretically be enjoying this same privilege if he or she
 				were as hard- working and dauntless as him/herself. Thus the liberal buys off with a
 				little charity or minimal social welfare all those who, by some extreme individual
 				misfortune, can’t quite cut it.</p>
-			<p> Here we return to the underbelly of co-opta- tion. While a bill assuring equal
+			<p> Here we return to the underbelly of co-optation. While a bill assuring equal
 				rights before unequal laws is flung in our faces, and even defeated (adding insult
 				to injury), the dominant media simultaneously declare the women's movement to be
-				"over" or somehow "won" be- cause of the presence of one and a half news
+				"over" or somehow "won" because of the presence of one and a half news
 				anchor-women on TV or the financial viability of Ms. Magazine. Capitalist propaganda
 				demon- strates before our eyes that by inference, if one woman can do work that one
 				man can do, wom- en are the achieved "equals" of men. The re- sponsibility for
