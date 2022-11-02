@@ -860,6 +860,160 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?title_annotation_20221102180931322",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-02T22:09:31.322Z",
+	"dcterms:modified": "2022-11-02T22:09:31.322Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?title_annotation_20221102180931322#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?title_annotation_20221102180931322#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/title/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?title_annotation_20221102180954009",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-02T22:09:54.009Z",
+	"dcterms:modified": "2022-11-02T22:09:54.009Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?title_annotation_20221102180954009#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?title_annotation_20221102180954009#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/title[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q471194",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -869,10 +1023,10 @@
 			<figure><caption>The smile of my gracious lady makes me happier than if four hundred angels laughed at
 				me from the heavens (<title key="Raimbaut of Orange" ref="http://www.wikidata.org/entity/Q5201">Raimbaut d'Orange</title>, while some less gracious ladies chuckled
 				from the wings.)</caption></figure> 
-				<p>The attitudes in <title>True Romances</title> (and in most of our pasts)
-				originally shone forth from 12th-century troubadour poetry and even then they were
+				<p>The attitudes in <title><title>True Romances</title></title> (and in most of our pasts)
+				originally shone forth from 12th-century <title key="troubadoric poetry" ref="http://www.wikidata.org/entity/Q471194">troubadour poetry</title> and even then they were
 				a little tarnished. Chaste, idealistic and upper-ciass, medieval troubadour poetry
-				sup- posedly countered a strong tradition of misog- yny. It also supposedly elevated
+				sup- posedly countered a strong tradition of misogyny. It also supposedly elevated
 				woman by upholding that same feminine mystique which, for centuries, the Christian
 				fathers had diligently) tried to demolish: “Corporeal beauty is nothing else but
 				phlegm, and blood, and humor, and bile, and the fluid of masticated food.... " said
