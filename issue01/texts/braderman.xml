@@ -171,6 +171,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?person_annotation_20221102183557729",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-02T22:35:57.729Z",
+	"dcterms:modified": "2022-11-02T22:35:57.729Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?person_annotation_20221102183557729#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/braderman.xml?person_annotation_20221102183557729#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q9061",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -183,13 +261,13 @@
 				finally be left behind to get there. The nature of these myths—the myths of
 				equality, individualism and democratic liberalism—which underwrite our humanist
 				heritage, account for the weakest elements of feminist ideology. The recognition
-				that feminism is an ideology, like Marx's recognition that humanism is an ideology
-				(i.e., not a discourse whose "truth" was in- separable from the world it described)
-				is a nec- essary step in re-examining what feminism is and what it can do.</p>
-			<p> I will use as a conceit the form of "the contra- diction"—that underlying, dynamic
+				that feminism is an ideology, like <persName key="Karl Marx" ref="http://www.wikidata.org/entity/Q9061" type="real">Marx</persName>'s recognition that humanism is an ideology
+				(i.e., not a discourse whose "truth" was inseparable from the world it described)
+				is a necessary step in re-examining what feminism is and what it can do.</p>
+			<p> I will use as a conceit the form of "the contradiction"—that underlying, dynamic
 				mechanism of history—in a way that is sometimes more metaphorical than concrete. I
 				take the liberty of using this model rhetorically at times to begin to establish a
-				series of interrelationships be- tween ideologies and their culture. I use it to
+				series of interrelationships between ideologies and their culture. I use it to
 				suggest the many ways the several spheres of interest to Heresies readers—art,
 				feminism and their political context—are subject to a set of analogous and mutually
 				reinforcing ideologi- cal myths. Most feminists and artists alike are still held
