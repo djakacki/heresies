@@ -1638,6 +1638,162 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?person_annotation_20221102181547438",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-02T22:15:47.438Z",
+	"dcterms:modified": "2022-11-02T22:15:47.438Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?person_annotation_20221102181547438#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?person_annotation_20221102181547438#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[4]/persName[7]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/9221159248060204870008/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?person_annotation_20221102181626351",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-02T22:16:26.351Z",
+	"dcterms:modified": "2022-11-02T22:16:26.351Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?person_annotation_20221102181626351#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/ladden.xml?person_annotation_20221102181626351#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[8]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://vocab.getty.edu/ulan/500112913",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -1684,7 +1840,7 @@
 				ugly teeth, dort laugh with your mouth open. " "Practice making pretty speeches. “
 				"Dye your hair; wear false hair if you have lost your own.." <note type="researchNote"> From La Cief damor and La Cour daimer in Nina Eptonts ove and the french (London, 1959), pp. 30ff </note></p>
 			<p> <persName key="Andreas Capellanus" ref="http://www.wikidata.org/entity/Q4340" type="real">Andreas Capellanus</persName>, <persName key="Jean d'Amiens" ref="http://vocab.getty.edu/ulan/500119586">Jacques D'Amiens</persName>, <persName key="Le Berger, Robert" ref="http://vocab.getty.edu/ulan/500083820" type="real">Robert le Blois</persName>, <persName key="Garin lo Brun" ref="http://www.wikidata.org/entity/Q1778218">Garin le Brun</persName>, <persName key="Drouart la Vache" ref="http://www.wikidata.org/entity/Q54834439" type="real">Drouart la
-				Vache</persName>, <persName key="Pierre Ermangaud" ref="http://dbpedia.org/resource/Pierre_Ermangaud">Ermangau</persName> and de Fournival —all added their instructions to the heap: Lie.
+				Vache</persName>, <persName key="Pierre Ermangaud" ref="http://dbpedia.org/resource/Pierre_Ermangaud">Ermangau</persName> and <persName key="Richard (de Fournival)" ref="http://viaf.org/viaf/9221159248060204870008/" type="real">de Fournival</persName> —all added their instructions to the heap: Lie.
 				Cheat. Drop names, if you have to. Drop dead, if you have to. Anything.</p>
 			<p> Maintaining the mystique was the important thing, and that meant keeping the
 				distance. It meant the ecstasy was in the wooing while sex lay in the winding down.
@@ -1701,7 +1857,7 @@
 				was mounted, period). And man’s desire—well, that often died along with his
 				suffering.</p>
 			<p> It’s natural, then, that the really legendary lovers chose the most distant and
-				unattainable objects they couid conceive of. Guilhem de la Tour, for instance, loved
+				unattainable objects they couid conceive of. <persName key="La Tour, Galiot de" ref="http://vocab.getty.edu/ulan/500112913">Guilhem de la Tour</persName>, for instance, loved
 				the woman he lived with. <note type="researchNote">For troubadour biographies, 1 have consulted jehan de Nostredame, les Vies des Plus Celebres et Ancien: Poetes Provencaux, ed. Camille Chabaneau (1913; rpt Geneve, 1970—first published in 1575); La Curne de Sainte-Pelaye, Histoire Litteraire des Troubadours (1774 rpt. 3 vols. in 1, Genève, 1967); and Victor Balaguer, los Trovadores, 2nded. (Madrid, 1883). 4 vol.</note>  Now such women were worn on everyday occasions and were
 				inevitably mundane. But Guilhem’s enamorata was unearthly; in fact, she was dead. On
 				the eve of her burial, Guilhem visited her grave and, after ten days of morbid
