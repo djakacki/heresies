@@ -3131,6 +3131,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/cockcroft.xml?place_annotation_20221107142340434",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-07T19:23:40.434Z",
+	"dcterms:modified": "2022-11-07T19:23:40.434Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Margaret Hunter"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/cockcroft.xml?place_annotation_20221107142340434#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/cockcroft.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/cockcroft.xml?place_annotation_20221107142340434#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[7]/caption[2]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q37836",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -3191,8 +3269,8 @@
 				more general themes was beginning. In 1974 Yasko began a mammoth mural in the <placeName key="Logan Square" ref="http://www.wikidata.org/entity/Q3257855">Logan Square</placeName> area of Chicago. The mural uses symbolic figures and images to identify the values of the
 				largely Polish and <orgName key="Belarusian" ref="http://www.wikidata.org/entity/Q9091">Bielorussian</orgName> residents of the area and to depict them working together to maintain control in a highly technical, mechanized world. This major wal has opened the
 				door for a number of other murals in this and similar neighborhoods Yasko, however, is only one of many women muralists who have made important artistic contributions. <persName key="Mahler, L." ref="http://viaf.org/viaf/304026846/">Lucy Mahler</persName>'s
-				vivid mural at the Wright Brothers School in New York is one of the earliest murals on a public school building. Astrid Fuller with her distinctive combination <caption>Marie Burton,
-					director. Celebration of Cultures. 1975. Milwaukee, Wisconsin. (Photo: Weber.) </caption>
+				vivid mural at the Wright Brothers School in New York is one of the earliest murals on a public school building. <persName>Astrid Fuller</persName> with her distinctive combination <caption><persName>Marie Burton</persName>,
+					director. Celebration of Cultures. 1975. <placeName key="Milwaukee" ref="http://www.wikidata.org/entity/Q37836">Milwaukee</placeName>, Wisconsin. (Photo: Weber.) </caption>
 				<pb n="17"/> of a primitive literalism with surrealist images, has created a series of ambitious underpass murals in the Hyde Park area of Chicago. Holly Highfill, who painted an
 				anti-war mural in the Loop area of Chicago (1973), has gone on to do several succeeding walls with gang youth. Marie Burton, who with Highfill and Rogovin co-authored the Mural Manual,
 				works primarily with teenagers. Her Bored of Education in Chicago (1971) and the Celebration of Cultures in Milwaukee (1975) are among the most impressive of the school murals. And
