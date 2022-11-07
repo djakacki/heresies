@@ -2273,6 +2273,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/cockcroft.xml?place_annotation_20221107140415412",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-07T19:04:15.412Z",
+	"dcterms:modified": "2022-11-07T19:04:15.412Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Margaret Hunter"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/cockcroft.xml?place_annotation_20221107140415412#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/cockcroft.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/margaretjhunter/heresies/main/issue01/texts/cockcroft.xml?place_annotation_20221107140415412#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[5]/placeName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q1345",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -2310,7 +2388,7 @@
 				decorative aspect of public art. Many impressive walls were painted from 1968 to 1970, especially in the Black communities of <placeName key="Roxbury" ref="http://www.wikidata.org/entity/Q20138">Roxbury</placeName> and <placeName key="South End" ref="http://www.wikidata.org/entity/Q2304457">South End</placeName>-including the first women's wall,
 				<persName key="Sharon Dunn" ref="http://www.wikidata.org/entity/Q107551786">Sharon Dunn</persName>'s Black Women, painted in 1970. Seronde is only one of many women who <pb n="15"/> have made important contributions as organizers and administrators. Judy Baca, a
 				leading Chicana muralist in Los Angeles, obtained City funding for a similar neighborhood-oriented large-scale mural program (Citywide Murals) in 1974. <persName key="Killen, Shelly" ref="http://viaf.org/viaf/45550073/">Shelly Killen</persName> heads a program
-				for murals in prisons in <placeName key="Rhode Island" ref="http://www.wikidata.org/entity/Q1387">Rhode Island</placeName>, which has operated in the correctional institutions there for the past two years. <persName key="Rubin, Sandy" ref="http://viaf.org/viaf/40848486/">Sandy Rubin</persName>s Alternate Graffiti Workshop in Philadephia
+				for murals in prisons in <placeName key="Rhode Island" ref="http://www.wikidata.org/entity/Q1387">Rhode Island</placeName>, which has operated in the correctional institutions there for the past two years. <persName key="Rubin, Sandy" ref="http://viaf.org/viaf/40848486/">Sandy Rubin</persName>s Alternate Graffiti Workshop in <placeName key="Philadelphia" ref="http://www.wikidata.org/entity/Q1345">Philadephia</placeName>
 				pioneered techniques for developing the artistic potential of graffiti writers; several of her workshop graduates have become muralists in their own right. Ruth Asawa and Nancy
 				Thompson developed the Alvarado School-Community Program in San Francisco which brings community artists into the public schools to enrich the school experience and has heped to
 				open the doors to "Artists in the Schools" programs around the country. In fact, at the present time, the majority of the mural programs throughout the nation are directed by
