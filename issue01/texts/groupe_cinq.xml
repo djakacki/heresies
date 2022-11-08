@@ -1449,7 +1449,7 @@
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221101181158046",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-01T22:11:58.046Z",
-	"dcterms:modified": "2022-11-01T22:11:58.046Z",
+	"dcterms:modified": "2022-11-08T22:36:59.442Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1489,7 +1489,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "2.2.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:low"
 }]]>
         </rdf:Description>
       
@@ -1708,7 +1709,7 @@
 				were silent again. Between the time we went up and the time we went to bed there was
 				about half an hour, when we had the right to stay near the stove and toast pieces of
 				bread. We talked, or we sang; l'had a friend who sang very well, and we gathered
-				around her. She sang some of <persName><persName key="Salvatore Adamo" ref="http://www.wikidata.org/entity/Q312610" type="real">Adamo</persName></persName>'s songs, but also some she had written herself,
+				around her. She sang some of <persName><persName key="Salvatore Adamo" ref="http://www.wikidata.org/entity/Q312610" type="real" cert="low">Adamo</persName></persName>'s songs, but also some she had written herself,
 				like one about the nuns to the tune of <persName><title>Morpionibus</title></persName>. She also sang in church; she had
 				spent years in a religious boarding school and she knew the whole mass in Latin. ...
 				It was forbidden to sing in the cells once the doors were closed, but we did it
