@@ -1528,7 +1528,7 @@
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221108173527034",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-08T22:35:27.034Z",
-	"dcterms:modified": "2022-11-08T22:35:27.034Z",
+	"dcterms:modified": "2022-11-08T22:40:19.014Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1558,7 +1558,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "https://www.wikidata.org/wiki/Q3020467",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1566,7 +1568,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "2.2.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
@@ -1710,7 +1713,7 @@
 				about half an hour, when we had the right to stay near the stove and toast pieces of
 				bread. We talked, or we sang; l'had a friend who sang very well, and we gathered
 				around her. She sang some of <persName><persName key="Salvatore Adamo" ref="http://www.wikidata.org/entity/Q312610" type="real" cert="low">Adamo</persName></persName>'s songs, but also some she had written herself,
-				like one about the nuns to the tune of <persName><title>Morpionibus</title></persName>. She also sang in church; she had
+				like one about the nuns to the tune of <persName><title cert="high" key="Morpionibus" ref="https://www.wikidata.org/wiki/Q3020467">Morpionibus</title></persName>. She also sang in church; she had
 				spent years in a religious boarding school and she knew the whole mass in Latin. ...
 				It was forbidden to sing in the cells once the doors were closed, but we did it
 				anyway. We all sang together. The nuns couldn’t put us all in the cooler; they
