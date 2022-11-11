@@ -150,7 +150,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/BrianaPerea/heresies/main/issue01/exports%20/Jennings_Issue1_97/Jennings_Issue1_97_tei_transformed.xml?place_annotation_20221110190102009#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/placeName"
+			"rdf:value": "TEI/text/body/p/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -179,8 +179,7 @@
 				castrating female
 				or
 				you'Il say I'm a manhating braburning
-				lesbian member of the castration
-				penisenvy brigade, which I am
+				lesbian member of the <placeName>castration penisenvy brigade</placeName>, which I am
 				I would like to speak.
 				I would like to give a tubthumpingtablebanging
 				emotional rap AND be listened to, not laughed at.
