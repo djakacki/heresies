@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
 	<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
 		<fileDesc>
 			<titleStmt>
@@ -125,15 +126,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221026211738816",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-10-27T01:17:38.816Z",
 	"dcterms:modified": "2022-10-27T01:17:38.816Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -142,6 +146,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -152,14 +157,18 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221026211738816#Selector",
+
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/front/p/persName"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
+
 		"@id": "http://www.wikidata.org/entity/Q25873672",
+
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -203,15 +212,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?organization_annotation_20221026212346543",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-10-27T01:23:46.543Z",
 	"dcterms:modified": "2022-10-27T01:23:46.543Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -220,6 +232,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -230,6 +243,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?organization_annotation_20221026212346543#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/front/p/orgName[2]"
@@ -238,6 +252,7 @@
 	"oa:hasBody": {
 		"@type": "org:Organization",
 		"@id": "http://www.wikidata.org/entity/Q3212411",
+
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -281,15 +296,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221026212539209",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-10-27T01:25:39.209Z",
 	"dcterms:modified": "2022-10-27T01:25:39.209Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -298,6 +316,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -308,14 +327,18 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221026212539209#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[12]/persName"
+
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
+
 		"@id": "http://www.wikidata.org/entity/Q80900",
+
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -359,15 +382,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?organization_annotation_20221026212726975",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-10-27T01:27:26.975Z",
 	"dcterms:modified": "2022-10-27T01:27:26.975Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -376,6 +402,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -386,6 +413,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?organization_annotation_20221026212726975#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[21]/orgName"
@@ -394,6 +422,7 @@
 	"oa:hasBody": {
 		"@type": "org:Organization",
 		"@id": "http://www.wikidata.org/entity/Q270345",
+
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -437,15 +466,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221026212820997",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-10-27T01:28:20.997Z",
 	"dcterms:modified": "2022-10-27T01:28:20.997Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -454,6 +486,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -464,6 +497,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221026212820997#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[27]/title"
@@ -472,6 +506,7 @@
 	"oa:hasBody": {
 		"@type": "bf:Title",
 		"@id": "http://www.wikidata.org/entity/Q583269",
+
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -515,15 +550,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221026212829987",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-10-27T01:28:29.987Z",
 	"dcterms:modified": "2022-10-27T01:28:29.987Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -532,6 +570,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -542,6 +581,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221026212829987#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[27]/title[2]"
@@ -550,6 +590,7 @@
 	"oa:hasBody": {
 		"@type": "bf:Title",
 		"@id": "http://www.wikidata.org/entity/Q6433358",
+
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -593,15 +634,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221026212917076",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-10-27T01:29:17.076Z",
 	"dcterms:modified": "2022-10-27T01:29:17.076Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -610,6 +654,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -620,6 +665,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221026212917076#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[27]/title[3]"
@@ -628,6 +674,7 @@
 	"oa:hasBody": {
 		"@type": "bf:Title",
 		"@id": "http://www.wikidata.org/entity/Q965841",
+
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -671,15 +718,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?organization_annotation_20221026213141089",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-10-27T01:31:41.089Z",
 	"dcterms:modified": "2022-10-27T01:31:41.089Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -688,6 +738,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -698,6 +749,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?organization_annotation_20221026213141089#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/front/head/title/orgName"
@@ -706,6 +758,7 @@
 	"oa:hasBody": {
 		"@type": "org:Organization",
 		"@id": "http://www.wikidata.org/entity/Q431931",
+
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -749,15 +802,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221101174221557",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-01T21:42:21.557Z",
 	"dcterms:modified": "2022-11-01T21:42:21.557Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -766,6 +822,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -776,6 +833,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221101174221557#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/front/p/persName[2]"
@@ -784,6 +842,7 @@
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "http://viaf.org/viaf/50922895/",
+
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -827,15 +886,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221101174240504",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-01T21:42:40.504Z",
 	"dcterms:modified": "2022-11-01T21:42:40.504Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -844,6 +906,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -854,6 +917,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221101174240504#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/front/p/persName[3]"
@@ -862,6 +926,7 @@
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "http://viaf.org/viaf/229710280/",
+
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -905,15 +970,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221101174334034",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-01T21:43:34.034Z",
 	"dcterms:modified": "2022-11-01T21:43:34.034Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -922,6 +990,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -932,6 +1001,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221101174334034#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/front/p/persName[5]"
@@ -940,6 +1010,7 @@
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "http://www.wikidata.org/entity/Q19502275",
+
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -983,15 +1054,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?organization_annotation_20221101174427773",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-01T21:44:27.773Z",
 	"dcterms:modified": "2022-11-01T21:44:27.773Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -1000,6 +1074,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1010,6 +1085,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?organization_annotation_20221101174427773#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[31]/orgName"
@@ -1018,6 +1094,7 @@
 	"oa:hasBody": {
 		"@type": "org:Organization",
 		"@id": "http://www.wikidata.org/entity/Q188307",
+
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1061,14 +1138,17 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?organization_annotation_20221101175050769",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-01T21:50:50.769Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -1077,6 +1157,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1087,7 +1168,9 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?organization_annotation_20221101175050769#Selector",
+
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/front/p/orgName"
 		}
@@ -1138,15 +1221,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?organization_annotation_20221101175137837",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-01T21:51:37.837Z",
 	"dcterms:modified": "2022-11-01T21:51:37.837Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -1155,6 +1241,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1165,6 +1252,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?organization_annotation_20221101175137837#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/front/byline/orgName/orgName/orgName"
@@ -1172,6 +1260,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "org:Organization"
+
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1214,15 +1303,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221101175201652",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-01T21:52:01.652Z",
 	"dcterms:modified": "2022-11-01T21:52:01.652Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -1231,6 +1323,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1241,6 +1334,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221101175201652#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/front/p/persName[4]"
@@ -1248,6 +1342,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson"
+
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1290,15 +1385,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221101180446545",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-01T22:04:46.545Z",
 	"dcterms:modified": "2022-11-01T22:04:46.545Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -1307,6 +1405,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1317,6 +1416,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221101180446545#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[14]/title"
@@ -1326,6 +1426,7 @@
 		"@type": "bf:Title",
 		"@id": "http://www.wikidata.org/entity/Q3187102",
 		"dc:format": "text/plain"
+
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1368,15 +1469,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221101181158046",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-01T22:11:58.046Z",
 	"dcterms:modified": "2022-11-08T22:36:59.442Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -1385,6 +1489,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1395,6 +1500,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?person_annotation_20221101181158046#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[17]/persName/persName"
@@ -1404,6 +1510,7 @@
 		"@type": "cwrc:NaturalPerson",
 		"@id": "http://www.wikidata.org/entity/Q312610",
 		"dc:format": "text/plain"
+
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1411,8 +1518,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "2.2.0"
-	},
-	"cwrc:hasCertainty": "cwrc:low"
+
+	}
 }]]>
         </rdf:Description>
       
@@ -1447,23 +1554,23 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221108173527034",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue01/texts/groupe_cinq.xml?note_annotation_20221108200146110",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-08T22:35:27.034Z",
-	"dcterms:modified": "2022-11-08T22:40:19.014Z",
+	"dcterms:created": "2022-11-09T01:01:46.110Z",
+	"dcterms:modified": "2022-11-09T01:01:50.003Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kaitlyn Segreti"
+		"cwrc:hasName": "Diane Jakacki"
 	},
-	"oa:motivatedBy": "oa:identifying",
+	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221108173527034#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue01/texts/groupe_cinq.xml?note_annotation_20221108200146110#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue01/texts/groupe_cinq.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1474,6 +1581,90 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue01/texts/groupe_cinq.xml?note_annotation_20221108200146110#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/front/p/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+		"rdf:value": "DeCinq: "
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+	}
+
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221108173527034",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-08T22:35:27.034Z",
+	"dcterms:modified": "2022-11-08T22:40:19.014Z",
+
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221108173527034#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?title_annotation_20221108173527034#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[17]/persName[2]/title"
@@ -1483,6 +1674,16 @@
 		"@type": "bf:Title",
 		"@id": "https://www.wikidata.org/wiki/Q3020467",
 		"dc:format": "text/plain"
+=======
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue01/texts/groupe_cinq.xml?note_annotation_20221108200201041#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/front/p/note[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+		"rdf:value": "Nil"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1490,8 +1691,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "2.2.0"
-	},
-	"cwrc:hasCertainty": "cwrc:high"
+	}
 }]]>
         </rdf:Description>
       
@@ -1526,23 +1726,23 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?note_annotation_20221108174442993",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue01/texts/groupe_cinq.xml?note_annotation_20221108200216373",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-08T22:44:42.993Z",
-	"dcterms:modified": "2022-11-08T22:44:42.993Z",
+	"dcterms:created": "2022-11-09T01:02:16.373Z",
+	"dcterms:modified": "2022-11-09T01:02:21.210Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kaitlyn Segreti"
+		"cwrc:hasName": "Diane Jakacki"
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?note_annotation_20221108174442993#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue01/texts/groupe_cinq.xml?note_annotation_20221108200216373#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue01/texts/groupe_cinq.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1553,15 +1753,102 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?note_annotation_20221108174442993#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue01/texts/groupe_cinq.xml?note_annotation_20221108200216373#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/front/p/persName[4]/note"
+			"rdf:value": "TEI/text/front/p/note[5]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NoteInternal",
 		"dc:format": "text/plain",
+		"rdf:value": "Martine"
+
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.2.0"
+
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+
+	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?note_annotation_20221108174442993",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-08T22:44:42.993Z",
+	"dcterms:modified": "2022-11-08T22:44:42.993Z",
+
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+
+		"cwrc:hasName": "Kaitlyn Segreti"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?note_annotation_20221108174442993#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml",
+
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.2.0"
+		},
+		"oa:hasSelector": {
+
+			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/groupe_cinq.xml?note_annotation_20221108174442993#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/front/p/persName[4]/note"
+
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+
 		"rdf:value": "Mimi was an inmate at La Roquette. We do not know her last name."
+
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1578,6 +1865,7 @@
 		<pb n="36"/>
 		<pb n="37"/>
 		<front>
+
 			<head><title><orgName key="La Roquette" ref="http://www.wikidata.org/entity/Q431931">La Roquette</orgName>, Womens Prison</title></head>
 			<byline><orgName><orgName><orgName>Groupe de Cinq</orgName></orgName></orgName></byline>
 			<p>The <orgName key="Group of Five" ref="http://www.wikidata.org/entity/Q2720495">Group of Five</orgName> is a Paris-based collective consisting of <persName key="Martine Aballéa" ref="http://www.wikidata.org/entity/Q25873672" type="real">Martine Aballea</persName>, <persName key="Blum, Judy" ref="http://viaf.org/viaf/50922895/" type="real">Judy
@@ -1598,28 +1886,31 @@
 				work itself, resulting in the combination of apparently disparate means connected to
 				each other by mutual understanding within the group." The following narrative
 				accompanies a videotape from which most of the images are taken. </p>
+
 		</front>
 		<body>
-			<p>The other women were mostly in the prison for bad checks, prostitution, or, like me,
-				for robbery. There were also some murder ers; I knew one in my workshop. Another had
-				been accused of steal ing a painting. The first days we asked each other, but
-				afterwards we didn’t really say "What are you doing here?" except to our best
-				friends.</p>
-			<p>These women came from all classes. In general, relations be tween inmates were pretty
-				good. There were a lot of lesbians; the nuns' attitudes toward them was to turn a
-				blind eye. They couldn't not have known about it. The girls hid it a little—and even
-				a lot—but it was too obvious. As for me, I was not a lesbian, but I nevertheless
-				flirted here and there to pass the time. It could have certain advan tages: when you
-				didn’t have any money, your friends could buy things at the canteen for you. Or, at
-				one time, I went out with an English girl who was the favorite of a nun who didn’t
-				like me, and from that day on, that nun was very nice to me, and I got certain
-				favors I shouldn’t have had.</p>
-			<p>But still there were lots of fights, sometimes for no reason at all, just because the
-				girls felt like fighting. Sometimes it was a question of class. Some girls felt
-				superior to others: it wasn’t a question of money, but of intellect. ... So
-				sometimes one girl would insult another, or feel insulted, and there would be a
-				fight. We were a whole gang; some had to be in charge. And if you knew how to fight,
+			<p>The other women were mostly in the prison for bad checks,
+				prostitution, or, like me, for robbery. There were also some murderers; I knew one in my workshop. Another had been accused of stealing a painting. The first days we asked each other, but afterwards we
+				didn’t really say "What are you doing here?" except to our best
+				friends. </p>
+			<p>	These women came from all classes. In general, relations be tween inmates were pretty good. There were a lot of lesbians; the<note type="researchNote">controlled the prison</note>
+				<persName key="Nuns" ref="http://www.wikidata.org/entity/Q58141325">nuns</persName>' attitudes toward them was to turn a blind eye. They couldn't
+				not have known about it. The girls hid it a little—and even a lot—but
+				it was too obvious. As for me, I was not a lesbian, but I nevertheless
+				flirted here and there to pass the time. It could have certain advan¬
+				tages: when you didn’t have any money, your friends could buy
+				things at the <note type="researchNote">prison store</note><placeName>canteen</placeName> for you. Or, at one time, I went out with an
+				English girl who was the favorite of a nun who didn’t like me, and
+				from that day on, that nun was very nice to me, and I got certain
+				favors I shouldn’t have had. </p>
+			<p> But still there were lots of fights, sometimes for no reason at all,
+				just because the girls felt like fighting. Sometimes it was a question of
+				class. Some girls felt superior to others: it wasn’t a question of
+				money, but of intellect. ... So sometimes one girl would insult
+				another, or feel insulted, and there would be a fight. We were a
+				whole gang; some had to be in charge. And if you knew how to fight,
 				you were respected. There was nothing you could do about it.</p>
+
 			<p>Sometimes fights started over cigarettes. For example, I got into a fight with a girl
 				over that. Every Wednesday we had the right to buy four packs of cigarettes at the
 				canteen. This girl didn’t smoke, so, with my money, I had bought her something she
@@ -1684,6 +1975,7 @@
 				lot of time drawing, and sometimes I would go out. My seat was at the end of the
 				workshop, near the door, so it was easy for me to go out in the yard when the nun
 				wasn’t looking.</p>
+
 			<p>The money that you had on you on entering the prison was kept; you could only use it
 				in the canteen. Some inmates received money orders; many of them, actually, got
 				money. As for me, my brother <pb n="39"/>sent me a hundred francs (20 dollars) and a
@@ -1738,6 +2030,7 @@
 				full of soap, there was nothing you could do about it. You had to find a way to
 				rinse yourself with cold water afterwards; sometimes when you finally got a chance
 				to do it, your head was already half dry.</p>
+
 			<p>As for clothes, pants were forbidden. Men were banished from our environment and the
 				nuns would say "Stop wriggling!" when we saw workers from <orgName key="Fresnes" ref="http://www.wikidata.org/entity/Q270345">Fresnes</orgName> (men’s prison). We
 				weren’t supposed to look at them. We had to wear dresses or skirts. When I arrived,
@@ -1751,6 +2044,7 @@
 				those who served the meals, were inmates who had been there a long time and who had
 				won the trust of the nuns. The sheets were changed about once a month; it was far
 				from ideal when there were lice.</p>
+
 			<p>During my stay there was an epidemic of lice. The nuns told us to go to the kitchen
 				and ask for vinegar, and we put it on our heads. When it was dry we put on some
 				powder, and then a scarf; we stayed like that for three days. If you had lice it was
@@ -1822,12 +2116,14 @@
 				herself. Sometimes there were also attempts at escape; was told that one inmate hid
 				herself in a garbage can, but she didn’t have time to get out and was killed inside
 				the garbage truck.</p>
+
 			<p>At Christmas the <orgName key="The Salvation Army" ref="http://www.wikidata.org/entity/Q188307">Salvation Army</orgName> came. We got together in the mess hall and listened
 				to them sing Christmas carols. These women were very nice. They gave each of us a
 				towel, a handkerchief, and a pack of candy. We had a lot of fun because we weren’t
 				used to seeing this sort of woman. Everybody was laughing, but they were well
 				received by the inmates. In the end we thought it was really nice of them to trouble
 				themselves for us. I think a lot of the girls were touched.</p>
+
 			<p>For the meal, we put all the tables together to be the most together possible. Those
 				who had saved a little money bought pastries, but almost everything was shared. I,
 				for example, didn’t have any money, but I had a little of everything like everybody

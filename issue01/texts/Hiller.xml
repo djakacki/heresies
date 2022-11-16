@@ -64,7 +64,8 @@
                </address>
             </distributor>
             <availability>
-               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
                <licence>Heresies journal: © Heresies Collective</licence>
             </availability>
          </publicationStmt>
@@ -122,15 +123,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/Hiller.xml?person_annotation_20221110202104310",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-11T01:21:04.310Z",
 	"dcterms:modified": "2022-11-11T01:21:04.310Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -139,6 +143,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/Hiller.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -149,7 +154,9 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/Hiller.xml?person_annotation_20221110202104310#Selector",
+
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/byline/persName/persName"
 		}
@@ -198,15 +205,18 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+
 	"id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/Hiller.xml?title_annotation_20221110202502507",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-11-11T01:25:02.507Z",
 	"dcterms:modified": "2022-11-11T01:25:02.507Z",
+
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
+
 		"cwrc:hasName": "Kaitlyn Segreti"
 	},
 	"oa:motivatedBy": "oa:identifying",
@@ -215,6 +225,7 @@
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/Hiller.xml",
+
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -225,6 +236,7 @@
 			"schema:softwareVersion": "2.2.0"
 		},
 		"oa:hasSelector": {
+
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/Hiller.xml?title_annotation_20221110202502507#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/back/p/title/title"
@@ -302,12 +314,14 @@
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/kaitlynsegreti/heresies/main/issue01/texts/Hiller.xml?person_annotation_20221110202519797#Selector",
+
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/back/p/persName"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
+
 		"@id": "http://www.wikidata.org/entity/Q5044485",
 		"dc:format": "text/plain"
 	},
@@ -387,6 +401,7 @@
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "https://loft.org/artists/gail-rosenblum",
+
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -404,7 +419,9 @@
          <pb n="35"/>
          <head>
             <title>Alone</title></head>
+
             <byline><persName><persName type="real">Deborah Hiller</persName></persName></byline>
+
 
          <lg>
             <l>She who walks alone and dreams</l>
@@ -420,8 +437,10 @@
             <l>will master this world.</l>
          </lg>
       </body>
+
          <back><p>From <title><title>Songs from a Free Space/Writings</title> by Women in Prison</title>, edited by <persName key="Carol Muske-Dukes" ref="http://www.wikidata.org/entity/Q5044485">Carol Muske</persName> and <persName key="Gail Rosenblum" ref="https://loft.org/artists/gail-rosenblum" type="real">Gail Rosenblum</persName>, New
 				York, n. d.
 			</p></back>
+
    </text>
 </TEI>
