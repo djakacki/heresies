@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+                   <div> 
+         <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_051.jpg" n="51" xml:id="img_0051"/>
+            
+               <head><title>Trapped Women: Two Sister Designers Margaret and Frances MacDonald</title></head>
+                      <byline>Josephine Gear</byline>
+            <p>
+               The large, white, airy and austere room
+               with its severely elegant chairs and tables
+               and attenuated, weeping ladies transfixed in
+               pale olive or light mauve-colored gesso
+               panels around its walls, is now full. Te-
+               cups chink against saucers, silk-clad wrist.
+               are held at a delicate angle, feather-plumed
+               hats bob up and down, white lawn and lace
+               covered bosoms heave sighs of contentment
+               cheeks flush, tongues loosen, and the buzz
+               of women s talk rises a quaver or two above
+               the level thought acceptable if this room, a
+               tearoom, had been found in London. But
+               the like of this room, and others designed by
+               Charles Rennie Mackintosh, architect, and
+               his wife, Margaret Macdonald, a decorative
+               designer, was not to be found in London noi
+               in any other smart city in turn-of-the
+               century Britain, but in Glasgow, dirty, ro-
+               bust, tough and far-from-genteel Glasgow
+               the industrial capital of Scotland.</p>
+               <p>In the late 1890s in the heart of this city's
+               sober business district a few strikingly dif
+               ferent and simple tearoom facades ap-
+               peared. Their exteriors, interiors, furniture
+               and fittings displayed unconventional solu-
+               tions, ethereal elegance and flights of im-
+               aginative thinking not seen before in the arts
+               of this city. Glasgow was in the throes of an
+               artistic renewal.</p>
+            <p>
+               Margaret Macdonald (1865-1933), who
+               contributed designs to the tearooms, and
+               her sister Frances Macdonald (1874-1921
+               were two of a number of women artists who.
+               for a short while, helped make the arts alive
+               in Glasgow. What follows is a brief account
+               of their lives, set against the background of
+               Glasgow, and a discussion of a few of the
+               objects the sisters designed and made.</p>
+               <p>The liveliness of the arts in this industrial
+               capital (Europe’s sixth largest city) grew in
+               part from its sound economic base. In the
+               previous half-century the heavy industries of
+               the area, mining and shipbuilding for ex-
+               ample, enjoyed boom growth.' And some of
+               the profits, often via the increased income
+               and leisure time of Glasgow’s upper ancd
+               middle classes, found their way into the sup-
+               port and patronage of local arts. How pleas-
+               ant to sit in a new tearoom designed by Scot-
+               tish artists of national prominence, with
+               works by local and internationally known
+               painters hung about on the walls, to sit there
+               and eat a quick lunch or to linger leisurel,
+               over afternoon tea. How very natural to
+               stroll from the tearoom, seek out the
+               painters or the craftsmen or women in near
+               by studios, chat with them about their work
+               and sometimes, proudly, bear home a paint
+               ing, a watercolor, or even a beaten metal
+               panel by one of the Macdonald sisters.
+               In those days it was safe to bet your last
+               brass farthing that any artist whose work
+               turned your head had been a student at the
+               Glasgow School of Art. Founded in 1840
+               the school grew out of the firm convictior
+               that well-trained artists and designers could
+               promote both the nation’s esteem and trade.
+               Its founders had both insight and acumen.
+               Under the bustling leadership of the school's
+               young headmaster, Francis Newbery, and
+               his wife, Jessie, students in the 1880s and
+               1890s received excellent training and
+               energetic promotion.2 Newbery’s students
+               were also fortunate in that their emerging
+               maturity and talents coincided with their
+               city’s peak industrial, intellectual and ar
+               tistic growth.</p>
+               <p>Francis and Jessie Newbery fostered the
+               talents of four students in particular: the
+               Macdonald sisters and two young men
+               Charles Rennie Mackintosh and Herbert
+               MacNair, interior and furniture designers.
+               The sisters were day students and the men
+               were evening students; Newbery, in a cri-
+               tique of their works, told the four about the
+               similarity of their styles, and suggested they
+               meet.” In about 1895 the sisters and their
+               two friends formed a group, calling them
+               selves simply “The Four."</p>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_052.jpg" n="52" xml:id="img_0052"/>
+           
+            <p>
+               Before they met Charles and Herbert, the
+               sisters had already established themselves as
+               designers and craftswomen, showing great
+               versatility in the range of objects they made
+               and the materials with which they worked:
+               embroidered hangings and covers, gesso
+               panels, leaded glass panels, clocks, posters,
+               water colors, book illustrations, and their
+               specialty, repoussé metal panels. Margaret
+               and Frances Macdonald worked well as a
+               team. Not only did they cooperate on ideas
+               and drawing, but they often bent over the
+               same metal panel to work side by side. They
+               enjoyed life. They shared a studio and held
+               salons for all the leading writers and artists
+               of Glasgow. The sisters were more than able
+               to hold their own. During the short years of
+               “The Four’s” life, from about 1895 to 1899,
+               the two women continued to work very
+               closely together. “The Four” exhibited to
+               gether and exchanged ideas and designs.</p>
+               <p>The men, for example, designed furniture in
+               which the sisters’ decorative gesso panels
+               were inset. The sisters evidently found the
+               collective working arrangement to their ad-
+               vantage: during these years they produced
+               their most original and vigorous designs.
+               In 1899 Frances married MacNair and
+               the two moved to Liverpool where he had a
+               teaching post. The next year Margaret mar-
+               ried Mackintosh. The MacNairs’ move to
+               Liverpool brought the sisters’ working ar
+               rangement and the collaboration of “The
+               Four” to an end. After 1899, the four artists
+               produced independently or collaborated
+               with their marriage partner on design pro
+               jects. Although groups of artists were quite
+               common in those decades (members of the
+               various small English arts and crafts organ-
+               izations around William Morris, Arthur
+               Mackmurdo and Walter Crane worked anc
+               exhibited together), no two artists during
+               this period seemed to work and live in such
+               close harmony as the two sisters. Their life
+               and work together in the Glasgow studic
+               gave a certain intensity to their work, an in-
+               tensity which was lost after they separated
+               in 1899.</p>
+               <p>The strand of another independent,
+               spirited and middle-class woman, Catherine
+               Cranston, is yet to be woven into the story
+               Catherine became a principal patron of
+               Charles and Margaret Macdonald.“ As the
+               creator and owner of the tearooms she com
+               missioned husband and wife to design the
+               rooms’ every aspect, from their structure
+               and decoration to designs for posters and
+               menu cards. In the tearooms the arts and
+               crafts mingled freely and complemented
+               each other.</p>
+            
+            <p>
+               Better yet, Catherine Cranston’s women
+               customers found the environment suppor-
+               tive. The tearooms created a social phenom-
+               enon by becoming “virtually the first places
+               of their kind where even the richest and
+               most elegant of Edwardian female society
+               might properly meet without chaperons.”5
+               Unlike the tearoom clientele, Margaret
+               and Frances lived free from the shadows of
+               chaperons. By the standards of their day
+               they were liberated. Details of their lives
+               before marriage are poorly documented, so
+               it is difficult to locate the source of their in-
+               dependence. Since independence and crea-
+               tivity are so strongly linked, however, and of
+               great interest in the biographies of women
+               artists, I shall undertake a reconstruction of
+               their early lives.</p>
+               <p>In the late 1880s Margaret and Frances
+               Macdonald returned from England with
+               their father. It is probable that the sisters
+               raised in England, at first felt foreign in
+               Glasgow. Events that uproot or bring great
+               changes to lives are often those encouraging
+               a sense of self and a desire to do something
+               with one’s life. Possibly the move to Glas
+               gow acted as a stimulus to the sisters. At any
+               rate, Margaret and Frances knew who they
+               were, knew what they wanted to do and,
+               soon after their arrival in Glasgow, first</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_053.jpg" n="53" xml:id="img_0053"/>
+            
+            <p>
+               Margaret, then Frances entered the School
+               of Art.</p>
+               <p>Once in the school, the sisters found sup-
+               port for their ideas in the presence of other
+               like-minded women, such as Jessie Newbery
+               and their contemporaries, Jessie King,
+               craftswoman and book illustrator, and Jane
+               Fonie, an interior designer. A tradition of
+               active women had been established at the
+               school in 1882 when a group of former
+               students founded the Glasgow Society of
+               Lady Artists’ Club, the oldest women’s club
+               in Britain."</p>
+               <p>The sisters acquired backbone at the
+               school. They were trained in drawing from
+               the model, drawing freehand, anatomical
+               and botanical drawing, as well as ornamen-
+               tal design. The school encouraged them to
+               develop their own distinctive styles at an
+               early stage. Soon their unrefined and un-
+               tamed energies led to bizarre shapes, to
+               angular and cutting edges to their female
+               forms.</p>
+               <p>Shortly after leaving the school the sisters
+               reputations traveled as far as London. In
+               1896, the London Arts and Crafts Exhibi-
+               tion Society invited “The Four” to send fur-
+               niture, craftwork and posters in the mod-
+               ern style” to that year’s exhibition. The sis-
+               ters sent four pieces, two of which they had
+               worked on together: a clock of beaten silver
+               with beaten brass weights and an aluminum
+               pendulum, a muffin stand, a beaten alumi-
+               num panel, The Star of Bethlehem, by
+               Francis and The Annunciation by
+               Margaret.</p>
+               <p>The themes of these early figurative piec-
+               es express the sisters two constant icon-
+               ographic interests, women and babies. Fre-
+               quently the woman/ Virgin appears trapped
+               and isolated within their work. And, though
+               Christian subject matter did not recur as
+               often in the later pieces, apparently the in-
+               tensity of their religious convictions never
+               dimmed. What a pagan and savage inter-
+               pretation they gave to their Virgin and Child
+               images. London eyes boggled.</p>
+               <p>In the mid-1890s the English arts and
+               crafts movement was dominated by William
+               Morris’s most faithful disciple, Walter               
+               Crane. His designs pleased everyone, but
+               then they were too innocuous to do other-
+               wise. The polite London art crowd moving
+               from a Crane to a Macdonald cried out,
+               The Spook School!"8</p>
+               <p>We can see why. Look at a mirror frame
+               (Figure 5) made by Frances in 1896-1897.
+               Two excruciatingly thin female figures with
+               ghoulish eyes point accusingly at each other
+               over the seed cases of the Honesty plant.
+               The seed pods look like death’s heads. And
+               how spooky is the round copper sconce
+               made by both sisters in 1896-1897 (Figure
+               1). Imagine it nailed to the wall of a dark-
+               ened room and lit by the fluttering light of
+               candles in its holders. Visualize how the eyes
+               in the round copper plate, and in its sup-
+               ports, might enlarge and shrink in the jump-
+               ing shadows of candlelight. Now look at the
+               two female figures, with scraggy, flattened
+               forms and hanging breasts imprisoned with-
+               in the rectangular panels of a pair of beaten
+               brass candle sconces (Figures 2 and 3),
+               designed by the two sisters in the same
+               years. Strange details give the figures in
+               these sconces an apocryphal air: attached to
+               one figure is an orb, supporting a baby
+               suckling at the breast; on the other a cres-
+               cent moon superimposes its cruel edges and,
+               in the outspread hands of the same figure,
+               vivid marks, more like stigmata than wrin-
+               kles, are slashed in the open palms. The air
+               of suffering and martyrdom in these figures
+               is so marked that I find myself speculating
+               whether the sisters, consciously or uncon-
+               sciously, made associations between these
+               two female figures and the sacrificial roles
+               lived out by the majority of women they
+               knew. But not themselves; at this point they
+               were still free.</p>
+               <p>The sisters might have felt dashed by the
+               epithet “The Spook School” since the Arts
+               and Crafts Exhibition Society never asked
+               them or “The Four” to exhibit again. How-
+               ever, Gleeson White, editor of the influen-
+               tial arts magazine The Studio, responded
+               enthusiastically to the originality of their
+               designs and visited Glasgow to find out
+               more about the arts and crafts movement
+               there. After his visit, The Studio published
+               a two-part article on the Glasgow artists
+               with part one almost entirely devoted to the
+               Macdonald sisters’ works.9</p>
+               <p>Gleeson White was impressed that the
+               sisters not only designed all the pieces he
+               saw but, apart from some joinery work, they
+               handled, beat and wrought even the large
+               and heavy pieces themselves, including two
+               floor-standing clocks. Neither sister was
+               covetous of her individual contribution to
+               the pieces they jointly designed and execut-
+               ed. They refused to be drawn into games of
+               identification.</p>
+               <p>After looking at their early emaciated
+               figures, the inflated look the sisters’ works
+               acquire in the early 1900s comes as a sur-
+               prise. Reproduced here is a panel Margaret
+               designed in colored plaster for the Rose
+               Boudoir (Figure 6), shown at the Interna-
+               tional Exhibition, Turin, 1902. Some of
+               Frances’s figures acquire a similar full-
+               blown look in these years. In the early 1900s
+               the sisters changed their models; the in-
+               fluence of Japanese prints and works by the
+               pre-Raphaelites superseded the earlier
+               sources of Celtic art, Aubrey Beardsley and
+               Jan Toorop.1° In the 1900s an inventive note
+               appeared in Margaret’s use of junk mater-
+               ials: colored glass, rope and plaster. The
+               materials cost little and gave a rich, jeweled
+               effect. But the rawness, the evil, the spirits
+               that had made their early metal pieces fairly
+               rattle, had gone. No amount of fancy cur-
+               vilinear lines or innovative mixing of media
+               could atone for this. Do success and mar-
+               riage account for this transformation of the
+               sisters works?</p>
+               <p>No matter the causes, each new develop-
+               ment the sisters and their husbands brought
+               forth was eagerly seized upon by their au-
+               dience on the Continent. In 1900 they were
+               invited to furnish and decorate an entire
+               room at the eighth Secessionist Exhibition in
+               Vienna. In 1902, along with other Glasgow
+               artists, they exhibited works in the Scottish
+               section of the International Exhibition of
+               Decorative Art in Turin. Everything the
+               four artists sent to the two exhibitions sold.
+               Between 1899 and 1905, articles, reviews
+               and illustrations of their works appeared</p>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_054.jpg" n="54" xml:id="img_0054"/>
+            
+            <p>
+               frequently in influential journals such as
+               Dekorative Kunst and Deutsche Kunst und
+               Dekoration; Ver Sacrum, the official publi-
+               cation of the Vienna Secession, devoted an
+               issue to them.</p>
+               <p>Suddenly, in 1905, curiosity about the
+               four artists declined on the Continent. Even
+               in Scotland the number of commissions
+               began to drop; England never revived the
+               brief interest it had displayed in 1896.
+               Though Charles and Margaret had a highly
+               successful exhibition in St. Petersburg in
+               1913, where everything but the carpet sold,
+               and though one other show was planned for
+               Paris in 1914, the successes of their first
+               heady decade were never repeated.</p>
+               <p>It becomes impossible to find published
+               reproductions of the sisters works after
+               1905. One of the last I found is a gesso panel
+               made by Margaret in 1905 (Figure 4). Un-
+               deniably, this is the most powerfully model-
+               ed piece yet seen, but the subject shows a
+               dangerous stagnation. It is no more than a
+               summation of themes explored earlier by the
+               sisters. For whom were those plaster tears
+               meant to fall? Catherine Cranston's
+               tearoom clientele? Or Margaret and her
+               sister? Did Margaret begin to feel she was
+               cast in a mold much as her rope and glass
+               ladies? Did she mourn her lost independ-
+               ence? Were her spirits and her creativity
+               slipping away? I believe so, and I am sad-
+               dened.</p>
+               <p>I am against passive readings of history.
+               People, their deeds, as well as those they
+               avoided doing, affect us mightily. The Mac-
+               donald sisters capitulated.1 They allowed
+               their strident voices of the 1890s to fade into
+               soothing murmurs and echoes of what once
+               they were. How dared they! (They make it
+               harder for us to shape ourselves into the
+               creative and independent beings we would
+               like to be. We need all the positive models
+               we can get our hands on, and here are two
+               more negative ones.)</p>
+               <p>Did this change in their art reflect the
+               constraints of their times? Yes. It was dif-
+               ficult for women in turn-of-the-century
+               Glasgow to train and practice as architects,
+               as the Macdonalds’ husbands did. Both sisters would have benefited from the training
+               and practice of this profession. The status of
+               crafts, despite the sincere activities of
+               William Morris who tried to unite the arts
+               and the crafts (and all the activities and or-
+               ganizations that this engendered) remained
+               very much a poor relative of their rich aunt.
+               Fine Art. Margaret and Frances worked at
+               their drawing boards and hammered out
+               their metal panels. They probably wondered
+               what the studio people were up to. Fine art-
+               ists (among them women) painted decadent
+               images of women—think of Beardsley’s art.
+               Could Margaret and Frances humbly work-
+               ing in the lower echelons of the crafts not
+               pick up those cues? As craftswomen work-
+               ing in a stratified society, it might not have
+               occurred to them to push their early in-
+               dependent spirits farther than they did..</p>
+               <p>The Macdonald sisters’ best years were
+               all too short. Their career spanned the per-
+               iod of the realliance between the arts and
+               the crafts and its subsequent deterioration.
+               Neither Glasgow’s renaissance of the arts
+               nor women’s independence survived two de-
+               cades. The cycles of local movements were
+               taken up within the larger motions grinding
+               inside the machinery of Western capitalist
+               society in the years preceding World War I.
+               When the confidence, energy and profits of
+               the middle and upper classes decreased in
+               those years, the effect was soon seen in the
+               arts. In the depression of the 1930s, one of
+               the last of Glasgow s tearooms, 12 its wood,
+               brick, colored glass, rope, pale mauve and
+               green gesso ladies, crumbled under the
+               hammers of demolition workers.</p>
+            <p>
+               1 The first five cities were London,
+               Paris, Berlin, Vienna and St. Petersburg.
+               Glasgow’s other heavy industries were engi-
+               neering, textiles, chemicals, printing and
+               papermaking. C.A. Oakley, The Second Ci-
+               ty (Glasgow and London: Blackie, 1975).</p>
+               <p>2 In 1895, at the request of L’Oeuvre Ar-
+               tistique, Francis Newbery sent three cases
+               of his students work to the Arts and Crafts
+               Exhibition in Liege. T. Howarth, Charles
+               Rennie Mackintosh and the Modern Move-
+               ment (London: Routledge and Kaegan Paul </p>
+            <p>
+               
+               3 Information told to Howarth by Her-
+               bert MacNair, p. 25.</p>
+               <p>4 Her brother, Stuart Cranston, was al-
+               so in the tearoom business. Catherine Cran-
+               ston appears to have been the important pa-
+               tron of Mackintosh and Macdonald. The
+               tearooms’ busiest hours were 11:00 to noon,
+               4:00 to 5:00 p.m. Smoke-rooms were set
+               aside for the men. Margaret Macdonald’s
+               contributions to the tearooms were not as
+               important as her husband’s were. There-
+               fore, the tearooms are not discussed further.
+               See Howarth on Mackintosh’s tearoom de-
+               signs.</p>
+               <p>5. H. Jefferson Barnes, Furniture by
+               Charles Rennie Mackintosh, (Glasgow:
+               Glasgow School of Art, 1969).</p>
+               <p>6 The Glasgow Boys, Part Two: The
+               History of the Group and Illustrations (Ed-
+               inburgh: The Scottish Arts Council, 1971),
+               p. 77.</p>
+              <p> 7 Catalogue of the Fifth Exhibition,
+               1896 (London: Arts and Crafts Exhibition
+               Society, 1896), exhibit nos: 285, 475, 508,</p>
+               <p>8 The sisters’ work was reviewed in The
+               Studio, IX, December, 1896, pp. 202-203.</p>
+              <p> 9 The Studio, XI, July, 1897, pp. 86-100.</p>
+               <p>10 Ford Madox Brown’s Take Your Son
+               Sir, 1856-1857, Tate Gallery, is the source
+               of compositional inspiration for Margaret’s
+               piece, as R. Schmultzer, Art Nouveau (New
+               York: H. N. Abrams, 1962), p. 240, among
+               others, has pointed out.</p>
+               <p>11 Mentioning the care Margaret took of
+               her husband (he became an alcoholic), Rob-
+               ert Macleod writes how patiently and de-
+               votedly she had borne “the years of trial
+               and disappointment. Charles Rennie Mac-
+               kintosh (Feltham, Middlesex: Country Life,
+               1968), p. 150.</p>
+               <p>12 Oakley (p. 185) states that none of the
+               tearooms have survived intact, though part
+               of the famous Willow Tearoom was doing
+               service, quite recently, as Daly’s Bridal
+               Boutique.</p>
+               <p>Josephine Gear is an art historian presently teaching at
+               the Parsons School of Design in New York.</p>
+          </div>
+      </body>
+  </text>
+</TEI>

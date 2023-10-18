@@ -80,10 +80,11 @@ h5 {
     color: red;
 }
 
+/* Hiding indented paragraph */
 p {
     font-family: "Times New Roman", sans-serif;
     line-height: 3px;
-    padding-left: 50px;
+/*    padding-left: 50px;*/
 }
 
 persName {

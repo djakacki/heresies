@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+                     <div><!-- captured -->
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_055.jpg" n="55" xml:id="img_0055"/>
+               <head>
+                  <title>ALLLAIDE ALSOP ROBINEAU: 
+                  Ceramist from Syracuse</title></head>
+                  <byline>Peg Weiss</byline>
+               <p>
+               Adelaide Alsop Robineau (1865-
+               1929) who worked and lived most of her
+               life in Syracuse, New York, was one of
+               the foremost ceramists of her time and
+               is today regarded by many as America s
+               greatest ceramist. She was a perfec-
+               tionist: in 25 years of continued cre-
+               ativity she produced only 600 works
+               which she deemed worthy of survival.
+               Nearly every known piece is a superior
+               example of its type, whether it be the
+               grand feu (high-fire) porcelain at which
+               she excelled or stoneware; crystalline
+               glaze or flammé; excised or pierced egg
+               shell.</p>
+               <p>Born in Middletown, Connecticut,
+               the daughter of an engineer and invent-
+               or, Adelaide Alsop was artistically tal-
+               ented and determined to be self-
+               supporting. She first turned to the dec-
+               oration of porcelain, teaching herself
+               the technique from books. She was
+               soon proficient enough to become a
+               teacher of porcelain painting, a career
+               she pursued for several years at St.
+               Mary s Hall school in Minnesota. In
+               the early 1890s she returned to New
+               York where she studied painting briefly
+               with William Merritt Chase, still sup--
+               porting herself as a china decorator.</p>
+               <p>At 34, she married Samuel Robineau
+               whom she had met in the Midwest.
+               They joined G. H. Clark in Syracuse to
+               found and publish Keramic Studio with
+               Adelaide Robineau as editor. The new
+               porcelain painters’ magazine soon dom-
+               mated the field. A typical issue might
+               include descriptions of new materials
+               and techniques, an art historical article
+               on Chinese porcelain painting and
+               Robineau’s own designs and writings.
+               Keramic Studio complemented another
+               nationally known magazine published
+               in the Syracuse area, The Craftsman.
+               Edited by Gustave Stickley, creator of
+               Mission furniture, it promoted the
+               ideals of the international arts and
+               crafts movement inherited from Wil-
+               liam Morris. The magazines were ex-
+               tremely influential to the development
+               and flourishing of the American arts
+               and crafts movement, achieving na-
+               tional circulation in a short time.</p>
+               <p>In 1903, Samuel Robineau translat-
+               ed and published in Keramic Studio a
+               series of articles by Taxile Doat, the
+               Sevres master, on the making of grand
+               feu porcelain. Adelaide Robineau had
+               longed to create new forms and inspired
+               by these articles she went to study with
+               Charles Binns at the pottery school in
+               Alfred, New York. She then set up her
+               own kiln at home and fired her first
+               batch of porcelains, with her husband
+               serving as her advisor and technician.
+               She experimented alone, however, with
+               different clay bodies and developed a
+               remarkable range of glazes, fixed and
+               flowing, crystalline and matte, for
+               which she is famous. She also ex-
+               perimented endlessly to adjust Doat s
+               formulas to her own materials and
+               discovered a special variety of Texas
+               kaolin that lent itself to her re-
+               quirements of translucency and
+               strength.</p>
+               <p>In 1903-1904, the Robineaus built a
+               house and separate studio on a hillside
+               overlooking Syracuse which Adelaide
+               designed with an architect friend,
+               Catharine Budd. The studio building
+               consisted of three stories: the kiln area
+               on the first floor, the pottery on the se-
+               cond and a playroom for the three
+               Robineau children on the third. Having
+               the children nearby while mother pur-
+               sued her profession was considered
+               drastically modern when the Rob-
+               ineau home was featured in American
+               Homes and Gardens in 1910. The
+               buildings still stand on Robineau Road
+               in Syracuse.</p>            
+            <p>
+               Adelaide Robineau’s brilliant experi-
+               ments included the oxblood flammé of
+               Chinese tradition, crystalline glazes in
+               blue, white and maize, crackles and in-
+               laid slip designs. She undertook a chal-
+               lenge most of her contemporaries
+               thought was impossible: the creation of
+               eggshell coupes or shallow rimles
+               bowls with excised designs. Because the
+               paper-thin porcelain clay is so brittle, i
+               can only be worked in the dry state
+               and carving it requires extraordinary
+               patience and delicacy. Of her 12 at-
+               tempts at eggshell pieces, only three
+               survived. The third, with a beautiful,
+               excised design of swans, was broken
+               in Detroit on its way to an exhibition.</p>
+               <p>In 1910 Robineau was invited by Ed-
+               ward G. Lewis, founder of the
+               American Women’s League, to teach at
+               University City Pottery at St. Louis,
+               Missouri, and to work there with Tax-
+               ile Doat. According to Paul Evans,
+               “for a short time the University City
+               Pottery had the most notable group of
+               ceramic artists and experts thus far
+               associated with an institution in this
+               country. While there the Robineaus
+               founded another magazine, Palette and
+               Bench, under Lewis s sponsorship.</p>
+               <p>It was also in St. Louis that Robin-
+               eau created the magnificent “Scarab
+               Vase which won a grand prize at the
+               1910 Turin International Exposition. It
+               required 1,000 hours of labor and two
+               firings. Also called “The Apotheosis of
+               the Toiler, the vase is decorated with
+               an excised design of scarabs, a symbolic
+               reference to the patience and skill
+               demanded of the craftswoman. It is of
+               translucent porcelain with an unglazed
+               background and a relief design in a
+               semi-opaque white glaze. Accents in
+               pale blue-green are achieved with a
+               thin, fixed, semi-opaque copper glaze.6</p>
+               <p>In the “Poppy Vase of 1910, Robin-
+               eau expressed a personal style that the
+               influential New York critic, Royal Cor
+               tissoz, later called a blending of
+               precious qualities—of knowledge, skill,
+               judgement, taste, and above all, the
+               sense of beauty.”7 This vase, 6¼ inches
+               high, is decorated with an exquisite
+               poppy and leaf design which was first
+               excised and then inlaid with colored</p>
+
+
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_056.jpg" n="56" xml:id="img_0056"/>
+            <p>
+               slips. In the firing, the glazes remained
+               perfectly set within the inlay, coloring
+               and hardening to produce the effect of a
+               transparent enamel over the whole.
+               Small as it is, the vase has a monu-
+               mental quality typical of Robineau s
+               best work.</p>
+               <p>Another masterpiece is the “Viking
+               Ship Vase of 1905. With rich matte
+               and semi-matte glazes of blue, green,
+               brown and cream, the modest form is
+               decorated with a typical Art Nouveau
+               Viking ship motif, wave-tossed around
+               its rim, a symbol of human trans-
+               cendence over the vicissitudes of life. In
+               a remarkable tour de force, the Viking
+               ship motif is transformed from relief to
+               sculpture in the delicately pierced, in-
+               dependent stand which supports the
+               vase.</p>
+               <p>Vase after vase displays exquisite in-
+               vention, from the subtle striations of
+               the “Snake Bowl” with its delicate rep-
+               tilian head, to the iridescent crystals of
+               a small untitled white vase. Stylistical-
+               ly, the work ranges from restrained and
+               elegant adaptations of Art Nouveau or
+               arts and crafts movement taste to the
+               orientalizing manner of the eggshell
+               coupes to Art Deco urns.</p>
+              <p> Her work was so specialized and
+               technically difficult that Robineau
+               could not expect great moneta
+               rewards. Whereas Louis Comfort Tif-
+               fany in New York and Lalique in
+               France employed many workers and
+               turned out multiple versions of their
+               patterns, Robineau’s creations were
+               unique. Once in an attempt to increase
+               her income, she tried to mass-produce
+               porcelain doorknobs, but the endless
+               repetition so frustrated and bored her
+               that the operation ceased almost as
+               soon as it began.</p>
+               <p>Nevertheless, she was richly reward-
+               ed by professional recognition during
+               her lifetime. Her work was introduced
+               to the public at the 1904 St. Louis Ex-
+               position and in 1905 Tiffany and Co.
+               became an agent for the Robineau por-
+               celains. She was selected to exhibit at
+               the Musee des Arts Décoratifs and at
+               the Paris Salon in 1911, was awarded
+               Grand Prize at the 1915 San Francisco
+               Exposition, and received special prizes
+               and awards from the Art Institute of
+               Chicago and the societies of arts and
+               crafts in Detroit and Boston. She re-
+               ceived an honorary Doctor of Ceramic
+               Science degree from Syracuse Universi
+               ty in 1917 and in 1920 she joined the
+               faculty. The Metropolitan Museum
+               mounted an unusual one-person me-
+               morial exhibition of her work.</p>
+               <p>According to Samuel Robineau’s ac-
+               counting, she earned only about
+               810,000 from the sale of her work. To-
+               day it is considered priceless, a fact she
+               anticipated in an hitherto unpublished
+               letter:</p>
+               <quote>In the days of the ancient Chinese pot-
+               ters, Emperors paid fabulous prices for
+               examples of their work, and nobility
+               vied with each other to posess (sic) each
+               piece which came perfect from the pot-
+               ter s hands. All through the ages kings
+               and wealth have been patrons and
+               eager purchasers of art crafts, not only
+               of former times but of contemporary ar-
+               tists. It remained for grand America,
+               who (sic) has been too busy just grow-
+               ing, to neglect contemporary and native
+               arts and crafts so that no country is so
+               lacking in native craftsmen and crafts
+               work. ... they the few patrons) have
+               failed to see that contemporary talent
+               has to be encouraged by purchase of the
+               best in native work. [She expresses
+               pleasure in Carter’s interest in adding
+               her work to the museum’s collection
+               and to encourage him and his board,
+               she suggests the following) . . . as a
+               simple matter of “boosting Syracuse
+               such a collection might be a drawing
+               card. When a city wishes to be called to
+               sit up higher in the seats of honor, like a
+               good business man she would put her
+               best foot forward, if she has anything
+               above the average, she writes it in large
+               letters, if she has anything unique, she
+               blazons it abroad—Syracuse has at
+               least two unique boasts to make—there
+               is the salt which gives its savor—And
+               there are the Robineau Porcelains!</quote>
+               <p>She then suggested a purchase plan
+               involving her own donation of some
+               works as an incentive to the board of
+               the Syracuse Museum, and concluded:</p>
+               <quote>In this way Syracuse will have such a
+               collection as no other museum will ever
+               have the opportunity of purchasing
+               even for double the amount. And when
+               the Syracuse Art Museum (sic) is
+               quoted in future articles as having
+               fine example of the work of this or that
+               artist it will be added that Syracuse s
+               unique glory is its collection of the por-
+               celains of its townswoman the only
+               individual maker of art porcelain in this
+               country, one of the.few—the very few
+               in the world and the only woman to at-
+               tain such prominence in ceramics. All
+               of which sounds very conceited from
+               me but which is true neverthe-
+               less. . .9</quote>
+               <p>Clearly, Robineau was not one to be
+               easily deterred. Her tenacity and con-
+               fidence in her craft was further shown
+               in an article she wrote for The Art
+               World in 1917:</p>
+               <quote>This fascinating work unfortunately is
+               not a paying proposition, but it has
+               given me the satisfaction of doing orig
+               inal work, work which has not been
+               done in this country before and may not
+               be done again. . . . I often dream of all
+               the things I would have done if I had
+               begun earlier in life or if I had been fi-
+               nancially independent so that 1 could
+               have devoted myself entirely to my por-
+               celains. The pieces I have produced are
+               few in number, but they represent in
+               design and shape the best that was in
+               me and I hope that some of them may
+               be an inspiration to some artist of the
+               future, who perhaps will be able to do
+               more and better work than 1 have
+               done.10</quote>
+            
+            <p>
+               Adelaide Alsop Robineau need not
+               have been so modest. Just as she pre-
+               dicted, Syracuse does consider her
+               work one of its glories. The Everson
+               Museum still celebrates her memory in
+               its regular Ceramics Exhibitions,
+               inaugurated in her honor in 1932.
+               Nearly half a century after her death
+               she is admired by aspiring artists who
+               covet the perfection of the “Poppy
+               Vase or “The Viking Ship, or one of
+               the unnamed but brilliant crystalline-
+               glazed vases. She was a high-fire porce-
+               lain maker, a “high-fire person and an
+               artist of the highest caliber.</p>
+               
+              <p> 1. According to her husband’s recollection,
+               All the unsatisfactory pieces were re-
+               glazed and refired until they came out
+               good or (were) entirely spoiled. (Sam-
+               uel E. Robineau, “Adelaide Alsop Rob-
+               ineau, Design XXX, no. 11 (April,
+               1929], p. 205.]</p>
+               <p>2. The essays by Doat were later published
+               in book form as Grand Feu Ceramics
+               (Syracuse, N.Y.:
+               Keramic Studio
+               Publishing Co., 1905).</p>
+              <p> 3. The distinction between Adelaide's creative work in inventing forms, glazes
+               and decorations and in making the act-
+               ual pieces, and Samuel’s advisory role as
+               firing technician has been underscored
+               by their daughter, Mrs. Elizabeth
+               Lineaweaver, in a recent interview with
+               the author.</p>
+               <p>4. Grace Wickham Curran, “An American
+               Potter, her Home and Studio, Amer-
+               ican Homes and Gardens (Sept., 1910),
+               pp. 364-366.</p>
+               <p>5. Paul Evans, Art Pottery of the United
+               States, an Encyclopedia of Producers
+               and their Marks (New York: Charles
+               Scribners Sons, 1974), pp. 243-247. The
+               American Women’s League, founded in
+               1907 to provide wider opportunity for
+               American women, sponsored corre-
+               spondence courses and invited talented
+               women to study under the personal in-
+               struction of the staff. The Women s
+               League failed financially in 1911 and the
+               Robineaus returned to Syracuse.</p>
+               <p>6. Described in detail by Adelaide Alsop
+               Robineau in an article on “American
+               Pottery, The Art World, III (Nov.,
+               1917), pp. 153-155.</p>
+               <p>7. Royal Cortissoz, New York Herald-
+               Tribune (Feb. 24, 1929).</p>
+               <p>8. See Paul Evans, also “Robineau Por-
+               celains, Tiffany &amp; Co., Agents, Fifth
+               Avenue, New York (undated catalog,
+               ca. 1907).</p>
+               <p>9. Letter dated November 12, 1915, from
+               Adelaide Alsop Robineau to Fernando
+               Carter (punctuation and italics follow
+               the original), in the archives of the Ever-
+               son Museum of Art, Syracuse, N.Y.
+               Present plans for the Everson’s Robin-
+               eau Collection include an exhibition of
+               the complete collection in a new installa-
+               tion to be accompanied by a major
+               catalog in 1979, the 75th anniversary of
+               the introductior of Robineau’s work to
+               the public at the 1904 St. Louis Expo-
+               sition.</p>
+               <p>10. Adelaide Alsop Robineau, “American
+               Pottery, p. 155.</p>
+            <p>
+               Peg Weiss is Curator of Collections at the Everson
+               Museum of Art, Syracuse, New York, and Adjunct Pro-
+               fessor in Art History at Syracuse University.</p>
+            </div>
+      </body>
+  </text>
+</TEI>

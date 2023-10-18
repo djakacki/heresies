@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_110.jpg" n="110" xml:id="img_0110"/>
+            <head><title>Mithila Paintings</title></head>
+               <byline>Erika Mosei</byline>
+               
+               <p>Mithila is a large region in North Bihar with an ancient high culture which is represented in the Sanskrit written tradition of the Brahman
+               caste. The “painting women of Mithila” who belong to this elite sociocultural stratum are a numerical minority. They have more leisure time to
+               practice their art skills than do women of lower castes.</p>
+               <p>What is specific to the art of these Maithil women? To answer this question it is necessary to understand the traditional hierarchy of arts and
+               artisans. As in our own culture, manual labor and handmade art such as sculpture or painting have, in spite of highly developed techniques
+               and theories, been considered less prestigious professions than mental labor and intellectual art like poetry. In a male-dominated hierarchica
+               society like India’s, the latter sphere is traditionally occupied, with few exceptions, by men of high rank. Tasks requiring skilled hands ar-
+               relegated to low-caste occupational specialists</p>
+               <p>In addition to the arts and crafts of specialists, nonprofessional domestic art is produced by women as part of their household duties. Orna
+               mental decoration with symbolic meaning is made on festive occasions to beautify the home, household utensils, and those who live in the
+               house. The numerous festivities of the life and calendar cycles, especially marriages, are functional occasions for the art of women. The most
+               eye-catching of the domestic arts are the wall and floor drawings, two aspects of the total range of women’s traditional arts which use many
+               media, styles and contents. Wall murals feature motifs of gods and goddesses, epic scenes, brides and grooms and fertility symbols. Floor
+               designs are made with rice flour dissolved in water and drawn with the fingers to mark a kind of ground altar for household rituals. What is
+               considered the ritual center of the drawing is covered very carefully with earth after ritual use so that no one will accidentally step on it. The
+               other ornamental forms, however, remain exposed to the sun and rain.</p>
+               <p>Objects of high aesthetic quality are created as gifts for friends and relatives and as donations to the gods. Such domestic art done by women
+               is usually not highly esteemed. In fact the concept of art is usually not applied to it though its creative qualities equal those of classical art
+               There are various explanations for the low prestige of women’s traditional domestic arts:</p>
+               <p>The objects are primarily functional, having an everyday household use rather than being representative monuments of social prestige. In
+               addition, symbolic items are prepared for one time use only in a specific ritual context.</p>
+               <p>The raw material out of which the art is made is usually regarded as being of little value because it is freely available, e.g., grass, mud.
+               flowers and other organic material, self-prepared colors. Also, the materials tend not to be durable so that objects become unattractive within a
+               short time. The objects are predominantly hand-worked. Highly developed tools and technologies are rarely used in their production. Thi
+               kind of art is available without cost, a feature which tends to undermine its appreciation</p>
+               <p>High-caste Brahman males may become defiled by doing manual labor; thus domestic work is left to low-caste servants and housewives. In
+               this context, how was it possible that out of the mass of women in India a few could break out of the rigid traditional value system to become
+               famous as a group in the world market of naive and folk art, producing paintings which sell as “Mithila paintings”?</p>
+               <p>A clue to the answer lies in the word “market.” In 1967-1968, after a famine, the government of India carried out a relief program in North
+               Bihar. At that time, various handicrafts were bought and women were encouraged to prepare sikki grass work and other traditional folk arts on
+               payment. Pupul Jayakar, the woman who headed the Handicrafts and Handlooms Exports Corporation at that time in Delhi, introduced the
+               idea of distributing handmade paper among village women so that they could transfer their traditional motifs from murals and floor designs or
+               to paper and create marketable products. The All-India Handicrafts Board promoted this project. In response to a Western demand for naive
+               and folk art with ritual and oriental themes, the Mithila paintings became commercially successful. Unlike the ritual traditional art forms, the
+               paintings on paper are not symbolic forms of meditation and prayer, but are made explicitly in order to eamn money. (When the demand is
+               there, they are produced daily.) This, at least, is the way the women themselves view their artistic achievements.</p>
+               <p>About 500 women in the region paint for the market. For most women painting is not the main source of family income. The money earned
+               through painting is rarely available for personal use. In most cases, male members of the family collect and spend the money the women earn.
+               But even though the earnings are not theirs to keep, most benefit from their work either psychologically or by eliciting what has rarely beer
+               possible for them—social prestige and respect from male family members. (Three of the women received the highest prize, the “Nationa
+               Award of Master-Craftsmen” from the All-India Handicrafts Board.) Together, the women painters of Mithila have achieved collective
+               acclaim for their region.</p>
+               <p>The concepts of art and creativity in our Westem sense do not exist at all in this context. What we mean by traditional art is for these women
+               a part of domestic ritual decoration, which extends far beyond the area of drawing and painting. Painting has been selected for promotion from
+               the whole complex of domestic art skills because critical criteria have been brought in from the outside. These criteria, deduced from Western
+               traditional art academic categories, value painting as highly-esteemed bourgeois art. Typical female skills like embroidery do not have much
+               worth on such scales. The women of Mithila in fact value textile art skills and, above all, the fine weaving of sikki, higher than painting
+               Interestingly, when formerly disregarded female work succeeds commercially, males join the ranks, and, in this case, even Brahman mer
+               have acted as helpers, publicity agents or even as painters.</p>
+               <p>The art of the women of Mithila is exemplary of an indigenous woman’s art as opposed to women’s art in the West which still, in the realm of
+               "fine” arts, may be regarded as imitative of dominating male art styles. The ideology that male artists have been the major creative geniuses
+               and that women have been the followers is usually accepted without question on the simple basis that there have been more famous male artists
+               in the history of art. Only in some seemingly insignificant corners of the world has female creativity had the chance to develop without male
+               competition, mainly in the domestic sphere</p>
+            <p>
+               Erika Moser is a lecturer of visual anthropology at the South Asia Institute, University of Heidelberg, Germany. She is the Vice-President of the Society for Folk Arts Preservation, Inc.</p>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

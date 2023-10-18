@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_119.jpg" n="119" xml:id="img_0119"/>
+            
+            
+               <head><title>Myth and the Sexual Division of Labor</title></head>
+               <byline>Virginia Maksymowicz</byline>
+               <p>Clay is a material packed with connotative richness. For the past few years, it has been my primary medium as a sculptor. The fact that
+               many cultures traditionally have assigned clayworking to women began to intrigue me.1 Is it merely the pliability of clay or the fact that it can
+               be worked on near the home, among children, that has, in many cases, made it a female-connected material?
+               In terms of cross-cultural study (including both Western and non-Western societies), George Murdock and Caterina Provost’ have made one
+               of the best attempts at examining some of the contributing factors to sexual division of labor: tendencies for males to be physically stronger than
+               females; for females to be “burdened” by pregnancy and childcare, and thus to be assigned to soft materials and simple tools and processes
+               and for the sex that utilizes a product to be the sex that produces it. Even though these factors are certainly worth mentioning, Murdock and
+               Provost’s study avoids even hypothetical explanations of some of these tendencies and skirts around a major cultural component: the myth.
+               Myth permeates the structure of all societies; entire social systems can actually be constructed around myth (modern U.S. society included)
+               Since the majority of societies do seem to function, I find it hard to believe that they are based on pure fiction. Myth is not fiction alone. It is,
+               in a way, a combination of fact and fiction which results in an “extended” fact (fact + story = extended fact/myth). And so when Murdock
+               and Provost suspect at one point that masculine strength is an inadequate explanation for the division of labor, they begin to hit on something:
+               perhaps most societies are not based on the actual physical differences between the sexes but on the myths surrounding and extending these
+               differences.</p>
+               <p>Mythmaking seems to be an attempt to explain the unknown and to unify disparate elements in the world. Whatever its origin or purpose,
+               the tendency nevertheless runs strong in humanity and is closely tied to symbolmaking. But while Murdock and Provost have described the
+               denotative meanings of tasks and materials in their study, they have overlooked the connotative—the symbolic and mythical aspects to which
+               many of these activities and objects are bound. If symbols are “storage units” (Victor Turner’s term’) which consolidate a maximum of infor
+               mation and if, as much research has shown, a great number of things have both functional and symbolic meaning, then we can probably
+               assume that many sexually assigned tasks are very “loaded” indeed. So maybe it’s not the actual hardness or Softness of the materials, or the
+               ease with which they can be worked upon that determines sex divisions (though in extreme cases this might hold true), but the connotations at
+               tached to these qualities.</p>
+               <p>I propose that the “femaleness” of clay is based on the mythology and symbology surrounding this material rather than on the material itself.
+               This seems even more likely when one considers how complex and widespread clay—and, inseparably, earth—symbolism is.
+               On a general level most of us have encountered a common modern earth/woman myth: “Mother Earth” is the progenitor of all living things.
+               The earth is a womb into which seeds are placed to be nurtured; the sky (masculine) pours down its rain (semen) to produce plant growth (life)
+               Countries (home-lands) are quite often referred to in feminine terms. The dead are returned to the earth, their origin, their “mother.” In our so-
+               ciety, however, the origin of these myths has been lost. We no longer remember the stories on which they are based. True, we still have the Cre-
+               ation in the Book of Genesis, but in terms of earth/woman symbology, the link is weak. Nevertheless the symbolism lingers in verbal analogy.</p>
+               <p>But on a specific level, how does an individual culture integrate myth with the operative functions of society? While researching this article
+               I came across a society where the women are the primary clayworkers and where the female/earth symbolism and mythology are strong: the
+               Mwambao Zaramo of Tanzania.</p>
+               <p>The Zaramo are matrilineal. Their creation myth (see Marja-Liisa Swantz') traces the origin of life to a woman, Nyalutanga, who is con-
+               nected to the origin of everything. The name itself is related to Zaramo verbs meaning to spread about and to nouns referring to large ground
+               mats as well as to a cucumber plant which crawls and spreads rapidly. In the myth, Nyalutanga emerges from the earth and, as her name sug
+               gests, this first woman and the fertile earth become nearly interchangeable.</p>
+
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_120.jpg" n="120" xml:id="img_0120"/>
+            
+            <p>
+               In this story two known facts are combined, and the resulting myth presents an equation: if earth produces life and growth and if woman
+               produces life and growth, then earth = woman. The two are mutually symbolic, and one cannot be referred to without invoking the other.
+               Thus to be a woman is to be part of the earth and to share in its fertility, to reproduce with vinelike profusion, drawing nourishment from
+               decaying matter (the symbolic cucumber plant flourishes on rubbish heaps). Initiated by woman, the earth became covered with people (a
+               matrilineal line of descent).</p>
+               <p>Accordingly, that which is inextricably bound up with the earth and growth—agriculture and the cultivation of plants—is also symbolic of
+               and therefore delegated to, woman. Women are recognized as the originators of cultivation. That Zaramo women are prominent in agricultural
+               work is supported by Nyalutanga’s gift of the knowledge and use of plants to women, who in turn instructed the men.</p>
+               <p>The very existence and cycle of human life are dependent on woman/earth and are consolidated in and assured by Nyalutanga. Everything
+               taught to young girls during formal instruction, maturity rites and pregnancy rites centers around this earth mother. She is the link between the
+               earth, life and death. In agriculture, decaying life is the fertilizer for new life. In Zaramo mythology, there is a continuing theme of existing life
+               arising out of the death of other organic matter. The earth becomes a womb where decay must take place before new life, human life, can
+               begin. In Zaramo ritual, female and death symbolism are inseparable: if earth = woman and if the earth brings about decay and death, then
+               woman brings about decay and death.</p>
+               <p>These life, death and earth ties constantly cross-reference themselves as well as other rituals. A Zaramo birth ritual involves performing a
+               ritual burial after delivery. In various versions, the placenta, umbilical cord, first excrement and nail clippings are buried, returned to the
+               earth. It is hypothesized that since the child had these things when s/he came into the world, they do not really belong to the child but rather to
+               the true mother, the earth, to which they are returned. In another version of the birth ritual, the earth symbolism is reinforced by a reference
+               to the death ritual. The placenta and cord are buried under the bed where the mother is resting and waiting to be washed. The bath waters are
+               run over her body onto the ground and buried placenta below. The death ritual involves washing the corpse on a similar bed in nearly the same
+               manner: the water is allowed to run over the body into a hole in the ground below.</p>
+               <p>The same “under the bed,” “close to the ground” ritual elements are apparent and function as female symbolism in extra-ritual activities as
+               well. The cooking pots (symbolically female in themselves, not only in Freudian “enclosure” terms, but in terms of their reference to cooking
+               and the sustenance of life through food, and their being made of clay) are kept under the bed—again cross-referencing life and death.
+               It can be recognized from even these few isolated examples that female/earth symbolism permeates and reinforces Zaramo society. With
+               such a strong cross-referencing symbol system, it becomes impossible for anyone but a woman to be involved in clayworking. If women are the
+               source of all earth-, life- and death-related activities in every aspect of Zaramo life, then only a woman could employ a material like clay. And
+               considering some of the uses to which the earthenware artifacts are put—pots for cooking (nourishment), vessels for washing (birth and death
+               rituals)—it is again in keeping with the mythological structure for a woman to make these objects.</p>
+               <p>Fortunately, Zaramo mythology is easily accessible and ostensibly at work in their culture. It provides us with an opportunity to see some of
+               the origins of sex-linked traditions in their society. Modern Western culture, on the other hand, has managed to overlay its own complex
+               mythology with a veneer of apparent (to our eyes, at least) factuality. At this point, we are only beginning to take the first steps toward un
+               covering these myths which form the basis of our own cultural conventions.</p>
+            <p>
+               1. Textor, Robert B., A Cross-Cultural Summary. (New Haven, Connecticut: HRAF Press, 1967).<lb/>
+               2. George P. Murdock and Caterina Provost, “Factors in the Division of Labor by Sex: A Cross-Cultural Analysis,” Ethnology, vol. 12, 1973,
+               3. Quoted in Marja-Liisa Swantz, Ritual and Symbol in Transitional Zaramo Society (Sweden: Almquist and Wiksells, 1970).<lb/>
+               4. Swantz.<lb/>
+               Thanks to Dr. Jehanne Teilhet for encouragement and guidance in the development of these ideas, Virginia Malsymouier is a scuhtor kiing in Neu Yoik Ciy,</p>
+
+         </div>
+      </body>
+  </text>
+</TEI>

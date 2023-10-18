@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_046.jpg" n="46" xml:id="img_0046"/>
+            <head><title>Excerpts from Women and the Decorative Arts</title></head>
+            <byline>Linda Nochlin</byline>
+            <p>
+               The feminine presence in the field of the decorative arts, more
+               specifically, those related to textiles—weaving, embroidery, stitch-
+               ery—is a time-honored one.' Indeed, women have continued to
+               make significant contributions in this area through the nineteenth
+               and twentieth centuries. For example, exhibits—rather conven-
+               tional ones, to be sure—of lace, embroidery, tapestry and needle-
+               work were prominent among the works illustrated in the official
+               publication of Art and Handicraft in the Woman’s Building of the
+               World’s Columbian Exposition in Chicago in 1893. Later, the
+               leading weavers and tapestry makers at the Bauhaus—Anni Albers,
+               Ruth Consemüller, Gunta Stölzl, Otti Berger, Benita Koch-Otte-
+               were women.? Nevertheless, this traditional relation, or perhaps
+               relegation, of women to the decorative arts was complicated by a
+               variety of social and economic as well as ideological factors at the
+               turn of this century. One complicating factor was the ambiguous
+               status and prestige accorded to the decorative arts themselves,
+               especially in relation to the so-called high arts of painting and sculp-
+               ture. Another was the complex relationship of the decorative arts to
+               the evolution of abstract painting and the subsequent development
+               of an abstruse mystique to differentiate the latter from the former.
+               Still another factor was the social, political and moral implications
+               associated with the promotion of the handicrafts and with education
+               in design, especially in Great Britain during the latter part of the
+               nineteenth century.</p>
+               <p>Have women simply been shunted off into the so-called minor or
+               decorative arts because these were considered less demanding and
+               were certainly less prestigious? It is undeniable that English womer
+               were admitted to the Schools of Design, both the Branch Schools
+               and their own Female School in London, long before they were ad-
+               mitted, in any significant numbers, to the teaching facilities of the
+               Royal Academy. The ranks of these schools were swelled not merely
+               by the working-class girls for whom this sort of training, aimed
+               primarily at industrial design, was originally intended, but by vast
+               crowds of impoverished young ladies who were in desperate straits
+               trying to find employment in the arts, primarily as governesses."
+               Even earlier, in France, Mme. Frere de Montyon, a student of Res-
+               tout’s, had founded the Ecole Gratuite de Dessin pour les Jeunes
+               Personnes, a school established in 1805 to help penniless voung
+               women become self-supporting, an enterprise perhaps intended as
+               much to aid public morals as to encourage artistic ability. The Ecole
+               Gratuite de Dessin was brought under government jurisdiction in
+               1810.4</p>
+               <p>The democratizing effort to extend knowledge of the applied arts
+               to the lower classes—and to women—was carried further in subse
+               quent attempts to break down completely the barriers between high
+               art and the decorative arts. The attempt reached a climax in Great
+               Britain during the late nineteenth century with the program of social
+               transformation proposed by John Ruskin and, especially, by
+               William Morris. Interestingly enough, women seem to have served
+               little more than a purely inspirational function for Morris and his
+               followers, although both Janey and May Morris produced em-
+               broidery for the cause of arts and crafts. Women in late nineteenth-
+               century England certainly made contributions to porcelain painting
+               textiles, embroidery, and, often anonymously, to patchwork and
+               other forms of stitchery, and of course Kate Greenaway was active
+               as an illustrator and tile-designer, influencing Gauguin and many
+               other painters. Nevertheless, women as a group were not prominent
+               in the English Arts and Crafts Movement. In Scotland, however
+               two unusually gifted and productive sisters, Frances Macdonald
+               (1874-1921) and Margaret Macdonald (1865-1933) made majoi
+               contributions in design. Margaret later married the innovative
+               architect and designer Charles Rennie Mackintosh, and as mem-
+               bers of his circle both sisters created imaginative curvilinear designs
+               for architectural ornaments, metalwork, embroideries and stained
+               glass, as well as watercolors that often hover on the brink of
+               abstraction.</p>
+            <p>
+               Although the effort to overthrow the hegemony of “high art” by
+               merging it with the “minor” arts, an effort that has characterized
+               one current of vanguard ideology from Synthetism to Constructiv-
+               ism, is by no means a feminine invention, the extent to which the
+               decorative arts, especially those involving textiles, have played a role
+               in the careers of advanced women artists is striking. Yet even
+               though their achievements in these realms are often brilliant, the
+               fact that painters like Nataliia Goncharova, Alexandra Exter.
+               Liubov Popova and Varvara Stepanova, Sophie Taeuber-Arp and
+               Vanessa Bell, Marguerite Zorach and Sonia Delaunay were in-
+               volved in textile design, weaving, tapestry making and costume
+               design nevertheless has equivocal implications. On the one hand, for
+               a woman artist to “return, as it were, to her traditional role in the
+               minor arts, generally less conducive to fame and fortune than a ca-
+               reer in painting or sculpture, can be viewed as a retrograde step. Yet
+               from another vantage point, we can say that advanced women art-
+               ists involved in the decorative arts in the early twentieth century
+               were contributing to the most revolutionary directions—both social
+               and aesthetic—of their times.</p>
+              <p> Marguerite Zorach may indeed have turned from painting to em-
+               broidering tapestries after the birth of her second child, when she
+               "no longer had the hours of uninterrupted concentration that she re
+               quired to work out her personal views on canvas,”5 and Sonia De-
+               launay may have moved from monumental Orphist canvases to fab-
+               ric and dress design in order to support her husband and herself
+               after the loss of her private income following the Russian Revolu-
+               tion. Nevertheless it is also true that Zorach’s needlework, in many
+               ways more original and interesting than her paintings, received
+               more exposure and critical attention than her canvases during the
+               1920s and ’30s,° and that Delaunay had had considerable success in
+               the applied arts before the loss of her income’ and continued to
+               make some of her most original contributions in this area through-
+               out her career. Certainly the experiences of Sophie Taeuber-Arp
+               and Vanessa Bell in the decorative arts exerted a progressive influ
+               ence on their “high art” creations. Taeuber-Arp, who began as a
+               textile specialist and taught weaving and embroidery at the Arts and
+               Crafts School in Zurich, may well have influenced her husband
+               Jean Arp, in the direction of greater abstraction as a result of the
+               embroidery and weaving they did together at the time of the First
+               World War. Indeed, it was probably precisely because of her back-
+               ground in the decorative arts that Taeuber-Arp was one of the first
+               artists to think of abstraction as a natural point of departure rather
+               than the end of a long process of evolution from representation.
+               Vanessa Bell’s participation from 1913 to 1919 in Roger Fry’s
+               Omega Workshops, for which she designed screens, textiles and mo-
+               saics, seems to have intensified her penchant for abstract colorism
+               and bold surface treatment which had already been stimulated by
+               contact with the Fauves and Cubists.9</p>
+               <p>In attempting to evaluate women artists’ contributions to the
+               decorative arts, much depends on one’s attitude toward the relative
+               importance of the “high versus the “applied” arts. If we consider
+               painting the ultimate form of aesthetic expression, then it will be a
+               foregone conclusion that Sonia Delaunay made a sacrifice by ne-
+               glecting her monumental abstract canvases to produce fabrics and
+               fashions, while her husband, Robert Delaunay, was permitted to
+               continue his calling as a painter and, perhaps even more important,
+               as a theorist of abstract art. If, however, we take a less conventiona
+               view of what constitutes value in the avant-garde production of the
+               twentieth century, we can see that women artists, by remaining
+               faithful to their time-honored role as decorative artists, have ad-
+               vanced the cause of abstraction and, at the same time, spread its
+               message beyond the walls of the studio, museum and gallery into the
+               realm of daily life—a goal devoutly sought by artists—whether
+               high” or “applied, male or female—from the time of Ruskin and
+               Morris to the Russian Revolution, the Bauhaus and afterwards.</p>
+               <p>From Ann Sutherland Harris and Linda Nochlin, Women Artists: 1550-1950. Reprint-
+               ed by permission from the Los Angeles County Museum of Art and Alfred A. Knopf.</p>
+               <p>1. See Women Artists, pp. 15-17<lb/>
+               2. Although women may have traditionally been involved in handweaving and art
+               weaving, this is by no means true as far as industrial or mass-production of cloth is
+               concerned.<lb/>
+               3. Q. Bell, The Schools of Design, London, 1963, pp. 135-137.<lb/>
+               4. Rosa Bonheur’s father took over the directorship in 1848, and his daughter, the
+               following year. The school was headed by Mlle. Nelly Marandon de Montyel after
+               1860. I am grateful to Professor Albert Boime for much of this information.<lb/>
+               5. National Collection of Fine Arts, Marguerite Zorach: The Early Years, 1908-1920,
+               1973, p. 50. The artist was joined briefly in her tapestry work by her husband, William
+               Zorach<lb/>
+               6. Ibid., p. 5<lb/>
+               7. A. A. Cohen, Sonia Delaunay, New York, 1975, p. 77.<lb/>
+               8. See Taeuber-Arp bibliography in Women Artists.<lb/>
+               9. See Bell bibliography in Women Artists.</p>
+            <p>
+               Linda Nochlin is Professor of Art History at Vassar Gollege.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

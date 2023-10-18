@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+                     <div>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_022.jpg" n="22" xml:id="img_0022"/>
+            
+               <head><title>THE STRAITS OF LITERATURE AND HISTORY</title></head>
+                        <byline>Carrie Rickey</byline>
+            <p>
+               With whom does history empathize? For
+               Walter Benjamin, “The answer is inevita-
+               ble: with the victor.”1 The reciprocity be-
+               tween historian and ruler is tacit: the his-
+               torian makes official the ruler’s authority
+               and the ruler’s authority gives the histori-
+               an’s work validity. This is not to suggest
+               that no histories exist that subvert this
+               premise. Literature is a “history” which in
+               most cases serves the prevailing order
+               because its very existence confirms thaf
+               order’s cultural richness. But literature is
+               privileged because it can employ language’s
+               nuance and allusiveness and from the inside
+               gently or joltingly criticize that order. Be
+               cause literature is by implication a cultural
+               artifact of a ruling order, subversive or not
+               it is a historical spoil owing as much to the
+               anonymous toil that gave the writer time to
+               pursue an idea as to the original mind that
+               conceived it.</p>
+               <p>The connection between a ruling order
+               and its cultural artifacts is like a strait sep-
+               arating two bodies of water intimately link-
+               ed in time and geography. The straits of lit-
+               erature and history are evidenced in Jap-
+               anese writing of the Heian period (794-1185
+               A.D.) which commands interest because of
+               its richness of description, its pioneering of
+               new forms, and the fact that its leading
+               practitioners were women. Many social and
+               cultural conditions set the stage for this un-
+               precedented predominance of literary
+               women. According to Ivan Morris.</p>
+               <p>"Though they (peasants, fishermen, forest-
+               men and other laborers contributed to the
+               vast majority of the (Heian period’s) popula
+               tion and were the only economically pro-
+               ductive class in the country, we virtually
+               have no authentic information about their
+               lives.”2 What we today know of Heian life
+               has been garnered from the literature of that
+               period—especially from Murasaki Shikibu’s
+               The Tale of Genji and Sei Shonagon’s The
+               Pillow Book—but these literary milestones
+               detailing Heian court life treat a population
+               of only about one-tenth of one percent of the
+               five million population in Japan at that
+               time.3 </p>
+              <p> Murasaki’s and Sei’s originality of form
+               and observation is unparalleled in the
+               history of literature. These two women were 
+               contemporaries; both were brought to court
+               from the provinces because of their talent
+               and intelligence. Due to the complications
+               of Japan’s clan politics, there was a “court
+               with many satellite courts, and it is not
+               known whether these two women ever lived
+               in the same palace, although they were
+               aware of each other’s writings. Their social
+               position was substantially different from
+               that of the women outside the court who
+               “toiled arduously, were subject to harsh
+               treatment by their men, bred young, and
+               died early.4</p>
+               <p>Murasaki and Sei are figures of incalcu-
+               lable significance because they were pio-
+               neers, because they produced work in a
+               period which had articulated for itself a dis
+               tinct masculine and feminine aesthetic, and
+               because they wrote in Japanese at a time
+               when the language for official and theologi-
+               cal affairs was Chinese (cf. the European
+               use of Latin as an “official” language). Not
+               only did they establish traditions of the psy-
+               chological novel and the diary, but their
+               writings preserved the Japanese language
+               for subsequent generations. In their day
+               women were restricted to the use of Japan
+               ese while men exchanged ideas and conver
+               sation in Chinese. Even today the dis-
+               tinction between native syllabary and the
+               Chinese characters incorporated into the
+               language reflects this gender dichotomy.
+               The native characters are called onnade, or
+               woman’s hand,” while Chinese character
+               are known as otokomoji, “man’s letters.”
+               Sei’s writings are still studied today for the
+               purity of her Japanese diction; she avoidec
+               Chinese-isms—an accomplishment compar-
+               able to writing in English without using any
+               Latinate words.</p>
+               <p>In the time of Murasaki and Sei there
+               were no narrative literary traditions to
+               maintain. Japanese literature before their
+               time had been poetry of a calculatedly
+               oblique nature; a long prologomena was
+               necessary to explain the poem’s meaning.</p>
+               <p>What a remarkable achievement to conceive
+               a psychological novel—as Murasaki did-
+               where a poem appears as an organic expres-
+               sion within the context of a narrative and re
+               quires no annotation to be understood
+               Murasaki fused the traditional poetic form
+               
+               with her narrative innovation, the intimate
+               epic. Sei’s Pillow Book was so called
+               because she suggested to the empress that
+               notebooks of historical documents could be
+               recycled by making them into a pillow (a
+               word that referred to a diary as well as a
+               head rest); Sei filled her notebook with lists,
+               odd facts and observations from the present,
+               thereby annotating the leaves of official
+               history with her lively opinions.“ For both
+               these women, objectivity was the domain of
+               the historian and untenable because it neu-
+               tralized differing positions. Objects and peo-
+               ple, in the writings of Murasaki and Sei.
+               have innumerable facets. They intimated
+               the spirit of an object or a person by bom-
+               barding the reader with dense description:
+               lists, textures, physical and natural detail.
+               Collectively their historical truth is compel
+               ling because they replace “objectivity” with
+               opinionation.</p>
+               <p>But these two contemporaries reflected
+               different attitudes about their culture. Sei
+               begins a chapter of her book with: “When I
+               make myself imagine what it is like to be one
+               of those women who live at home, faithfully
+               serving their husbands—women who have
+               not a single exciting prospect in life yet be-
+               lieve they are perfectly happy—I am filled
+               with scorn.”7 In a passage where Murasaki
+               describes Genji’s (and by implication her
+               own) view of the novel, Genji observes,
+               “Without it what should we know of how
+               people lived in the past from the age of the
+               Gods down to the present day? For history
+               books . . . show us only one corner of life;
+               whereas these diaries and romances which I
+               see piled around you contain, 1 am sure, the
+               most minute information about people's
+               private affairs.”° Sei and Murasaki charted
+               divergent routes in their writing: Sei was an
+               empiricist recording impressions of contem-
+               porary Heian manners; she lacked the self-
+               consciousness of Murasaki, who fashioned a
+               world in the indeterminate past in order to
+               best intuitively comment on life in her im-
+               mediate present. Sei’s literary concerns were
+               the refined tastes of the nobility and the
+               freshness of nature. Murasaki was less im-
+               pressionistic and more analytic in her eval-
+               uation of Heian society. She continuously
+               tells us that it was best to be born a man of</p>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_023.jpg" n="23" xml:id="img_0023"/>
+            <p>
+               imperial blood and live at the court. But she
+               was keenly aware of the hierarchies within
+               the aristocracy and observed the tension
+               between provincials and the court clique, as
+               well as sensitively articulating the social
+               restrictions limiting the mobility of the lower
+               ranks within the court.</p>
+               <p>A number of factors informed the atti-
+               tudes Sei and Murasaki expressed. The
+               birth of a woman was a happy event because
+               in the marriage politics of Heian society a
+               woman might grow up to marry the emper-
+               or. It was much easier in their day for a
+               woman of “inferior” birth to marry a man of
+               noble rank than vice versa. The professions
+               which brought a lower-rank man to the cap-
+               ital—scholar or priest, say—would not auto-
+               matically give him ingress to the imperial
+               circle, while it seems likely that Sei and
+               Murasaki were brought to the court because
+               of their reputations as women of wit and
+               sensibility. In Heian Japan a woman was
+               allowed both to inherit and own property.
+               The civil codes expressly forbade wife-beat-
+               ing, although the punishment for this was
+               two degrees less than assaulting other
+               people.”° But these facts don’t pinpoint the
+               complex and inbred quality of Heian life,
+               which is best described by the Chinese prov-
+               erb: “The people are as far from the Emper
+               or as from heaven. Japanese appropriation
+               of China s governmental centralization pro-
+               duced a bureaucracy so awkward in this
+               land of decentralized clans that the delega-
+               tion of authority was carried to extreme
+               lengths; the source of authority was, accord-
+               ingly, far removed from the functionary who
+               directly wielded it. Because the real power
+               was exercised by ministers and other imperi-
+               al subalterns, the emperor was left with two
+               functions: to encourage new art forms and
+               fashion rituals of piety from the religious hy-
+               brid of Shinto and Buddhist beliefs. Women
+               were excluded from public affairs, but they
+               played a tremendous role in the Heian
+               court. A well-born woman had leisure and
+               imperial encouragement for creation and
+               contemplation denied to male counterparts
+               busy with official duties and polygamous
+               pursuits (the man at the Heian court was ex-
+               pected to have a wife and a few mistresses).</p>
+            <p>
+               If Murasaki’s and Sei’s writings are an in-
+               dex to female sexual options during the
+               Heian period, aristocratic women enjoyed a
+               multiplicity of partners as well. Later ages
+               would revile Sei and Murasaki for their
+               foully licentious”1° descriptions, but prom-
+               iscuity was a vital element of their culture
+               The largely endogamous Heian court was
+               energized by the covert alliances of pro-
+               vincials with sovereigns and their
+               subalterns. The ruling clan of the Heian
+               period—the Fujiwaras—never commanded
+               significant military strength but established
+               power by marrying their daughters to sover-
+               eigns. The famous Fujiwara Michinaga was
+               father-in-law of two emperors, grandfather
+               of a third, grandfather and greatgrandfather
+               of a fourth, grandfather and father-in-law of
+               a fifth." This kind of inbreeding was the
+               substructure of the court clique. The
+               nominal source of power, this clique was at-
+               tractive because it nurtured the creation of
+               art. But it needed the vitality of provincials
+               like Sei and Murasaki to regenerate its in-
+               cestuous ranks.</p>
+               <p>Once at court, Sei and Murasaki became
+               insiders who made observations on the
+               social arts at a time when manners were
+               politics and politics culture. Murasaki wrote
+               of a picture competition designed by Genji
+               to rechannel court enmities to less des-
+               tructive ends: “It was indeed a moment in
+               the history of our country when the whole
+               energy of the nation seemed to be concen-
+               trated upon the search for the prettiest
+               method of mounting paper scrolls.”12</p>
+               <p>Murasaki’s and Sei’s importance is that
+               while they operated in a culture that re-
+               garded women as inferior to men, they never
+               believed that of themselves. Although in her
+               diary Murasaki repeatedly alluded to her
+               father’s regret that because of her great in-
+               telligence she had not been born male, she
+               characterized the richness of both male and
+               female experiences in Genji. Although it is
+               clear in Genji that men have more options
+               available to them, women are equal in wit,
+               intelligence and style. Sei, perhaps because
+               of her position as the empress’ favorite, is
+               much more interested in the doings of im-
+               perial ladies than those of gentlemen. Mur-
+               
+               
+               asaki’s and Sei’s writing was expressly
+               power-identified at a time when power was
+               not so much a link with male dominance as
+               it was one expression in a complex social
+               milieu in which women participated. Mura-
+               saki and Sei dealt with emotions that are
+               universally intelligible and exist cross-
+               culturally—unlike the objective specificities
+               of the official histories and philosophies in
+               which the men of their day engaged. Edu-
+               cated women were able to act and write less
+               conventionally than were men of com-
+               parable status.</p>
+               <p>Could a Heian man have created work
+               like Murasaki and Sei? The self-conscious
+               Heian court was totally aware of the sexual
+               division of speech and the exclusion of
+               women from the public sphere. Only at
+               court could women circulate and not be
+               expected to hide behind fans and screens,
+               the way propriety demanded women do out-
+               side the court. The masculine style,
+               identified by scholars of Japanese literature
+               as well as by Murasaki and Sei in various
+               appreciations of male qualities, was “the di-
+               rectness of utterance and concern with
+               society.”1 The “feminine preference was
+               taken to be the interest in suggestion and in-
+               tuition—which was the style imitated by
+               men when they wrote to women or expressed
+               themselves in affairs of the heart. A man
+               could have written in the style of Murasaki
+               and Sei, and, indeed, some men assumed
+               the feminine voice and pretended to be
+               women authors. But the incisiveness and
+               sensibility of these female impersonators is
+               inferior to the work of Murasaki and Sei.
+               The inference that women sensed nuance in
+               affairs of state while men were consigned
+               blindly to conduct these affairs leads to a
+               simplistic women feel/men think conclu-
+               sion that fails to cut through psychology or
+               historicism. Men couldn’t create work like
+               Murasaki and Sei, even though they tried.
+               These women were successful in capturing
+               the range of experience and feeling of both
+               sexes.</p>
+              <p> Why were they successful? They glorified
+               a shining nobility. They catalogued and or-
+               dered a courtly etiquette rich in gestural nu-
+               ance, which inspired contemporary court</p>
+           
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_024.jpg" n="24" xml:id="img_0024"/>
+            <p>
+               behavior. They articulated a feminine posi-
+               tion to which men could respond. Both pro-
+               vincials, they described a life outside the
+               court that seemed raw and exotic to the in-
+               bred Heian court. Murasaki characterized
+               the province/capital dichotomy when she
+               wrote about Genji’s scrolls made during his
+               exile on the Suma coast: “Amid intense ex-
+               citement . . . (they) produced a roll con-
+               taining Genji’s sketches at Suma .
+               masterly a hand working at complete leisure
+               and far from the distracting influences
+               which beset an artist in town. They saw so
+               vividly presented both the stem manner of
+               his life there and in some sort the feelings
+               which this rustic life had aroused in
+               everyone used to every luxury and in-
+               dulgence.”" Soon after The Tale of Genji
+               appeared at court, Genji was adopted as a
+               Shinto deity.15</p>
+               <p>Sei’s open competition with men—even
+               with those of a higher rank—gave the Heian
+               court a model of an openly combative
+               woman who refused to acquiesce to the pre-
+               vailing notions of female propriety. She
+               writes with glee how she embarrassed the
+               minister Nobutsune (who was Murasaki's
+               cousin): “One day when Nobutsune was
+               serving as Intendant in the Office of Palace
+               Works he sent a sketch to one of the crafts-
+               men explaining how a certain piece of work
+               should be done. Kindly execute in this
+               fashion,’ he added in Chinese characters. I
+               happened to notice the piece of paper and it
+               was the most preposterous writing 1 had
+               ever seen. Next to his message I wrote, 'If
+               you do the work in this style, it will certainly
+               turn out strangely.” The document found its
+               way to the imperial apartment, and every-
+               one who saw it was greatly amused—except,
+               of course, Nobutsune, who was furious and
+               after this held a grudge against me." 16</p>
+               <p>Murasaki acidly noted in her diary, “Some-
+               one [Sei who makes such an effort to be dif-
+               ferent from others is bound to fall in
+               people’s esteem and 1 can only think her
+               future will be a hard one. She is a gifted
+               woman, to be sure . . . how can things turn
+               out well for such a woman?”17</p>
+               <p>Sei and Murasaki challenged the religious
+               as well as social assumptions of their society.
+               They shaped as well as recorded their civ-
+               ilization; there are few other instances of
+               such literary power and evocativeness.
+               History regards Heian Japan as a golden
+               age whose achievements rank with those of
+               Byzantium, Athens, and Renaissance Italy.
+               T’he work of these two women recorded that
+               period with greater depth and insight than
+               any other contemporary cultural products,
+               so much so that virtually all that is known
+               about the period has been learned from their
+               writings.</p>
+               <p>Two questions remain: What is the
+               deeper meaning of a golden age”? What
+               was Murasaki’s and Sei’s relationship to the
+               golden age they so consummately character-
+               ized? An age is golden” in contrast to the
+               generations of dross preceding and suc-
+               ceeding it. An age is golden” because cul-
+               tural achievements complement political
+               strength and together give the impression of
+               an ideal social harmony. Cultural achieve-
+               ments in Heian were enjoyed, as is so often
+               the case, by a few at the expense of many.
+               Like two facing mirrors, the literature re-
+               flected the glory of the ruling class and vice
+               versa. But there were some distortions. In
+               reading these works—as literature or as his-
+               torical documents—there is a striking
+               double edge to each. Murasaki’s choice to
+               place her tale in the indeterminate past sug-
+               gests two contradictory readings: Did the
+               paucity of excitement and intelligence at the
+               court encourage her to invent a perfect and
+               brilliant hero, or was court life so thrilling
+               she was inspired to glorify it? Whichever,
+               there is throughout Murasaki’s novel a wist-
+               fulness of “wouldn’t it be nice if it were this
+               way which suggests dissatisfaction with the
+               way it was, and the characters still alive at
+               the close of the novel are so morally and in-
+               tellectually inferior to Genji that her conclu-
+               sion has a hopeless tone. Sei’s devotion to
+               the imperial family and her contempt for the
+               lower orders (an attitude that prompted a
+               Japanese scholar to call her a “spiritual
+               cripple”18) reveals a mindset that for the
+               Heian court was good breeding but for the
+               modern reader is patronizing and blind.
+               Sei’s circumscribed vision and partisanship
+               today says more about the exclusion of the
+               lower classes from Heian society by omission
+               than do the scanty histories from the period.</p>
+               <p>Sei’s and Murasaki’s historical reflections
+               are powerful and moving, simultaneously
+               evocative of Heian pageantry and of the
+               sadness of a society where leisure and
+               culture was reserved for a chosen few. No
+               culture, no golden age wants to be tar-
+               nished by an enumeration of its prejudices
+               and oppressions. Murasaki’s and Sei’s lit-
+               erature both criticized and apotheosized
+               their era and, in doing so, exemplifies the
+               straits of literature and history.</p>
+            <p>
+               1. Walter Benjamin, Illuminations (New York:
+               Schocken Books, 1969). From “Theses on the
+               Philosophy of History, p. 256.<lb/>
+               2. Ivan Morris, The World of the Shining
+               Prince (New York: Alfred Knopf, 1964), p. 83<lb/>
+               3. Ibid.<lb/>
+               4. Morris, p. 199.<lb/>
+               5. Morris, p. 195.<lb/>
+               6. Sei Shonagon, The Pillow Book of Sei Shon-
+               agon (Harmondsworth, England: Penguin
+               Books, 1967). Translated and edited by Ivan
+               Morris.<lb/>
+               7. Sei Shonagon, p. 39.<lb/>
+               8. Marasaki Shikibu, The Tale of Genji (New
+               York: Alfred Knopf, 1977). Translated by
+               Edward Seidensticker.<lb/>
+               9. Morris, p. 90.<lb/>
+               10. Quoted in Morris, p. 45.<lb/>
+               11. Morris, p. 44.<lb/>
+               12. Murasaki Shikibu.<lb/>
+               13. Donald Keene, in Half the World, edited by
+               Arnold Toynbee (New York: Holt, Rinehart
+               and Winston, 1973), p. 255.<lb/>
+               14. Murasaki Shikibu.<lb/>
+               15. Parker Tyler, “Prince Genji: The Hero and
+               His Culture, Art News, Nov., 1958, p. 180.<lb/>
+               16. Sei Shonagon.<lb/>
+               17. Murasaki quoted in introduction to Shon-
+               agon by Morris.<lb/>
+               18. Morris, introduction to Shonagon.<lb/>
+            </p>
+               <p>References</p>
+               <p>Hall, J. W., Japan. New York: Delta, 1970.
+               Keene, D., Japanese Literature. New York:
+               Grove Press, 1955.</p>
+               <p>Sansom, G. B., The Western World and Japan.
+               New York: Random House. 1973.</p>
+            <p>
+               Carrie Rickey writes about movies and lives in New
+               York.</p>
+            </div>
+      </body>
+  </text>
+</TEI>

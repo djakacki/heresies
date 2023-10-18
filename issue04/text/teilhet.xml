@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div>            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_099.jpg" n="99" xml:id="img_0099"/>
+            
+            <head><title>The Equivocal Role
+               of Women Artists in
+               Von-Literate Cultures</title></head>
+            <byline>Jehanne H. Teilhet</byline>
+            <caption>
+               Elmina, the best known calabash carver of the Plain
+               Longuda (center) and her two apprentices. (Guyuk, Ni-
+               geria 1968</caption>
+            <p>Examine the claim: nonliterate art is
+               a system of communication which man-
+               ifests the ideologies and beliefs that
+               bring order and definition to a person’s
+               culture. This statement seems fine, but
+               who makes these art forms and whose
+               view does the culture indeed reflect?
+               have come to realize that the arts, the
+               hieratic arts in particular, reflect male
+               behavior and opinion, for it is men who
+               dominate the “important” arts. Wom-
+               en artists (and their art forms) play a
+               more equivocal cultural role because
+               they cannot work in certain materials
+               or use specialized tools or technology
+               and, in many cultures, cannot make
+               figurative images.1 But we shall neither
+               analyze nor interpret the role of the
+               woman artist in nonliterate cultures un-
+               til we have examined the role of the
+               male artist.</p>
+               <p>Most of the documentation of nonlit-
+               erate art assumes that only a man can
+               be an artist. This man, depending on
+               the cultural area, must possess talent,
+               skill, intelligence and, on occasion.
+               genealogical rights of privilege. Polyne-
+               sia has a distinct class of professional
+               artists to which one can belong only if
+               one is born male and has the appropri-
+               ate lineage and natural talent.? In Mel-
+               anesia talent and competitive skill rath-
+               er than genealogy are the requisites for
+               the coveted position of artist, but it is
+               still only the male who qualifies.? The
+               men often serve an apprenticeship since
+               the ritual meaning and knowledge of
+               the objects they make are as important
+               as learning the essential skills and exer-
+               cising the necessary talent. In contrast
+               to Oceanic cultures, in the Arctic it is
+               generally believed that all male adults
+               are able to make art. As Edmund Car-
+               penter comments: “carving is a normal,
+               essential skill (for the Eskimo), just as
+               writing is with us.”4 In Africa the posi-
+               tion and training of the male artist
+               ranges between the extremes of Poly
+               nesia and the Arctic.</p>
+               <p>Though the social status of the male
+               artist varies in these societies, as do
+               their artistic skill and training, the
+               women have uniformly limited access
+               to the art arena. Even in societies such
+               as that of Polynesia, where they have
+               political and economic importance,
+               women work in “barkcloth and weav
+               ing, but the important hard-media
+               crafts Jare the preserve of men."5 In
+               Melanesia, where the political and ec-
+               onomic power lie mainly in the hands of
+               the “Big Men, women work in pottery
+               and weaving. In many African cul-
+               tures, the Yoruba of Nigeria for exam
+               ple, women can achieve political and/
+               or economic importance and are not en
+               tirely excluded from ritual, yet
+               women do the spinning, dyeing, mat-
+               ting, and the potting; and the remaind
+               er of the crafts are practiced by men."6</p>
+               <p>Douglas Fraser points out that
+               primitive man, though he may not
+               have a word for art
+               almost always
+               differentiates between objects produced
+               by a slow, repetitive
+               process, such as
+               weaving or pottery (craf
+               and other
+               objects of paramount significance for
+               his culture. He relegates craft work to
+               inferiors (i.e., women); only men, as a
+               rule, practiced carving and painting.
+               Fraser’s observation is accurate, but
+               Andrew Whiteford, in response to
+               Fraser, raises the question of whether
+               the crafts made by women can be con-
+               sidered, from a Western perspective,
+               any less an art form than the art
+               made by men. In reference to American
+               Indian cultures, Whiteford writes:
+               That one type of painting is realistic,
+               religious, and male-produced, while the
+               other is geometric, secular—although it
+               may have religious connotations we do
+               not know about—and female-produced
+               does not suffice to put them in different
+               categories. If we insist upon separating
+               them, we are led to the disparaging
+               conclusion that Indian men created
+               sacred art: women only manufactured
+               mundane crafts.8</p>
+               <p>Our aesthetic and cognitive response
+               to these art forms made by women is of-
+               ten different from the response in the
+               cultures that produced them. We may
+               indeed designate many of the objects
+               made by women as art.” But we must
+               realize that we differentiate between
+               art and craft” in terms of ideas of
+               innovation,"“creativity” and “signif-
+               icant form; by strict Western defini-
+               tion most nonliterate arts would then
+               fall into the category of craft. This dis-
+               tinction between art and craft by West-
+               ern standards is thus an arbitrary one
+               when applied out of context to nonliter-
+               ate art: women artists are neither more
+               nor less innovative and creative within
+               the media they use than are men artists.</p>
+               <quote>The specific difference between the art-
+               ist and non-artist seems to be one of de-
+               gree. This is more obvious in a non-lit-
+               erate, or so-called primitive society,
+               than in our own. In pre-European Ha-
+               waii, for example, nearly all women
+               made bark cloth called kapa (tapa),
+               decorating it with highly creative de-
+               signs. In a broad sense most of these
+               women were artists, some better than
+               others, for some examples of tapa dis-
+               play more intuitive inventiveness and
+               mastery of technique than others."9</quote>
+               <p>Many nonliterate cultures distin-
+               guish between what might be called
+               secular, utilitarian objects and religio-
+               political, status objects. The latter are
+               classified either by their use or their
+               </p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_100.jpg" n="100" xml:id="img_0100"/>
+            
+               <caption>A Samoan woman from Vailoa village showing
+               the author a tapa cloth she has just finished. The
+               bark cloth is used in their homes as room dividers
+               and decoration, and they also give tapa-cloth gifts
+               to people building new homes, as a kind of house-
+               warming gift. (Savaii, Samoa, 1972)</caption>
+              <p>ritual process of manufacture, or in
+               some cases, by a finer quality of work--
+               manship. For example, in the Mar-
+               quesas, a serving bowl not made by a
+               male artist with deep knowledge of
+               magic and ritual would be just a bowl
+               because it had not been properly initi-
+               ated into the Universe.1° Both men and
+               women produce secular objects, but in
+               most cultures it is the expert male artist
+               who usually works on the culturally de
+               termined, more important art ob-
+               jects. (We must remember that it was
+               the Western world—mainly via male
+               anthropologists and art historians-
+               that introduced the concept of “art to
+               nonliterate cultures, and determined
+               what would qualify as art, with until
+               recently, little corroboration from the
+               indigenous people themselves.) The
+               issue here, however, is not whether we
+               accept the objects produced by women
+               as art, but why most women were
+               and are traditionally denied access to
+               the specialized role of artist as creator
+               of religio-political objects. The relevant
+               factor is that however art is defined, all
+               nonliterate cultures distinguish be-
+               tween the art produced by men and
+               that produced by women; and this is
+               our concern here.</p>
+               <p>The disparities of style, technique
+               and media between men and women
+               artists appear to be universal. In most
+               cultures women are rarely allowed to
+               make anthropomorphic or zoomorphic
+               forms; these are the prerogative of men.
+               In most cultures women are rarely per-
+               mitted to make objects requiring the
+               knowledge of ritual process or the skill
+               and knowledge of manipulating certain
+               specialized tools. And there seems to be
+               a universal taboo against women's            
+               sculpting in hard materials such
+               wood, bone, ivory, stone, gold and
+               metal compounds; these materials are
+               used exclusively by men.1 Women can
+               work only with soft, malleable materi-
+               als: clay, gourds, basketry, leather or
+               weaving. We can therefore say that a
+               distinction exists (in traditional nonlit-
+               erate societies) between the arts made
+               by men and women.</p>
+               <p>Franz Boas has commented that the
+               stylistic differences he observed in an
+               Eskimo community arose both from
+               differences in the technical processes
+               and (even more) from the fact that men
+               do the realistic work and women the
+               clothing and sewn leather work.12 Wil-
+               liam Bascom pursues Boas’s notion
+               that a sexual division of labor must also
+               be considered in regard to stylistic dif-
+               ferences:</p>
+               <quote>In painting, for example, there are
+               marked contrasts between the represen-
+               tational designs of men and the geomet-
+               ric patterns of women among the
+               American Indians of the Plains and the
+               Great Basin; and the same is true in
+               bead-working. Among the Ashanti and
+               the peoples of the Cameroun grass-
+               lands, the anthropomorphic pottery
+               pipes made by men contrast sharply
+               with the pottery produced by women.13</quote>
+               <p>He has also noted that artists divided
+               within a society by sex and/or craft
+               may develop distinct styles, just as iso-
+               lated subtribes do. Both Boas and
+               Bascom address the broad issue of dis-
+               tinct styles within one society, and each
+               notes that when the men and the wom-
+               en work in the same medium their
+               products are markedly distinguishable.
+               Robert Rattray, working among the
+               Ashanti of Ghana, also notes this dis-
+               tinction: “Men do not fashion pots or
+               pipes unless they represent anthropo-
+               morphic or zoomorphic forms, for
+               women are forbidden to make these.15</p>
+               <p>Such a distinction is also observed
+               among American Indians: Whiteford
+               found that women’s art, excluding
+               tourist art, rarely portrayed animal and
+               human forms.16 The media shared by
+               men and women are also distinguished
+               by technique or process. For example,
+               Yoruba men and women both weave.
+               The men use a horizontal, narrow band
+               loom. The women, however, use a ver-
+               tical cotton loom. Men may have
+               adopted the horizontal loom because it
+               can produce an endless strip of cloth,
+               thereby relegating the more restrictive
+               or “inferior process of the vertica
+               loom for the women.18 Roslyn Walker,
+               however, suggests that the women s'use
+               of the vertical loom is a practical
+               distinction, since the vertical loom is
+               not placed against the abdomen and al-           
+               lows a woman to continue weaving dur-
+               ing pregnancy.”19 Her argument is not
+               compelling since women are only preg-
+               nant for a few years of their working
+               life.</p>
+               <p>Anthropomorphic and zoomorphic
+               forms are usually reserved for the more
+               important or sacred religio-political
+               representations of deities, ancestors
+               and benevolent and malèvolent spirits
+               or divine personages. One might con-
+               clude that women are restricted from
+               making these forms because of their
+               powerful association with the superna-
+               tural. But, among the Anang of Nigeria
+               and other societies, human and animal
+               figurines are used as house decorations
+               and toys.2° Since these figures are pure-
+               ly secular, we might question why
+               women are not allowed to make them.
+               Women cannot make them because
+               they are carved in wood; they would
+               probably be allowed to make a rudi-
+               mentary toy figure in clay. But as wom-
+               en do not generally make these images
+               they would not necessarily be able to
+               make even a clay figure, so it is not
+               surprising to discover that women do
+               not try. In the final analysis, one must
+               conclude that anthropomorphic and
+               zoomorphic forms are of such para-
+               mount importance that making them is
+               a privilege given almost exclusively to
+               men.21 There are exceptions to this re-
+               striction: certamn women have extra-
+               ordinary talents and skills not unlike a
+               shaman, for which particular societies
+               make allowances. 1 will return to this
+               point later.</p>
+               <p>Certain oral traditions relate how
+               women once made anthropomorphic
+               images. One such story is reported by
+               Rattray. The Ashanti people told him
+               about a potter, Denta, who became
+               barren because she modeled “figure
+               pots. Thereafter, according to the
+               Ashanti, women did not make highly
+               ornamented pottery.22 Rattray was also
+               told that women were forbidden to
+               make anthropomorphic forms because
+               they required greater skill.23 (In con-
+               nection with the grave punishment of
+               becoming barren, Ashanti women are
+               forewarned that they do not have the
+               greater skill, which implies the skill of
+               ritual knowledge.) Little literature is
+               available relating specifically to the
+               prohibition against women s making
+               anthropomorphic or zoomorphic forms,
+               but of the accounts that 1 know, women
+               who initiated the making of such im-
+               ages were either killed, sworn to secrecy
+               or made barren.2 That some women
+               initially created figurines may relate to
+               their innate role as natural creator of
+               anthropomorphic forms. Adrian Ger-
+               brands writes: .. . it is no wonder</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_101.jpg" n="101" xml:id="img_0101"/>
+            <caption>
+               The beating process in the making of tapa in-
+               volves two instruments: a wooden anvil (tutua)
+               upon which the tapa is laid and a wooden mallet
+               (ike) used to beat the bark. (Kolovai, Tongatapu,
+               Tonga, 1972)</caption>
+            <p>
+               that the woodcarver, the maker of
+               wooden images, has a special place in
+               the Asmat society. Just as a new human
+               being develops in the body of a woman,
+               so does wood come to life in his hand.
+               His creativity, however, belongs to
+               another sphere. From the woman
+               comes the life of this world, whereas he
+               creates supernatural life.”25 One might
+               also argue that women, as creators of
+               human beings, had no subliminal need
+               to create anthropomorphic representa-
+               tions. But if that were the case, men
+               would not have thought it necessary to
+               restrict the women’s imagery.2 One
+               could surmise that women, with their
+               innate powers to give birth in the real
+               world, were already too powerful and
+               to balance that power men took as their
+               prerogative the right to create super
+               natural life in the forms of anthropo-
+               morphic and zoomorphic images.</p>
+               <p>Some women, mentioned above, are
+               allowed to make anthropomorphic and
+               zoomorphic forms in soft materials
+               such as clay. A survey showing the cul-
+               tural distribution of these women has
+               not been compiled. Women in Melane-
+               sia (i.e., Wusi, New Hebrides, and the
+               Chambri lakes district of New Guinea
+               and Africa make figurative images in
+               terra cotta. Robert Thompson, in his
+               article “Abatan: A Master Potter of the
+               Egbado Yoruba, gives us an excellent
+               portrait of a woman artist. Both Aba-
+               tan’s mother and maternal grandmoth-
+               er were potters. Unlike male artists, she
+               had no formal training. She learned her
+               technique and inspiration from the con-
+               stant observation of her mother.
+               Abatan is known for her figurative
+               vessels (awo ota eyinle), a vessel for the
+               stones of Eyinle, a Yoruba god with
+               an amazing synthesis of powers of the
+               hunt, herbalism, and water.</p>
+               <p>Abatan’s parents believed that she
+               came into the world through the grace
+               of Eyinle. Accordingly, as an invoca-
+               tion, she received the name of the deity
+               before his transformation, Abatan...
+               As the senior member of the cult of
+               Oshun and Eyinle at Oke-Odan,
+               Abatan lives a life of prestige, balanced
+               just short of hauteur. . .."28 Thomp-               
+               son stresses the fact that Abatan is a
+               women artist of stature among the Eg-
+               bado Yoruba. She is not an ordinary
+               woman, she has religio-political and ec-
+               onomic status. But had she not been
+               born the daughter of a potter and not
+               come into the world through the grace
+               of Eyinle and not been talented, she
+               would not have had the opportunity to
+               make figurative pots and accrue status.
+               This safeguards the making of figura-
+               tive images from incursion by just any
+               woman.</p>
+               <p>Among the Plain Longuda of Niger-
+               ia, certain women are allowed to make
+               anthropomorphic and zoomorphic pots
+               for the Kwandlha cult.29 The master of
+               Kwandlha must be an artist as well as a
+               healer, for the spirits of diseases will
+               not take up their abode in poorly ex-
+               ecuted Kwandlha vessels. Dasumi, of
+               the village of Guyuk, is respected for
+               her knowledge and skill in making the
+               Kwandlha pots. She is woman past
+               child-bearing years, and unlike
+               Abatan, she did not inherit her posi-
+               tion. In the early 1960s Dasumi was
+               plagued with a series of illnesses; she
+               went to Moudo, an elderly woman liv
+               ing nearby, to be cured. Moudo told
+               Dasumi that the Kwandlha were wor-
+               rying her, they were calling her to be
+               come a member of the cult. Dasumi ap-
+               prenticed with Moudo for about two
+               years before she became a master of the
+               Kwandlha.</p>
+               <p>Dasumi specializes in children’s dis-
+               eases; when a child is sick, the mother
+               will consult Dasumi. She examines the
+               child and then takes one of her diagnos-
+               tic Kwandlha pots from their own spe-
+               cial hut (tanda Kwandlha). If the par-
+               ticular Kwandlha stays submerged in a
+               basin of water, then her diagnosis is
+               correct; if not, she will take another
+               Kwandlha and repeat this process until
+               one stays submerged. The child is given
+               some medicine and the mother gives
+               Dasumi some of the special red clay re-
+               quired to fashion a Kwandlha. Dasumi
+               will touch the child’s body with the red
+               clay, beseeching the spirit of the disease
+               to leave the child and acknowledge that
+               she will be making an abode for it. In
+               seclusion Dasumi will create, with the
+               coil and mold method, a Kwandlha pot
+               that personifies that disease. Gurgu-
+               burile, for example, is a pot given a
+               human form: the feet are the base of the
+               pot, the legs, arms and belly make up
+               the body of the pot, the neck is the neck
+               and the open mouth of the head is the
+               mouth of the pot. Gurguburile is
+               covered with festering sores, one arm is
+               eaten away and the other holds a cala-
+               bash for water. This anthropomorphic
+               pot is used to cure leprosy.</p>
+               <p>Upon completing a pot, Dasumi
+               gives it to the mother to sun dry for four
+               days before firing. Once fired, Dasumi
+               returns to begin the ritualized process
+               of calling the spirit of the disease to
+               leave the child and enter the Kwandl-
+               ha; this entails a special Kwandlha
+               language, the sacrifice of a chicken or
+               goat and a special drink called Sinke
+               contained in a special terra-cotta urn,
+               Suthala. Dasumi is paid in kind or coin
+               for her work.</p>
+               <p>Though Dasumi works within an
+               iconographic tradition, she is allowed
+               to introduce new elements as long as it
+               pleases the spirits. She was, when 1
+               interviewed her in 1968, more famous
+               than Moudo, her teacher. My infor-
+               mant, Elam Robaino, attributed this to
+               her artistic skills as a maker of Kwandl-
+               ha pots. The spirits of the diseases are
+               pleased with her pots; they like their
+               abodes.</p>
+               <p>I asked Dasumi if men made
+               Kwandlha pots; she replied that a man
+               in Purokayo village, some four miles
+               from Guyak, makes small ones for chil-
+               dren. There is also an old man in Kuryi
+               village who makes Kwandlha from
+               wood, but it takes him much time to do
+               it. She added that her grandson, who
+               was three, seemed to have a calling for
+               the Kwandlha; her daughters were not
+               called to the profession. 30</p>
+               <p>Both Dasumi and Abatan were
+               called to their particular cults and both
+               proved to have the necessary artistic
+               skills to make figurative vessels; one
+               inherited the profession, the other ap-
+               prenticed. Of equal importance is the
+               fact that their own society made allow-
+               ances for women of unusual talent to
+               enter the male domain of the figurative
+               arts.</p>
+               <p>Lacking sufficient data from other
+               societies, one can only conjecture that
+               the tradition of making figurative im-
+               agery is open, in certain societies, only
+               to exceptional women—women who
+               cross the boundary between the sacred
+               and profane.</p>
+               <p>More universal in its application is
+               the taboo against women s working
+               with hard materials and certain special-
+               ized tools. Although terra-cotta in
+               comparison with wood is a relatively
+               permanent medium, the women work</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_102.jpg" n="102" xml:id="img_0102"/>
+            <p>
+               this medium when it is soft and malle
+               able. That it is transformed when fired
+               into a relatively hard and durable sub
+               stance does not appear to be an issue.</p>
+               <p>The hard materials used as a primary
+               medium by male artists are usually rat-
+               ed in most nonliterate cultures accord-
+               ing to their relative importance. The
+               scale of relative importance, power or
+               sanctity of the medium varies from cul-
+               ture to culture, but the culturally de-
+               fined criterion is generally determined
+               by the material’s durability, scarcity,
+               the skill and/or technology necessary to
+               work it and the medium s'innate magi-
+               co-religious properties. As a general
+               rule, the more important materials are
+               reserved for the more important deities
+               or supernatural forces. Among the Yor-
+               uba, wood is rarely employed to repre-
+               sent the gods because of its perishable
+               nature. Wood is used, however, for vo-
+               tive sculpture representing priests or
+               devotees.32 To the Asmat, who live in
+               an alluvial mudflat that lacks stone or
+               metal ores, wood becomes the impor-
+               tant medium. Wood is so important in
+               this culture that man and tree are re-
+               garded as interchangeable concepts:
+               the human being is a tree and the tree is
+               a human being.33 That wood is a mor-
+               tal” living substance can enhance its
+               value as a symbolic referent, as intimat
+               ed by the Asmat man/tree equivalent.
+               In cultures that have a variety of
+               materials to choose from, one also
+               finds, as with the Yoruba, that the mor-
+               tal-decaying aspect of wood relegates
+               its use to the more human realms asso-
+               ciated with ancestor spirits, culture he-
+               roes and demigods, as well as priests
+               and devotees. Because of its accessibil
+               ity and the varying skills of adeptness
+               cessary to carve it, wood is a populai
+               medium in nonliterate cultures.</p>
+               <p>Stone is valued for its durability, its
+               magical origin and the skill necessary to
+               carve it. Many nonliterate cultures
+               have access to stone, but few utilize its
+               potential (as sculpture in the round in
+               contrast to petroglyphs)—possibly be
+               cause they lack the tools and necessary
+               knowledge to carve it. Polynesians
+               knew how to work stone (volcanic tuff),
+               but none achieved the monumental
+               scale of the Moai on Easter Island.
+               African artists worked in stone, but few
+               if any today carry on the tradition of
+               their forefathers.</p>
+               <p>Where stone is worked extensively,
+               the stone (like wood) is graded in im
+               portance. To the Canadian Eskimos.
+               for example, hardness is more impor-
+               tant than color or shininess; only the
+               weaker and less competent Eskimos
+               carve soft stone which is “jokingly re
+               ferred to as ’women’s stone.</p>
+               <p>The hard, white ivory of the walrus
+               tusk is still the Eskimos’ favorite mater-
+               ial.35 “The desire to use ivory as an ad-
+               junct to stone carving is powerful in
+               nearly all areas, whatever the nature of
+               the local stone."36 As Nelson Graburn
+               explains, the ivory is desired for its
+               maleness. The forward thrust of the na-
+               tural form is associated with male as-
+               sertion.”7 It should be noted that with
+               the introduction of the tourist market,
+               women have been encouraged to carve.
+               But the women only carve occasionally
+               and “they do not seem to have im-
+               pressed their values on the activity.”38</p>
+               <p>Whale ivory was also valued in Poly-
+               nesia; in Hawaii the whale ivory (lei
+               niho pałaoa) necklace was tapu to all
+               except the chief (alii). In Melanesia
+               pigs tusks are highly valued as are ele-
+               phants tusks in Africa. In former
+               times, elephant ivory could only be pos-
+               sessed and used by the divine chief
+               (Oba) of Benin, Nigeria. In addition to
+               the given, man-defining metaphor of
+               that particular ivory-bearing animal or
+               mammal, the form, color and density of
+               the ivory enhances its symbolic refer
+               ence to the male genitalia. Ivory
+               carved or in its natural state, always
+               signals important religio-political con
+               cepts. Bone, human or otherwise, is al-
+               so an intrinsic carrier of religio-political
+               concepts.</p>
+               <p>Metals, because of their permanence
+               and technical manufacture, are an es-
+               teemed material. Though the cultures
+               of Oceania did not manufacture metals,
+               they were quick to trade with Euro-
+               peans for this desirous material.
+               Among the Gola of Liberia,“the skill of
+               working with metals was considered
+               one of the most mysterious and remark-
+               able forms of knowledge in the tradi-
+               tional culture.”32 The traditional
+               bronze or brass casters and the black-
+               smiths of Africa are often distinguished
+               in that the former are creators of “art
+               objects and the latter creators of secular
+               objects, such as tools and weapons.
+               Both can, however, create art forms;
+               both belong to a separate caste, guild or
+               disjunctive social group signaling that
+               both have mysterious powers” in con-
+               nection with the process of manufactur-
+               ing metals. That the working of metals
+               is a male prerogative also refers to the
+               use of metal objects in war and hunt-
+               ing. Precious metals such as gold and
+               silver reflect the splendor and panoply
+               of the conjoined realms of man and
+               god.</p>
+               <caption>On the Solomon Islands of New Georgia the
+               women skillfully weave, only now they weave
+               purses and other items for Western consumption.
+               (New Georgia, 1970)</caption>
+               <p>The above is not an exhaustive sur-
+               vey of hard materials, but it gives a
+               summary view of the values and ideol-
+               ogies men have attributed to certain
+               materials. In short, it seems that men
+               have come to identify their maleness
+               with materials they have explicitly or
+               implicitly chosen as their exclusive pre-
+               rogative. Women work in soft materials
+               that “best reflect their femaleness. In
+               comparison with hard materials, these
+               are generally less enduring, fragile,
+               more pliable, secondary or subservient,
+               common and secularly oriented to
+               women s work: i.e., the home, garden.
+               cooking and childraising. Originally
+               there may have been little or no status
+               differentiation between the media; that
+               is, the men’s materials were not neces-
+               sarily better than the women’s mater-
+               ials, until a conscious effort was made
+               to give certain materials qualities of
+               status and importance. It is plausible
+               that women initially had less leisure
+               time than men did and therefore turned
+               their creative talents toward the mater-
+               ials close at hand to make the objects
+               necessary for domestic life, without
+               identifying with the material. But as
+               sex roles became more defined, the art-
+               making habits developed into political
+               moves, and the material that the men
+               initially worked in was given an imag-
+               inary power to justify male seizure of
+               power and status over women. I believe
+               the values and ideologies attributed to
+               certain materials were a male invention
+               to keep women in their place because 1
+               find it curious that women did not
+               choose to explore the use of different
+               media once the society became more
+               settled. Evidence in fact indicates that
+               women must have tried to work in other
+               materials, otherwise there would not be
+               so many tapus against women achiev-
+               ing this goal.46</p>
+               <p>In traditional cultures men have con-
+               trolled women s'use of materials by not
+               allowing them to use the tools necessary</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_103.jpg" n="103" xml:id="img_0103"/>
+            <caption>
+               A Samoan woman brings out the pattern of the upeti board with a cloth soaked in dye, staining the tapa cloth.
+               (Vailoa village, Savaii, Samoa, 1972)</caption>
+            <p>
+               to work hard materials. In many non-
+               literate cultures the artist’s tools are
+               somewhat animistic; they are thought
+               to possess intelligence, given their own
+               family names, and in some areas, such
+               as Polynesia, their own genealogy.
+               Tools can accrue prestige, power and
+               sanctity, for it is the conscious, con-
+               joined effort of tools and men that
+               create carvings. Carving is a religious
+               act; among the Ashanti and other Afri-
+               can societies, sacrifices and prayers
+               were made to the tools to ask them for
+               their assistance and freedom from acci-
+               dents.“ In Hawaii the artist “conse
+               crated his tools by a sacrifice and a
+               chant to insure that sufficient mana
+               was contained in them, consequently
+               insuring the efficacy of the image, ’the
+               house of the god.””42 By ritualizing the
+               artist’s tools, women were barred from
+               using them because, as sources of pollu
+               tion, women would nullify the tools’ ef-
+               ficacy. Women were also handicapped
+               in that they could not work in the harc
+               materials necessary to make their own
+               tools. By restricting women from using
+               specialized artistry, tools or technology,
+               men have safeguarded hard materials
+               for their own use. Many scholars have
+               commented on the fact that “the act of
+               carving should exhibit those qualities
+               central to the male hunting and sex
+               role.”43 Tools and technology in the
+               hands of women would cause an imbal-
+               ance in the equipose of sexual labor.</p>
+               <p>In addition, a certain cosmology of-
+               ten clearly ordains the privilege of carv-
+               ing to men. In the Anang society we are
+               told that women do not carve because
+               the Creator God, Abassi, “wills it and
+               has instructed the fate spirit not to as-
+               sign the craft to a female.”4 In New
+               Ireland there is a legend that the first
+               woodcarver learned his craft from a
+               ghost. The woodcarver instructed stu
+               dents who then became famous artists
+               Women were not only excluded from
+               art and ritual, they could not even see
+               the objects or use the sacred word for
+               them, alik or uli, on threat of being
+               choked to death by men.45</p>
+               <p>For the “important arts” men have
+               developed an elaborate process of man-
+               ufacture regulated by a prescribed set
+               of rituals. The special, prescribed ac-
+               tions, repeated over and over again,
+               lend continuity and stability to the rit-
+               ual. These formal actions, sanctioned
+               by religion, are thought to have an eso-
+               teric importance which is only fully
+               comprehensible to the initiated male
+               artists. Rituals have many levels of sig
+               nificance, but it is possible that the
+               ritualization of the art process devel-
+               oped, in part, as a further precaution to
+               prevent women from entering this do-
+               main. Women have rituals of their own
+               and in some cases are allowed to join
+               the men’s rituals, but women do not
+               have a prescribed set of ritualized ac-
+               tions in the creation of their arts. Even
+               though Abatan and Dasumi worked in
+               the realm of the supernatural, made
+               figurative images, and, in the case of
+               Dasumi, used a special red clay, thein
+               artistic processes were not ritualized
+               This signifies that women’s artistry
+               deals with the more profane real time
+               and space.</p>
+               <p>The ritualized making process has
+               many variants among nonliterate cul-
+               tures, but the majority, if not all, share
+               the belief that women are sources of
+               pollution. Strict precautions must
+               therefore be taken to exclude women
+               from these ritualized activities. In Poly-
+               nesia tapus of unsacredness “were as-
+               sociated for the most part with women,
+               to whom dangerous spirits were likel
+               to attach themselves, and who were at
+               times in a contaminated state psychi-
+               cally; and with sickness and death
+               which were the signs of the presence of
+               fearful demons.46 This equation is               
+               present (in varying degrees) in other
+               nonliterate cultures, and an important
+               aspect of the ritualized artistic process
+               is to purify and protect the male artist
+               from malevolent forces, which include
+               women. In all nonliterate cultures the
+               most dangerous form of pollution is
+               connected with menstrual blood. Men-
+               strual blood was regarded among the
+               Maoris of New Zealand as a human be-
+               ing manqué.“ The Mbum and Jukun
+               of Nigeria segregated menstruous
+               women because the household gods
+               found the menstrual blood abhorrent.49</p>
+               <p>An Ashanti “woman might not carve a
+               stool—because of the ban against men-
+               struation. A woman in this state was
+               formerly not even allowed to approach
+               wood-carvers while at work, on pain of
+               death or of a heavy fine. This fine was
+               to pay for sacrifices to be made upon
+               the ancestral stools of dead kings, and
+               also upon the wood-carver’s tools.
+               Rattray believes that the abhorrence of
+               the unclean woman “is based on the
+               supposition that contact with her, di-
+               rectly or indirectly, is held to negate
+               and render useless all supernatural or
+               magico-protective powers possessed by
+               either persons or spirits or objects.
+               Even by direct contact, therefore, an
+               un-clean woman is capable of breaking
+               down all barriers which stand between
+               defenseless man and those evil unseen
+               powers which beset him on every
+               side.”5° This belief, with subtle varia-               
+               tions, is common to all nonliterate cul-
+               tures.</p>
+               <p>Not only is there a tapu against men-
+               strual blood, but, in addition, most
+               male artists have to abstain from sexual
+               intercourse because they believe it has
+               an adverse effect on their work. In Oce-
+               ania sexual intercourse can endanger or
+               nullify a carver’s mana. In Africa an
+               Anang carver will not have sexual inter-
+               course the night before he begins an
+               important carving because his work is
+               impeded.5 “Too many acts of inter-
+               course is thought to weaken him for a
+               day or two, inhibit his desire to carve
+               and his creative impulse, cause him to
+               shape his pieces poorly, and lead him to
+               cut himself."52 The carver's fear of               
+               wounding himself, of bleeding, is a
+               prominent concern which can relate to
+               punishment, death and menstrua.
+               blood. Equally common is the belief
+               that should the wife be unfaithful,
+               without her husband’s knowledge, his</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_104.jpg" n="104" xml:id="img_0104"/>
+            
+            <p>
+               tools will cut him when he goes to
+               carve.3</p>
+               <p>Warner Muensterberger (1951) was
+               the first, to my knowledge, to address
+               the issue of women’s exclusion in the
+               arts of nonliterate cultures. His article
+               emphasized why men felt it necessary
+               to exclude women from the major art-
+               making processes. In summing up he
+               writes:</p>
+               <quote>The overanxious exclusion of women
+               discloses the regressive tendency in-
+               volved. The artist relinquishes com-
+               munication with an inhibiting or dis-
+               turbing environment. Women are
+               phobically avoided. . . . The regressive
+               tendency for isolation is a security
+               measure. Affect is being avoided. Ob-
+               jective reality is denied while strength is
+               gained from the narcissistic retreat to a
+               level of omnipotent fantasy. ..
+               these are the conditions under which
+               artistic activity among primitive peo-
+               ples is possible, then two seemingly
+               contradictory tendencies are at work:
+               the necessary isolation indicates that
+               distance from the oedipal mother is
+               sought. The menstruating woman is
+               avoided or even dangerous. On the oth
+               er hand, reunion with the giving
+               mother of the preoedipal phase is
+               wanted.</quote>
+               <p>Muensterberger's Freudian interpre-
+               tation is one viewpoint on the seemingl
+               universal exclusion of women in the
+               arena of “important arts. There are
+               however, other ways to examine this
+               phenomenon.</p>
+               <p>The paradigm for the ritualized pro
+               cess of man’s creations may be found in
+               the cultural behavior of women durin,
+               their menstrual cycles, pregnancy and
+               childbirth. When men work on import
+               ant objects, they usually do so in seclu
+               sion or with other men of status. And
+               should they carve in the sanctuary of
+               the men’s house, this interior is often
+               referred to as the womb.55 When wom-
+               en have their menstrual period they us
+               ually move to a special house of se-
+               clusion or some equivalent; and in
+               many cultures there is also a specia
+               childbearing area. In these situations
+               both the men and women are, in effect
+               particularly powerful, negatively or
+               positively, and must be removed from
+               the realm of the ordinary. During the
+               process of creation, both men (creating
+               important objects) and women (creat
+               ing human life) are subject to specific
+               tapus imposed upon them for their own
+               and their creation’s protection and the
+               implied protection of others. These re
+               strictions vary from culture to culture,
+               but vulnerability in creation is common
+               to both men and women in all nonliter
+               ate cultures. If the tapus are broken
+               men may cut themselves with their
+               tools, miscarve a spiritless object or
+               even die; women may miscarry, give
+               birth to a dead or deformed child or die
+               in labor.</p>
+               <p>Analogous to this concept is the Poly-
+               nesian belief that a new (art) object is
+               comparable to a newborn child.</p>
+               <quote>Like the child, the canoe, house, or oth-
+               er object had a soul and a vital principle
+               that required strengthening, for all ob
+               jects were conscious and animate. ..
+               It is evident that the new object, as a
+               living being, needed the same kind oj
+               rites to free and protect it against evil
+               and to endow it with mana and othei
+               necessary psychic qualities, as did the
+               human infant.</quote>
+               <p>In looking at other nonliterate cul-
+               tures we can find parallels between the
+               consecrating” of “important” objects
+               and the consecration ceremonies for
+               children, particularly the male infant.</p>
+               <p>A final point concerns the “creativ
+               ity” of male artists. George Kubler
+               writes: “Many societies have accord-
+               ingly proscribed all recognition of in
+               ventive behavior, preferring to reward
+               ritual repetition, rather than to permit
+               inventive variations.”57 Under different
+               situations, inventive variations can and
+               do occur, but in the main, the ritualizec
+               art process constrains innovation and
+               free self-expression. Hieratic art em-
+               phasizes repetition and encourages
+               clever and ingenious manipulation of
+               the iconographic elements within a giv-
+               en iconography. Because women do not
+               have their own ritualized process of art-
+               making and their art is not hieratic, it
+               follows that women artists can be more
+               innovative and more self-expressive in
+               the arts than men. Women, however
+               are restricted in their use of materials
+               and lack of specialized tools, but as typ-
+               ified by the work of Abatan and Das-
+               umi, they have a great deal of freedom
+               in the way they interpret the existing
+               iconographic elements and add on new,
+               inventive iconographic elements.s
+               suggest that the style and technique of
+               the arts produced by women is a better
+               indicator of the society’s changing no-
+               tion of aesthetics than that of the arts
+               produced by men. The objects made by
+               women are used by everyone: as the
+               culture’s aesthetic norm changes, the
+               women’s art is the first to reflect this
+               since these arts are nonhieratic. In the
+               hieratic arts of men, an innovation con-
+               joined with an aesthetic change intro-
+               duces a state of anxiety as the artist's
+               risk factor is high. To introduce an in-
+               novative form, the male artist risks his
+               religio-political status. He risks offend-
+               ing the supernatural realm and the rul-
+               ing chiefs. Male artists who do not
+               work within a ritualized process and
+               are not making hieratic art are apt to be
+               the ones with lesser ability and are
+               therefore not as reliable as a source of
+               aesthetic notion.</p>
+               <p>It appears, then, that women are be-
+               lieved to have greater innate powers
+               than men. Women have the power to
+               create and control life. They control life
+               through death as signified by the
+               menses and abortion. Without children
+               the family lineage dies, as do all the an-
+               cestors who live in the supernatural
+               world. The continuity between the
+               present and the past is broken. Women
+               are feared and respected for their cre-
+               ative powers. Conversely, women who
+               are barren lose status; in nonliterate
+               cultures a barren woman is undisputed-
+               ly grounds for divorce.
+               To balance women’s innate powers,</p>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_105.jpg" n="105" xml:id="img_0105"/>
+            <p>
+               men have created external powers that
+               slowly became steeped in ritual and cer-
+               emony and sanctioned by the authority
+               of the supernatural realm. Women, in
+               the main, were excluded from the rit-
+               uals of men and more or less con-
+               strained in their economic and political
+               power. There are exceptions, including
+               those women past child-bearing age
+               who are viewed as men among
+               women. The male artists rival the wom-
+               en’s innate powers as both are in the
+               position to manipulate the forces of cre-
+               ation and continuity.</p>
+               <p>How and why women were relegated
+               to the less important arts is a gray area
+               of conjecture; 1 do not believe it is a
+               question of female preference. Rather,
+               it is likely that the dominant male
+               group has claimed the hieratic arts for
+               itself consistently: the men make them
+               because they are important and they
+               are important because the men make
+               them. Should the less dominant group
+               (which shall remain unspecified) do
+               something valuable, then the men will
+               adopt that too. It has been a zero-sum
+               game of distribution. The hieratic arts
+               became instruments to articulate mean-
+               ing structures and problems; in addi-
+               tion they were a powerful way to con-
+               trol women. Male hieratic art has been
+               promoted in general by males to main-
+               tain their own importance. It is no won-
+               der that men, particularly in nonlit-
+               erate cultures where women have
+               achieved prominence on political, eco-
+               nomic and even religious levels, have
+               rarely, if ever, allowed the women to
+               create the “important arts. The old
+               belief systems bound by tradition are
+               hard to break, as witnessed by the scar-
+               city of contemporary women artists
+               from the third world.</p>
+            <caption>
+               In Surinam, the Aucaner women carve in soft
+               materials, calabashes. What is unusual is the fact
+               that the women only embellish the interior of the
+               calabash. (LokoLoko village, Surinam, 1975)
+               102</caption>
+            <p>
+               *I wish to acknowledge
+               Robert Elliott
+               Moira Roth, Melford Spiro and especially David
+               Antin and Zack Fisk for their critical comments
+               on this paper.</p>
+            <p>
+               1. In this paper I am using the terms "art" and
+               "artist" on the most conventional ethnographic 
+               level; the artist is a maker of objects which could
+               be considered in isolation an art form to a West-
+               erner’s sensibility. I would also like to apologize
+               to the anthropologists for occasionally generaliz-
+               ing to the primitive world from one tribe or one
+               culture area.<lb/>
+               2. Terry Barrow, Art and Life in Polynesia
+               (Tokyo, Japan: Charles E. Tuttle Co., 1973), p. 56<lb/>
+               3. Alfred Buhler, Terry Barrow and Charles
+               Mountford, The Art of the South Seas (New
+               York: Greystone Press, 1968), p. 97.<lb/>
+               4. Edmund Carpenter, Eskimo Realities (New
+               York: Holt, Rinehart and Winston, 1973), un-
+               paged.<lb/>
+               5. Barrow, p. 58.<lb/>
+               6. William Bascom, “A Yoruba Master Carver:
+               Duga of Meko, in The Traditional Artist in
+               African Societies, ed. Warren L. d’Azevedo
+               (Bloomington and London: Indiana University
+               Press, 1975), p. 68.<lb/>
+               7. Douglas Fraser, Primitive Art (London:
+               Thames and Hudson, 1962), p. 13.<lb/>
+               8. Andrew H. Whiteford, “Enriching Daily Life:
+               The Artist and Artisan, in American Indian
+               Art: Form and Tradition (New York: Dutton and
+               Co., 1972), p. 10.<lb/>
+               9. Halley Cox with William Davenport, Hawai-
+               ian Sculpture (Honolulu: University Press of Ha-
+               waii, 1974), pp. 4-5.<lb/>
+               10. Ralph Linton, “Marquesan Culture,” in The
+               Individual and His Society, ed. Abram Kardiner
+               (New York: Columbia University Press, 1939), p.<lb/>
+               11. Roslyn Walker notes that women carvers
+               have been reported in the Wakemba society of
+               Africa. Roslyn A. Walker, African Women/Af-
+               rican Art (New York: African-American In-
+               stitute, 1976), p. 50.<lb/>
+               12. Franz Boas, Primitive Art (New York: Dover
+               Publications, Inc., 1955), p. 181.<lb/>
+               13. William Bascom, “Creativity and Style in Af-
+               rican Art, in Tradition and Creativity in Tribal
+               Art, ed. Daniel Biebuyck (Berkeley and Los
+               Angeles: University of California Press, 1969), p.<lb/>
+               14. Ibid., p. 110.<lb/>
+               15. Robert S. Rattray, Religion and Art in
+               Ashanti (London: Oxford University Press,
+               1959), p. 301.<lb/>
+               16. Whiteford, p. 13.<lb/>
+               17. Bascom, p. 66.<lb/>
+               18. Roy Sieber, African Textiles and Decorative
+               Arts (New York: Museum of Modern Art, 1972),
+               p. 155.<lb/>
+               19. Walker, p. 50.<lb/>
+               20. John C. Messenger, “The Carver in Anang
+               Society, in The Traditional Artist in African
+               Societies, p. 110.<lb/>
+               21. Of the two forms, the anthropomorphic image
+               is usually the more important.<lb/>
+               22. Rattray, p. 301.<lb/>
+               23. Ibid., p. 301.<lb/>
+               24. Lewis s translation of a myth collected by
+               Kramer tells about the origin of the sun malang
+               gan from New Ireland. To paraphrase: a woman,
+               searching for her pigs, was forced to spend the
+               night in a cave. “Her spirit went away in a dream
+               and saw a house in which goblins were at work
+               plaiting a sun. She saw how it was made, anc
+               when they had finished she returned back to her
+               home, and then showed her knowledge to the
+               men of the village. When they had learned exact
+               ly how to make a sun, they hanged the woman, to
+               punish her for dealing with sacred matters. To-
+               day the oara is sacred and women must not see it.
+               Even a glimpse of it meant death for a woman.
+               Philip H. Lewis, The Social Context of Art in
+               Northern New Ireland (Chicago: Field Museum
+               of Natural History, Vol. 58, 1969), p. 107. Myths
+               of this type are interesting; it is possible that the
+               men did adopt new and important art forms initi-
+               ated by women; it is equally plausible that the
+               men invented these myths out of guilt.<lb/>
+               25. Adrian A. Gerbrands, Wow-Ipits, trans. Inez
+               W. Seeger (The Hague: Mouton &amp; Co., 1967), p.<lb/>
+               26. Men, however, may deliberately make a pro-
+               hibition against activities which women have no
+               desire for anyway, to make it seem that women
+               obey their law—a kind of Tom Sawyerism<lb/>
+               27. Robert Thompson, “Abatan: A Master Pot-
+               ter of the Egbado Yoruba, in Tradition and Cre-
+               ativity in Tribal Art, pp. 132, 135.<lb/>
+               28. Ibid., pp. 155, 173.<lb/>
+               29. Kwandlha is the generic cult name for the fig-
+               urative vessels which are the embodiments of the
+               particular diseases they personify. In addition,
+               each Kwandlha has its own name by which it is
+               identified.<lb/>
+               30. In 1967-1968 I worked for the Nigerian De-
+               partment of Antiquities; my field research on the
+               Longuda was carried out through their auspices
+               in the spring of 1968.<lb/>
+               31. The rare exception is the Wakemba tribe,
+               cited by Walker.<lb/>
+               32. Thompson, p. 147.<lb/>
+               33. Gerbrands, p. 29.<lb/>
+               34. Nelson H. Graburn, “A Preliminary Analysis
+               of Symbolism in Eskimo Art and Culture, in
+               Proceedings of the International Congress of
+               Americanists, Vol. II (Geneva: Tilgher, 1972),
+               pp. 165-166.<lb/>
+               35. Ibid., p. 166.<lb/>
+               36. Ibid., p. 166.<lb/>
+               37. Ibid., p. 169.<lb/>
+               38. Ibid., p. 169.<lb/>
+               39. Warren L. d’Azevedo, “Sources of Gola Ar-
+               tistry, in The Traditional Artist in African So-
+               cieties, p. 320.<lb/>
+               40. As a further precaution, perhaps, many of the
+               nonliterate cultures believe that offerings must be
+               given to the god(s) or spirits of the material that is
+               to be used, such as trees, and these protective
+               gods or spirits are male.<lb/>
+               41. Rattray, p. 217.<lb/>
+               42. Cox with Davenport, p. 34.<lb/>
+               43. Graburn, p. 169.<lb/>
+               44. Messenger, p. 106.<lb/>
+               45. Warner Muensterberger, “Roots of Primitive
+               Art, in Anthropology and Art, ed. Charlotte M.
+               Otten (Garden City: Natural History Press,
+               1971), p. 125.<lb/>
+               46. E.S. Craighill Handy, “Polynesian Relig-
+               ion, Bernice P. Bishop Museum Bulletin No. 7
+               (Honolulu: Bishop Museum, 1927; reprinted
+               New York: Kraus Reprint, 1971), p. 47.<lb/>
+               47. Mary Douglas, Purity and Danger (New
+               York: Frederick A. Praeger, 1966), p. 96.<lb/>
+               48. C.K. Meek, Tribal Studies in Northern Nige-
+               ria, Vol. II (London: Kegan Paul, Trench &amp; Co.,
+               Ltd., 1931), p. 490.<lb/>
+               49. Rattray, p. 271.<lb/>
+               50. Ibid., p. 75<lb/>
+               1. Messenger, p. 109.<lb/>
+               2. Ibid., p. 109.<lb/>
+               53. Rattray, p. 217.<lb/>
+               54. Muensterberger, pp. 127-128.<lb/>
+               55. Ibid., p. 125.<lb/>
+               56. Handy, p. 295.<lb/>
+               57. George Kubler, The Shape of Time (New
+               Haven and London: Yale University Press,
+               1974), p. 68.<lb/>
+               58. The Yirrkalia of Arnhem Land, Australia
+               make string-figure art; the string figures are an
+               example of no-status art as it is mainly a “wom-
+               an’s pastime.” However, when the men make str-
+               ing figures it is useful. Nevertheless, as an essen-
+               tially women’s art the string figures reveal a
+               number of innovative forms. “The women dream
+               new string game designs but do not tell the men
+               about them. One Yirrkalia woman, Narau, had
+               a repertoire of over 170 string figures, many of
+               ican-Australian Scientific Expedition to Arnhem
+               Land, Vol. II, (London and New York: Cam-
+               bridge University Press, 1960), p. 424. 433-438.</p>
+              <p>Jehanne H. Teilhet is an art historian on the faculty o,
+               the University of California at San Diego. She has done
+               fieldwork in Africa, Oceania and Asia and was curator o)
+               exhibitions at the La Jolla Museum and at the Fine Arts
+               Gallery in San Diego. She is currently working on a Gau-
+               guin exhibition with Seibu in Tokyo</p>
+</div>
+      </body>
+  </text>
+</TEI>

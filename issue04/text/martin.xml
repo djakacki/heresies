@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div>            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_117.jpg" n="117" xml:id="img_0117"/>
+           
+               <head><title>Turkmen „omen,
+               weaving and
+               Cultural Change</title></head>
+              <byline> Mary A. Martin</byline>
+            <p>
+               Turkmen carpets are fine examples of weaving done by
+               nomadic tribal women. In the last 100 years the context of
+               weaving these carpets has changed considerably; formerly
+               women produced them in the home for local consumption,
+               now contract weavers and female and male factory workers
+               produce for urban and foreign markets. In the nineteenth
+               century the Turkmen lived in the Kara Kum desert in that
+               part of Central Asia which is now the Soviet Socialist Repub-
+               lic of Turkmenistan. This tribe primarily raised sheep and
+               occasionally farmed. They sometimes raided neighboring
+               areas. Nomads, they lived in tents called yurts which could
+               be packed up and taken with them when they moved from
+               one grazing area to another.</p>
+               <p>Traditionally women made textile items for domestic use.
+               For their yurts they made felt walls and decorative bands.
+               They also knotted or embroidered individual bags for carry
+               ing tent poles, utensils, provisions and other household pos-
+               sessions. A special carpet was hung at the entrance of the
+               yurt and another was hung to function as a door.
+               Carpets woven by women were central to household, cul-
+               tural and religious life: used for entertaining, given as gifts,
+               spread for community gatherings, used to furnish guesthous-
+               es, and used for prayers. Turkmen society regarded a wom-
+               an’s weaving skill much as it esteemed a man s code of valor;
+               weaving defined a woman’s status, indirectly gave her access
+               to wealth, was the one domaiń in which a woman was able to
+               distinguish herself.</p>
+               <p>In the latter half of the nineteenth century the life of the
+               Turkmen changed because Russia took permanent political
+               and military control and inhibited Turkmen raids of sur-
+               rounding populations. At this time many Turkmen moved to
+               Afghani territory although it was not until the 1920s that
+               large numbers fled to Afghanistan to escape Soviet collectiv-
+               ization.</p>
+               <p>In Afghanistan the Turkmen competed for pastures and
+               living space with other ethnic groups—Pashtun, Aimaq,
+               Hazara, Tajik, Baluch, Arab and Uzbeg. As the pasturage
+               was limited in Afghanistan and Turkmen flocks reduced,
+               many Turkmen settled into villages; few continued to live as
+               nomads in yurts. If families did not raise enough sheep to
+               provide wool for their weaving needs they had to purchase
+               it—no longer from other Turkmen but from other tribes,
+               such as the tent-dwelling Pashtun. Individual or market
+               trading formerly carried out with kinsmen and other Turk-
+               men was now done with groups who were neither.</p>
+               <p>The move to Afghanistan severely affected carpet weav-
+               ing. For ten to fifteen years after arriving in Afghanistan
+               Turkmen women did not make carpets.* When they began
+               making carpets again, they had to overcome this break in
+               tradition. They remembered carding, spinning and weaving
+               techniques, but colors and patterns changed. Young girls
+               had grown up without learning the traditional designs. When
+               older women had died, they had taken with them the knowl-
+               edge of traditional patterns and of dye recipes. Changes in
+               color in twentieth-century carpets may also be related to the
+               difficulty of obtaining customary vegetable dyes and mor-
+               dants in a new ecological setting. The breed of sheep and
+               quality of wool also differed in the new environment. De-</p>            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_119jpg" n="118" xml:id="img_0118"/>
+            <p>
+               signs once unique to particular tribal sections, isolated from
+               each other in the past, changed as they came into direct con-
+               tact with each other. Women now married into other groups
+               which led to the mixing of traditional designs.</p>
+               <p>The society in which Turkmen live has been transformed
+               since the nineteenth century, affecting the women who tradi-
+               tionally weave the carpets as well as their relation to the
+               mode of production of these carpets. Production has shifted
+               its locus from kinship units to a nonkinship context, the fac-
+               tory. The family mode of production could not meet the ris-
+               ing demand for carpets, thus contract weaving and factories
+               increased.</p>
+               <p>The first factories in the provinces employed only men,
+               but women were weaving out of the home in women’s centers
+               or prisons at that time. In the past few years factories in
+               Kabul have begun to train and employ women who weave in
+               rooms separate from the men. Because of the profit to be
+               gained from weaving, non-Turkmen women have begun to
+               take up carpet weaving—often by apprenticing themselves to
+               Turkmen women in their homes or by going to the factories
+               to learn. Weaving now serves as one of the few nondomestic
+               occupations open to women in Afghanistan. At a time when
+               the family-centered tribal society is breaking down, carpet
+               weaving allows women an opportunity to participate in a
+               more complex, non-kin-based economy.</p>
+               <p>Since the days when Turkmen women lived on the Rus-
+               sian steppes and wove for their families, conditions have
+               changed. The women who remained in the Soviet Union
+               were employed in state-controlled factories before the women
+               who moved to Afghanistan.</p>
+               <p>Afghani Turkmen women still weave under traditional
+               conditions or on contract; primarily it is non-Turkmen
+               women in Afghanistan who have begun factory work. Where
+               Turkmen women oversee the process in factories, the high
+               quality of weave has been maintained.</p>
+               <p>Turkmen women have always had an important influence
+               on weaving, originally produced for exclusively domestic use
+               but now produced for market consumption as well. Although
+               the traditional colors and designs have changed because of
+               political boundaries, migration and altered modes of produc-
+               tion, Turkmen women continue to produce fine examples of
+               weaving.</p>
+               <p>Note: Material for this article comes from travel through
+               Turkmen regions in Afghanistan in 1971 and observations in
+               a Kabul carpet factory in December 1975 and February
+               1977. Special thanks are due to Hajji Ewaz Badghisi, his
+               wife, Bayram, and daughter, Aidgol, for their patience in ex-
+               plaining the techniques of weaving and dyeing. 1 also wish to
+               acknowledge the assistance of Dr. Brian Spooner and Pat
+               Barr for their part in helping me learn about the Turkmen
+               and their weaving in the twentieth century.
+               *Brian Spooner, “Afghan Carpets,” Expedition 15 (2),
+               1973, p. 15.</p>
+            <p>
+               Mary A. Martin is a cultural anthropologist who has worked in Iran and Afghanistan.
+               She lives in Philadelphia.</p>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

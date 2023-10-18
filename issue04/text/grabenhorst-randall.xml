@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div> 
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_047.jpg" n="47" xml:id="img_0047"/>
+            
+               <head><title>The Woman's Building</title></head>
+            <byline>Terree Grabenhorst-Randall</byline>
+            <p>
+               "Even more important than the discovery of Columbus,
+               which we are gathered to celebrate, is the fact that the Government
+               has just discovered women.” These words were voiced not by a
+               present-day feminist but by Bertha Honoré Palmer, a wealthy
+               Chicago socialite, at the dedication ceremonies of the World’s Co
+               lumbian Exposition in October 1892. While the Fair did indeed
+               mark the 400th anniversary of Columbus’s discovery of the New
+               World, more importantly it became the site of an international
+               forum of women artists, writers, educators, scientists and craftsper
+               sons. Government recognition, although not enthusiastic, aided the
+               construction of the Woman’s Building and the establishment of the
+               Woman’s Branch of the Auxiliary Congress which served as a public
+               podium for the discussion of women’s status and rights.</p>
+               <p>In fact, the very existence of the Woman’s Building can be credit-
+               ed largely to feminists active in the late 1800s. For instance, in
+               January 1890, when the United States Congress was considering
+               establishing the Fair, Susan B. Anthony and other prominent fem-
+               inists urged the Senate to guarantee women an active role in its plan-
+               ning. As a token gesture a Board of Lady Managers was authorized,
+               and although it had as many members as the men’s Columbian
+               Commission, the latter actually ran the Fair. Nonetheless, the
+               Woman’s Department of the Exposition, responsible for the Wo-
+               man’s Building, its contents and overall management, was legally
+               recognized and funded by the United States Government.</p>
+               <p>Despite a certain second-class status, the women who par-
+               ticipated in and managed portions of the Fair wielded considerable
+               authority. One of the major reasons for this was the presence of Ber-
+               tha Honore Palmer, President of the Board of Lady Managers, who
+               was appointed to oversee the day-to-day operation of the Woman’s
+               Building and the Auxiliary Congress. She was the wife of a powerful
+               Chicago millionaire, Potter Palmer, the builder of Chicago s famous
+               Palmer House, who, not coincidentally, was a promoter of the Fair
+               and one of its largest financial sponsors. Bertha Palmer, however,
+               was an extraordinary woman in her own right. Her participation in
+               the Exposition and that of other wealthy and socially prominent
+               women, including textile designer and educator Candace Thurber
+               Wheeler, in the Exposition’s work, helped elevate the view of
+               women’s art so that it was no longer viewed as an amateurish
+               domestic hobby but as a serious endeavor.</p>
+               <p>But there was another reason for American women’s finally being
+               included in so auspicious a gathering as a World’s Fair. With the
+               rapid rise of industrialization in America following the Civil War
+               Washington found it politic to become officially involved with wom-
+               en’s employment in industry if not full female suffrage.</p>
+               <p>While critics of feminism maintained that woman’s status was
+               rooted in her economic dependence on man, one unalterable fact re
+               mained: the rise of industrialization required a larger labor force to
+               operate mass-production machinery than could be supplied by
+               males. Women filled that gap. Thus, the number of women working
+               for pay outside the home doubled from four to eight million between
+               1890 and 1910; a previously untapped economic resource was now
+               being utilized. In addition, industrialization and invention of the
+               telephone, typewriter and telegraph created the need for the office
+               girl.</p>
+            <p>
+               The Industrial Revolution also had profound social implications.
+               In search of jobs young women (most of them single), like young
+               men, flocked to large urban centers. Upon arriving in the city their
+               social status immediately and perceptibly changed. Young, alone
+               and economically independent, they were freed of their age-old
+               dependence on home and family. Thrown together for the first time,
+               these women forged close ties of friendship, and before long discov-
+               ered by acting in consort they could be a powerful political force
+               One of their very first actions was to agitate for the right to vote,
+               which was then denied them.</p>
+               <p>The Woman’s Department was, from the outset, plagued with
+               difficulties. As work progressed on the Fair, the government backed
+               away from its original commitment to the Woman’s Building and
+               individual states had to assume the responsibility for funding its
+               various exhibits. As a result, the Woman’s Building, one of the
+               smallest at the Exposition, was granted only 8200,000 for its
+               construction out of an estimated total of $12,700,000 budgeted for
+               grounds and buildings. In addition, most of the women artists rep-
+               resented in the Woman’s Building not only contributed their time
+               and work free, but also had to absorb shipping and installation costs
+               for displays of their work; men whose works were commissioned
+               were usually paid in advance.</p>
+               <p>Other forms of blatant discrimination continually hampered the
+               efforts of the Board of Lady Managers and eventually determined
+               the use to which the Woman’s Building was put. The building was
+               not originally intended to be used for exhibit space; it was planned
+               as the headquarters for women connected with the Fair. But, as
+               Bertha Palmer noted: the building “. . . has been forced into that
+               relation with the rest of the Exposition because of the partial exclu-
+               sion of women elsewhere.”2</p>
+               <p>Bertha Palmer summarized the difficulties the women had en-
+               countered in an address she delivered at the opening of the
+               Woman’s Building: “We have been obliged to march with peace of-
+               ferings lest hostile motives be ascribed to us.”3 She went on to ad-
+               vocate the liberation of women and made it clear that the Woman’s
+               Building and its contents represented opportunities to advance the
+               cause of women’s rights, especially those of working women. She
+               said, perhaps with tongue in cheek:</p>
+               <quote>Without touching upon politics, suffrage, or other irrelevant is-
+               sues, this unique organization of women for women will devote itselj
+               to the formation of a public sentiment which will favor woman’s in
+               dustrial equality, secure for her work the consideration and respect
+               which it deserves, and establish her importance as an economic fac-
+               tor. To this end it will endeavor to obtain and install in these
+               buildings exhibits showing the value of her contributions to the in-
+               dustries, sciences and arts, as well as statistics giving the proportion-
+               ate amount of her work in every country.4</quote>
+               <p>In order to fulfill this commitment, the organizers included as
+               part of the exhibition records of women’s professional and economic
+               status, reports from social, industrial and cooperative associations
+               and a compilation of statistics on women’s legal, social, political and
+               economic status in countries throughout the world. It was the aim of
+               the Board to see that this information was “. . . placed on record as</p>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_048.jpg" n="48" xml:id="img_0048"/>
+            <p>
+               public documents among the archives of every country.”5 The
+               Woman’s Department further supplied information to women on
+               employment possibilities and training. It was the first time that such
+               a comprehensive survey of women s activities and conditions in
+               every part of the world had been made. The overall impact of this
+               contribution still has not been fully evaluated.</p>
+               <p>Another far-reaching and innovative idea was the Children’s
+               Building. It was conveniently located next to the Woman’s Building
+               and provided a place for women to leave their children safely in the
+               hands of a trained staff for a small fee while they viewed the exhibits
+               at the Fair. The Children’s Building contained a large gymnasium,
+               a library, a workshop, a nursery and several other departments. The
+               workshop contained every kind of machine and mechanical device,
+               giving both boys and girls an opportunity to learn how to use tools
+               and develop their mechanical abilities. As such, it is probably the
+               earliest example of a day-care center. Like other projects organizec
+               by women at the Fair, the Children’s Building was given no money
+               by the Exposition authorities and was completely financed by the
+               Board of Lady Managers.</p>
+               <p>The architect for the Woman’s Building was Sophia G. Hayden.
+               In 1890, she became the first woman to complete the four-year
+               course in architecture (with honors) from the Massachusetts In-
+               stitute of Technology. Hayden’s design was selected from twelve
+               others and she began supervision of the building’s construction in
+               July 1891. She designed her building in the neoclassic style which
+               was enjoying a revival at the time and was required by the Exposi-
+               tion committee.</p>
+               <p>The elaborately ornamental Hall of Honor formed the spine of the
+               structure and rose to the building’s full two-story height. Sixty-seven
+               and a half feet wide and 200 feet long, it was topped by a skylight.
+               The Hall of Honor was reserved for the core of the fine arts exhibits
+               in the Woman’s Building. The major decoration of this important
+               room was left to six American artists: Mary Cassatt, Mary Mac
+               Monnies, Lucia-Fairchild Fuller, Amanda Brewster Sewall, Rosina
+               Emmett Sherwood and Lydia Emmett.</p>
+               <p>Sherwood and Emmett were sisters who had both studied with
+               William Merritt Chase at the Art Students’ League in New York
+               and later in Paris at the Julian Academy. Sherwood’s mural was ti-
+               tled, “The Republic’s Welcome to Her Daughters.” Her sister’s
+               mural, “Music, Art and Literature, showed the three disciples
+               personified by three female figures. Fairchild-Fuller, a Bostonian,
+               had also studied with Chase at the League and was a successful min-
+               iature painter. Her mural, “The Women of Plymouth, depicted
+               Pilgrim women and children engaged in domestic chores. Sewall
+               was born in upstate New York, studied at Cooper Union and with
+               Chase and William Sartain at the League in Paris. For her mural,
+               Women in Arcadia, she was awarded a bronze medal by the Co-
+               lumbian Commission.</p>
+               <p>The two most famous women artists participating in the
+               building’s decoration were MacMonnies and Cassatt. MacMon-
+               nies’s 60-foot mural, “Primitive Woman,” located on the north tym-
+               panum of the Hall of Honor, was one of the largest ever painted by a
+               woman. It was divided into three sections that illustrated the roles of
+               ancient women as wives, mothers and workers. Cassatt’s commis-
+               sion to decorate the south tympanum on the subject of modern
+               woman was her first commission in America and her first attempt at
+               mural decoration. Cassatt’s space was identical to MacMonnies’s,
+               but Cassatt divided her mural into three separate panels with three
+               allegorical themes. The central and largest panel was “Young
+               Women Plucking the Fruits of Knowledge and Science.” In the
+               right-hand panel were three women who personified the “Arts,
+               Music and Dancing, and in the left-hand panel were “Young Girls
+               Pursuing Fame.</p>
+               <p>Also decorating the Hall of Honor were murals and paintings,
+               etchings and engravings contributed by American, German, Austri-
+               an, English, French and Spanish women. In addition, sculpture
+               and numerous handicrafts were displayed. There was even a bas-
+               relief entitled “Ophelia made by the famous French actress, Sarah
+               Bernhardt. Finally, names of important women from around the
+               world in the arts, sciences, literature and other disciplines were
+               recorded.</p>
+               <p>Running along the easterly side of the Hall of Honor were rooms
+               largely devoted to the technological side of women’s contributions.
+               Among these rooms were two Scientific rooms, an Inventions room
+               and an Educational room.</p>
+               <p>Passing through the corridors, the visitor could then enter the
+               Northern Pavilion (on the north side of the building) or the South-
+               ern Pavilion (on the south side). In the Northern Pavilion were ex-
+               hibits from countries such as Russia, Australia and England. The
+               Russian section was especially notable. A remarkable reproduction
+               of a Byzantine gate of the twelfth century marked the entrance. It
+               was made of oak and joined together without a single nail. The
+               wood surface was overlaid with gold leaf. The work was designed
+               and constructed solely by Russian women. Exhibits of cottage
+               industries from Scotland and Ireland included hand-knitted stock-
+               ings and gloves, shawls and ecclesiastical vestments, as well as many
+               fine examples of embroidery and needlework. Examples of uniquely
+               Irish lacemaking techniques could be seen in displays of Irish point
+               lace, Limerick lace and Carrickmacross lace. The Northern
+               Pavilion also included exhibits of stained glass designs, wallpaper
+               and silk designs, book-cover designs and book illustrations, con-
+               tributed by American and foreign women.</p>
+               <p>The most notable exhibit in the Northern Pavilion was that of
+               American Applied Arts. The handicraft contributions (specifically,
+               needlework and embroidery) of the Associated Artists Society, one
+               of the first American schools of embroidery and design, as well as
+               the woven textiles and tapestries, were among the best examples of
+               handwork in the Woman s Building. This exhibit had been organ-
+               ized by Candace Thurber Wheeler, who lent her considerable ar-
+               tistic and managerial talents to the Woman’s Building and oversaw
+               its interior decoration. It is fair to say that the American renaissance
+               in embroidery and needlework was initiated and largely affected by
+               Wheeler. Thanks to her perseverance and clout, needlework ex-
+               hibits at the Columbian Exposition were no longer predominantly
+               English or European, as they had been in the Centennial Exposition
+               seventeen years earlier.</p>
+               <p>Walking along the Loggia for a breath of fresh air and a fine
+               overall view of the Exposition grounds, the visitor could then tour</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_049.jpg" n="49" xml:id="img_0049"/>
+            <p>
+               the Southern Pavilion which was devoted to exhibits of lacemaking,
+               embroidery, fan painting, jewelry, silverware, carved wood, leather
+               and fans. These exhibits came from France, Italy, Mexico, Japan
+               Spain, Belgium, Austria, Germany, Sweden and Norway, as well as
+               far-off places such as Siberia, Siam, Ceylon, Brazil and the Cape of
+               Good Hope. One of the most popular exhibits was that organized by
+               the Japanese Woman’s Commission. Two rooms of a typical
+               Japanese dwelling were carefully reproduced. The inclusion of such
+               details as fine inlaid boxes, polished steel mirrors and a woman’s
+               boudoir gave the spectator a true sense of having actually visited a
+               Japanese home. Another exhibit of special interest was the collec
+               tion of lace sent by Queen Margherita of Italy which traced the
+               history of lacemaking in that country as well as in all other lace-
+               making countries.</p>
+               <p>The elevator, a welcome feature of the building at this point of the
+               tour, would then whisk the visitor to the gallery floor of the
+               building, which contained exhibits primarily from the United
+               States.</p>
+               <p>Running along the east wall of the gallery floor were the Californ-
+               ia, Cincinnati, Kentucky and Japanese rooms (the Japanese exhib-
+               ited here as well as in the Southern Pavilion). The California room
+               was warmly inviting with its ceilings, doors and wainscoting all
+               made of rich, mellow redwood. The room was decorated with
+               stained glass designed and executed by American women.</p>
+               <p>The Cincinnati room, the largest and most important room of this
+               section of the gallery, served as the Managers’ Drawing Room. Its
+               display of pottery executed by Cincinnati women underscored
+               women’s unique contributions to the craft. Of special interest was
+               Rookwood Pottery, an adaptation of the art nouveau style with flat,
+               linear floral patterns and varied glazes—all of which had gainec
+               Rookwood an international reputation for fine ceramics craftsman-
+               ship. In addition to examples of Rookwood Pottery decorated by
+               the Rookwood Pottery founder, Mrs. Maria Longworth Nichols 
+               Storer, there were pieces created by members of the Cincinnati Pot-
+               tery Club. M. Louise McLaughlin, founder of the Pottery Club in
+               1879, had developed an unusual method of underglaze painting and
+               “Losanti Ware, a hard porcelain with a feldspathic glaze fired at a
+               low temperature. Examples of her work were included in the Cin-
+               cinnati room exhibit.</p>
+               <p>Perhaps the most important room, next to the Hall of Honor, was
+               the Library, located directly opposite the Cincinnati room on the
+               west side of the gallery. The interior decoration, including the dark,
+               carved oak bookcases, was the work of Candace Thurber Wheeler,
+               Dora Wheeler Keith, her daughter, decorated the Library’s ceiling.
+               She chose an allegorical theme appropriate to the room: a male
+               figure represented Science; Literature was personified by a woman
+               standing beside Science, and Imagination, also a female figure,
+               stood between the two, symbolizing the reconciliation and binding
+               of one to the other. More importantly, the Library contained over
+               7,000 volumes of American and foreign women’s writings (including
+               such great authors as Jane Austen, the Bronte sisters, George Eliot,
+               the poetess Harriet Monroe, Louisa Alcott and Susan B. Anthony
+               making it the largest such collection at that time. Two Records
+               rooms flanked the Library and contained statistics of woman’s work
+               in several countries.</p>
+               <p>Also located on this side of the gallery was the English Training
+               School for Nurses. It was a model of a room for the instruction of
+               nurses and contained all sorts of medical and surgical instruments
+               along with portraits of women who were famous for their contri-
+               butions to nursing and medicine, such as Florence B. Nightingale.
+               After visiting the English Training School for Nurses, the fair-
+               goer could walk through the north corridor to the Assembly Room
+               which was used for meetings, lectures and concerts, and then on to
+               the large Model Kitchen. The kitchen was equipped with the most
+               modern appliances then available and staffed with teachers who in-
+               structed women in the science of preparing nutritional foods and
+               even in preparing Indian corn.</p>
+               <p>The visitor might pleasantly end the tour by resting and dining in
+               the garden cafe of the Woman’s Building—a quiet oasis in green in
+               which, reputedly, the best food at the Fair was to be found.
+               The significance of the exhibits of the Woman’s Building was
+               multifaceted. By making the achievements of many fine women art-
+               ists and craftswomen more widely known, they corrected miscon-
+               ceptions about women’s artistic abilities and made it clear that
+               women held an important place in the history of the arts. In addi-
+               tion, the Woman’s Building provided a forum for presenting the
+               theme of the changing roles of women. Facts were available for
+               public and personal consumption, and as they cut across social and
+               class barriers, must have had a considerable impact on both sexes.
+               For women, especially, the new sense of history, pride and ac
+               complishment alone was worth the long and arduous struggle to
+               make their building and its contents public.</p>
+            <p>
+               Mary Oldham Eagle Kavanaugh, ed., The Congress of Women, Chicago,
+               1894, p. 106.<lb/>
+               Kavanaugh, p. 125.<lb/>
+               3. Kavanaugh, p. 112.<lb/>
+               4. Ibid.<lb/>
+               Ibid.</p>
+            <p>
+               Terree Grabenhorst-Randall is a Ph.D. candidate at the City University Graduate 
+               Center in New York. Her field is twentieth-century American art, and she works in the
+               slide library.</p>
+           </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_019.jpg" n="19" xml:id="img_0019"/>
+            <p>
+               "If. . . you are asked to do a lot of giving without . .. reward,'
+               says Fascinating Womanhood, which ranks self-effacement
+               with God and the flag, “remember, when you cast your bread
+               upon the waters, it comes back buttered.”The phrase sums up
+               the martyred woman today: passive and awed by powerful
+               tides, she willingly surrenders everything to fate while standing
+               in a sea of grease. There-isolated, unabated-she practices ..
+               <title>THE MARTYR ARTS</title>
+               <lb/>Arlene Ladden</p>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_020.jpg" n="20" xml:id="img_0020"/>
+            <p>
+               A look at early Christian history shows that woman’s lot was
+               anything but a lot. Man’s marriage to woman was grudg
+               ingly conceded as a necessary evil.1 She was a “foe to friend
+               ship, an inevitable penance . . . a domestic peril.”2 It was
+               officially questioned whether woman had a soul (in 585, the
+               Council of Macon decided that she did, but only by a single
+               vote).? Repeatedly admonished to “be in subjection to (her
+               own husband,”4 she was, at best, “a natural temptation, a
+               ”5 A weak vessel for man s seed, she was a
+               coveted calamity.
+               plaque on which he could mount his sexual organ.</p>
+               <p>For the religious woman, who naturally believed her life
+               worthless, there were few alternatives. She could dumbly
+               worship the saints or, if ambitious enough, she could emulate
+               them: St. Simon Stylites ate very little; St. John of the Cross
+               licked the sores of lepers.° And while some women performec
+               no less austerely (St. Rose ate nothing but sheep’s gall, ashes
+               and bitter herbs, and she drank the blood of a sick patient),
+               many—martyred through constant devotion and sacrifice-
+               displayed a peculiar brand of sensuality.</p>
+               <p>Veronica Guliani—who went to bed with, and kissed, and
+               suckled a lamb, the lamb being a symbol of Christ—is per
+               haps atypical. But not Mechthilde of Madgeburg, who pre-
+               ferred to see Jesus as “charming,” affectionate and 18 years
+               old. Nor Margaretha of Ypern, who thought herself “en-
+               gaged” to Jesus. Nor Christine Ebner, who imagined she
+               carried Jesus’ child. The church deliberately inspired such
+               sensuous imaginings. “Ever let the Bridegroom sport with
+               will put his hand through the hole in the door and will touch
+               With nuns “marrying” Christ in a formal
+               your belly ...
+               ceremony—their “1 love Christ into whose bed I have en
+               tered” being roughly equivalent to the modern “I do”—it is
+               not surprising that, while most martyrs sought to transcend
+               the body, female martyrdom at times unveiled a complexion
+               entirely its own. Pocked with the scars of lacerations and
+               burnings, flushed with desire for a polygamous, heterosexual
+               Jesus, it encouraged a centuries-long tradition of woman's
+               self-sacrifice and suffering for man. For only by cleaving to a
+               seeming savior or holy man could a woman hope to rise even
+               a fraction as much as she had fallen.</p>
+              <p> Take the example of Margaret-Mary Alacoque, a particu
+               larly fervent practitioner. She shafted a novice for rivaling
+               her holiness, lest she rival her also in the Savior’s affections.
+               And while her frequent convulsions were probably due to
+               austerity—she drank mostly dirty wash-water, and drank
+               nothing at all from Thursday to Sunday (though she occas-
+               ionally licked up vomit with her tongue)—she was hotly fe
+               verish with love of Jesus, even tattooing his name on hei
+               chest with a small knife. (When the scars healed, she burned
+               in the insignia with a candle.) Such actions were proof of a
+               beautiful soul.</p>
+               <p>Suffering has long been a value in the west. An attribute of
+               saints and a must for martyrs, it has also lately been required
+               of the artist, who, as Susan Sontag aptly notes, now replaces
+               the saint as exemplary sufferer.” And Sontag’s tenet, 1 think,
+               can be reversed: the saint, or martyr, was a kind of artist in
+               earlier times. Aestheticians like Jacques Maritain would
+               seem to agree, seeing art as “makling) a form shine on the
+               matter,” form being “the profound splendor of the soul shin
+               ing through .. . the principle . . . of pain and passion.” Liv
+               ing in true perfection, he says, “may be metaphorically de-
+               scribed as an art . . . an art which only the saints mastei
+               fully.</p>
+               <p>Now, that Margaret-Mary wasn’t perfect is not impor-
+               tant; it’s enough that the church assures us she was. What is
+               important is that she was an exemplary sufferer if there ever
+               was one. She suffered; she suffered wholly and completely
+               and this gave her a decided advantage. For, notes Sontag,
+               quoting from the diary of a suffering artist, only through
+               such total surrender can we “disarm the power of suffering 
+               make it our own creation, our own choice,”1° By giving in to
+               suffering, we mold it, reshape it. We sublimate suffering into
+               art.</p>
+               <p>That life and art can be one and the same is an old idea.
+               John Dewey” upheld it, defining art as any activity reshap-
+               ing experience more meaningfully, coherently and vividly
+               than ordinary life allows. “Emotion,” he says, “is . . . the
+               cementing force.” By selecting and coloring, it unifies the
+               disparate events of experience, transforming them into an
+               experience. “The enemies of the aesthetic, says Dewey,
+               are neither the practical or the intellectual. They are the
+               hum-drum.</p>
+               <p>However repugnant Margaret-Mary’s actions may seem
+               by male aesthetic criteria Margaret-Mary was an artist and
+               her martyrdom was art. It dictated her every action, and her
+               every action was contrived to reflect a beautiful soul.
+               Martyrdom provided her with a form for her life, and
+               through it she assumed control over the fragmented matter of
+               her existence. She indulged in suffering; it engrossed her,
+               diverted her, and thoroughly absorbed her. Pain became
+               objectified. Life became a passionate performance (indeed.
+               her breast resembled a theater marquee), soulful, dramatic
+               cohesive, consistent and meaningful. By classical definitions
+               of art, her life, in assuming a magnitude and order, fulfilled
+               the conditions of the beautiful. In fact, martyrdom for Jesus,
+               and later secularized martyrdom for man, has been one of
+               woman’s most pervasive and enduring traditional art forms.</p>
+               <p>For Margaret-Mary was not alone in indulging in suf
+               fering; other women matched her passion. Christine Ebner
+               etched out a cross on the skin of her chest and tore it off.
+               Mary Magdalene dei Pazzi had herself cut, trampled.
+               whipped and burned. Christine of St. Trond had herself
+               bound, hung, racked, buried and baked. Surely, Christian-
+               ity’s chapter on the martyrs and mystics is one of the most
+               astounding chapters in history. Less astounding, perhaps.
+               are the women who, like Felicula or Saints Agnes and
+               Agatha, opted for tortures over marriage. These women were
+               saving themselves for Christ and wouldn’t succumb. But
+               there were also martyrs among those who did, like Therese, a
+               nineteenth century madwoman and would-be mystic whose
+               longing for Christ drove her insane until finally, distracted,
+               demoralized and institutionalized, she wrote: “Now I only
+               believe in God and suffering. I feel it is necessary to get mar-
+               ried.”12 Therese was deranged, but her resignation reflected
+               a sordid truth: for many who lived in later centuries, mar
+               riage itself had become yet another form of martyrdom,
+               supplying an aesthetic where none existed.</p>
+               <p>The altruistic female sacrificing for a husband was an old
+               ideal. The twelfth-century Marie de France featured her in
+               Eliduc where a wife graciously surrenders her husband to a
+               woman he loves. Years later, she welcomes the new wife into
+               her convent where, sisters in Christ, the two women are
+               bound again by love for a single man, the husband and
+               Christ being, metaphorically, one and the same</p>
+               <p>By the fourteenth century, with Chaucer s and Boccac-
+               cio’s patient Griselda, the emphasis had changed.13 A female
+               Job, Griselda stands obediently by while her husband humil
+               iates her, repudiates her—even when she believes he mur
+               dered her children; her only concern is to meet his wants,
+               however cruel they seem to her. Now the love of one woman
+               for another is strongly de-emphasized—relief can only come
+               from man—and man s worth is wholly unquestioned, wom
+               an s soul seeming all the greater for his cruelty.</p>
+               <p>It was this ideal which began to flourish in the eighteenth
+               century. Because Protestantism had changed woman s role,
+               transposing mystical values to the domestic sphere, latei
+               centuries saw the revival of the martyrdom aesthetic in a new
+               light. Aestheticians since Fichte had taught that beauty was
+               subjective—a manifestation of the beautiful soul—many be
+               lieving, with Muller, that the highest art was the art of life.
+               Now, soulful woman could approach the sublime without ev-</p>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_021.jpg" n="21" xml:id="img_0021"/>
+            <p>
+               er leaving her immediate neighborhood, not to mention fore-
+               going a trip to heaven. Just as, classically, art was a lofty
+               reflection of nature, the good wife was a lofty reflection of
+               man, so lofty in fact, that she ceased to have substance alto-
+               gether (a Dorsetshire wedding ceremony likened her to “
+               Mirrour which hath no image of its own”).15 A young girl
+               (pupilla) was said to exist in the pupil of every man’s eye,16
+               and while this classically meant man s perceptions were soul-
+               ful, now it stood for another tenet: that woman should only
+               exist in the glazed eyes of man. She was wife only—merely a
+               part of her husband’s family, famulus meaning servant on
+               slave. As Fichte had also taught: “[Woman’s) own dignity
+               requires that she should give herself up entirely as she is . .
+               and should utterly lose herself in (her husband).”17</p>
+               <p>Now Christ was absent. As with Jane Eyre in the Bronte
+               novel, woman was to persist dutifully in soulful devotion to a
+               cynical master and, eventually, his contemplation of her-
+               distanced and mystical in her suffering goodness—might
+               touch his soul and effect his overt transformation. Just as
+               Jane restored the blinded Rochester’s vision, so could wom-
+               an, like the highest art, elevate a husband’s vision, turning
+               cynic into believer, teaching and delighting. A classical rep-
+               resentation of beauty, she incited compassion and pity, if not
+               fear.</p>
+               <p>But such idealizations were fiction, pure fairy tale.
+               Bronte’s Jane was, in real life, de Sade’s Justine. A perpetual
+               victim, she often suffered for men who were unrelenting,
+               unrepenting.</p>
+               <p>With religious executions a thing of the past and passion-
+               ate martyrdom for Christ wholly repugnant to the Protestant
+               ethic, the clergy, who now found marriage desirable, trans-
+               ferred the imagery of Jesus onto the husband with new, if
+               pedestrian, significance. The female martyr was now
+               plunked down in the family cottage where, virtuous and sex-
+               less, she suffered for her family. There, mystical and beauti-
+               ful, she persevered. Determined and powerless, she perse-
+               vered. John Ruskin’s directive was typical: “(Woman must
+               be) instinctively, infallibly wise—wise, not for self-develop-
+               ment, but for self-renunciation.</p>
+               <p>In fact, she hadn’t much choice. The rise of capitalism
+               had, by the eighteenth century, aggravated woman s econ-
+               omic dependence while it banished traditional duties from
+               the home. Domestic spinning, weaving, brewing and baking
+               had once been essential and, however tedious, had used up
+               time. Now, with moral prohibitions still further diminishing
+               woman’s activities, idleness exposed the void. By roman-
+               tically and utterly surrendering to suffering, woman might
+               become absorbed; life’s form might assume a grandiose
+               beauty, masking the pettiness of its content. As before, il
+               woman could exalt her suffering, she could shape it, perfect
+               it; she could languish in contemplation of her own sorrow.
+               Formalized and ritualized, it aesthetically formed and in-
+               formed her life. And the aesthetic became an anaesthetic
+               For no matter how sentient martyrdom’s manifestations, it
+               numbed woman to her own insignificance, protecting hei
+               from the more genuine pain of small emotions. The niggling
+               void became flushed with feeling, feeling believed to soften
+               and deepen the soul. Or so believed Madame de Stael, whose
+               exposition on suffering also credited the virtues of habitual
+               submisiveness. Her tract was written to justify suicide. No
+               wonder.19</p>
+               <p>Martyrdom was still an art: no longer for Jesus, no longer
+               even for a powerful man whose cruelty masked a beautiful
+               soul. It was now martyrdom for any man, be he a stern patri-
+               arch or a sodden drunk, or a stemn patriarch and a sodden
+               drunk. As Tolstoy saw it: Wives should be loving, unobtru-
+               sive and unassuming—“comforters of the drunken, the
+               weak, and the dissolute.”2° Or in Fichte’s words: The wife of
+               a degenerate husband “is held all the more in esteem the gen-
+           
+           
+               . . . she bears it,” though still, she must appear to be
+               “lost in the man of her choice.”21 Wet nurses to alcoholics,
+               wives soaked their men with spirit, and disappeared.
+               In 1920, in a perverse tribute to pained sensibility, Mar-
+               garet-Mary Alacoque was canonized. Her emblem was the
+               Sacred Heart. It was increasingly presented more and more
+               bloodily—grotesque, fiery, disembodied, now an isolate
+               lump of throbbing muscle—the pulsing symbol of a female
+               aesthetic and the badge of hundreds of Catholic schools.
+               The good woman, it thumps, is all heart.</p>
+               <p>But its beat is getting ever weaker. Like the allure of habit-
+               ual sacrifice itself. Like the utter devotion (submission) for
+               which it stands—one passion, indivisible, with guilt and op-
+               pression for all. Woman’s fluid acquiescence has leaked its
+               glamour, and women are letting women know it.
+               Sacrifice is self-abuse. Death to martyrdom.</p>
+            <p>
+               1. Since-woman was considered a temptress irresistible to the weak, St.
+               Paul preferred marriage when adultery seemed inevitable, conceding: “It is
+               better to marry than to burn.” (I Corinthians 7:9),<lb/>
+               2. Salimbene, in From St. Francis to Dante: Translations from the
+               Chronicle of the Franciscan Salimbene (1221-1288), 2nd ed., ed. and trans
+               G. G. Coulton (London: David Nutt, 1907), p. 97. Salimbene falsely attri-
+               butes these epithets to St. Chrysostom, whose own expression was equally
+               appalling, if less succinct <lb/>
+               3. Bernard Murstein, Love, Sex and Marriage Through the Ages (New
+               York: Springer Publishing Co., 1974), p. 94<lb/>
+               4. 1 Peter 3:1. These sentiments, with virtually identical wording, are ex-
+               pressed also in Ephesians 5:22, Collosians 3:18 and, later, in the first en-
+               during systematization of church law, Gratian’s Decretum (c. 1140), quoted
+               in Not in God’s Image, ed. Julia O’Faolain and Lauro Martines (New York:
+               Harper and Row, 1973), p. 130.<lb/>
+               5. Salimbene, p. 97<lb/>
+               6. For factual information relating to the saints, martyrs and mystics,
+               have primarily referred to Henry Osborn Taylor, “Mystic Visions of Ascetio
+               Women,” in The Medieval Mind (Cambridge, Mass.: Harvard University
+               Press, 1959), vol. I, pp. 458-486; Rev. S. Baring-Gould, The Lives of the
+               Saints, rev. ed., 16 vols. (Edinburgh: John Grant, 1914); Donald Attwater’
+               The Penguin Dictionary of Saints (New York: Penguin Books, 1965); and,
+               for the more gruesome cases, Gordon Rattray Taylor, Sex in History (New
+               York: Harper and Row, 1970), pp. 31-50 and passim as well as Havelock
+               Ellis, “The Auto-Erotic Factor in Religion,” in Studies in the Psychology of
+               Sex (New York: Random House, 1936). vol. I, pp. 310-325.<lb/>
+               7. Epistle 22 in Select Letters of St. Jerome, trans. F. A. Wright (Cam-
+               bridge, Mass.: Harvard University Press, 1963), p. 109. The translator has
+               rendered “belly” (ventrem) as “flesh”; perhaps he has censored the saint in
+               the interest of delicacy.<lb/>
+               The Artist as Exemplary Sufferer,” in Against Interpretation and
+               Other Essays (New York: Dell, 1961), p. 42.<lb/>
+               9. Art et Scholastique (Paris: Louis Rouart et Fils, 1927), pp. 20-21, 44,
+               46. My translations.<lb/>
+               10. Sontag, quoting Caesar Pavese, p. 43<lb/>
+               11. “Having an Experience,” in Art as Experience (New York: Capri-
+               corn Books, 1934), pp. 35-37.<lb/>
+               12. Therese’s case is treated by Ellis, pp. 316-319.
+               13. See Chaucer’s “Clerk’s Tale” and the tenth tale of the tenth day in
+               Boccaccio’s Decameron.<lb/>
+               14. For a summary discussion of aesthetic theory from Baumgarten to
+               Knight, see Leo Tolstoy’s What is Art? and Essays on Art, trans. Alymer
+               Maude (London: Oxford University Press. 1930), pp. 92-110.<lb/>
+               15. Quoted by Gwendolyn Bridges and Robert Utter in Pamela’s Daugh-
+               ters (1963; rpt. New York: Russell and Russell, 1972), p. 25.<lb/>
+               16. For a description of this etymology—so cloyingly written as to belie
+               its true meaning—see Iwan Bloch, The Sexual Life of Our Time, 6th ed.,
+               trans. M. Eden Paul (London: Rebman Ltd., 1908), p. 78.<lb/>
+               17. “Fundamental Principles of the Rights of Family,” in The Science of
+               Rights, trans. A.E. Kroger (Philadelphia: J.B. Lippincott, 1869), p. 402.<lb/>
+               18. “Of Queens’ Gardens,” in Sesame and Lilies: Three Lectures, rev
+               and enl. (New York: Metropolitan, 1871), p. 152.<lb/>
+               19. “Reflexions sur le suicide,” in Ouvres de Madame la Baronne de
+               Stael-Holstein (Paris: Chez Lefevre, 1858), vol. III, pp. 711-752.<lb/>
+               20. Tolstoy, p. 326.<lb/>
+               21. Fichte, pp. 424 and 441. Fichte remarks (p. 441): “She has the power
+               to withdraw her freedom, if she could have the will to do so; but that is the
+               very point: she cannot rationally will to be free.” In other words, any wom-
+               an who chooses freedom is necessarily irrational; thus, she cannot sensibly
+               assess her motives or use her freedom. It is curiously circular reasoning.</p>
+            <p>
+               Arlene Laden is a fre lance urier teaching at La Guarda Community Collge in
+               New York and a member of the HERESIES Collective.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

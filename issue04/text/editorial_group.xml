@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div>           
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_005.jpg" n="5" xml:id="img_0005"/>
+            
+               <head><title>From the Editorial Group</title></head>
+            <p>
+               Women’s Traditional Arts? Initially we met anticipating discussions of quilts, pottery and weaving rugs. But discussions of quillwork.
+               poetry and weaving narratives came up too. It became clear that basic to our concerns was the politics of aesthetics. And in these dis-
+               cussions we couldn’t examine either the artifacts or their politics without a constant awareness that our process was collective. We
+               found that collectivity and deadlines make strange bedpersons. Like any revolution, any revelation, collectivity was the best of times, it was the
+               worst of times.</p>
+               <p>As a self-selected group of women we all shared a commitment to our topic and a commitment to the Heresies Collective, the 21 women who
+               are the magazine’s originators and publishers. Nearly half the editorial group which produced this issue are Heresies Collective members too.
+               The others of us responded to the Heresies invitation which offers feminists the space and the means to explore and analyze women’s issues in
+               depth. Our editorial responsibility ranged from discussing issues, soliciting articles, reading and responding to submissions and working
+               editorially with writers, to the technical production of the magazine. This lengthy process required willingness to put aside learned notions of
+               efficiency. Criticism and self-criticism were the feedback structures that allowed us continually to re-examine our process and our ideas. We
+               had to respond to different levels of experience and tried to avoid their expression in conscious or unconscious hierarchies
+               Our concern about structure had its emotional edge. We began as eleven. We are now nine. Our fledgling process was as full of pain and
+               anxiety as it was of intelligence and optimism. We needed to weigh the comparative values of professional writing versus amateur investigation
+               and set our own standards which emphasized the communication of issues rather than just cherished notions of good writing. Each editor had a
+               sense of an insider/outsider tension. On the one hand, there was an unspoken set of assumptions shared by some members of the group,
+               vocabulary and gestures which grew out of a common history, a common consciousness. On the other, there was a fear that this set of assump
+               tions implied a clique.</p>
+               <p>What kind of process did we create? We felt we were constantly tripping over ourselves. We were frustrated and embarrassed at all the
+               doubling
+               back and overlap in our discussions, especially when we were met with questions like, “If she’s a pain in the ass, why don’t you kick
+               “Why do you waste so much time with democracy?”“Hierarchies are inevitable. Why don’t you face it?”“Isn’t a collective a came
+               her out?
+               designed by a committee?” What we created was awkward, was exhilarating. As involved as we all were with making the magazine beautiful.
+               exciting, intellectually stimulating, this became secondary to the problem of how we could possibly accommodate ourselves to each other’s
+               needs as creative women.</p>
+               <p>How could we collectively make a magazine that represented us all? How comfortable were we with each other’s voices, with each other’s
+               images, with each other’s ideas? We did not want this issue to be an organ for self-promotion. But fired by our discussions and prompted by
+               questions raised in submitted articles, many members of the editorial group submitted articles for publication. Analogies were made to
+               archeological digs and contemporary anthropology, and the more excited we were by the information of our contributors, the more immed-
+               iately we wanted to participate ourselves.</p>
+               <p>The Women’s Movement is in a new phase. Consciousness-raising continues to be basic to any feminist enterprise. We are shifting the arena
+               of our political activity from the private to the public. In projects like Heresies this shift takes the concrete form of a magazine, the creation of a
+               forum, the extension of ideas and images into places where they can be discussed and critiqued. This development requires a scrutiny which at
+               times seems inimical to the support and solidarity that are the goals of consciousness-raising. But to resort pessimistically to the conclusion that
+               deadlines demand bureaucracies is to overlook that we are still developing the sort of consciousness and fantasy that can project alternatives.
+               A dialectic of content and process evolved in the production of this issue. Every positive aspect had its negative underbelly, and vice versa.
+               Our understanding of women’s traditional arts expanded in response to the material submitted to us, and there were recurring motifs: time.
+               efficiency and domesticity. Recognizing that time was a common denominator all women shared—time for one woman might mean cooking.
+               for another weaving, for us, producing this issue—we began to realize the positive aspect of our flexibility in handling time (we were certainly
+               not behaving “efficiently”), but we were simultaneously aware that the model for this attitude to time came from the family where the woman’s
+               work is never done and always done and where the endlessness of tasks is depleting and domesticating. From her house flows much of the ar
+               that this issue considers.</p>
+               <p>In order to understand women’s traditional arts and our responses to it we had to deconstruct and reconstruct to be able to see clearly the
+               interrelationships between art objects and the conditions in which they are produced. This cycle of dismantling and re-creating characterized
+               our own creative process too. The boundaries women have worked within and challenged were familiar to us. Traditionally, women’s working
+               spaces have been defined by their tent, hut or home, their psychological spaces by the rhythm of domestic demands. We often become attached
+               to our working and psychological spaces to the extent that our process disintegrated when we moved from place to place and phase to phase.
+               Confronted with women’s traditional arts, our loyalties were torn; we wanted at the same time to celebrate and lament. Trying to reconstruct
+               a part of the history of women’s artmaking obliged us to tolerate these contradictions, to negate, affirm and transcend simultaneously what ha-
+               characterized women’s work. In this way, re-evaluation of the past and how it impinges on the present does not necessitate a fresh start, but a
+               self-reflective critical appropriation of a past which, though created by the “anonymous toil” of unknown women, belongs to all of us
+               Language conveys attitudes and feelings and at the same time reflects and constructs consciousness. We were sensitive to the need for
+               scrutinizing our words when we spoke together, for questioning clichés. Elements of a new vocabulary emerged in our discussions, a
+               vocabulary which helped us view women’s traditional arts in the ways we have.</p>
+               <p>“Filters” are the biases we bring to our projects. By acknowledging them, we wanted to challenge the myth of objectivity, to let our various
+               feminist partisanships show. “Femmage” is the practice of collecting, recycling, reshaping and juxtaposing the artifacts of everyday life, a
+               mode echoed in our production of this magazine. “Anonymous toil” is the labor that invisibly supports the honored products of culture.
+               “Matronizing” attitudes are characterized by a smug feminism that knows the answers and ceases to be self-critical. Because we were dealing
+               anthropologically with other cultures and editorially with other writers, we found ourselves fighting against falling into this stance.
+               The entire process—from initial meetings to eventual publication—took nine months. Obviously a full-term pregnancy. The toughest part
+               was to achieve the fine balance between the sentimental and the intellectual.</p>
+               <p>Initially, our aim was to investigate women’s traditional arts. This led us to another question: what will women of the future make and what
+               will their contexts be? We are at a peculiar and exciting edge: one foot in the socially stratified past, the other in our utopian fantasy of the
+               future.</p>
+            
+            </div>
+      </body>
+  </text>
+</TEI>

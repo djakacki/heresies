@@ -32,18 +32,21 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                 <titleStmt>
                     <title>[ESSAY TITLE]</title>
                     <author>[ESSAY AUTHOR]</author>
-                    
                     <respStmt>
                         <persName>Haley Beardsley</persName>
-                        <resp>Editor, encoder</resp>
+                        <resp>Editor (2021- Present)</resp>
                     </respStmt>
                     <respStmt>
                         <persName>Erica Delsandro</persName>
                         <resp>Investigator, editor</resp>
                     </respStmt>
                     <respStmt>
+                        <persName>Mia DeRoco</persName>
+                        <resp>Editor (2023-Present)</resp>
+                    </respStmt>
+                    <respStmt>
                         <persName>Margaret Hunter</persName>
-                        <resp>Editor</resp>
+                        <resp>Editor (2021-Present)</resp>
                     </respStmt>
                     <respStmt>
                         <persName>Diane Jakacki</persName>
@@ -51,15 +54,27 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                     </respStmt>
                     <respStmt>
                         <persName>Sophie McQuaide</persName>
-                        <resp>Editor</resp>
+                        <resp>Editor (2021-2023)</resp>
                     </respStmt>
                     <respStmt>
                         <persName>Olivia Martin</persName>
-                        <resp>Editor, encoder</resp>
+                        <resp>Editor, encoder (2021)</resp>
+                    </respStmt>
+                    <respStmt>
+                        <persName>Zoha Nadeer</persName>
+                        <resp>Editor (2022-Present)</resp>
                     </respStmt>
                     <respStmt>
                         <persName>Bri Perea</persName>
-                        <resp>Editor</resp>
+                        <resp>Editor (2022-23)</resp>
+                    </respStmt>
+                    <respStmt>
+                        <persName>Carrie Pirmann</persName>
+                        <resp>HTR editor, encoder (2023-Present)</resp>
+                    </respStmt>
+                    <respStmt>
+                        <persName>Ricky Rodriguez</persName>
+                        <resp>Editor (2022-2023)</resp>
                     </respStmt>
                     <respStmt>
                         <persName>Roger Rothman</persName>
@@ -67,27 +82,23 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                     </respStmt>
                     <respStmt>
                         <persName>Kaitlyn Segreti</persName>
-                        <resp>Editor</resp>
+                        <resp>Editor (2021-Present)</resp>
                     </respStmt>
                     <respStmt>
                         <persName>Maggie Smith</persName>
-                        <resp>Editor</resp>
+                        <resp>Editor (2021-Present)</resp>
                     </respStmt>
                     <respStmt>
                         <persName>Maya Wadhwa</persName>
-                        <resp>Editor</resp>
+                        <resp>Editor (2021-2023)</resp>
                     </respStmt>
                     <respStmt>
                         <persName>Lucy Wadswoth</persName>
-                        <resp>Editor</resp>
+                        <resp>Editor (2022-Present)</resp>
                     </respStmt>
                     <respStmt>
-                        <persName>Ricky Rodriguez</persName>
-                        <resp>Editor</resp>
-                    </respStmt>
-                    <respStmt>
-                        <persName>Zoha Nadeer</persName>
-                        <resp>Editor</resp>
+                        <persName>Anna Marie Wingard</persName>
+                        <resp>Editor (2023-Present)</resp>
                     </respStmt>
                     <funder>Bucknell University Humanities Center</funder>
                     <funder>Bucknell University Office of Undergraduate Research</funder>
