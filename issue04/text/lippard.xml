@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div>    
+         <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_065.jpg" n="65" xml:id="img_0065"/>
+            <head>
+               Making Something from Nothing
+               (Toward a Definition of Women’s “Hobby Art”)</head>
+               <byline>Lucy R. Lippard</byline>
+            <p>
+               In 1968 Rubye Mae Griffith and
+               Frank B. Griffith published a “hobby
+               book called How To Make Something
+               from Nothing. On the cover (where it
+               would sell books) his name was listed
+               before hers, while on the title page
+               (where it could do no harm), hers ap-
+               peared before his. It is tempting to
+               think that it was she who wrote the
+               crypto-feminist dedication: “To the
+               nothings—with the courage to turn into
+               somethings.” The book itself is con-
+               cerned with transformation—of tin
+               cans, beef knuckle bones, old razor
+               blades, breadbaskets and bottlecaps in-
+               to more and less useful and decorative
+               items. As “A Word in Parting,” the
+               authors state their modest credo: “This
+               book . . . is simply a collection of ideas
+               intended to encourage your ideas ..
+               We want you to do things your way...
+               Making nothings into somethings is a
+               highly inventive sport but because it is
+               inventive and spontaneous and origina.
+               it releases tensions, unties knots of
+               frustration, gives you a wonderful sense
+               of pleasure and accomplishment. So ex
+               periment, dare, improvise—enjoy every
+               minute—and maybe you’Il discover, as
+               we did, that once you start making
+               something from nothing, you find you
+               can’t stop, and what’s more you don’t
+               want to stop!</p>
+            
+               <p>Despite the tone and the emphasis on
+               enjoyment—unpopular in serious cir-
+               cles—this “sport” sounds very much
+               like fine or “high” art. Why then are its
+               products not art? “Lack of quality
+               will be the first answer offered, and
+               “derivative” the second, even though
+               both would equally apply to most of the
+               more sophisticated works seen in galler-
+               ies and museums. If art is popularly
+               defined as a unique and provocative
+               object of beauty and imagination, the
+               work of many of the best contemporary
+               “fine” artists must be disqualified
+               along with that of many “craftspeo-
+               ple,” and in the eyes of the broad audience, many of the talented hobbyist’s
+               works would qualify. Yet many of these.
+               in turn, would not even be called
+               “crafts” by the purists in that field. Al-
+               though it is true that all this name call-
+               ing is a red herring, it makes me
+               wonder whether high art by another
+               name might be less intimidating and
+               more appealing. On the other hand
+               would high art by any other name look
+               so impressive, be so respected and so
+               commercially valued? I won’t try to
+               answer these weighted queries here, but
+               simply offer them as other ways of
+               thinking about some of the less obvious
+               aspects of the art of making.</p>
+              <p> Much has been made of the need to
+               erase false distinctions between art and
+               craft, “fine” art and the “minor” arts.
+               high” art and “low” art—distinctions
+               that particularly affect women’s art.
+               But there are also “high” crafts and
+               “low” ones, and although women wield
+               more power in the crafts world than in
+               the fine art world, the same problems
+               plague both. The crafts need only on
+               more step up the aesthetic and financi
+               respectability ladder and they will
+               headed for the craft museums rathe
+               than for people’s homes.</p>
+               <p>Perhaps until the character of the
+               museums changes, anything ending up
+               in one will remain a display of upper
+               class taste in expensive and doubtfully
+               “useful” objects. For most of this cen-
+               tury, the prevailing relationship be
+               tween art and “the masses” has been
+               one of paternalistic noblesse oblige
+               along the lines of “we who are educated
+               to know what’s correct must pass our
+               knowledge and good taste down to
+               those who haven’t the taste, the time,
+               or the money to know what is Good.
+               Artists and craftspeople, from William
+               Morris to de Stijl and the Russian Con-
+               structivists, have dreamed of socialist
+               Utopias where everyone’s life is im
+               proved by cheap and beautiful objects
+               and environments. Yet the path of the
+               Museum of Modern Art’s design de-
+               partment, also paved with good inten-
+               tions, indicates the destination of such
+               dreams in a capitalist consumer society.
+               A pioneer in bringing to the public the
+               best available in commercial design
+               the Museum’s admirable display of
+               such ready-mades as a handsome and
+               durable 39c paring knife or a 69c coffee
+               mug has mostly given way to installa
+               tions more typical of Bonnier’s, DR, or
+               some chic Italian furniture showroom.</p>
+               <p>It is, as it so often is, a question of
+               audience, as well as a question of cate-
+               gorization. (One always follows the
+               other.) Who sees these objects at
+               MOMA? Mostly people who buy 83.00
+               paring knives and 88.00 coffee muge
+               which are often merely “elevated” ex-
+               amples of the cheaper versions, with
+               unnecessary refinements or simplifica
+               tions. Good Taste is once again an eco-
+               nomic captive of the classes who rule
+               the culture and govern its institutions.
+               Bad Taste is preferred by those ingrates</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_066.jpg" n="66" xml:id="img_0066"/>
+            <p>
+               who are uneducated enough to ignore
+               or independent enough to reject the im-
+               positions from above. Their lack of
+               enthusiasm provides an excuse for the
+               aesthetic philanthropists, their hands
+               bitten, to stop feeding the masses.
+               Class-determined good/bad taste pat-
+               terns revert to type.</p>
+               <p>Such is the process by which both
+               design objects and the “high crafts
+               have become precisely the consumer
+               commodity that the rare socially con-
+               scious “fine artist is struggling to
+               avoid. Historically, craftspeople, whose
+               work still exists on a less exalted equi-
+               librium between function and com-
+               merce, have been most aware of the
+               contradictions inherent in the distinc-
+               tion between art and crafts. The dis-
+               tinction between design and “high
+               crafts is a modern one. Both have their
+               origins in the “low crafts of earlier
+               periods, sometimes elevated to the level
+               of “folk art” because of their usefulness
+               as sources for “fine art. A “designer
+               is simply the craftsperson of the techno-
+               logical age, no longer forced to do her-
+               his own making. The Bauhaus became
+               the cradle of industrial design, but the
+               tapestries, furniture, textiles and tea
+               sets made there were still primarily
+               works of art. Today, the most popular
+               housewares all through the taste gamut
+               of the American lower-middle to upper-
+               middle class owe as much stylistically
+               to the “primitive or “low crafts—
+               Mexican, Asian, American Colonial—
+               as to the streamlining of the interna-
+               tional style. In fact, popular design
+               tends to combine the two, which meet
+               at a point of (often spurious) simplic-
+               ity, and to become “kitsch —diluted
+               examples of the Good Taste that is hid-
+               den away in museums, expensive
+               stores, and the homes of the wealthy,
+               mnaccessible to everyone else.</p>
+               <p>The hobby books reflect the manner
+               in which Good Taste is still unarguably
+               set forth by the class system. Different
+               books are clearly aimed at different
+               tastes, aspirations, educational levels.
+               For instance, Dot Aldrich’s Creating
+               with Cattails, Cones and Pods is not
+               aimed at the inner city working-class
+               housewife or welfare mother (who
+               couldn’t afford the time or the mater
+               ials) or at the farmer’s wife (who sees
+               enough weeds in her daily work) but at
+               the suburban upper middle-class wom-
+               an who thinks in terms of “creating,
+               has time on her hands and access to the
+               materials. Aldrich is described on the
+               dust jacket as a garden club member, a
+               naturalist, and an artist; the book is il-
+               lustrated by her daughter. She very
+               thoroughly details the construction of
+               dollhouse furniture, corsages and
+               arrangements” from dried plants and
+               an occasional orange peel. Her taste is
+               firmly placed as good” within her
+               class, although it might be seen as
+               gauche “homemade art” by the upper
+               class and ugly and undecorative by the
+               working class.</p>
+               <p>Hazel Pearson Williams Feather
+               Flowers and Arrangements, on the
+               other hand, has the sleazy look of a
+               mail-order catalogue; it is one of a craft
+               course series and its fans, birdcages,
+               butterflies and candles are all made
+               from garishly colored, rather than na-
+               tural materials. The book is clearly
+               aimed at a totally different audience,
+               one that is presumed to respond to such
+               colors and to have no aesthetic appreci-
+               ation of the “intrinsic superiority of              
+               natural materials over artificial ones
+               not to mention an inability to afford
+               them.</p>
+               <p>The objects illustrated in books like
+               the Griffiths are neither high art nor
+               high craft nor design. Yet such books
+               are myriad, and they are clearly aimed
+               at women—the natural bricoleurs, as
+               Deena Metzger has pointed out. The
+               books are usually written by a woman.
+               and if a man is co-author he always
+               seems to be a husband, which adds a
+               certain familial coziness and gives him
+               an excuse for being involved in such
+               blatantly female fripperies (as well as
+               dignifying the frippery by his participa-
+               tion). Necessity is the mother, not the
+               father of invention. The home maker’s
+               sense of care and touch focuses on sew-
+               ing, cooking, interior decoration as
+               often through conditioning as through
+               necessity, providing a certain bond be-
+               tween middle-class and working-class
+               housewives and career women. (I am
+               talking about the making of the home,
+               not just the keeping of it; “good
+               housekeeping” is not a prerogative for
+               creativity in the home. It might even be
+               the opposite, since the “houseproud’
+               woman is often prouder of her house,
+               her container, than she is of herself.)
+               Even these days women still tend to be
+               brought up with an exaggerated sense
+               of detail and a need to be “busy, often
+               engendered by isolation within a par-
+               ticular space, and by the emphasis on
+               cleaning and service. A visually sen-
+               sitive woman who spends day after day
+               in the same rooms develops a compul-
+               sion to change, adorn, expand them, an
+               impetus encouraged by the “hobby
+               books.</p>
+               <p>The overdecoration of the home
+               and the fondness for bric-a-brac often
+               attributed to female fussiness or plain
+               Bad Taste can just as well be attributed
+               to creative restlessness. Since most
+               homemade hobby objects are geared to-
+               ward home improvement, they inspire
+               less fear in their makers of being self-
+               ish or self-indulgent, there is no
+               confusion about pretentions to Art, and
+               the woman is freed to make anything
+               she can imagine. (At the same time it is
+               true that the imagination is often stimu-
+               lated by exposure to other such work,
+               just as real” artists are similarly de-
+               pendent on the art world and the works
+               of their colleagues.) Making conversa-
+               tion pieces” like deer antler salad tongs
+               or a madonna in an abalone shell grot-
+               to, or a mailbox from an old breadbox,
+               or vice versa, can be a prelude to break
+               ing with the “functional” excuse and
+               the making of wholly “useless objects.</p>
+               <p>Now that the homebound woman
+               has a little more leisure, thanks to so-
+               called labor-saving devices, her pas-
+               times are more likely to be cultural in
+               character. The less privileged she is,
+               the more likely she is to keep her inter-
+               ests inside the home with the focus of
+               her art remaining the same as that of
+               her work. The better off and better
+               educated she is, the more likely she is to
+               go outside of the home for influence or
+               stimulus, to spend her time reading, go-
+               ing to concerts, theatre, dance, staying
+               well informed. If she is upwardly
+               mobile, venturing from her own con-
+               firmed tastes into foreign realms where
+               she must be cautious about opinions
+               and actions, her insecurity is likely to
+               lead to the classic docility of the mid-
+               dle-class audience, so receptive to what
+               experts” tell them to think about the
+               arts. The term culture vulture is un-
+               derstood to apply mainly to upwardly
+               mobile women. And culture, in the
+               evangelical spirit of the work ethic, is
+               often also inseparable from good
+               works.</p>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_067.jpg" n="67" xml:id="img_0067"/>
+            <p>
+               Middle- and upper-class women, al-
+               ways stronger in their support of “cul-
+               ture than any other group, seem to
+               need aesthetic experience in the broad-
+               est sense more than men—perhaps be-
+               cause the vital business of running the
+               world, for which educated women, at
+               least to some extent, have been pre-
+               pared, has been denied them, and
+               because they have the time and the
+               background to think—but not the
+               means to act. Despite the fact that mid-
+               dle-class women have frequently been
+               strong (and anonymous) forces for
+               social justice, the earnestness and
+               amateur status of such activities have
+               been consistently ridiculed, from the
+               Marx Brothers’ films to the cartoons of
+               Helen Hokinson.</p>
+               <p>Nevertheless, the League of Women
+               Voters, the volunteer work for under-
+               funded cultural organizations, the
+               garden clubs, literary circles and
+               discussion groups of the comfortable
+               classes have been valid and sometimes
+               courageous attempts to move out into
+               the world while remaining sufficiently
+               on the fringes of the system so as not to
+               challenge its male core. The working-
+               class counterparts are, for obvious
+               reasons, aimed less at improving the lot
+               of others than at improving one’s own,
+               and, like hobby art, are more locally
+               and domestically focused in unions,
+               day care, paid rather than volunteer
+               social work, Tupperware parties—and
+               the PTA, where all classes meet. In any
+               case, the housewife learns to take deri-
+               sion in her stride whether she intends to
+               be socially effective or merely wants to
+               escape from the home now and then
+               (families are jealous of time spent else-
+               where).</p>
+               <p>Women’s liberation has at least be-
+               gun to erode the notion that woman’s
+               role is that of the applauding spectator
+               for men s creativity. Yet as makers of
+               (rather than housekeepers for) art, they
+               still trespass on male ground. No won-
+               der, then, that all over the world, wom-
+               en privileged and/or desperate and/or
+               daring enough to consider creation out-
+               side traditional limits are finding an
+               outlet for these drives in an art that is
+               not considered “art, an art that there
+               is some excuse for making, an art that
+               costs little or nothing and performs an
+               ostensibly useful function in the bar-
+               gain—the art of making something out
+               of nothing.</p>
+               <p>If ones only known outlets are
+               follow-the-number painting or the
+               ready-made “kit art offered by the
+               supermarket magazines, books like the
+               Griffiths open up new territory. Sug-
+               gestions in “ladies and handiwork
+               magazines should not be undervalued
+               either. After all, quilt patterns were
+               published and passed along in the 19th
+               century (just as fashionable art styles
+               are in today s art world). The innova-
+               tive quilt maker or group of makers
+               would come up with a new idea that
+               broke or enriched the rules, just as the
+               Navajo rug maker might vary brilliant-
+               ly within set patterns (and modern ab-
+               stractionists innovate by sticking to the
+               rules of innovation).</p>
+               <p>The shared or published pattern forms
+               the same kind of armature for painstak-
+               ing handwork and for freedom of ex-
+               pression within a framework as the
+               underlying grid does in contemporary
+               painting. Most modern women lack the
+               skills, the motive and the discipline to
+               do the kind of handwork their foremothers did by necessity, but the stitch-
+               like mark” Harmony Hammond has
+               noted in so much recent abstract art by
+               women often emerges from a feminist
+               adoption of the positive aspects of
+               women’s history. It relates to the
+               ancient, sensuously repetitive, Penelo-
+               pean rhythms of seeding, hoeing, gath-
+               ering, weaving, spinning, as well as to
+               modern domestic routines.</p>
+               <p>In addition, crocheting, needlework,
+               embroidery, rug-hooking and quilting
+               are coming back into middle- and
+               upper-class fashion on the apron strings
+               of feminism and fad. Ironically, these
+               arts are now practiced by the well-off
+               out of boredom and social presure as
+               often as out of emotional necessity to
+               make connections with women in the
+               past. What was once work has now be-
+               come art or “high craft—museum-
+               worthy as well as commercially valid.
+               In fact, when Navajo rugs and old
+               quilts were first exhibited in New York
+               fine arts museums in the early 1970s,
+               they were eulogized as neutral, ungen
+               dered sources for big bold geometri
+               abstractions by male artists like Frank
+               Stella and Kenneth Noland. Had they
+               been presented as exhibitions of wom.
+               en’s art, they would have been seen
+               quite differently and probably would
+               not have been seen at all in a fine an
+               context at that time.</p>
+               <p>When feminists pointed out tha
+               these much-admired and strong
+               works were in fact women’s crafts,
+               one might have expected traditional
+               women’s art to be taken more seriously,
+               yet such borrowings from “below
+               must still be validated from above.
+               William C. Seitz’s Assemblage show
+               at the Museum of Modern Art in 1961
+               had acknowledged the generative role
+               of popular objects for Cubism, Dada
+               and Surrealism, and predicted Pop Art,
+               but he never considered women s work
+               as the classic bricolage. It took a man,
+               Claes Oldenburg, to make fabric sculp-
+               ture acceptable, though his wife, Patty
+               did the actual sewing. Sometimes men
+               even dabble in women’s spheres in the
+               lowest of low arts—hobby art made
+               from throwaways by amateurs at home.
+               But when a man makes, say, a maca-
+               roni figure or a hand-tooled Last Sup-
+               per, it tends to raise the sphere rather
+               than lower the man, and he is likely to
+               be written up in the local newspaper.
+               Women dabbling in men’s spheres, on
+               the other hand, are still either inferior
+               or just freakishly amazing.</p>
+               <p>It is supposed to be men who are
+               handy around the house, men who
+               fix things while women make the
+               home. This is a myth, of course, and a
+               popular one. There are certainly as
+               many women who do domestic repair.
+               as men, but perhaps the myth was de-
+               vised by women to force men to invest
+               some energy, to touch and to care about
+               some aspect of the home. The fact re-
+               mains that when a woman comes to
+               make something, it more often than not
+               has a particular character—whether
+               this originates from role-playing, the
+               division of labor, or some deeper con-
+               sciousness. The difference can often be
+               defined as a kind of positive frag-
+               mentation or as the collage aesthet-
+               ic—the mixing and matching of frag-
+               ments to provide a new whole. Thus the
+               bootcleaner made of bottlecaps sug
+               gested by one hobby book might also be
+               a Surrealist object.</p>
+               <p>But it is not. And this is not entirely a
+               disadvantage. Not only does the ama-
+               teur status of hobby art dispel the need
+               for costly art lessons, but it subverts the
+               intimidation process that takes place
+               when the male domain of “high” art is
+               approached. As it stands, women—and</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_068.jpg" n="68" xml:id="img_0068"/>
+            <p>
+               especially women—can make hobby art
+               in a relaxed manner, isolated from the
+               real” world of commerce and the pres-
+               sures of professional aestheticism. Dur-
+               ing the actual creative process, this is
+               an advantage, but when the creative
+               ego s attendant need for an audience
+               emerges, the next step is not the galler-
+               ies, but to become a cottage indus-
+               try. The gifte shoppe, the county or
+               crafts fair and outdoor art show circuit
+               is open to women where the high art
+               world is not, or was not until it was
+               pried open to some extent by the femin-
+               ist art movement. For this reason,
+               many professional women artists in the
+               past made both public art” (canvases
+               and sculptures acceptable to galleries
+               and museums, conforming to a combin-
+               ation of the two current art world
+               tastes) and private or closet art
+               (made for personal reasons or “just
+               for myself”—as if most art were not).
+               With the advent of the new feminism,
+               the private has either replaced or
+               merged with the public in much wom-
+               en’s art and the delicate, the intimate,
+               the obsessive, even the cute and the
+               fussy in certain guises have become
+               more acceptable, especially in feminist
+               art circles. A striking amount of the
+               newly discovered closet art by ama-
+               teur and professional women artists re-
+               sembles the chotchkas so universally
+               scorned as women’s playthings and
+               especially despised in recent decades
+               during the heyday of neo-Bauhaus
+               functionalism. The objects illustrated
+               in Feather Flowers and Arrangements
+               bear marked resemblance to what is
+               now called Women’s Art, including a
+               certainly unconscious bias toward the
+               forms that have been called female
+               imagery.</p>
+               <p>Today we are resurrecting our moth-
+               ers', aunts and grandmothers activi-
+               ties—not only in the well-publicized
+               areas of quilts and textiles, but also in
+               the more random and freer area of
+               transformational rehabilitation. On an
+               emotional as well as on a practical
+               level, rehabilitation has always been
+               women’s work. Patching, turning col-
+               lars and cuffs, remaking old clothes,
+               changing buttons, refinishing or re-
+               covering old furniture are all the
+               traditional private resorts of the eco-
+               nomically deprived woman to give her
+               family public dignity. This continues
+               today, even though in affluent Western
+               societies cheap clothes fall apart before
+               they can be rehabilitated and inventive
+               patching is more acceptable (to the
+               point where expensive new clothes are
+               made to look rehabilitated and thrift
+               shops are combed by the well-off).
+               Thus “making something from nothing” is a brilliant title for a hobby book,
+               appealing as it does both to housewifely
+               thrift and to the American spirit of free
+               enterprise—a potential means of mak-
+               ing a fast buck.</p>
+               <p>Finally, certain questions arise in re
+               gard to women’s recent “traditionally
+               oriented” fine art. Are the sources
+               direct—from quilts and county fair
+               handiwork displays—or indirect—via
+               Dada, Surrealism, West Coast funk, or
+               from feminist art itself? Is the resem-
+               blance of women’s art-world art to hob-
+               by art a result of coincidence? Of influ-
+               ence, conditioning, or some inherent
+               female sensibility? Or is it simply
+               another instance of camp, or fashion-
+               able downward mobility? The problem
+               extends from source to audience.</p>
+              
+               <p>Feminist artists have become far more
+               conscious of women’s traditional arts
+               than most artists, and feminist artists
+               are also politically aware of the need to
+               broaden their audience, or of the need
+               to broaden the kind of social experience
+               fine art reflects. Yet the means by which
+               to fill these needs have barely been ex-
+               plored. The greatest lack in the femin-
+               ist art movement may be for contact
+               and dialogue with those amateurs
+               whose work sometimes appears to be
+               imitated by the professionals. Judy
+               Chicago and her co-workers on The
+               Dinner Party and their collaboration
+               with china painters and needleworkers,
+               Miriam Schapiro’s handkerchief ex-
+               changes and the credit given the women
+               who embroider for her, the “Mother
+               Art” group in Los Angeles which per-
+               forms in laundromats and similar pub-
+               lic/domestic situations, the British
+               “Postal Art Event, and a few other ex-
+               amples are exceptions rather than the
+               rule. It seems all too likely that only in
+               a feminist art world will there be a
+               chance for the “fine arts, the minor
+               arts, crafts, and hobby circuits to
+               meet and to develop an art of making
+               with a new and revitalized communica-
+               tive function. It won’t happen if the
+               feminist art world continues to be ab-
+               sorbed by the patriarchal art world.</p>
+               <p>And if it does happen, the next ques-
+               tion will be to what extent can this work
+               be reconciled with all the varying cri-
+               teria that determine aesthetic quality
+               in the different spheres, groups, and
+               cultures? Visual consciousness raising,
+               concerned as it is now with female im-
+               agery and, increasingly, with female
+               process, still has a long way to go before
+               our visions are sufficiently cleared to
+               see all the arts of making as equal pro-
+               ducts of a creative impulse which is as
+               socially determined as it is personally
+               necessary; before the idea is no longer
+               to make nothings into somethings, but
+               to transform and give meaning to all
+               things. In this utopian realm, Good
+               Taste will not be standardized in
+               museums, but will vary from place to
+               place, from home to home.</p>
+            <p>
+               References: The Griffiths’ book was
+               published by Castle Books, NYC; the
+               Aldrich book by Hearthside Press, Great
+               Neck, N.Y.; the Williams book by Craft
+               Course publishers, Temple City, California.
+               I found all of them in the tiny local library in
+               a Maine town with a population of circa
+               three hundred.</p>
+               <p>The Hammond article appeared in
+               Heresies No. 1; her “Class Notes” in No. 3
+               are also relevant. The Metzger appeared in
+               Heresies No. 2 and is an important con-
+               tribution to the feminist dialogue on “high
+               and “low art. The British Postal Event, or
+               “Portrait of the Artist as a Housewife, is a
+               visual conversation” between amateur and
+               professional women artists isolated in dif-
+               ferent cities. They send each other art ob-
+               jects derived from “non-prestigious folk
+               traditions, art that is “cooked and eaten,
+               washed and worn” in an attempt to sew a
+               cloth of identity that other women may
+               recognize. It is documented in MAMA!, a
+               booklet published by a Birmingham collec-
+               tive and available from PDC, 27
+               Clerkenwell Close, London EC 1.</p>
+               <p>I have also been indebted in this series of
+               articles (which includes “The Pink Glass
+               Swan” in Heresies No. 1) to Don Celender’s
+               fascinating Opinions of Working People
+               Concerning the Arts, 1975, available from
+               Printed Matter, 7-9 Lispenard St., NYC
+               10013.</p>
+            <p>
+               Lucy R. Lippard writes feminist criticism and fiction
+               She has temporarily and regretfully escaped from the
+               HERESIES Collective to live on an isolated English
+               farm with her son and her third novel.</p>
+            
+        </div>
+      </body>
+  </text>
+</TEI>

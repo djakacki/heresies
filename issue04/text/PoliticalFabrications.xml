@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+                     <div>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_031.jpg" n="31" xml:id="img_0031"/>
+            <p>
+               Political Fabrications: Women’s Textiles in 5 Cultures</p>
+            <p>
+               We have been meeting collectively for many months, exploring the politi-
+               cal dimensions of women’s traditional artmaking. Our focus was on tex-
+               tiles and the women who made them from five cultures—Navajo, North-
+               west Coast Chilkat Indian, New Zealand Maori, pre-conquest Peruvian
+               and Western European. We wanted to clarify relationships between the
+               social/political position of women and the status of their textile making in
+               these societies.</p>
+            <p>
+               Jean Feinberg
+               Lenore Goldberg
+               Julie Gross
+               </p>
+            <p>
+               Bella Lieberman
+               
+               ug</p>
+            <p>
+               Elizabeth Sacre</p>
+            <p>
+               Our notion of collectivity began vaguely and was gradually clarified. We wanted to tolerate tensions and individual
+               voices. Even though each of us has contributed individually to this effort, what we wrote was the outcome of collec-
+               tive debate. This form has had everything to do with our content. Women’s history has been characterized by the
+               systematic denial of access to analytic modes of exploring situations. We joined a long tradition of women who
+               worked together offering each other support and intimacy. What we intensified was a critical and intellectual dimen-
+               sion which became, in time, indistinguishable from the emotional dimension.
+               The first part of this piece describes our filters—our articulation of the political dimensions of art and aesthetics and
+               our reasons for exploring women’s traditional arts. Our individual explications of women and textiles in five cultures
+               follow. We conclude with several theoretical speculations prompted by our research and our collective process.</p>
+            <p>
+               Toward a definition of the politics of art and aesthetics Women’s traditional art has
+               been defined as craft or “low” art. This ascribed status of women’s art is political. To understand why women’s art has been
+               considered in this way is a vital political act.
+               Aesthetics, theory making about art, has been given to us as though it were value-free, objective and not grounded in a par-
+               ticular historical moment. According to us, art and art theories are mediated by those groups who dominate the social sphere
+               and have greater access to power. In general, when Westem theorists have reported on traditional societies, their cultural anc
+               sexist biases have interfered. Thus, in order to understand what traditional art is, we are forced to state what it is not. It is not
+               the work of a formative period of culture, not a late or stagnant phase of development, not the work of children, naives or men-
+               tally ill people. It is not technologically crude or inept. Traditional arts have been considered all of these.
+               The Western notion of “primitivism” should not be confused with the artistic expression of fully developed cultures of the pre-
+               technological world. Within these cultures, although women’s art is skillfully made and present in all aspects of life, it has large-
+               ly been ignored by Westem theorists. Its artistic qualities have not been recognized and its possible meanings have not been ex-
+               plored.
+               Through our research we discovered another bias to be explored. Males within traditional cultures have, because of their politi
+               cal and social power, tended to define what is valuable in art. By becoming aware of how biases shape the formulation of
+               aesthetic theories, we can reveal the political nature of aesthetics.</p>
+            <p>
+               This content downloaded from
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
+               All use subject to https://about.jstor.org/terms</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_032.jpg" n="32" xml:id="img_0032"/>
+            <p>
+               Personal sources for our exploration
+               My interest in women’s traditional arts originated in a need to connect personally and historically with women who had the de-
+               sire to enrich utilitarian objects. Although relegated to forms of expression bounded by their homes and bodies, women engen-
+               dered works informed by an analytic and intuitive but not a High Art sensibility. I wanted to understand why the creative ex-
+               pression of women was usually channeled into crafts. Because I felt so connected to these works of art, 1 questioned that
+               designation altogether. In particular, 1 wanted to look behind the ephemeral appearance of lace to see what answers and par-
+               adoxes would be there.</p>
+            <p>
+               ar
+               B.L.
+               </p>
+            <p>
+               Because I am still struggling with the myth of male superiority in art, 1 was instinctively drawn to a women’s art form which em-
+               bodied a sensual, visual beauty. My incentive to investigate these textiles was generated by the barrenness which characterizes
+               the dehumanized products of modern technology. I questioned the place assigned to these domestic, utilitarian objects by male-
+               politicized aesthetics. If I could not find validation, I sought at least more factual information regarding their origins and the
+               context in which they were made and seen. I came to feel it was necessary to find female antecedents in art and that the lack of a
+               woman’s history cuts us off from our own dreams and aspirations. Without a knowledge of our own history, whether in this cul-
+               ture or others, we are limited in the extent to which we may excel.
+               SIF.
+               </p>
+            <p>
+               As an artist in this eclectic age, my interest in women’s traditional arts is filtered through exotic, romantic notions of other
+               cultures. 1 am interested in how cultural frameworks affect art and aesthetics. Primitive artists have been described as reflecting
+               the style of their culture rather than having an individual style. I wanted to explore that idea with particular reference to wom-
+               en. 1 wondered how women’s distance from the power centers of traditional cultures related to their styles of artmaking and
+               choices of materials. I questioned whether women artists had as their purpose the expression of their culture’s basic conserva-
+               tism or if they sought to change it.
+               o.
+               2</p>
+            <p>
+               My earliest responses to the traditional art of women were contradictory. I wanted to celebrate women who, despite natural and
+               man-made constraints, have been creative in the transformation of various media. 1 also wanted to understand the historical
+               forces that have tried to colonize women’s fantasies, limiting them in their choice of media, iconography and access to an audi-
+               ence, and how these limitations have related to restrictions in other spheres of their lives. A historical understanding of women
+               and art is prerequisite to a meaningful encounter with the contemporary culture of women.
+               DE.S.</p>
+            <p/>
+            <p>
+               Studying women’s artmaking in traditional societies, I had a sense that certain core needs were fulfilled by many kinds of activ-
+               ities, whether or not the product of these activities was called art or craft. Both categories seem to embody these needs—man-
+               ual/tactile, conceptual, creative/transformative—in the making as well as the experiencing of these objects. “Icing” a canvas or
+               icing a cake, shaping a bowl or painting flesh, weaving a blanket or looking to that blanket as inspiration, can all be seen as ex-
+               
+               amples of these needs in practice.
+               
+               J.G.
+               i</p>
+            <p>
+               Peru
+               In Peru textiles were produced as early as 2500 B.C. They served as
+               the major vehicle for abstract social and religious expression until the end of the Inca
+               state in 1532 A.D. Textile styles developed throughout the successive Peruvian cultures
+               of Paracas, Chavin, Nazca, Tiahuanaco-Wari, Chimu and Inca, and continue today.
+               For almost 5,000 years, until the Spanish conquest, Peruvian textiles enjoyed an
+               uninterrupted freedom from foreign influence. Thus a clear, strong indigenous style
+               evolved.
+               Most accounts attribute this activity to women by implicit assumption, not stating it
+               as actual fact, which suggests that to formally attribute to women a cultural legacy of
+               such artistry and expertise is to go out on a limb and to risk being dismissed as biased
+               and unscholarly. One prominent authority, in a classic essay on Peruvian textiles, indi-
+               cates the weaver’s sex only once by using the pronoun “she” to clarify a sentence at the
+               end of the article’s seventeen pages. However, reports and excavated artifacts exist circa 1400 A.D.</p>
+            <p>
+               Weaver’s work basket and spindles. Chancay Valley,</p>
+            <p/>
+            <p>
+               This content downloaded fron
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
+               All use subject to https://about.jstor.org/terms</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_033.jpg" n="33" xml:id="img_0033"/>
+            <p>
+               Fragment of Tiahuanaco tapestry shirt.</p>
+            <p>
+               which confirm that Peruvian spinning and weaving was predominantly a woman’s art.
+               Spindles, pottery and cloth dolls portraying women weavers (sometimes with a male
+               overseer) have been found at gravesites. Early Spanish chronicles and contemporary
+               accounts also describe women’s prevalent role as weavers.
+               The sandy soil and dry climate of coastal Peru have preserved ancient textiles well.
+               Despite extremely simple technology the level of manufacture was very high, with varia-
+               tions impossible to duplicate today on machine-powered looms. Peruvian spinners could
+               produce yarn of great fineness and consistency, measuring 1/250th of an inch in
+               diameter, thus enabling the weaver to produce a textile as tightly woven as 250 threads
+               per inch. These women dealt with more than a simple grid structure. Technical ingenu-
+               ity was shown in the variety of twined, embroidered and knitted threads creating rich
+               surfaces and detailed motifs. Patterning began about 1800 B.C. with the techniques of
+               brocade, tapestry, double-cloth and pattern weave being invented and often brilliantly
+               combined. Subtle and varied color combinations from vegetable and mineral dyes
+               existed from Paracas times onward.
+               Early cotton fabrics made by weft-twining were replaced when a loom with heddles
+               was introduced which expanded an annual production to tens of thousands of square
+               meters of textile and implemented the use of llama, alpaca and vicuna wool. Despite
+               their basic rectilinear shape, weavings were put to uses as varied as ponchos, mantles,
+               wall hangings and mummy wrappings. As much as 200 pounds of textiles, depending on
+               the person’s wealth, were accumulated for burials. In life as well as in death, possession
+               of fine textiles symbolized status. Sex, age, marital status and occupation were also
+               signified by wearing textiles of a certain color, size, material or motif.
+               Accounts after the Incan empire was conquered chronicled textiles’ social
+               significance. A wife’s desirability was measured by the quality of her weaving. Wives of
+               one household would compete as to who embroidered the best blanket. At Incan wed-
+               dings husbands gave brides a fine cloth to indicate their joint control of the new
+               household. Incan initiations required four clothing changes, to be woven in a single day
+               by the initiate’s mother and sisters.
+               A textile’s sacred quality was heightened by the compression and “density” of energy
+               in the garments being transferred to the wearer. Incan shrines of venerated female
+               ancestors included their spindles, handfuls of cotton and unfinished webs of tapestry as
+               offerings or for keeping fingers busy in the next world. These tools were protected in
+               case of an eclipse, when it was thought a comet would destroy the moon, a female sym-
+               bol. The spindles would then be in danger of turning into snakes, the looms into bears
+               and jaguars.
+               Throughout Peru’s history, the distinguished quality of tapestry tunics, mantles and
+               diaphanous gauzes made part-time weaving unlikely for those engaged in multiple
+               household duties. This indicates the existence of a class of specialist spinners, dyers and
+               weavers. All peasants under the Incan empire were required to work and weave for state
+               needs during two-thirds of the year. At first both men and women spun and wove to
+               satisfy their obligation to the state. Houses were organized for specialized guilds called
+               the aklla, weaving or “chosen” women. Aged or infirm men, exempted from mitta,
+               labor services, made ropes, slings, nets or sacks.
+               Under Spanish colonialism any artisan manufacture competing with goods of the
+               mother country was initially suppressed. The Spanish introduced a new weaving tech-
+               nology. Today men still use medieval Spanish looms, while Andean women hand spin
+               and weave on indigenous looms and follow original patterns, although their weavings
+               lack the earlier intricacy and subtlety. Factory-produced textiles are also manufactured.
+               A strong textile workers’ federation in the 1940s defended the rights of women, despite
+               the fact that female suffrage was not legal until 1955. This union caused Peru to be the
+               only country with a large textile industry to legally prohibit sex discrimination in wages.
+               The history of Peru documents a long tradition of superlative textile art made by
+               women. These works emerged as the product of traditional cultural values. Peruvian
+               weavers were ingenious and dexterous; they utilized natural materials sensitively in
+               what now seems a simpler and temporally slower reality. Within a society with rigidly
+               defined sex roles, women lacked many options. Weaving paradoxically served to focus
+               their vision and allowed their inner resources to be realized. Complexity and beauty
+               glow in the work, which resists grandiosity as false and alien. These works, in which
+               women wrapped and shaped the history of Peru, are true to themselves.
+               J.G.</p>
+            <p/>
+            <p>
+               This content downloaded from
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
+               All use subject to https://about.jstor.org/terms</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_034.jpg" n="34" xml:id="img_0034"/>
+            <p>
+               New Zealand Maori
+               In the beginning,
+               Rangi-nui (sky father) and Papa-tua-nuku (earth mother) embraced. Their love pro-
+               duced 70 supernatural beings who, embodied in natural phenomena, were everyday
+               deities. Tane, the oldest child, convinced his brothers and sisters to force their parents
+               apart so that the earth could have light. In this way he became the god of light and took
+               the form of the sun. Tane wanted to create a race of mortals for the earth, and he began
+               a wide search for uha, the female element. In his wandering, he reached the twelfth
+               heaven where he sought the aid of 1o, supreme god. lo’s attendants sent him to
+               Kurawaka, the pubic region of his mother Papa. There he created a woman from mud
+               and earth, breathing on the inanimate figure until she came to life.
+               Such myths simultaneously reflected and created the status and treatment of women
+               in New Zealand Maori society. Man was considered the sacred provider of life-giving
+               elements while woman was regarded as his profane, passive receptacle; men were
+               associated with life and strength, women with death and destruction. Female reproduc-
+               tive organs were called the “house of misfortune and disaster.” Distinctions between
+               men and women colored every aspect of life in Maori society: the right side of the body
+               was male and vital, the left female and degraded. These designations had tactical
+               implications in battle and were used to explain good and bad fortune. Women were ex-
+               cluded from access to esoteric knowledge and ceremonial rituals because they were not
+               tapu (sacred). Only highborn men could become tohunga (priests) and only tohunga
+               knew Io. Women knew only lo’s familiar manifestations. Nevertheless, women had
+               their own rituals: they greeted the reappearance of certain constellations—Pleiades
+               (Maori new year) and Canopus (first frost)—with song and dance. The moon, regarded
+               by women as their true husband, was similarly welcomed.
+               A distinct sexual division of labor began after birth when children were dedicated to
+               masculine and feminine roles. When the sacredness of an activity might be destroyed by
+               the presence of women, these tasks were done by men. When the sacredness of men
+               might be degraded by doing certain tasks, these were done by women. In practice, this
+               meant that men’s tasks were physically dangerous and seen as challenging: hunting,
+               open-sea fishing, tattooing and carving wood and greenstone. Women’s tasks followed
+               the rhythm of domesticity: collecting food, water and firewood, cultivating and pre-
+               paring flax, weaving and offering hospitality through singing and dancing.
+               Women’s decorative impulse found form in the taniko designed borders of the cloaks
+               they wove. Weaving was the last stage in a complicated, arduous, even painful process
+               which began with the cultivation of flax and continued through the scraping, plaiting,
+               pounding and rolling of flax fibers into twine. Girl children learned early that they were
+               destined to become weavers. As babies, their first thumb joint was bent outwards in
+               anticipation of certain tasks. As children, they played to the accompaniment of ditties
+               like: “The woman with nimble hands and feet, marry her; The woman who chatters,
+               cast her out” and “Who will marry a woman too lazy to weave garments?
+               By the age of nine or ten, girls began complex and ritualized training. They were
+               made tapu through a ritual, sitting inactive while a male instructor recited a charm.
+               They were then instructed to bite into the upper part of the right weaving stick which
+               was tapu (masculine). Until their first sampler was finished, they were not allowed to
+               communicate with anyone other than the priest or instructor. Eating sow thistle
+               removed the tapu.
+               Flax was woven on primitive looms consisting of two sticks in the ground. Taniko
+               elements included triangles, chevrons, diamonds and hourglass shapes; the predomi-
+               nant colors were red, black, white and yellow. Feathers were used decoratively in the
+               weaving of garments, kiwi feathers being highly valued, parrot feathers adding bright
+               color. Since they were inserted as the garment was woven, the overall pattern had to be
+               kept in mind. Sometimes, hard strips of flax were curled into tubular forms and hung
+               from a band. This produced a rattling sound during dancing, serving as the unique per-
+               cussive instrument in Maori culture.
+               Carving was forbidden to women; weaving was open to men. Women used only the
+               taniko patterns in their decoration. Men used the taniko patterns in carving a single
+               wallboard (heke tipi) high above the house porch, but typical male iconography directly
+               represented feared or revered aspects of their environment: stylized human figures,
+               mythic long-tongued sea monsters, lizards and ancestors. Even the more abstract male
+               patterns were related to such elements in their surroundings as sea waves, hammerhead
+               sharks, ferns and sand flounder.</p>
+            <p>
+               Elements of the Taniko design pattern used to
+               decorate the borders of woven cloaks.</p>
+            <p>
+               *14th to 19th century</p>
+            <p/>
+            <p>
+               This content downloaded from
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
+               All use subject to https://about.jstor.org/terms</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_035.jpg" n="35" xml:id="img_0035"/>
+            <p>
+               Both male and female designs were subject to strict rules;
+               although there were accepted evaluative criteria such as sym-
+               metry, rhythm and dramatic use of color, designs were not
+               copied and within formal constraints originality was ex-
+               pected. Although choices of material and iconography were
+               socially defined for both sexes, men enjoyed more latitude. If
+               art is that which approximates the autonomous, then there
+               was a curious freedom in the restricted iconography of wom-
+               en, since the abstract elements of taniko were not reality
+               dictated. But men could use taniko too. Since they also had
+               access to schools of weaving, even if they rarely exercised the
+               option, role flexibility was greater for them. Men’s political
+               and religious power enabled them to structure language and
+               assign values in Maori society. The actual reciprocity on
+               which the society was based was not acknowledged. Maori
+               mythology reinforced the ideology of male superiority which
+               devalued the tasks and art produced by women.
+               E.S.</p>
+            <p>
+               Maori women weaving.</p>
+            <p>
+               The Chilkat Norh ot Oregon,
+               south of Alaska, is a coastal area abundant with game, fish
+               and vegetation. Here in the late 18th and 19th centuries lived
+               a subgroup of the Tlingit tribe—the Chilkats. Their neigh-
+               bors were the Tshimshian, Kwakiutl and Haida, with whom
+               they traded, fought and intermarried.
+               Basic survival needs could be met with relative ease among
+               the Chilkats because of the lush environment. The Chilkat
+               society was a chiefdom, based economically on the redistri-
+               bution of goods within a network of family groups linkeo
+               through matrilineal descent. Resources were owned com-
+               munally, while special highly decorated objects were accum-
+               ulated to give prestige to heads of the individual clans.
+               Among these objects was a type of shawl or robe, popularly
+               referred to as a “blanket.
+               The story is told that a Chilkat bride of a Tshimshian chief
+               learned the art of making cedarbark dance aprons and leg-
+               gings. When she died, a dance apron was sent home to her
+               relatives, who unraveled it in order to understand how it was
+               made. They began then to make blankets in the same fash-
+               ion, although eventually they became far better-known as
+               weavers than the Tshimshian.
+               Blankets were woven with yarn spun from mountain-goat
+               wool with a core of yellow cedarbark twine. Men hunted the
+               goats and made the half-loom ; Women spun and dyed the
+               yarn black, blue, yellow and white from hemlock, copper
+               and vegetable dyes. In all instances women were the weav-
+               ers. They set up the loom and tied off the warp bundles to
+               form a shallow curve along the lower edge of the blanket.
+               While in certain cases they copied patterns painted on boards
+               by men, in others they designed their own weaving patterns.
+               There were two distinct styles of Chilkat blankets. The
+               first was abstract with chevrons, stripes, enclosing borders
+               and squares. This was the women’s style. The second, the
+               men s'style, was representational using signs or symbols for
+               man, animals and water life.
+               The abstract and representational styles shared many
+               characteristics. In addition to the unique curved shape of the
+               lower edge, the visual field in both is highly active and
+               extremely dense, although the mode of expression looks dis-
+               similar.
+               The male-style blankets reflected men’s foraging activities
+               through bilateral symmetry and x-ray and transparent por-
+               trayals of animal motifs. The blanket, organized by a central</p>
+            <p/>
+            <p>
+               panel and two flanking sides, was itself like a flayed animal
+               skin. Because of the Chilkat’s desire for design density, the
+               overlay of motifs sometimes made interpretation of the blan-
+               kets difficult, if not impossible. The animal characteristics
+               portrayed were often determined by a dream that the male
+               artist or the patron had. As designers of the representational
+               blankets, men brought their dreamlife into the waking world
+               as a record of their encounters with the supernatural. We
+               have no such record of the women’s dreams.
+               Women were prohibited from creating designs involving
+               life forms, so that while simultaneously producing men’s
+               blankets, women wove their own using a purely abstract de-
+               sign system. Variation of visual elements, contrast of yarn
+               color and variety of texture created blankets with strong
+               graphic and sensual impact. The geometric patterns with
+               alternating areas of linear density created a rhythmic varia-
+               tion which broke the uniformity of the field. Design in the
+               women’s style was even denser than in the men’s. By filling
+               the space from edge to edge, the weavers virtually eliminated
+               any illusion of shallow planar recession. Instead, they cre-
+               ated an advancing plane by the addition of wool and bark
+               fringes protruding from the body of the robes which empha-
+               sized the flatness and frontality of the surface conception.
+               Instead of the dreamlike meditations implied in the men’s
+               blankets, the female style was at once more accessible and
+               more reserved: accessible through the emphasis on the physi-
+               cality of the textile, reserved because of the impenetrability</p>
+            <p>
+               Male style blanket, The Chilkat Blanket, Emmons, circa 1907.</p>
+            <p>
+               This content downloaded from
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
+               All use subject to https://about.jstor.org/terms</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_036.jpg" n="36" xml:id="img_0036"/>
+            <p>
+               of the design. Because of the limited number of design ele
+               ments, the variation of combinations gave richness to the
+               weavings. Just as the women were not at the center of the
+               power hierarchy of the Chilkat clans, their art did not rely on
+               signs central to the culture. The limited motifs available to
+               women were indicative of the women’s position in relation to
+               the status quo, the fabric out of which the blankets were
+               created.
+               Both men’s and women’s blankets were highly valued and
+               were used in a variety of ceremonies. Given as dowry, along
+               with songs, dances and titles, they were commonly made for
+               the potlatch. Potlatch was integral to Chilkat life. These
+               were competitive ceremonies involving the distribution and
+               destruction of wealth. Blankets were often cut up and hand-
+               ed round or burned in vast quantities of salmon oil. Guests
+               sometimes collected pieces of blankets they received as gifts
+               and later reassembled them into new blankets, shirts or
+               dance aprons. In this way they created collage motifs and
+               symbols. The recipient was obliged to pay back the gift, pref-
+               erably with interest. Blankets therefore were a currency of
+               obligation. The Chilkats based their interpersonal relations
+               on desire for power and control, intense competition coupled
+               with a philosophy of conspicuous consumption. The many
+               social ceremonies in which the Chilkats demonstrated these
+               characteristics created an unending demand for prestigious
+               art objects, like the blankets. At some point in their history
+               the Chilkats began to support professional artists to meet
+               these needs. Partly as a result of the desire to consume or
+               destroy costly items, the Chilkats valued objects that were
+               very difficult to produce. The intricacy of the men’s style
+               blanket patterns made them more highly valued than the
+               women’s style; these considerations were central to the Chil-
+               kat ideas of aesthetic appreciation.
+               Men’s concerns were at the center of their society’s power</p>
+            <p>
+               in blankets by hunting and mytho-
+               ver, even though the women’s style did
+               motifs
+               emol
+               te the same access to the culture’s core con-
+               cerns, their blankets were highly regarded. The competitive
+               give-aways which commissioned the prestige-laden blankets
+               of both styles raised the weavers’ status. As European con-
+               tact increased, European standards infiltrated the Chilkat
+               community and affected the production of female-style blan-
+               kets. The increased demand for representational blankets,
+               sought after for their unique yet recognizable images, limited
+               the time the weavers had to produce their own type of textile.
+               It is partly as a result of this influence that the female-style
+               Chilkat blankets have received so little attention.
+               L.G.</p>
+            <p/>
+            <p>
+               This content downloaded from
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
+               All use subject to https://about.jstor.org/terms</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_037.jpg" n="37" xml:id="img_0037"/>
+            <p/>
+            <p>
+               Spider Woman instructed the Navajo women how to weave on a loom. The warp was
+               of spider web. There were crosspoles of sky and earth cords, warp sticks of sun rays, and healds of rock crystal and
+               sheet lightning. The batten was sun halo, and white shell made the comb. The four spindles were of flash lightning
+               with a whorl of turquoise, lightning with a whorl of abalone, a rain streamer with a whorl of white shell and zigzag
+               lightning with a whorl of coal.
+               —A Navajo Legenc</p>
+            <p>
+               l’he Navajos explained the origins of weaving through the myth of Spider Woman. As an art form weaving reflected a changing
+               Navajo culture and therefore serves as a valuable and permanent record. Through their vigorous design and color, and the
+               technical skill involved, Navajo blankets expressed women’s vision and artistry.
+               Blankets were woven for many needs, but were essentially used for clothing and warmth. Their other uses were as bedding, sad-
+               dle blankets and floor coverings for sitting. They were also used as doorways to Navajo homes, called hogans. The blankets
+               were secular, not ceremonial, textiles through which the women expressed a strong personal connection to the people using
+               them. Blankets represented, and perhaps symbolized through their design, the life of the wearer. When worn, the blanket s
+               linear design emphasized the verticality of a standing person. The wearing of blankets enlivened the environment, not only
+               visually, but also through the symbolic meanings of color. To the Navajo red meant Blessed Sunshine, white the East or Morn-
+               ing Light, blue the South which was cloudless, yellow the West or the Sunset and black the North where dark clouds originated.
+               Combinations evoked naturalistic images. For example, black vertical lines might represent rain, and on a yellow background,
+               the rain in the evening sky. Women followed certain traditional forms, but each weaver made her own interpretation and wove
+               the blanket herself. Individuality of the blankets was highly regarded; each weaver’s ideas and feelings could be expressed in
+               unique designs which were never repeated.
+               In Navajo society women historically have been greatly respected and thought the equal of men. Deep religiosity and mythology
+               permeated daily life, explaining natural phenomena and daily tasks, and creating their history. Woman was deified in Navajo
+               mythology as Changing Woman, a central figure who designed the hogans. By hanging her blankets as a doorway and designat
+               ing their colors as those of “Dawn, Sky Blue, Evening Twilight, and Darkness,” women connected the domestic, natural anc
+               religious spheres, a synthesis typical of Navajo life structure. Women headed the separate family units and managed thei
+               economic affairs. In this matrilineal society women’s participation in rituals and in political activities was considered essential.
+               Their chores included cooking, sewing, caring for the house and children, gathering wood, hauling water, butchering livestock
+               and herding the sheep from which they prepared the wool for their weaving. This preparation included shearing the wool anc</p>
+            <p>
+               Wedge-weave style in red, blue, and white. 76½“ X 611/. 1885-1895</p>
+            <p>
+               Eye-Dazzler in black, white, red, and green. 51“ X 74“. 1885-1895.</p>
+            <p>
+               This content downloaded fron
+               15 UTO
+               on Sat, 26 N
+               2022 19:00
+               pout.js</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_038.jpg" n="38" xml:id="img_0038"/>
+            <p>
+               carding, spinning and dyeing it. Frequently women built their own looms, which were set up outside in summer and inside the
+               hogan in winter. Looms were made of logs placed vertically and could be dismantled for transport from summer to winter graz-
+               ing grounds. The women designed and wove their blankets, without prior drawings, as their time and chores allowed.
+               The earliest-known examples of the Navajo blanket date from 1805. However, the first Navajos who migrated to the Southwest
+               United States in 1000 A.D. probably used tree and bark fibers. It was not until the fifteenth century, when Spanish livestock
+               was brought to the neighboring Pueblo Indians, that Navajo weaving changed significantly. Through trade and raids the Nava-
+               jo got sheep which provided the women with softer threads and the varying colors of natural fleece. Exposure to the weaving
+               techniques of the Pueblos in the late seventeenth century influenced Navajo weavers to experiment with new techniques and
+               develop a style of alternating bands of natural wool colors.
+               As dyes and yarns were obtained through trade, new colors began to be used. One of the earliest colors was a red whose source
+               was the unraveled, respun and rewoven threads of an English fabric called “bayeta,” imported by the Spaniards and traded to
+               the Pueblos. Because of their complexity and technical skill these “bayeta” blankets were reknowned among the Spanish and
+               other tribes. To own a Navajo blanket was considered a sign of honor.
+               Stylistic changes also occurred after contact with North American culture. In the 1860s the Navajos fought with and finally sur-
+               rendered to Kit Carson at Fort Sumner, where they were imprisoned for four years. Although conditions there were not good,
+               the Navajos assimilated many new influences. One of the dominant and most startling styles to come out of this period was the
+               “Eye-Dazzler,” so called for its interplay of expressive pattern and vivid color. This style, as well as others, showed the weaver’s
+               mastery in its finely spun wool, even and tightly woven texture, boldness and energy of design and subtlety in its skillful han-
+               dling and control. In relation to this highly developed artistic decísion-making Gladys Reichard, in Weaving a Navajo Blanket,
+               speaks of the weaver Atlnaba who “spends hours experimenting with the colors at her command . . . She may discard a dozen
+               greens and yellows before she accepts one.
+               Men and women in Navajo society used different aesthetic systems to filter and express their perceptions. Men’s art, unlike the
+               women’s, was religious. Sand paintings, whose powers were guarded in secret and destroyed after the ritual, used figurative im-
+               agery to summon the spirits and gain vicarious control over nature. Women’s art, however, was visible in everyday use. Women
+               employed a nonfigurative and abstract imagery, powerfully reflecting the desert landscape in which the Navajo lived, a land-
+               scape of horizontality, expansiveness, drama and vivid color. The strength of their aesthetic language and the power of its ex-
+               pressiveness reveal the great pride Navajo women felt in their social and economic importance and the value of their activities.
+               J.F.</p>
+            <p>
+               Lacemakers ol
+               Wearing and making lace was important
+               in Europe from the sixteenth through the
+               nineteenth centuries. Lace appears to us
+               today as a delicate and innocent fabric.
+               The world in which it existed was fai
+               from innocent, and despite its appear-
+               ance, lace and its history illustrate this
+               Like other luxuries, most lace could be
+               had only by the wealthy. The womer
+               who made it rarely benefited from it
+               While their products were coveted, they
+               worked under poor and sometimes haz-
+               ardous conditions. As symbols of status,
+               laces left the humble homes of lacemak-
+               ers to enter a world removed from their
+               lives.
+               
+               The two most highly prized laces were
+               Panel of Venetian bobbi
+               “needlepoint, which depended entirely
+               on the buttonhole stitch, and “bobbin,
+               in which thread was
+               woven, twisted and braided around bobbins. These laces were
+               made by women of all classes. Wealthier women made it for
+               recreation and because it befitted their roles as “cultivated
+               ladies.” Poorer women made it to sell. Lace made for personal
+               use contained any design of the woman’s imagination and
+               cultural heritage. Motifs included fantastical animals, birds,
+               human figures or religious scenes or symbols. Designs for com-
+               merce were more limited. They were usually created by male
+               patternmakers according to prevailing fashion, although com-
+               mercial lacemakers’ own interpretations were also highly
+               valued. Each country and region had indigenous designs, but
+               if lacemakers moved to new areas, they took their patterns and
+               drawings with them. Many towns were financially dependent
+               on this female industry despite the low wages paid.
+               The process of making lace was painstaking and required
+               close scrutiny. The thread was so fine that complicated means
+               were necessary to magnify it. Many lacemakers went blind by
+               the time they were thirty. Every effort was made to keep the
+               lace clean and delicate, mostly at the expense of the lace-
+               maker’s health. Öften thread spinning and lacemaking were
+               done in damp cellars to prevent the thread from becoming brit
+               tle and breaking. In winter lacemakers worked in lofts above
+               cowsheds for warmth so that the lace was kept away from</p>
+            <p>
+               Western Europe
+               smokey fireplaces. Its production was
+               time-consuming; a woman could spend
+               a whole year on a single piece of Valen-
+               ciennes. In 1855 Napoleon III ordered
+               a dress for Princess Eugenie which took
+               36 women 18 months to complete. Even
+               when not involved in such ambitious
+               projects, women might spend 12 to 15
+               hours each day making lace.
+               Lace was produced in whole pieces or
+               in parts depending on the design. Mak
+               ing separate parts entailed a division of
+               labor determined by specialization and
+               skill. Some women were better at mak-
+               ing the ground net, others at filling in
+               the flowers, etc. The most skilled
+               worker assembled the entire piece
+               the 17thc
+               To sell their work, lacemakers were
+               immersed in a cumbersome commercial process, called the
+               “facteur” or middleman system. A commercial house
+               (manufacturer) was represented by a facteur who, acting as
+               its agent, supplied lacemakers with patterns and raw mater-
+               ials on credit. Finished pieces were then sold to the facteur
+               who in turn resold them to the manufacturer. There was lit-
+               tle or no contact between lacemakers and manufacturers.
+               Facteurs were usually women—former lacemakers who
+               could supervise other lacemakers and who were counted on
+               to drive a hard bargain for the manufacturer. Since lace-
+               makers were totally dependent on facteurs for their work and
+               raw material, they were unable to bargain for better pay or
+               working conditions. Their only other option was to become
+               facteurs. The contradiction of this system is that through
+               personal advancement the women who became facteurs
+               helped to perpetuate the exploitation of their former peers.
+               For artistocratic women instruction in lacemaking pre-
+               pared them for futures as “noble ladies.” Poor girls were
+               taught at home, in convents or in charitable institutions.
+               Convents established apprenticeships where girls began thein
+               training at five and by ten were able to earn their keep. They
+               were taught lacemaking not to master an art but to make a
+               living. Women of both classes were denied the opportunity to
+               direct their own lives. The notion that women were suited to</p>
+            <p/>
+            <p>
+               This content downloaded from
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
+               All use subject to https://about.jstor.org/terms</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_039.jpg" n="39" xml:id="img_0039"/>
+            <p>
+               work which required patience and perseverance directly re-
+               sulted from the constraints imposed upon them by society.
+               Ironically most lacemakers did not benefit from the beauty
+               and romance of lace. In addition, their products became
+               symbols in a world in which they did not participate. Lace
+               was highly valued by the rich because it represented their po-
+               sition in society. Men boasted about how much land their
+               lace was worth; they appeared in ballrooms wearing as much
+               of it as they could. Women wore it as a reflection of their hus-
+               bands’ or fathers’ wealth. Lace became a nationalistic em
+               blem. Countries were highly competitive in its display and
+               production. Monarchs decreed that only their favorite native
+               laces could appear in court. Edicts were proclaimed banning
+               the use of foreign laces to protect home industries and black
+               markets involving smuggling and kidnapping developed to
+               undermine these laws. When lace designs were traded, they
+               were secretly guarded. When Belgium tried to prevent the
+               theft of lace imported from France, these designs were so cut
+               up when distributed to lacemakers that their entirety was un-
+               known to any individual woman. It was feared that a lace-
+               maker would attempt to smuggle or to sell the design.
+               Lace made by women for personal use was often kept by
+               their families which also preserved the memory of the
+               lacemakers. Lace made to sell was and is perceived as anony-
+               mous. Although most lacemakers remain unknown to us,
+               their art is silent witness to the arduous and creative work
+               which was their tradition.
+               B.L.</p>
+            <p>
+               English 19th c. bobbin pillow used in making bobbin lace.</p>
+            <p>
+               Speculations
+               Because art, its cre-
+               ation and the theories surrounding it are political, we have
+               placed the textile art made by women in traditional societies
+               into a cultural context, instead of simply considering the ar-
+               tifacts. We have explored aspects of women s art in each of
+               five cultures, relating them to women’s broader social iden-
+               tities. Our assumption that art dialectically reflects and con-
+               tributes to the creation of society was basic to our study and
+               revealed in our research.
+               Peruvian textiles were viewed as sacred; as such, women
+               making them performed this task as a ceremonial act of crea-
+               tion. Textiles reflected status within Peruvian culture, mak-
+               ing the weavers responsible for visibly defining differences of
+               rank
+               In Maori society women were considered nonsacred and
+               socially inferior. Activities like wood and greenstone carving
+               were forbidden to them. It was possible for men, on the other
+               hand, to weave and use women’s designs, although they
+               usually undertook women’s tasks only as instructors in weav-
+               ing schools where they initiated girls into the ritual, tech-
+               nique and aesthetics of weaving.
+               In Chilkat society, rank and privilege were inherited ma
+               trilineally, but women did not really own the titles passed
+               down to them by birthright. Instead, titles were given by
+               women’s fathers to their husbands at the time of marriage
+               The distinctions of female/male status can also be seen in
+               relation to blanket making. While men designed the repre-
+               sentational blankets, women executed their designs. Despite
+               a certain lack of legitimate power, women exerted covert
+               power as weavers by inserting disruptive motifs into the
+               spaces on and between male mythological designs. More im-
+               portantly, women designed and wove blankets which were
+               also highly valued by their culture, although not representa-
+               tional in style.
+               Women in Navajo society were well respected. Their
+               responsibilities and powers were equal to those of men.
+               Though it was possible for women to participate in the mak-
+               ing of religious art, they rarely did so, preferring to maintain
+               the female tradition of weaving. Their weaving used strong
+               abstract imagery. Their textiles were highly valued both in-
+               side and outside the tribe.
+               Class differences in Western Europe affected the produc-</p>
+            <p>
+               tion of lace. Wealthy women made it as part of their required
+               repertoire of ladylike leisure accomplishments. Poor women
+               made it for a living. Paradoxically, this afforded them a cer-
+               tain autonomy that richer women did not achieve, but this
+               autonomy did not extend to conceptual control over commer-
+               cial lace design.
+               Because our research has focused on particular aspects of
+               five cultures, we are not making universal claims. Rather we
+               have explored alternative ways of looking at and trying to
+               understand women and their products. These have included:
+               •working collectively in our research, discussions and
+               writing;
+               equestioning our information sources, particularly in
+               terms of their andro- and ethnocentrism;
+               •articulating our own filters, consistent with our conten-
+               tion that objectivity in research or interpretation is
+               neither possible nor even desirable.
+               We came to our project curious, confused, angry that even
+               within the already denigrated category of “traditional art,
+               women’s objects had often been overlooked or misrepre-
+               sented. We were ready to be sympathetic to the women
+               whose objects had attracted us to this research in the first
+               place.
+               But we wanted to avoid merely replacing one set of distort-
+               ing biases for another. We wanted to understand our curios-
+               ity, clarify our confusion, find the sources of our anger with-
+               out anachronistically using contemporary Western notions
+               like oppression of women to explain sex hierarchies. We
+               were wary of our sympathy for the objects and their makers
+               and did not wish to impose a simple translation of Western
+               definitions of art on to societies where art had a very different
+               meaning. All the speculations that follow should be read in
+               the context of these qualifications.
+               There is a contradictory freedom in the abstract style of
+               women s art in some of these cultures (Maori, Chilkat,
+               Navajo). Women’s iconography did not directly function in
+               the service of male religion and therefore was not subservient
+               to male mythology. The abstractness” of women’s art has
+               to be questioned. Men, investigating New Zealand Maori
+               male design, have taken great pains to discover that, though
+               abstract, this iconography is an exaggerated stylization of
+               natural objects in the Maori environment. Yet the literature</p>
+            <p>
+               This content downloaded from
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
+               All use subject to https://about.jstor.org/terms</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_040.jpg" n="40" xml:id="img_0040"/>
+            <p>
+               on women’s styles denies that their abstractions also have
+               meaning. Chilkat men designed their dreams into the blan-
+               kets woven by their women. Because their symbols have
+               been interpreted more than the designs of the women does
+               not negate the possibility that female abstractions have
+               symbolic meaning too. That the making of Navajo blankets
+               was embedded in the myth of Spider Woman and that their
+               colors and designs call to mind so evocatively the atmosphere
+               of the Navajo environment suggest the possibility of a latent
+               symbolism.
+               Even the claim that men have often tended to be the
+               designers and women the makers (of Chilkat blankets, of
+               lace) cannot be accepted at face value. In the Chilkat society
+               women challenged the constraints imposed by male designers
+               by inserting their own motifs. By the time lacemaking had
+               become an industry men were the acknowledged designers,
+               although the industry drew on the long tradition of cottage
+               lacemaking. Women had been sovereign over the whole pro-
+               cess, and undoubtedly many designs had their origins in
+               what women had been creating for centuries.
+               Though our focus has been on the female/male contradic-
+               tion, other forms of stratification existed in Peruvian, Maori,
+               Chilkat and European society. Status distinctions separated
+               women from each other as well as women from men. Lace
+               was made in the context of early capitalism in which old
+               feudal distinctions between the high and low born were giv
+               ing way to class structures. As lace was produced for com-
+               merce, the opportunity for some poor women to become
+               facteurs developed. This created additional inequalities in
+               income and status between lacemakers. In Maori society the
+               advantages of being a puhi or woman aristocrat (more elab-
+               orate clothing, ornamentation, responsibilities for organizing
+               entertainment) were tempered by restrictions, particularly
+               on her sexual freedom, her choice of husband and lovers.
+               The Chilkat social structure was stratified into chiefs, com-
+               moners and slaves; women occupied all three ranks. As has
+               been discussed, though rank was matrilineally inherited, the
+               women who owned titles tended, in turn, to be the property
+               of men. The Navajo society, where women enjoyed equality
+               with men and there was mutual respect between the sexes,
+               was not hierarchical. Apparently the more stratified a society</p>
+            <p>
+               Anderson, Johannes C., Maori Life in Ao-Tea. Christchurch, Wellington and Dunne-
+               din, New Zealand; Melbourne and London: Whitcombe and Tombs, 1907.
+               Averkieva, Julia. “The Tlingit Indians,” in Eleanor Leacock and O. Lurie, eds., North
+               American Indians in Historical Perspective. New York: Random House, 1971, pp.
+               317-342.
+               Benedict, Ruth, Patterns of Culture (with a new introduction). Boston: Houghton Mif-
+               flin, 1959
+               Bird, J., “Textile Designing and Samplers in Peru," in S. K. Lothrop. Essays in Pre-
+               Columbian Art and Archaeology. Cambridge: Harvard University Press, 1961, pp.
+               299-316.
+               Bird, J. and L. Bellinger, Paracas Fabrics and Nazca Needlework, Third Century
+               B.C.HA.D. Third Century. Washington, D.C.: Washington, D.C. Textile Museum.
+               1954.
+               Boas, Franz. Primitive Art. New York: Dover, reprint, 1955. Burnham, Jack, The
+               Structure of Art, New York: Braziller, 1971.
+               Chaplin, D., The Peruvian Industrial Labor Force. Princeton: Princeton University
+               Press. 1967.
+               Cowan, James, The Maoris of New Zealand. Christchurch, Wellington and Dunnedin,
+               New Zealand, Melbourne and London: Whitcombe and Tombs, 1910.
+               Cowan, James, The Maori People of New Zealand. New Zealand Government Pub-
+               licity Production, 1928
+               Denney G., and C. Osborne, eds., Textiles of Ancient Peru and Their Techniques.
+               Seattle: University of Washington Press, 1962
+               Dockstadter, Frederick J., “Indian Art in the Southwest.” in American Indian Art:
+               Form and Tradition. Minneapolis: Walker Center and Minneapolic Institute of Arts,
+               1972, pp. 63-69.
+               Drucker, Philip. Indians of the Northwest Coast. Garden City, N.Y.: Natural History
+               Press, 19
+               Fiske, P. L., ed., Irene Emery Roundtable of Museum Textiles. Washington, D.C.:
+               Washington, D.C. Textile Museum, 1974.
+               Fraser, Douglas, ed., The Columbia University Exhibition of Ancient Textiles from
+               Peru, the Central Coast. New York: Program of Advanced Studies at Graduate
+               Faculties, Columbia University, 1965.
+               Gayton, A. H., “Cultural Significance of Peruvian Textiles, Production, Function.
+               Aesthetics, in J. H. Rowe and Menzel, Peruvian Archaeology. Berkeley: Peek
+               Publications, Mountain View, CA. 1967.
+               Goldwater, Robert, Primitives in Modern Art. New York: Vintage Press. 1967.
+               Harris, Ann Sutherland and Linda Nochlin, Women Artists 1550-1950. Los Angeles
+               and New York: Los Angeles County Museum and Alfred A. Knopf, 1976.
+               Heuer, Berys, Maori Women. Wellington, Sydney, London: A. H. and A. W. Reed.</p>
+            <p>
+               is and the more its production depends on the existence of
+               castes and classes, the more likely it is that women in gen-
+               eral, and women in less prestigious groups in particular, will
+               be designated inferior in practice, ideology and myth.
+               What strikes us is that despite the potential of traditional
+               social structures to muffle and distort the artistic expression
+               of women, the effect on women’s artmaking was contradic-
+               tory. Conceptualizaton was separated from execution of de-
+               sign in Chilkat and Peruvian societies and, most extremely.
+               among employed lacemakers in Westemn Europe. The range
+               of media and motifs available to women was restricted in
+               Maori and Chilkat societies, and women’s art was designat-
+               ed as nonreligious in societies such as the Navajo and Maori
+               where religion was valued. Despite these limitations, wom-
+               en s textiles asserted themselves as beautiful art objects. Out
+               of this contradiction women invented a varied abstract visual
+               language. We are not attempting to resolve that contradic-
+               tion, which is a real one. It is not our point that the objects
+               women made were, or need to be, judged qualitatively as
+               equal, inferior or superior to those of men. What we are say-
+               ing is that we do not subscribe to these categorizations.
+               We cannot neglect the contexts, both real and ideological,
+               in which women s art has been made. Our critique questions
+               the social and political structures which created and perpetu-
+               ated discriminating hierarchies. By looking at traditional so-
+               cieties through our Western, female eyes, we can acknowl-
+               edge the biased quality of our interpretations. We can also
+               see how contemporary biases were anticipated by the dis-
+               criminatory attitudes toward women characteristic of the
+               cultures we have investigated.
+               We take for granted that women’s self-expression in tex-
+               tiles was artistic expression. Social structures and supporting
+               mythologies did have the potential to thwart creative needs
+               of women. What was important was women’s ability to
+               break codes, to play with format and to transcend limita-
+               tions. Women often had to subvert societal dictates in order
+               to gain access to a fundamental human need—that of artistic
+               self-expression. Any attempt to deny this need is a painful
+               form of oppression. That women in traditional societies have
+               been resourceful and spirited in challenging this must be
+               celebrated.</p>
+            <p>
+               James, George Wharton, Indian Blankets and Their Makers. McClurg. 1914.
+               Kahlenberg. Mary and Anthony Berlant, The Navajo Blanket. New York: Praeger,
+               Kellogg. Mrs. Charlotte (Hoffman), The Bobbins of Belgium. New York: Funk and
+               Wagnall, 1920.
+               King. M. E., Textiles and Basketry of the Paracas Period, Ice Valley, Peru. Tuscon:
+               University of Arizona Press, 1965.
+               Mead, C., Old Civilizations of Incaland. New York: Museum of Natural History, 1924
+               Murra, J.. “Cloth and Its Functions in the Inca State,” American Anthropologist, 64,
+               1962, pp. 710-728
+               Palliser, Mrs. Fanny (Marryat), The History of Lace. New York: Scribners Sons, 1902.
+               Paz, Octavio, Essay in In Praise of Hands, Contemporary Crafts of the World. Green-
+               wich. Conn.: New York Graphic Society, 1974, pp. 17-2
+               Phillips, W. J., Maori Life and Custom. Wellington, Auckland, Sydney: A. H. and
+               A. W. Reed, 1966.
+               Reichard, Gladys, Social Life of the navajo Indians. New York: Columbia University
+               Press, 1928.
+               Reichard, Gladys, Weaving a Navajo Blanket. New York: Dover, reprint, 1936
+               Schneider, Peggy, “Children of Changing Woman: Myth, Symbol, and Navajo Wom-
+               en." Exhibition at Wheelwright Museum, July 31-October 30, 1977.
+               Stafford, C. E., Paracas Embroideries. New York: Augustin, 1941.
+               Vreeland, J., “Ancient Andean Textiles, Clothes for the Dead,” Archaeology, 30 (3),
+               1977, pp. 166-178
+               Warble, Patricia, Victorian Lace. London: Praeger, 1968.
+               Wingert, Paul S., Primitive Art: Its Traditions and Style. Cleveland and New York:
+               World Publishing, 1962.</p>
+            <p>
+               Jean Feinberg is a painter living in New York City.
+               Lenore Goldberg is a New York painter involved with pattern and collage.
+               Julie Gross is an artist living in New York who teaches at Pratt New York Phoenix
+               School of Design.
+               Bella Lieberman does art and secretarial work in New York City.
+               Elizabeth Sacre, an Australian, is studying literature and education at Columbia Uni-
+               versity Teachers College.</p>
+            </div>
+      </body>
+  </text>
+</TEI>

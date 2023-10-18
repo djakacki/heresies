@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div>            
+   <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_096.jpg" n="96" xml:id="img_0096"/>
+            
+               <head><title>Nepal Hill Art and
+               Women's Traditions</title></head>
+            <byline>
+               Barbara Nimri Aziz</byline>
+            <p>
+               Chait Purnima, the full moon. Warm
+               spring air drifts through deep disap-
+               pearing valleys. It rustles across Kobek
+               village and reminds me a month has
+               passed since my arrival in this Hima-
+               layan hamlet. l’ve been studying econ-
+               omy and social change in eastem Nepal
+               for almost a year now.</p>
+               <p>It was during an earlier visit to do
+               anthropological work that 1 first began
+               to learn about the Limbu people. Ex-
+               ploitation of Limbu land rights by high
+               caste Brahmins had been well publi-
+               cized, and recently the Limbu had been
+               one of the few ethnic groups in the
+               country to criticize the government s
+               policy regarding minorities. 1 had also
+               heard about the economic independ-
+               ence and sparkle of Limbu women from
+               medics and development officers im
+               pressed by their culture, so 1 decided to
+               visit the region. It was easy for me to
+               include them in a comparative study of
+               three different ethnic groups, each one
+               living on a main north-south trade
+               route artery. I had already surveyed a
+               Sherpa community and a village com-
+               posed of Newar and Tamang farmers.
+               The Limbu are not only a different race
+               from the other two, but their rice culti-
+               vation and their culture are so different
+               that 1 often felt, living among them, 1
+               might easily be in North Burma or
+               Southeast Asia.</p>
+               <p>On my second day in the village, 1
+               moved into the house of a fairly pros-
+               perous Limbu family and arranged a
+               corner for myself in an empty hayloft
+               behind the main house. It gave me the
+               privacy I needed while allowing me to
+               be close to the family. As the weeks
+               passed, I found myself spending almost
+               all my time around the main house with
+               Danamaya and her family.</p>
+               <p>The house is one of a cluster of two-
+               story farmhouses on a steep hillside.
+               Lemon bushes and groves of bamboo
+               veil the next house, but we can hear
+               neighbors in their courtyards. Those
+               familiar sounds blur the boundaries be-
+               tween family and neighborhood. The
+               dark interiors of these mountain dwell-
+               ings are primarily used for cooking, for
+               sleep and for storage. No one works in-
+               side.</p>
+               <p>The busy routine of domestic work
+               proceeds on the veranda and in clean-
+               swept courtyards, fusing imperceptibly
+               with social life. It is here that villagers
+               stay through the pleasant, dry winter
+               months. But now, with the arrival of
+               spring, activity shifts from these ver-
+               andas to muddy fields on slopes above
+               and below the village. Early wheat
+               wants cutting, and the patchwork of
+               terraces must be softened so that tender
+               millet and rice sprouts will take hold.
+               At the time of the full moon, how-
+               ever, the fields are empty. People are
+               freed from agricultural labor for the
+               holiday and remain at home feasting
+               and visiting. Today, neighbors will
+               converge on our veranda. They know
+               we plan to make a special Limbu orna-
+               ment. Around the straw mat at our
+               door will sit the artisans of the village-
+               a team of women. All of them can
+               weave the Limbu tartan cloth and knot
+               straw mats. They are renowned brew-
+               ers of beer and spirits. The polishings
+               of rice and pressing of oil are but two of
+               their many skills in the preparation of
+               food.</p>
+               <p>I have invited these women to come
+               make a Limbu necklace, a naugiri, so
+               called because of its nine (nau) golden
+               jewels (giri) set among the mass of
+               beads arranged one by one by deft fin-
+               gers. Since my arrival in the hills of Ne-
+               pal, 1 have encountered a range of
+               peasant cultures: robust Sherpa herders
+               and farmers, the richest of the high-
+               land people; progressive Newar traders
+               and shopkeepers, many of whose
+               daughters are in school; Rai hill people.
+               a large ethnic group, also good farmers;
+               Magar villagers who seem impover-
+               ished by the standards of other groups
+               who are squeezing them out; Brahmin
+               and Chetri high caste people, frugal
+               and industrious, whose women
+               sometimes become ascetics and join
+               hermitages near their tropical shrines.
+               All of these people wear elegant, home-
+               made jewelry. Limbu women, however,
+               stand out for their industry, their bold-
+               ness, their assertiveness and their
+               pride. Their chunky naugiri necklace,
+               worn day and night, in the fields and at
+               weddings, typifies the general status of
+               these women; it has become, for me, a
+               symbol of their vigor, and one which I
+               want to take with me when 1 leave.
+               When 1 expressed interest in having
+               my own naugiri, Danamaya, my host,
+               and her friends were delighted. The
+               first question was where to get one for
+               me. 1 wouldn’t want an old one bought
+               from the bank, my friends assured me.
+               Those worn jewels have value only as
+               security against land purchase loans. I
+               must have a new one, they insisted. But
+               new necklaces cannot be purchased.
+               l’hey are not produced for a market. A
+               Limbu woman obtains her naugiri,
+               made especially for her by women in
+               her family, at the time of her marriage.
+               My surrogate family here in Kobek will
+               make mine.</p>
+               <p>I committed myself to this scheme
+               with the purchase of the basic material
+               -a thola (about a half ounce) of pure
+               gold costing 500 rupees (850) on the
+               Limbu market. I bought this from a vil-
+               lager recently returned from military
+               service in Malaya. Next, 1 was intro-
+               duced to the local goldsmith. His de-
+               crepit hut (on the outskirts of the vil-
+               lage because of his pariah caste) has a
+               second-story veranda. Here he fashions
+               jewels with his fingers and toes for the
+               constant stream of Limbu customers.
+               Over the course of a week 1 watched
+               him tap the worthless-looking lump of
+               metal 1 had entrusted to him into lus-
+               trous, paper-thin yellow sheets. The
+               precious metal was finding its beauty in
+               his experienced hands. Finally he
+               molded and engraved each of the nine
+               leaves of gold he had made into indi-
+               vidual jewels, knuckly and assertive.</p>
+               <p>Between each of these chunks, we
+               women will set thousands of glassy
+               green beads. 1 bought these at the
+               weekly market out of a dazzling array
+               of bangles and beads imported from In-
+               dia and sold by squatting vendors hud-
+               dled in rows, one beside the next, on
+               the floor of the market square. I also</p>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_0973.jpg" n="97" xml:id="img_0097"/>
+            <p>
+               bought red cloth from which to cut the
+               furry washers that will be set on both
+               sides of the gold. And finally, for the
+               rope on which to string all this, we cut
+               the yellow nylon cord from my back-
+               pack.</p>
+               <p>On the morning of Chait Purnima,
+               the essentials for our day’s work are
+               ready for our guests who will shortly
+               converge on our veranda mat. A five-
+               gallon pot of kodo (millet beer) sits
+               gurgling in the darkness of the house.
+               With it are six bottles of raxsi, a clear
+               ginlike drink distilled from fermented
+               kodo. The beer is not of as fine a qual-
+               ity as 1 would have liked—sweet and
+               aged for months in cool, sealed pots
+               such as 1 have had in the homes of
+               other women. Such kodo is not for sale;
+               it is for guests and a family’s own enjoy-
+               ment. What is sold is coarse and aged
+               for only a week. That is all we have to-
+               day, prepared by my host Danamaya
+               and sold to me for this occasion. Good
+               raxsi, customarily made for sale, is
+               more readily obtained. Danamaya sold
+               me three bottles; another three came
+               from a neighbor, glad to have cash be-
+               fore market day when she had expected
+               to sell this brew, glass by glass, at the
+               side of the road.</p>
+               <p>1 mention this trade for several rea
+               sons. First, it is an essential medium of
+               payment for the assembly of women
+               who will fashion this necklace. Second,
+               Limbu alcohols facilitate warm memor-
+               ies of time spent in the households. And
+               not least, the sale of liquor is an impor-
+               tant source of cash, the main means of
+               women’s marketing experience. Ex-
+               clusive brewers of this much appreci
+               ated product, these women (like other
+               hill women throughout Nepal) refine
+               their skills and compete for the cash
+               rewards.</p>
+               <p>Nowadays, much of the cash a per-
+               son accumulates is invested in new
+               fields and farming equipment. Never-
+               theless, jewelry retains its high value
+               and status. Women have a right to jew-
+               elry from a very young age. This right
+               comes through their family member-
+               ship and their economic contribution to
+               the household. A nose ring is a girl’s
+               first acquisition; she may be no more
+               than ten years old when she gets the
+               first band. Later, year by year, twirls of
+               gold are added to it, sometimes from
+               her own earnings, since children are
+               given goats to raise and can keep the
+               profits from their sale. So by the time
+               she is 18, a Limbu girl may have earned
+               enough to purchase her first gold ear-
+               rings. But the naugiri is a different
+               matter. It is acquired with womanhood
+               and marriage, a gift from her family at
+               the time of her betrothal.</p>
+               <p>Five women from our house initiate
+               the day’s work. Danamaya takes
+               charge from the outset by anchoring the
+               nylon rope. She must have done this
+               many times before. She rubs the loose
+               end of the rope in her palm and patient-
+               ly separates its single strands. Forty
+               five individual threads fan out in front
+               of her from her toe, which anchors the
+               knotted end. Each of us takes a single
+               strand, then sits around Danamaya.
+               We become a human loom fastened to-
+               gether by the strings from her toe. Thus
+               situated, Danamaya coordinates the
+               entire enterprise. She takes each bead-
+               ed string as it is filled and hands us an
+               empty thread in exchange.</p>
+               <p>Such a pivotal role is not new for this
+               sober woman who manages our entire
+               household. No one appears to object to
+               her leadership, a situation which strikes
+               me as strange since Danamaya does not
+               permanently reside here. It is true this
+               is her natal house. But Danamaya gave
+               up certain rights when she married and
+               took her dowry with her to another vil-
+               lage. This house is now her-maitighar
+               (maternal house) and Danamaya is a
+               visitor along with her baby girl, Deepa.
+               In Limbu culture, it is not uncommon
+               for women to bring their children to live
+               for months in their maitighar while
+               their young husbands go off to seek
+               work in the Indian and British Gurkha
+               forces. Danamaya has decided to do
+               this while her husband is away in the
+               army. 1 don’t know what he and her
+               mother-in-law think of it, but her own
+               family is much gratified by Dana-
+               maya s long visit.</p>
+               <p>We begin to string beads after our
+               morning meal. Soon Danamaya s
+               neighborhood friend, Lakshmi, joins
+               our circle, grasps a nylon thread and
+               becomes part of our loom. She holds
+               the thread taut and quietly feeds on the
+               little green bits, one by one. Lakshmi is
+               also visiting her maitighar in Kobek.
+               But unlike Danamaya, she does not in-
+               tend to return to her marriage house.
+               She had remained there, she told me,
+               only until her baby was born. The in-
+               fant is here with her, and she has no in-
+               tention of rejoining her husband, be-
+               cause, she says, she doesn t like him.
+               As long as she is welcome in her
+               maitighar, a Limbu woman in this
+               situation can divorce her husband. She
+               may also remarry. This is not Lak-
+               shmi’s concern at the moment. She has
+               joined us in our full moon project, a
+               group of women, each clutching a
+               string on this human loom, eyes fixed
+               on specks of green glass.</p>
+               <p>There is no relief. When one string is
+               completed and conversation dwells on
+               the tedious operation confronting us,
+               Danamaya interrupts our dawdling.
+               That’s enough, she orders. “Here,
+               give it to me. And she hands us an
+               empty string.</p>
+               <p>An hour passes. Finally Danamaya’s
+               left hand holds only a few bare threads.
+               In her other are the rest, threaded with
+               several inches of beads. We rush to
+               complete the remaining strands. With
+               all threads beaded, we can now fit on
+               the first knob of gold. First a cloth
+               washer of bright red is fed onto the
+               clump of threads, drawn together to
+               squeeze through. We sit back, de-
+               lighted as the golden knob shimmers its
+               way down the cord. Another disc of red
+               cloth fixes the gold in place. This is our
+               signal to reassemble around Dana-
+               maya. She resumes her anchoring posi-
+               tion and again separates the threads,
+               allocating one at a time to each of us.
+               We bend over our beadwork again.</p>
+               <p>The second section of the necklace
+               seems to take far less time to complete.
+               There are seven of us and we have es-
+               tablished a pace independent of any in-
+               structions. Soon the 45 threads are
+               equally full of green beads. Once again,
+               we relax while Danamaya tightens
+               them together and pulls on the red
+               washer, then the golden giri and
+               another band of red cloth. By now the
+               pattern of the necklace is apparent.
+               Sparkling glass beads, tiny and bright
+               green, then a red flash, the soft luster of
+               gold, red flash, a block of twinkling
+               green, red, another gold knob, red
+               again. Time for respite.</p>
+               <p>The first to move off our communal
+               mat is Ama, who disappears into the
+               darkness of the empty house to the
+               waiting hearth. She starts a fire from
+               red-hot coals nestled under ash. And
+               alone, she eases the pot of kodo onto
+               the rock grill. In seconds it is warm and
+               waiting for us. There is no invitation;
+               we simply rise and move inside, gather-
+               ing around the hearth. Danamaya
+               takes a ladle and stirs the brew, ready
+               to scoop out the steaming liquor.
+               In front of each of us Mylie sets a
+               small dish with a spoonful of black
+               spice. This is the pickle, achar, a sharp
+               lemony condiment which all Nepalis
+               enjoy with their alcohol. Next, we are
+               served a larger brass bowl with the
+               brew Danamaya has poured out. Some
+               of us drink this kodo; others take small
+               goblets of raxsi, also warmed to taste.</p>
+               <caption>This is Mylie, the only unmarried woman in our
+               household. The author had wanted to employ her
+               as a research assistant, but the family wouldn’t
+               agree, since it would mean the loss of its most val-
+               uable worker.</caption>
+
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_098.jpg" n="98" xml:id="img_0098"/>
+            
+               <caption>This woman, a widow, no longer wears the
+               naugiri, but she is very fond of her modernistic
+               silver ring which, she says, is an old design made
+               of very old metal. Silver is no longer valued as
+               adornment among these peasants.</caption>
+               
+               <p>I’m surprised," I remark. "My
+               friend, Monomaya is not yet here. She
+               told me she would certainly help with
+               my naugiri.</p>
+               <p>She’ll be here, murmurs Dana-
+               maya, as soon as raxsi is ready.
+               Hardly have we spoken than into the
+               darkness struts Monamaya. Her face is
+               that of a timid Oriental peasant, but
+               her bearing resembles that of a blust-
+               erer. She cheerfully notes our leisure
+               and sits down among us as Ama serves
+               her an immodest portion of raxsi. “Ah,
+               so you re going to have your own Lim-
+               bu jewlery, eh, eh?” says Monamaya
+               reaching over to take my cigarette. She
+               lights one for herself from the smold-
+               ering tip. “A sheep got loose and my
+               sisters and 1 spent the whole morning
+               chasing it home, complains the grin-
+               ning latecomer. Everyone takes a
+               drink.</p>
+               <p>People speak little about Monamaya
+               in my presence. They know she and 1
+               have become good friends since my ar-
+               rival in the village and they respect that
+               friendship. It is true Monamaya is a
+               social oddity. She doesn’t like to work
+               in the fields, an aversion which in this
+               rural community is interpreted as irre-
+               sponsibility and laziness. Monamaya is
+               also the only unmarried woman l’ve
+               met here. And she s the only villager
+               who walks alone like me on the three-
+               day trek to the nearest town. 1 was
+               never able to discover the reason for my
+               friend’s unpopularity; I continued to
+               like her raucous manner.</p>
+               <p>When we have drunk our fill, we all
+               return to the veranda and remain there
+               the rest of the afternoon, until all the
+               beading is complete. Monamaya joins
+               in and like the other workers she shows
+               no incapacity from the bowls of Limbu           
+               alcohol we have just consumed around
+               the fire. “Kodo and raxsi are nourish-
+               ment for us, explains Monomaya.
+               Without it, we can’t work; and when
+               we take it, we don’t need any other
+               food.</p>
+               <p>Our work force is now supplemented
+               by two elderly women of Salaka lineage
+               and therefore clanswomen of my hosts.
+               One of these is Buddhamaya, a tall,
+               dry-witted lady with aristocratic
+               features that glare from her heavily
+               wrinkled face. We make some space on
+               the mat and Danamaya hands her one
+               of the nylon threads. “Who is this for?
+               White Didi here, nodding at me.
+               (Didi is a widely used Nepali title em-
+               ployed as a term of respect for young
+               women, both strangers and friends.)
+               Buddhamaya continues. “Why do
+               vou want this? It is for poor farmers.
+               You should have solid gold pieces, here
+               here . . . here, stroking me and
+               indicating how the gold might encase
+               my head and arms like some Aztec-
+               Limbu warrior-princess. Even the
+               thought itself is an encumbrance.
+               No, no, Monamaya earnestly re-
+               plies. “White Didi is going to wear this
+               to the Chatrapeti festival next week,
+               and then she’Il take it with her back to
+               America. Everyone there will admire it.
+               And Didi will tell the Americans about
+               our poor land."</p>
+               <p>1 am silent, having already passed
+               many hours fruitlessly arguing with
+               these and other Nepal hill people about
+               the importance of their artistic tradi-
+               tions. 1 have not succeeded in convinc-
+               ing them that an important distinction
+               exists between our admiration and our
+               curiosity. They insist my interest is only
+               curiosity, and this naugiri will be pre-
+               sented as a curio to evoke discussion of
+               their culture, which will dwell on econ-
+               omics they believe we must interpret as
+               poverty.</p>
+               <p>I myself have always found it diffi-
+               cult to understand how these humble
+               farmers can afford such jewelry. A nau-
+               giri is the price of a good plowing bul-
+               lock, and while every woman wears a            
+               naugiri, less than ten percent of house-
+               holds possess a pair of oxen. This is
+               not, however, a case of naive peasants
+               investing only in precious objects. As I
+               have said, land is high-priced and peo-
+               ple work and save to buy and develop
+               new fields. The value of a naugiri is
+               hard to fix. Certainly one should not
+               compare the cost of a naugiri with that
+               of an ox. The naugiri is an obligatory
+               expense for every family, like wedding
+               feasts when each daughter marries. It is
+               an integral part of family social and ec-
+               onomic obligations.</p>
+               <p>Most Limbus are unable to say why
+               they value the naugiri so highly. To
+               them its meaning is a whole set of sent-
+               iments, deeply implanted, that 1 cannot
+               possibly understand, let alone share. It
+               is not my dowry. It does not mark my
+               marital status. Nor is it my personal in-
+               dulgence in ornaments because, as they
+               have already noted with some dismay, 1
+               don't wear earrings, bangles or
+               baubles. Nevertheless, they do want me
+               to take this piece of jewelry with me
+               when 1 leave. Curio or art, my Limbu
+               friends feel it is their gift to me, some-
+               thing that symbolizes our bond and the
+               cooperative spirit from our months to-
+               gether.</p>
+               <p>I want the naugiri because it has
+               come to symbolize for me the vigor of
+               Limbu womanhood. I like its coarse,
+               knuckly shape and its dull gold luster.
+               But 1 also see it as a beautiful object, a
+               true piece of art which in any circum-
+               stance, in any culture, retains its beau-
+               ty. It is this beauty that I admire. It is
+               in this respect that we discover a value
+               the Limbus and 1 do not share. To
+               them, this naugiri, while it is a well-
+               made object, is not particularly beauti-
+               ful. For them, an ornament’s beauty is
+               a direct function of its weight in gold.
+               This is a basic difference in our values.
+               And it is because of this that my inter-
+               est is seen as curiosity and not admir-
+               ation. This is probably the reason why
+               these people may eventually allow the
+               naugiri or a simpler imitation of it to be
+               produced for sale in the marketplace.</p>
+            <caption>
+               The gold disc earrings and naugiri were borrowed for this portrait since
+               the older women had passed theirs on to their married daughters while the
+               two young women, not yet married, were still to win theirs.</caption>
+               <p>For further reading: L.
+               Caplan, Land and Social
+               Change in.East Nepal,
+               Berkeley: University of
+               California Press, 1970;
+               B.N. Aziz, Tibetan
+               Frontier Families, Dur-
+               ham, N.C.: Carolina
+               Academic Press, 1978;
+               R. and S.K. Jones, The
+               Himalayan Woman,
+               Mayfield, 1976.</p>
+            <p>
+               Barbara Nimri Aziz is an an-
+               thropologist who lives and
+               teaches in New York City.</p>
+</div>          
+      </body>
+  </text>
+</TEI>

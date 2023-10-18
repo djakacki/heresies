@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_119.jpg" n="119" xml:id="img_0119"/>
+            <head><title>Kongo Pottery: Woman’s Art from Zaire </title></head>
+               <byline>Janet MacGaffey</byline>
+            
+            <p>The superb work done by some
+               African potters has been neglected as
+               an art form and, since pottery is fragile
+               and hard to transport, few examples of
+               their work appear in museums. Potters
+               among the Kongo people of Western
+               Zaire in Central Africa are women and
+               in the region in which I lived during the
+               course of anthropological fieldwork.
+               they make a matte black ware. Its pro-
+               duction continues to flourish in the face
+               of competition from factory-made pro-
+               ducts, although on a smaller scale than
+               in the past, because the potters have
+               adapted the form and function of thei
+               pots to changing social conditions.</p>
+               <p>One of these potters is Mayivangwa
+               Thérèse. Watching her making a pot
+               one is struck by her absolute absorption
+               and obvious satisfaction and enjoyment
+               in perfecting its shape and decorating
+               it. Sometimes she sings to herself as she
+               smoothes a surface or incises a hatched
+               band of decoration. Her meticulous
+               care in achieving a perfectly shaped pot
+               or delicately attached molded ornamen-
+               tation is the mark of a perfectionist and
+               her works are masterpieces of the pot-
+               ter’s art.</p>
+               <p>To reach her village, Mbanza Man-
+               teke, 1 found a local truck carrying
+               passengers and produce. The houses in
+               Manteke are strung along the road and
+               vary from cement block to adobe brick
+               to wattle and daub. Arriving in the vil-
+               lage on a hot afternoon I found Mayi-
+               vangwa sitting on a mat behind her
+               house making pots. She does not do this
+               every day since potting is a part-time
+               occupation that has to be fitted in with
+               all the other things a Kongo woman
+               does. Women produce and prepare all
+               the food—sowing, cultivating and har-
+               vesting the crops—as well as fetching
+               water and firewood, and caring for their
+               homes and children. When potting,
+               Mayivangwa works for most of the day.
+               making a number of pots in each of
+               several styles, drying and storing them
+               until she has a number suitable for
+               firing.</p>
+               <p>The village of Mbanza Manteke has
+               a population of 582. It is the seat o
+               local government for the district and
+               has a school, dispensary and the offices
+               of the mayor and police, but most of the
+               villagers are subsistence farmers with
+               little monev. The village is isolated
+               from town life with its stores and busi-
+               nesses, which is why Mayivangwa’s
+               pots are still in demand in the village
+               despite the influx into Zaire of ename
+               ware, cheap crockery and aluminum
+               pots and pans.</p>
+               <p>Traditionally pots were made for
+               purely utilitarian purposes; their decor-
+               ation and artistic merit varied accord-
+               ing to the talent and creativity of the
+               potter. Big conical vessels for cooking
+                  <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_120.jpg" n="120" xml:id="img_0120"/>
+               were set over an open fire on three
+               hearthstones; small bowls were used for
+               eating and drinking; small water car-
+               riers fit into a long, narrow, plaited
+               palm-frond basket carried from the
+               spring on a woman’s head; large jars
+               two feet high were kept in houses to
+               store and cool water.</p>
+               <p>A Kongo woman has a budget separ
+               ate from her husband’s; once she has
+               fed her family she can do what she
+               wants with the surplus produce of hei
+               fields and keep the proceeds if she sells
+               it. Likewise a potter keeps the money
+               she earns from selling pots.</p>
+               <p>Mayivangwa sells her pots for a
+               small sum in the village: in 1965 the
+               price was about 25 cents. Sometimes
+               she takes some to Kinshasa where thej
+               fetch about six dollars in the Ivor
+               Market, a big market in the city center
+               catering to tourists and the wealthy
+               The reason for the higher price in the
+               city is a change in the function of these
+               pots: from being considered purely util
+               itarian objects they are now in demand
+               in the city as items of traditional art
+               For some time Mayivangwa has been
+               making a number of purely ornamenta
+               pottery pieces, as well as the traditional
+               utilitarian forms, to cater to this new
+               art market. Some examples are shown
+               here: two elephants, a water pot in the
+               form of a chicken and a duck. They re-
+               flect the influence of European orna-
+               mental china animals that Mayivangwa
+               has seen in stores or that have been
+               brought home to the village by sailors.
+               but she has created her own African-
+               ized version, decorated with molded
+               snakes and lizards. These creatures
+               also appear on her water pots. Their
+               significance is that they are considered
+               by the Kongo to be mediators betweer
+               this world and the other world of the
+               dead: in Kongo cosmology water and
+               amphibians are believed to mediate be-
+               tween the two worlds.</p>
+               <p>At the National Fair in Kinshasa in
+               1970 some of Mayivangwa’s pitchers
+               and ornamental pieces were exhibited.
+               She had previously won prizes at sim-
+               ilar events. Hers were the only pots
+               from Lower Zaire in the exhibit; potters
+               of her ability are rare in this area.
+               Generally potters pass on their skills
+               to a relative. Mayivangwa is teaching
+               her sister who lives in Kinshasa. Thes-
+               Kongo women are adapting to industri
+               alization and urbanization by main-
+               taining traditional forms appropriate to
+               life today and responding creatively to
+               changing needs.</p>
+               <p>1 For a detailed description of potmaking and pots
+               see my article “Two Kongo Potters,” African Arts, Vol.
+               IX, No. 1 (October, 1975).</p>
+               <p>Janet MacGaffey is an anthropologist and teacher. Sh.
+               lived in Zaire for two and a half years and has a specia
+               interest in African art and literature. She lives in Haver-
+               ford, Pennsylvania</p>
+         </div>
+      </body>
+  </text>
+</TEI>

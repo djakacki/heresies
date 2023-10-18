@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_109.jpg" n="109" xml:id="img_0109"/>
+            
+               <head><title>Embroidery from the Northwest</title></head>
+               <byline>Zette Emmons</byline>
+               <p>In the 700,000 villages of India, the peasant woman is born into a set of prescribed rituals which she is responsible for maintaining and
+               transmitting. Traditional art is one form these rituals take; in Northwestern India, an area historically rich in all kinds of textiles, peasant
+               women embroider. A classification of textiles made in India for domestic use includes “skilled work of weavers and dyers, who work close to
+               large market towns; articles of luxury made under court patronage or in the court tradition; folk embroidery; and fabrics of the aborigina
+               tribes.”* The first two forms of production are dominated by male weavers and craftsmen working in a commercial structure. The fourth is
+               outside the mainstream of Indian village life, though folk embroidery draws upon many aboriginal antecedents which have become tangled
+               with Islamic and Hindu influences.</p>
+               <p>The depth of religious feeling and devotion that permeates Indian village life does not exist in the West in any comparable way, and it is fron
+               this regard for the deities that the impulse to create something beautiful and worthy seems to come. Outer and inner worlds are merged in a
+               relationship kept flowing and harmonious by the constant application of visible symbols and signs. Everything is part of everything else; there
+               is none of the “disconnectedness” that is so much a part of life in the West. When the woman embroiders, she is conscious of the decorativenes
+               of what she does, but she also has the satisfaction of honoring the world of the spirits residing in the plants and animals which she imitates in
+               thread. Even the poorest village woman is capable of making her life more bearable and secure by the application of decoration to her house on
+               herself. A Krishna proverb which applies to village women at work is—“I take the form desired by my worshippers.”2
+               Women wear blouses, full skirts and shawls, all heavily embroidered. They spend their spare time embroidering not only their own clothing
+               or trousseaus for their daughters, but also natis (children s headdresses), toranas (wall hangings), animal trappings and small bags for carrying
+               jewelry and other small items. To wear someone else’s clothing would be unthinkable. When the wearer dies or when a garment is worn out,
+               the old garment is cast off.</p>
+               <p>Patterns to be embroidered are drawn onto cloth, which is worked in flat sections and sewn together when finished. Chain, cross and but-
+               tonhole stitches cover the surface with patterns; satin stitching fills large areas with color. Small mirrors or pieces of mica are used extensively,
+               interspersed fancifully with the embroidery. Mirrors also decorate walls, furniture and even chicken coops. They are not only attractive.
+               flashing in the sun, but also frighten away demons.
+               In the designs of peasant women in all parts of India, the essences of the animals, flowers and gods are revealed, emphasized by repetition.
+               Dots, triangles and lines are arranged in panels surrounding abstracted symbols and objects. Even buses, bicycles and airplanes may be incor-
+               porated into the work. The sense of color is more pronounced in the Northwest than in any other part of India. Traditional dyes have been
+               derived from indigo, cochineal (red made from crushed insect bodies), iron filings (black), saffron and various other plants yielding yellows and
+               oranges. Pupul Jayaker of the All-India Handicrafts Board describes the emotional content for peasant women of the colors they use.</p>
+               <quote>Red was the color of Chunari, a tie-dyed sari, and was the symbol of sohog, the first days of marriage and love-play. It was
+               the garment worn by the Abhisarika, the young woman seeking in the darkness of night her waiting beloved. Saffron or
+               gerua was the color of Vasant, of spring, of young mango blossoms, of swarms of bees, of southern winds and the passionate
+               cry of mating birds. Maroon and black were the colors of mourning. Blue or nil, the color of indigo, was also the color of
+               Krishna, the cowherd child-god who bore the name of Navjaldhar—he who is of that color, that of the newly formed cloud,
+               dormant with the darkness that is rain. But there was another blue, Hari nil, or the color of water which is reflecting a clear
+               spring sky.</quote>
+               <p>Daughters learn embroidery from their mothers who teach not only the techniques but the mythology that provides much of the subject mat
+               ter for their images. Styles in the village gradually change according to the inclination of successive generations of artists and the impact of
+               cultures. Islamic influence is seen in the geometric mazes and flower patterns; the bright colors and looser flowing lines are Hindu in origin.
+               In the twentieth century industrialization has made inroads on every Indian village, no matter how remote. The survival of women’s arts,
+               especially embroidery is being threatened by the adoption of bright, mill-made cloth. Synthetic dyes have largely replaced traditional ones. Im-
+               itation printed or machine-sewn embroidery also appears now in place of the real thing. In recognition of this the All-India Handicrafts Board
+               has provided incentives for maintaining quality by turning some previously noncommercial arts into quality-controlled commodities. This
+               often has the opposite effect of the one intended, because the spark of life may go out of work produced for an unknown market whose needs
+               are irrelevant to the rural craftsperson. Gandhi believed that it was possible and desirable for India to return to a village-centered economy in
+               which the machine would be relegated to a minor role and the villager dictate the pace of life. Although his ideas are out of favor in present-day
+               India, there is still a sentimental longing for that kind of simplicity in which the drive to create and survive comes out of the soil. The peasant
+               woman holds on to the old ways for the time being, but there is no doubt that even she will become a victim, willing or not, of the changes that
+               have afflicted the West since the industrial revolution.</p>
+               <p>'John Irwin, Textiles and Ornaments of India (New York: The Museum of Modern Art, 1956), p. :
+               Anand, Mulk Raj, “The Hand and the Heart,” MARG (Bombay: Marg Publications, 1969), p. 6.
+               Irwin, p. 20.</p>
+            <p>
+               Zete Emmons vas born in San Francisco and studied at the University of California at Berkeley. She spent 1971-1972 in India documenting folk art on a grant from Berkeley and
+               presently lives in Kingston, R.I</p>
+</div>
+      </body>
+  </text>
+</TEI>

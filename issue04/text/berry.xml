@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_115.jpg" n="115" xml:id="img_0115"/>
+   <head><title>Quill Art</title></head>   
+   <byline>Carolyn Berry</byline>
+   <p>
+               Quillwork, the decoration of anima.
+               skins with dyed and natural porcupine
+               quills, was unique to North American
+               Indian culture and practiced only by
+               women. This art form probably origin-
+               ated in the Great Lakes area and the
+               surrounding woodlands. As white inva-
+               sion and colonization intensified, the
+               various tribes of corn farmers originally
+               inhabiting the area migrated west to the
+               Plains where eventually their culture
+               centered on buffalo hunting. The Chey-
+               enne were one such tribe who brought
+               with them women s ancient art of quill-
+               work.</p>
+               <p>A balance of power existed within
+               Cheyenne society. Chiefs were men,
+               but there were memories of women’s
+               holding this position. Cheyenne society
+               was matrilineal. Women owned the
+               tipis in which they lived with their hus-
+               band, daughters, daughters’ husbands
+               and unmarried sons. A wealthy man
+               could have more than one wife; fre-
+               quently sisters married the same man.
+               If the first wife didn’t approve of her
+               husband’s choice she could divorce
+               him, although she might commit sui-
+               cide (by hanging herself with her
+               braids). Chastity was highly honored;
+               girls and women wore the chastity rope.
+               Seduction and rape were extremely rare
+               (as was murder). Girls puberty was
+               celebrated ritually, and women main-
+               tained their own societies, traditions,
+               religious beliefs and secular position.
+               Sharing of work by women made possi-
+               ble the long hours necessary for such a
+               precise and painstaking art as quill-
+               work.</p>
+               <p>Quills, obtained from porcupines
+               which the men hunted, were removed
+               promptly, sorted into different sizes
+               and stored in bladder bags. The largest
+               and coarsest quills, taken from the tail,
+               were used in broad masses of embroid-
+               ery. Medium quills came from the back
+               of the animal and small ones from the
+               neck. The finest were taken from the
+               belly and were used for the most deli-
+               cate lines so noticeable in the exquisite
+               work to be found in early specimens.
+               After sorting, the quills were boiled
+               with natural dyes usually found locally,
+               although Cheyenne would travel great
+               distances to find plants needed for par-
+               ticular colors. Dye stuffs included
+               moss, stones, buffalo-berries, wild
+               grapes, cattails, oak bark and many
+               other barks, flowers and seeds. The in-
+               gredients and process were often kept
+               secret. Eventually quills were colored
+               with commercial dyes or soak-
+               Pair of quilled moccasins
+               ed with dyed trade cloth.</p>
+               <p>Quills were sewn onto skins Indian, Heye
+               tanned by the women; in this
+               Foundation
+               process, many days long, the
+               skin was stretched, scraped,
+               bleached, softened and
+               stretched once again. Tanning
+               tools were handed down by
+               women from generation to
+               generation. After tanning the
+               skins, the woman would cut
+               and shape the leather into the object
+               she intended to embroider with quills.</p>
+               <p>As she worked, the woman held a
+               supply of quills in her mouth to soften
+               them so they could be flattened. Since
+               they would split if punctured, quills
+               were held to the skin between rows of
+               stitches or with a stitch over each quill.
+               Sinew, dried black grass and fine roots
+               were used for sewing. The sinew thread
+               was kept moist except for one end,
+               which was licked, twisted and let dry to
+               stiffen. This was then threaded through
+               holes made in the hide with an awl. Ex-
+               tra sewing supplies were carried in a
+               quill-decorated purse trappers called
+               possible-sacks, in which women also
+               kept small ornaments, medicine, count-
+               ers for gambling, plum stones for the
+               seed game and clothes for small child-
+               ren.</p>
+               <p>Countless articles for daily and ritual
+               use were embroidered with quills: to-
+               bacco and tinder bags, work bags,
+               knife cases, cradles, burden straps,
+               moccasins, shirts, leggings, arm and leg
+               bands, robes, horse trappings, dresses,
+               deerskin rolls for braided hair, lodge
+               linings, stars for lodges, back-rests, pil-
+               lows, lodge sacks, flutes, saddles
+               combs, stick rattles for dancing and
+               ceremonial gift pipes.</p>
+               <p>The two distinct natural surfaces-
+               the soft tanned hide and the stiff col-
+               ored quills—made an extraordinary
+               and beautiful art form. The quills were
+               shiny, almost translucent, as if some
+               spirit of the animal remained. Later
+               when beads were used in many of the
+               ancient quill patterns, old people often
+               complained that they had no life, that
+               beads were dead. Though quills were
+               individually small, the mass of a rope
+               decorated with them was large and
+               glowing, colorfully accentuating the
+               wearer's movements.</p>
+               <p>Quillwork was not only beautiful but
+               conveyed important symbols. To a               
+               considerable extent each article de-
+               corated had a characteristic design
+               which bore some relation to the use of
+               the article or the attributes of its
+               owner.””3 A quilled bag for a baby to
+               handle was suspended from an elabo-
+               rately quilled baby-carrier. The bag               
+               contained the child’s umbilical cord
+               and was carried for her or his life on the
+               left side.</p>
+               <p>Some designs were specific to either
+               women or men. Turtle designs were
+               worn only by women. They were “used
+               on the yoke of a woman s dress and leg-
+               gings and at the head or side of the ba-
+               by-carrier or cradle . . . as a talisman.
+               The U-shaped design below the yoke of
+               the woman s dress represented the
+               breast of the turtle, the wing-like exten-
+               sions corresponding to the sides of the
+               shell. Used symbolically the turtle de-
+               sign had power over the diseases pecu-
+               liar to women and also over birth and
+               infancy.”</p>
+               <p>The red line, much used in both
+               quill and beadwork, was known as the
+               life span or the trail on which woman
+               travels, and was regarded as symbolic
+               of that portion of a woman s life during
+               which children may be born. Red lines
+               or stripes on articles used by women
+               were often associated with womens
+               functions and virtues and symbolized
+               the good life.”5 The face of a girl at her
+               first menstrual period was painted with
+               red lines (or she might be painted red
+               all over). Red lines around the edge of a
+               lodge indicated that people coming into
+               the camp would be fed by the women
+               living there.</p>
+               <p>In Cheyenne quillwork the majority
+               of designs were abstract. They “had
+               significance above specific happenings
+               and were related to religion. These de-
+               signs were composed of symbols which
+               followed the pure geometric forms
+               woman s art). Later they acquired a
+               protective connotation in which a cir-
+               cle, spiral or some other motif repre-
+               sented the power which would offer
+               magical aid or give comfort to the one
+               for whom the needlework was made.
+               Circles representing the ancient sacred
+               circle were used in both women’s and
+               men s'art. Women added quilled circles
+               to robes as holy protective objects.</p>
+               <p>In the art of the Cheyenne (and the
+               Sioux) a spiderweb design was quilled
+               onto a child’s robe by a medicine wom-
+               an as a symbol of power and future
+               well-being. Since a spider s work fre-
+               quently has been a metaphor for
+               women s weaving and embroidery, this
+               recurrent design may have had symbol
+               ic importance for the Cheyenne. The
+               analysis of women s iconography has
+               been overlooked in most descriptions of
+               their work, which also discount the
+               women s style as merely decorative
+               because it is abstract.</p>
+               <p>When Americans or others
+               commissioned an Indian woman to
+               quill or bead an object, they often
+               expected a replica of something
+               beautiful they had seen and ad-
+               mired. The showman Buffalo Bill
+               asked a famous Cheyenne woman,
+               “The Bead Woman, to make a dec-
+               orated shirt for him, but was unhap-
+               py with it because it was a floral de-
+               sign. When he ordered another one</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_116.jpg" n="116" xml:id="img_0116"/>
+            <caption>Woman with smoother, Mrs. E.C. Grinnell, Museum of the American Indian, Heye Foundation</caption>
+            <p>
+               from another Cheyenne woman he was
+               again disappointed. He was not aware
+               that “the Cheyenne designs are a sa-
+               cred trust that comes down the wom-
+               an’s line, to be used only for full-
+               bloods.</p>
+               <p>As quillworkers women participated
+               in creating ritually important objects.
+               They worked with the men in the crea-
+               tion of scalp shirts which held the hair
+               of enemies killed and horses wounded
+               in battle. Only the bravest men could
+               possess them, and only the most moral
+               women decorated them. Men hunted
+               the animal and women tanned the skin.
+               Men painted the shirt and women quill-
+               ed or beaded the panels with sacred de-
+               signs. Each did the work under strict
+               supervision of an honored person of
+               their sex who had done the work before
+               and was ritually approved.</p>
+               <p>Sacred quillwork was permitted only
+               to members of the Quillworkers Society
+               which, like the Women’s War Society,
+               consisted of the most courageous and
+               skilled women, known as Mon in i heo,
+               the selected ones.1° Quillwork “must be
+               done in prescribed ceremonial fashion.
+               and the (initiate must be taught to per-
+               form it by some member Jof the Socie-
+               tyj who had previously done the same
+               thing. The making and offering of such
+               a robe [or other item) in the prescribec
+               way secured the maker admission to the
+               Society of women who had done similar
+               things.”11 A candidate would announce
+               her intention to embellish a certain
+               item, usually to bring protection to a
+               child or warrior or to fulfill a sacred
+               vow. If the Society approved, a crier
+               announced the plan to the tribe.</p>
+               <p>The woman prepared a feast for
+               members of the Society. These individ-
+               uals reviewed past creations—the de-
+               signs and the circumstances—very
+               much as warriors recounted their
+               coups. After the feast an old woman
+               was asked to make the design for the
+               robe, which she drew on the skin with a
+               stick and white clay.12 Throughout the
+               long period of work to make the robe or
+               other objects there were many strict ob-
+               servances. If the woman made a
+               mistake in sewing, a brave man who
+               had counted many coups was called               
+               upon. Reciting his experiences, he slip-
+               ped his knife under the sinew to cut the
+               thread. The completion of the object
+               was announced by the crier of the Soci-
+               ety and ceremonies followed.</p>
+               <caption>Northern Cheyenne dress made of cloth with
+               cowrie and dentalium shells (Museum of the
+               American Indian, Heye Foundation)</caption>
+               <p>Cheyenne tradition respected the
+               Quillworkers Society whose “origins
+               were sacred, for their ritual and cere-
+               monies came from the Man who mar-
+               ried the Buffalo Wife. The traditions
+               concerning the Buffalo Wife are, in
+               turn, linked to the coming of the Sun
+               Dance ceremonies from the Buffalo
+               people themselves.13 Part of the
+               strength and power that enabled the
+               women to do the work emanated from-
+               the sacred bundle associated with the
+               Society." Their work was so important
+               that a warrior could count coups on a
+               completed work under certain condi-
+               tions.</p>
+               <p>Glass beads and woolen and cotton
+               cloth became valued trade items for the
+               Plains tribes. As early as 1595 Euro-
+               peans were considering what color
+               beads provided the best rate of ex
+               change.15 Women adopted beads for
+               traditional and innovated designs. By
+               1850 cloth was replacing skins for use
+               as robes or being combined with skin
+               on various articles.16 Quilling was the
+               preferred way to embellish highly religious objects, even after beadwork had
+               become popular.</p>
+               <p>Around the time the tribe was being
+               relocated in Oklahoma (Indian Ter-
+               ritory), many fine old pieces were trad-
+               ed for horses, especially when one
+               group, the Northern Cheyenne, started
+               returning to its native lands. Traders,
+               aware of how extraordinary these ob-
+               jects were, had begun to obtain them in
+               the mid-19th century and maybe earli-
+               er. It is remarkable that any of the fra-
+               gile quillwork survived the years of
+               warfare and relocations during which
+               the Cheyenne struggled for their very
+               existence as a culture. Because of the
+               reverence in which sacred quillwork
+               was held, skins decorated with ceremo-
+               nial symbols were handed down for
+               centuries from one generation to
+               another.1</p>
+               <p>Today Cheyenne women make bead-
+               work in the old way, but it is slow, as it
+               has always been. No one doubts its val-
+               ue or beauty, but the women say no one
+               will pay for the labor necessary to make
+               elaborate pieces with customary care.
+               Despite the difficulty for Cheyenne
+               women of obtaining materials and the
+               necessity of their selling work for in-
+               come, the Beadworkers Society still
+               sponsors women’s honored work, con-
+               tinuing traditional tribal values. Its ex-
+               istence reflects the strength of Chey-
+               enne women—particularly as a force
+               for maintaining their culture in the rap-
+               idly-changing world in which they now
+               live.</p>
+            <p>
+               William C. Orchard, The Technique of
+               Porcupine Quill Decoration among the Indi-
+               ans of North America (New York: Museum
+               of the American Indian, Heye Foundation,
+               1971 (1916)), p. 9.<lb/>
+               2 George Bird Grinnell, The Cheyenne
+               Indians, Vol. II (Omaha: University of Ne
+               braska, 1972), p. 245.<lb/>
+               3 Carrie H. Lyford, Quill and Beadwork
+               of the Western Sioux (Washington, D.C.:
+               U.S. Department of the Interior, Bureau of
+               Indian Affairs, Division of Education,
+               1940), p. 78.<lb/>
+               4 Lyford, p. 78.<lb/>
+               Ibid.<lb/>
+               Georgiana Brown Harkeson, American
+               Needlework (New York: Coward-McCann,
+               Inc., 1938), p. 7.<lb/>
+               Lyford, p. 78.<lb/>
+               Mari Sandoz, Cheyenne Autumn (New
+               York: MoGraw-Hill, 1953), p. 180.<lb/>
+               Peter J. Powell, “The Enduring Beauty
+               of Cheyenne Art, The American West, Ju-
+               ly 1973, p. 9.<lb/>
+               10 Grinnell, Vol. I, p. 168.<lb/>
+               11 Grinnell, Vol. I, p. 160.<lb/>
+               12 Grinnell, Vol. I, p. 163.<lb/>
+               13 Powell, p. 9.<lb/>
+               14 Harkeson, p. 3.<lb/>
+               15 Lyford, p. 66 and p. 37.<lb/>
+               16 Sandoz, p. 36.<lb/>
+               17 Harkeson, p. 7.</p>
+            <p>
+               Carolyn Berry is an artist and writer. She directs a
+               sheltered workshop for handicapped adults in Monterey,
+               California.
+               113</p>
+</div>
+      </body>
+  </text>
+</TEI>

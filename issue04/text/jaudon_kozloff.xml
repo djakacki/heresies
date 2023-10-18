@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+           <div>          
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_041.jpg" n="41" xml:id="img_0041"/>
+            <p>
+               
+               "ART HYSTERICAL NOTIONS"
+               OF TROORESSANDCULIURE
+               Valerie Jaudon and Joyce Kozloff</p>
+            <p>
+               ZIs feminists and artists exploring the decorative in our own paintings, we were curious about the pe-
+               jorative use of the word “decorative” in the contemporary art world. In rereading the basic texts of
+               Modern Art, we came to realize that the prejudice against the decorative has a long history and is based on
+               hierarchies: fine art above decorative art, Western art above non-Western art, men’s art above women’
+               art. By focusing on these hierarchies we discovered a disturbing belief system based on the moral super
+               iority of the art of Western civilization.
+               We decided to write a piece about how language has been used to communicate this moral superiority
+               Certain words have been handed down unexamined from one generation to the next. We needed to take
+               these words away from the art context to examine and decode them. They have colored our own history
+               our art training. We have had to rethink the underlying assumptions of our education.
+               Within the discipline of art history, the following words are continuously used to characterize what has
+               been called “high art”: man, mankind, the individual man, individuality, humans, humanity, the human
+               figure, humanism, civilization, culture, the Greeks, the Romans, the English, Christianity, spirituality,
+               transcendence, religion, nature, true form, science, logic, purity, evolution, revolution, progress, truth,
+               freedom, creativity, action, war, virility, violence, brutality, dynamism, power and greatness.
+               In the same texts other words are used repeatedly in connection with so-called “low art”: Africans,
+               Orientals, Persians, Slovaks, peasants, the lower classes, women, children, savages, pagans, sensuality,
+               pleasure, decadence, chaos, anarchy, impotence, exotica, eroticism, artifice, tattoos, cosmetics, ornament,
+               decoration, carpets, weaving, patterns, domesticity, wallpaper, fabrics and furniture.
+               All of these words appear in the quotations found throughout this piece. The quotations are from the
+               writings and statements of artists, art critics and art historians. We do not pretend to neutrality and do not
+               supply the historical context for the quotations. These can be found in the existing histories of Modern Art.
+               Our analysis is based on a personal, contemporary perspective.</p>
+            <p>
+               66</p>
+            <p>
+               WAR AND VIRILITY
+               Manifestoes of Modern Art often ex-
+               hort artists to make violent, brutal
+               work, and it is no accident that men
+               such as Hirsh, Rivera, and Picasso like
+               to think of their art as a metaphorical
+               weapon. One of the longstanding tar
+               gets of this weapon has been the decor
+               ative. The scorn for decoration epito-
+               mizes the machismo expressed by Le
+               Corbusier, Gabol Pevsner and Marin-
+               etti/Sant’Elia. Their belligerence may
+               take the form of an appeal to the ma
+               chine aesthetic: the machine is idolized
+               as a tool and symbol of progress, anc
+               technological progress is equated with
+               reductivist, streamlined art. The in
+               stinct to purify exalts an order which is
+               never described and condemns a chaos
+               which is never explained.</p>
+            <p>
+               Joseph Hirsh, from “Common
+               Cause,” D.W. Larkin, 1949
+               “The great artist has wielded his ar
+               as a magnificent weapon truly
+               mightier than the sword . . .
+               Diego Rivera, “The Revolutionary
+               Spirit in Modern Art,” 1932:
+               “want to use my art as a weapon.
+               Pablo Picasso, “Statement about the
+               Artist as a Political Being,” 1945.
+               “No, painting is not done to decorate
+               apartments. It is an instrument of
+               war for attack and defense againsi
+               the enemy.
+               Le Corbusier, “Guiding Principles
+               of Town Planning,” 1925:</p>
+            <p>
+               This content downloaded fron
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UT(
+               All use subject to https://about.jstor.org/terms</p>
+            <p>
+               “Decorative art is dead. . . . An im-
+               mense, devastating brutal evolution
+               has burned the bridges that link us
+               with the past.
+               Naum Gabo and Antoine Pevsner,
+               “Basic Principles of Constructiv
+               ism,” 1920:
+               “We reject the decorative line. We
+               demand of every line in the work o,
+               art that it shall serve solely to define
+               the inner directions of force in the
+               body to be portrayed.
+               Filippo Tommaso Marinetti and An-
+               tonio Sant’Elia, “Futurist Architec-
+               ture,” 1914:
+               “The decorative must be abolished
+               .. . Let us throw away monuments
+               sidewalks, arcades, steps; let us sink</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_042.jpg" n="42" xml:id="img_0042"/>
+            <p>
+               squares into the ground, raise the
+               level of the city.
+               El Lissitsky, “Ideological super-
+               structure, 1929:
+               “Destruction of the traditional...
+               War has been declared on the aes-
+               thetic of chaos. An order that has en-
+               tered fully into consciousness is
+               called for.
+               “Manifesto of the Futurist Paint-
+               ers, 1910:
+               “The dead shall be buried in the
+               earth’s deepest bowels! The thresh-
+               old of the future will be free of
+               mummies! Make room for youth, for
+               violence, for daring!</p>
+            <p>
+               PURITY
+               In the polemics of Modern Art, pur-
+               ity represents the highest good. The
+               more the elements of the work of art are
+               pared down, reduced, the more visible
+               the purity. Here Greenberg equates
+               reductivism with rationality and func-
+               tion. But it is never explained why or
+               for whom art has to be functional, nor
+               why reductivism is rational. Among
+               artists as diverse as Sullivan, Ozenfant
+               and de Kooning, we found the sexual
+               metaphor of “stripping down art and
+               architecture to make them nude or
+               pure. The assumption is that the art-
+               ist is male, and the work of art (object)
+               female.
+               99
+               66
+               Clement Greenberg, “Detached Ob-
+               servations, 1976:
+               “The ultimate use of art is construed
+               as being to provide the experience of
+               aesthetic value, therefore art is to be
+               stripped down towards this end.
+               Hence, modernist functionalism,
+               essentialism’ it could be called, the
+               urge to purify’ the medium, any
+               medium. Purity’ being construed as
+               the most efficacious, efficient,
+               economical employment of the me-
+               dium for purposes of aesthetic
+               value.
+               Louis Sullivan, “Ornament in Archi-
+               tecture, 1892:
+               it would be greatly for our aes-
+               thetic good, if we should refrain
+               from the use of ornament for a per-
+               iod of years, in order that our
+               thought might concentrate acutely
+               upon the production of buildings
+               well formed and comely in the
+               nude.</p>
+            <p>
+               Amédée Ozenfant, Foundation
+               Modern Art, 1931:
+               “Decoration can be revolting, but a
+               naked body moves us by the har-
+               mony of its form.
+               Willem de Kooning, “What Abstract
+               Art Means to Me, 1951:
+               “One of the most striking of abstract
+               art’s appearance is her nakedness,
+               an art stripped bare.</p>
+            <p>
+               PURITY IN ARTASA
+               HOLY CAUSE
+               Purity can also be sanctified as an aes-
+               thetic principle. Modern artists and
+               their espousers sometimes sound like
+               the new crusaders, declaring eternal or
+               religious values. A favorite theme is
+               that of cleansing art. The ecclesiastical
+               metaphor of transcendence through
+               purification (baptism) is used to uphold
+               the “Greek tradition (as in the van de
+               Velde quotation) or the “Christian
+               tradition (as in the Loos quotation).
+               Cleansing and purification are some-
+               times paired with an exalted view of the
+               artistas a god, as in Apollinaire s' desire
+               to “deify personality.
+               99
+               66
+               Henry van de Velde, “Programme,
+               1903:
+               As soon as the work of cleansing
+               and sweeping out has been finished
+               as soon as the true form of things
+               comes to light again, then strive with
+               all the patience, all the spirit and the
+               logic of the Greeks for the perfec-
+               tion of this form.</p>
+            <p>
+               Adolf Loos, “Ornament and Crime,
+               1908.
+               “We have outgrown ornament; we
+               have fought our way through to free-
+               dom from ornament. See, the time is
+               nigh, fulfilment awaits us. Soon the
+               streets of the city will glisten like
+               white walls, like Zion, the holy city.
+               the capital of heaven. Then fulfil-
+               ment will be come.</p>
+            <p>
+               Guillaume Apollinaire, The Cubist
+               Painters, 1913:
+               “To insist on purity is to baptize in-
+               stinct, to humanize art, and to deify
+               personality.</p>
+            <p>
+               This content downloaded from
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
+               tto https://about.jstor.org/terms</p>
+            <p>
+               THE SUPERIORITY OF
+               WESTERN ART
+               Throughout the literature of Western
+               art there are racist assumptions that de-
+               value the arts of other cultures. The an-
+               cient Greeks are upheld as the model,
+               an Aryan ideal of order. Art in the
+               Greco-Roman tradition is believed to
+               represent superior values. Malraux
+               uses the word “barbarian and Fry the
+               word savages to describe art and art
+               ists outside our tradition. The non-
+               Western ideals of pleasure, meditation
+               and loss of self are clearly not under-
+               stood by the exponents of ego assertion,
+               transcendence and dynamism.
+               66
+               99
+               David Hume, “Of National Charac-
+               ters (on Africans), 1748:
+               “There scarcely ever was a civilized
+               nation of that complexion nor even
+               any individual, eminent either in ac-
+               tion or speculation. No ingenious
+               manufactures amongst them, no
+               arts, no ściences.
+               Roger Fry, “The Art of the Bush-
+               men, 1910:
+               “. . . it is to be noted that all the peo-
+               ples whose drawing shows this pe-
+               culiar power of visualization (sen-
+               sual not conceptual) belong to what
+               we call the lowest of savages, they
+               are certainly the least civilizable,
+               and the South African Bushmen are
+               regarded by other native races in
+               much the same way that we look
+               upon negroes.
+               André Malraux, The Voices of Si-
+               lence, 1953:
+               “Now a barbarian art can keep alive
+               only in the environment of the bar
+               barism it expresses . .
+               “. .. the Byzantine style, as the West
+               saw it, was not the expression of a
+               supreme value but merely a form of
+               decoration.
+               Roger Fry, “The Munich Exhibition
+               of Mohammedan Art, 1910:
+               “It cannot be denied that in course
+               of time it [Islamic art) pandered to
+               the besetting sin of the oriental
+               craftsman, his intolerable patience
+               and thoughtless industry.
+               Gustave von Grunebaum, Medieval
+               Islam, 1945:
+               Islam can hardly be called creative
+               in the sense that the Greeks were
+               creative in the fifth and fourth cen-
+               turies B.C. or the Western world
+               since the Renaissance, but its flavor
+               is unmistakable . . .</p>
+            <p/>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_043.jpg" n="43" xml:id="img_0043"/>
+            <p>
+               Sir Richard Westmacott, Professor
+               of Sculpture, Royal Academy (quot-
+               ed in Rediscoveries in Art: Some
+               Aspects of Taste, Fashion and Col-
+               lecting in England and France
+               Francis Haskell, 1977):
+               .. I think it impossible that any
+               artist can look at the Nineveh mar-
+               bles as works for study, for such
+               they certainly are not: they are
+               works of prescriptive art, like works
+               of Egyptian art. No man would ever
+               think of studying Egyptian art.
+               Adolf Loos, “Ornament and Crime,
+               1908.
+               “No ornament can any longer be
+               made today by anyone who lives on
+               our cultural level.
+               It is different with the individuals
+               and peoples who have not yet
+               reached this level.
+               “ can tolerate the ornaments of the
+               Kaffir, the Persian, the Slovak peas-
+               ant woman, my shoemaker’s orna-
+               ments, for they all have no other way
+               of attaining the high points of their
+               existence. We have art, which has
+               taken the place of ornament. After
+               the toils and troubles of the day we
+               go to Beethoven or to Tristan.</p>
+            <p>
+               FEAR OF RACIAL
+               CONTAMINATION,
+               IMPOTENCE AND
+               DECADENCE
+               Racism is the other side of the coin of
+               Exotica. Often underlying a fascination
+               with the Orient, Indians, Africans and
+               primitives is an urgent unspoken fear of
+               infiltration, decadence and domination
+               by the mongrels gathering impatient-
+               ly at the gates of civilization. Ornamen-
+               tal objects from other cultures which
+               appeared in Europe in the nineteenth
+               century were clearly superior to West-
+               ern machine-made products. How
+               could the West maintain its notion of
+               racial supremacy in the face of these
+               objects? Loos’s answer: by declaring
+               that ornament itself was savage. Artists
+               and aesthetes who would succumb to
+               decorative impulses were considered
+               impotent and/or decadent.
+               »)
+               Adolf Loos, “Ornament and Crime,
+               1908:
+               “I have made the following discov-
+               ery and I pass it on to the world: The
+               evolution of culture is synonymous
+               with the removal of ornament from
+               utilitarian objects. I believed that
+               with this discovery I was bringing
+               joy to the world; it has not thanked
+               me. People were sad and hung their</p>
+            <p>
+               heads. What depressed them was the
+               realization that they could produce
+               no new ornaments. Are we alone, the
+               people of the nineteenth century,
+               supposed to be unable to do what
+               any Negro, all the races and periods
+               before us have been able to do?
+               What mankind created without or-
+               nament in earlier millenia was
+               thrown away without a thought and
+               abandoned to destruction. We pos-
+               sess no joiner’s benches from the
+               Carolingian era, but every trifle that
+               displays the least ornament has been
+               collected and cleaned and palatial
+               buildings have been erected to house
+               it. Then people walked sadly about
+               between the glass cases and felt
+               ashamed of their impotence.
+               Amédée Ozenfant, Foundations of
+               Modern Art, 1931:
+               Let us beware lest the earnest effort
+               of younger peoples relegates us to
+               the necropolis of the effete nations,
+               as mighty Rome did to the dilet
+               tantes of the Greek decadence, or
+               the Gauls to worn-out Rome.
+               “Given many lions and few fleas, the
+               lions are in no danger; but when the
+               fleas multiply, how pitiful is the
+               lions' lot!
+               Albert Gleizes and Jean Metzinger,
+               Cubism, 1912:
+               As all preoccupation in art arises
+               from the material employed, we
+               ought to regard the decorative pre-
+               occupation, if we find it in a painter,
+               as an anachronistic artifice, useful
+               only to conceal impotence.
+               Maurice Barrés (on the Italian pre-
+               Renaissance painters), 1897 (quoted
+               in André Malraux, The Voices of Si-
+               lence):
+               And 1 can also see why aesthetes,
+               enamored of the archaic, who have
+               deliberately emasculated their virile
+               emotions in quest of a more fragile
+               grace, relish the poverty and petti-
+               ness of these minor artists.</p>
+            <p>
+               RACISM AND SEXISM
+               Racist and sexist attitudes characterize
+               the same mentality. They sometimes
+               appear in the same passage and are
+               unconsciously paired, as when Read
+               equates tattoos and cosmetics. The tat
+               too refers to strange, threatening cus-
+               toms of far-off places and mysterious
+               people. Cosmetics, a form of self-orna-
+               mentation, is equated with self-objecti-
+               fication and inferiority (Schapiro). Ra-
+               cism and sexism ward off the potential
+               power and vitality of the other.
+               Whereas nudity earlier alluded to wom-
+               an as the object of male desire, here
+               Malevich associates the nude female
+               with savagery.</p>
+            <p>
+               This content downloaded from
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
+               All use subject to https://about.jstor.org/terms</p>
+            <p>
+               66
+               )»
+               Herbert Read, Art and Industry,
+               1953:
+               “All ornament should be treated as
+               suspect. I feel that a really civilized
+               person would as soon tattoo his body
+               as cover the form of a good work of
+               art with meaningless ornament. Le-
+               gitimate ornament I conceive as
+               something like mascara and lipstick
+               —something applied with discretion
+               to make more precise the outlines of
+               an atready existing beauty.
+               Adolf Loos, “Ornament and Crime,
+               1908:
+               “The child is amoral. To our eyes,
+               the Papuan is too. The Papuan kills
+               his enemies and eats them. He is not
+               a criminal. But when modern man
+               kills someone and eats him he is
+               either a criminal or a degenerate.
+               The Papuan tattoos his skin, his
+               boat, his paddles, in short every-
+               thing he can lay hands on. He is not
+               a criminal. The modern man who
+               tattoos himself is either a criminal
+               or a degenerate. There are prisons
+               in which eighty percent of the in-
+               mates show tattoos. The tattooed
+               who are not in prison are latent
+               criminals or degenerate aristocrats.
+               If someone who is tattooed dies at
+               liberty, it means he has died a few
+               years before committing a murder.
+               Meyer Schapiro, “The Social Bases
+               of Art, 1936:
+               "A woman of this class Jupper) is es-
+               sentially an artist, like the painters
+               whom she might patronize. Her dai-
+               ly life is filled with aesthetic choic-
+               es; she buys clothes, ornaments, fur-
+               niture, house decorations; she is
+               constantly re-arranging herself as an
+               aesthetic object.
+               Kasimir Malevich, “Suprematist
+               manifesto Unovis, 1924:
+               “.. . we don’t want to be like those
+               Negroes upon whom English culture
+               bestowed the umbrella and top hat,
+               and we don’t want our wives to run
+               around naked like savages in the
+               garb of Venus!
+               Iwan Bloch, The Sexual Life of Our
+               Time, 1908:
+               “.. . [woman possesses a greater in-
+               terest in her immediate environ-
+               ment, in the finished product, in the
+               decorative, the individual, and the
+               concrete; man, on the other hand,
+               exhibits a preference for the more
+               remote, for that which is in process
+               of construction or growth, for the
+               useful, the general, and the ab-
+               stract.
+               Leo Tolstoy, “What Is Art?” 1898:
+               “Real art, like the wife of an affec-
+               tionate husband, needs no orna-</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_044.jpg" n="44" xml:id="img_0044"/>
+            <p>
+               ments. But counterfeit art, like a
+               prostitute, must always be decked
+               out.</p>
+            <p>
+               HIERARCHY OF HIGH-
+               LOW ART
+               Since the art experts consider the “high
+               arts of Western men superior to all
+               other forms of art, those arts done by
+               non-Western people, low-class people
+               and women are categorized as minor
+               arts, primitive arts,” “low arts, etc.
+               A newer more subtle way for artists to
+               elevate themselves to an elite position is
+               to identify their work with pure sci-
+               ence, pure mathematics, linguistics
+               and philosophy. The myth that high art
+               is for a select few perpetuates the hier-
+               archy in the arts, and among people as
+               well.
+               66
+               Clement Greenberg, “Avant-Garde
+               and Kitsch, 1939:
+               It will be objected that such art for
+               the masses as folk art was developed
+               under rudimentary conditions of
+               production—and that a good deal of
+               folk art is on a high level. Yes, it is—
+               but folk art is not Athene, and it's
+               Athene whom we want: formal cul-
+               ture with its infinity of aspects, its
+               luxuriance, its large comprehen-
+               sion.</p>
+            <p>
+               H. W. Janson, History of Art, 1962:
+               “.. . for the applied arts are more
+               deeply enmeshed in our everyday
+               lives and thus cater to a far wider
+               public than do painting and sculp
+               ture, their purpose, as the name sug-
+               gests, is to beautify the useful, an
+               important and honourable one, no
+               doubt, but of a lesser order than art
+               pure and simple.
+               Amédée Ozenfant, Foundations of
+               Modern Art, 1931:
+               "If we go on allowing the minor arts
+               to think themselves the equal of
+               Great Art, we shall soon be hail fel-
+               low to all sorts of domestic furni-
+               ture. Each to his place! The decora-
+               tors to the big shops, the artists on
+               the next floor up, several floors up,
+               as high as possible, on the pinna-
+               cles, higher even. For the time be-
+               ing, however, they sometimes do
+               meet on the landings, the decorators
+               having mounted at their heels, and
+               numerous artists having come down
+               on their hunkers.
+               Le Corbusier (Pierre Jeanneret) and
+               Amédée Ozenfant, “On Cubism,
+               1918: (quoted in Ozenfant, Founda-
+               tions of Modern Art):</p>
+            <p>
+               There is a hierarchy in the arts: de-
+               corative art at the bottom, and the
+               human form at the top.
+               Because we are men.
+               Andre Malraux, The Voices of Si-
+               lence, 1953:
+               “The design of the carpet is wholly
+               abstract; not so its color. Perhaps we
+               shall soon discover that the sole rea-
+               son why we call this art decorative
+               is that for us it has no history, no
+               hierarchy, no meaning. Color repro-
+               duction may well lead us to review
+               our ideas on this subject and rescue
+               the masterwork from the North Afri-
+               can bazaar as Negro sculpture has
+               been rescued from the curio-shop,
+               in other words, liberate Islam from
+               the odium of backwardness ana
+               assign its due place (a minor one,
+               not because the carpet never por-
+               trays Man, but because it does not
+               express him) to this last manifesta-
+               tion of the undying East.
+               Barnett Newman, “The Ideographic
+               Picture, 1947 (on the Kwakiutl art-
+               "The abstract shape he used, his en-
+               tire plastic language, was directed
+               by a ritualistic will towards meta-
+               physical understanding. The every
+               day realities he left to the toymakers;
+               the pleasant play of nonobjective
+               pattern to the women basket
+               weavers.
+               Ursula Meyer, Conceptual Art, 1972
+               “In the same sense that science is for
+               scientists and philosophy is for phil-
+               osophers, art is for artists.
+               Joseph Kosuth, “Introductory Note
+               by the American Editor, 1970:
+               “In a sense, then, art has become as
+               ’serious as science or philosophy
+               which doesnt have audiences
+               either.</p>
+            <p>
+               THAT OLD CHESTNUT.
+               "HUMANISN
+               Humanism was once a radical doctrine
+               opposing the authority of the church,
+               but in our secular society it has come to
+               defend the traditional idea of man-
+               kind” and status quo attitudes. The
+               human values such authorities de-
+               mand of art depend on the use of par-
+               ticular subject matter or particular
+               ideas of “human expression. Without
+               humanist content, ornament, pattern
+               and ritual or decorative elaborations of
+               production are condemned as inhu-
+               man, alien and empty. “The limits of
+               the decorative, says Malraux, can be
+               precisely defined only in an age of hu-
+               manistic art.” We could rather say that</p>
+            <p>
+               This content downloaded from
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
+               et to https://about.jstor.org/terms</p>
+            <p>
+               the generalities of “humanist” senti-
+               ment characterize only a small part of
+               world art, most of which is non-West-
+               ern and decorative. But why should
+               anyone prefer the false divisions of
+               these writers, based on ethnic stereo-
+               types, to a historical awareness of the
+               interdependence of all “human cul-
+               tures?
+               »»
+               66
+               Camille Mauclair, “La Réforme de
+               l’art décoratif en France (on the
+               Impressionists), 1896:
+               Decorative art has as its aesthetic
+               and for its effect not to make one
+               think of man, but of an order of
+               things arranged by him: it is a de-
+               scriptive and deforming art, a
+               grouping of spectacles the essence
+               of which is to be seen.
+               Rudolf Arnheim, Art and Visual
+               Perception, 1954:
+               “Paintings or sculpture are self-con-
+               tained statements about the nature
+               of human existence in all its essen-
+               tial aspects. An ornament presented
+               as a work of art becomes a fool’s par-
+               adise, in which tragedy and discord
+               are ignored and an easy peace
+               reigns.
+               Hilton Kramer, “The Splendors and
+               hill of Islamic Art, 1975:
+               .. . for those of us who seek in art
+               something besides a bath of pleasur-
+               able sensation, so much of what it
+               [the Metropolitan Museum s Islamic
+               wing) houses is, frankly so alien to
+               the expectations of Western sensi-
+               bility.
+               “Perhaps with the passage of time,
+               Istamic art will come to look less
+               alien to us than it does today. I
+               frankly doubt it—there are too many
+               fundamental differences of spirit to
+               be overcome.
+               “... there is small place indeed
+               given to what looms so large in the
+               Western imagination: the individu-
+               alization of experience.
+               Sir Thomas Arnold, Painting in Is-
+               lam, 1928:
+               the painter was apparently
+               willing to spend hours of work upon
+               the delicate veining of the leaves of a
+               tree . . . but it does not seem to have
+               occurred to him to devote the same
+               pains and effort on the countenanc-
+               es of his human figures . . . he ap-
+               pears to have been satisfied with the
+               beautiful decorative effect he
+               achieved.
+               André Malraux, The Voices of Si-
+               lence, 1953:
+               “The limits of the decorative can be
+               precisely defined only in an age of
+               humanistic art.
+               “It was the individualization of des-
+               tiny, this involuntary or unwitting</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_045.jpg" n="45" xml:id="img_0045"/>
+            <p>
+               imprint of his private drama on ev-
+               ery man s face, that prevented West-
+               ern art from becoming like Byzan-
+               tine mosaics always transcendent, or
+               like Buddhist sculpture obsessed
+               with unity.
+               “How could an Egyptian, an Assyr-
+               ian or a Buddhist have shown his
+               god nailed to a cross, without ruin-
+               ing his style?</p>
+            <p>
+               DECORATION AND
+               DOMESTICITY
+               The antithesis of the violence and des-
+               truction idolized by Modern Art is the
+               visual enhancement of the domestic en-
+               vironment. (If humanism is equated
+               with dynamism, the decorative is seen
+               to be synonymous with the static). One
+               method “modernism has used to dis-
+               credit its opponents has been to associ-
+               ate their work with carpets and wall-
+               paper. Lacking engagement with
+               human form or the real world,” the
+               work of art must be stigmatized as dec-
+               orative (Sedlmayr and Barnes/de Maz-
+               ia). So decorative art is a code term sig-
+               nifying failed humanism. Artists such
+               as Gleizes and Kandinsky, anxious to
+               escape the tag of the decorative, con-
+               nect their work to older, humanist
+               aspirations.
+               
+               Aldous Huxley on Pollock’s Cathe-
+               dral, 1947:
+               'It seems like a panel for a wall-
+               paper which is repeated indefinitely
+               around the wall.
+               “Picasso” (on
+               Wyndham Lewis,
+               Minotauromachy), 1940:
+               “. .. this confused, feeble, profuse-
+               ly decorated, romantic carpet.
+               The Times of London critic on
+               Whistler, 1878:
+               .. . that these pictures only come
+               one step nearer [to fine art) than a
+               delicately tinted wallpaper.
+               Hans Sedlmayr, Art in Crisis: The
+               Lost Center, 1948:
+               With Matisse, the human form was
+               to have no more significance than a
+               pattern on a wallpaper . . .
+               Dr. Albert C. Barnes and Violette de
+               Mazia, The Art of Cezanne, 1939:
+               Pattern, in Cézanne an instrument
+               strictly subordinated to the expres-
+               sion of values inherent in the real
+               world, becomes in cubism the entire
+               aesthetic content, and this degrada-
+               tion of form leaves cubistic painting
+               with no claim to any status higher
+               than decoration.</p>
+            <p>
+               Albert Gleizes, “Opinion” (on Cub-
+               ism), 1913:
+               “There is a certain imitative coeffi-
+               cient by which we may verify the le-
+               gitimacy of our discoveries, avoid
+               reducing the picture merely to the
+               ornamental value of an arabesque or
+               an Oriental carpet, and obtain an in-
+               finite variety which would otherwise
+               be impossible.
+               Wassily Kandinsky, Über das Geis-
+               tige in der Kunst, 1912:
+               “If we begin at once to break the
+               bonds that bind us to nature and to
+               devote ourselves purely to combina-
+               tions of pure color and independent
+               form, we shall produce works which
+               are mere geometric decoration, re-
+               sembling something like a necktie
+               or a carpet.</p>
+            <p>
+               AUTOCRACY
+               Certain modern artists express the de-
+               sire for unlimited personal power. The
+               aesthetics of modernism —its ego-
+               mania, violence, purity-fixation and
+               denial of all other routes to the truth—is
+               highly authoritarian. The reductivist
+               ideology suggests an inevitable,
+               evolutionary survival of the (aesthetic)
+               fittest. Reinhardt declares throughout
+               his writings that all the world’s art must
+               culminate in his pure paintings. Oz-
+               enfant equates purism with a super-
+               state. Mendelsohn believes the advo-
+               cates of the new art have a right to
+               exercise control.
+               66
+               99
+               Ad Reinhardt, “There is Just One
+               Painting, 1966:
+               “There is just one art history, one
+               art evolution, one art progress.
+               There is just one aesthetics, just one
+               art idea, one art meaning, just one
+               principle, one force. There is just
+               one truth in art, one form, one
+               change, one secrecy.
+               Amédée Ozenfant, Foundations of
+               Modern Art, 1931:
+               “Purism is not an aesthetic, but a
+               sort of super-aesthetic in the same
+               way that the League of Nations is a
+               superstate.
+               Erich Mendelsohn, “The Problem
+               of aNew Architecture, 1919:
+               “The simultaneous process of revo-
+               lutionary political decisions and
+               radical changes in human relation-
+               ships in economy and science and
+               religion and art give belief in the
+               new form, an a priori right to exer-
+               cise control, and provide a justifi-
+               able basis for a rebirth amidst the</p>
+            <p>
+               misery produced by world-histori-
+               cal disaster.
+               Adolf Hitler speech inaugurating
+               the “Great Exhibition of German
+               Art, 1937:
+               “I have come to the final inalterable
+               decision to clean house, just as
+               have done in the domain of political
+               confusion . . .
+               “National-Socialist Germany, how-
+               ever, wants again a German Art,
+               and this art shall and will be of eter-
+               nal value, as are all truly creative
+               values of a people. . . .
+               Frank Lloyd Wright, “Work Song,
+               1896:
+               “T'LL THINK
+               AS l'LL ACT
+               AS I AM!
+               NO DEED INFASHION FOR SHAM
+               NOR FOR FAME E’ER MAN MADE
+               SHEATH THE NAKED WHITE
+               BLADE
+               MY ACT AS BECOMETH A MAN
+               MYACT
+               ACTS THAT BECOMETH THE
+               MAN'</p>
+            <p>
+               /e started by examining a specific atti-
+               tude—the prejudice against the decora-
+               tive in art—and found ourselves in a
+               labyrinth of myth and mystification.
+               By taking these quotes out of context
+               we are not trying to hold these artists
+               and writers up to ridicule. However, to
+               continue reading them in an unques-
+               tioning spirit perpetuates their biases.
+               The language of their statements is of-
+               ten dated—indeed, some of them are
+               over a century old—but the sentiments
+               they express still guide contemporary
+               theory in art.
+               Modernism, the theory of Modern
+               Art, claimed to break with Renaissance
+               humanism. Yet both doctrines glorify
+               the individual genius as the bearer of
+               creativity. It seems worth noting thai
+               such heroic genius has always appeared
+               in the form of a white Western male
+               We, as artists, cannot solve these prob-
+               lems, but by speaking plainly we hope
+               to reveal the inconsistencies in assump-
+               tions that too often have been accepted
+               as “truth.</p>
+            <p>
+               We relied heavily on Joseph Masheck,
+               The Carpet Paradigm: Critical Prolegom-
+               ena to a Theory of Flatness, Arts Maga-
+               zine, Sept., 1976, for the quotes about carp-
+               ets and wallpaper.
+               To Amy Goldin whose ideas and
+               encouragement made this piece
+               possible.
+               Valerie Jaudon is an artist from Mississippi living in New
+               York.
+               Joyce Kozloff is an artist currently living in Albuquer-
+               que, New Mexico.</p>
+  </div>
+      </body>
+  </text>
+</TEI>
