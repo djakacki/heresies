@@ -1145,10 +1145,12 @@ sp {
     margin-bottom: 0.5em;
     margin-left: 2em;
 }
+/* 
+DJ 10-26-23 hiding indented paragraph and justification
 div p {
     text-align: justify;
     text-indent: 30px;
-}
+}*/
 speaker {
     display: inline;
     font-weight: bold;
