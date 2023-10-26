@@ -16,12 +16,12 @@
     **********    
  *
  */
-
+/* adjusting font-size and line-height */
 TEI {
     margin: 10px 25px;
     font-family: Times Roman, serif;
-    line-height: 1.9em;
-    font-size: 1.2em;
+    line-height: 1.4em;
+    font-size: 1em;
 }
 font
 /*  added <ab> styling - adding left margin */
