@@ -1,0 +1,1643 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Heresies no 19</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: cmp016@bucknell.edu</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<pb n='2'/>
+			<p>
+				<lb facs='#facs_2_l' n='N001'/>Satire
+			</p>
+			<p>
+				<lb facs='#facs_2_r_2_1_tl_1' n='N001'/>Satire, like caricature, must above all be intelligent, insolent, precise, and funny. It must be
+				<lb facs='#facs_2_r_2_1_tl_2' n='N002'/>merciless, unrepentant, probing, and distressing to its targets. It&apos;s not sledgehammer slapstick,
+				<lb facs='#facs_2_r_2_1_tl_3' n='N003'/>it’s not sheer insult, and it’s not gags. Satire is eminently sociological; without a point of view or
+				<lb facs='#facs_2_r_2_1_tl_4' n='N004'/>an analysis, one cannot produce it. Caricature takes aim at an individual, occasionally resulting
+				<lb facs='#facs_2_r_2_1_tl_5' n='N005'/>in lawsuits when the revelation of character is too accurate and too unmistakable, but satire
+				<lb facs='#facs_2_r_2_1_tl_6' n='N006'/>takes aim at a chunk of the social or cultural order, and at its most effective, it may even (in certain
+				<lb facs='#facs_2_r_2_1_tl_7' n='N007'/>times and places) be an aid to elimination, an enema in the polluted channels of the Establishment.
+				<lb facs='#facs_2_r_2_1_tl_8' n='N008'/>Satire, like feminism, envisions change. Always, however, there must be wit as well as incisive
+				<lb facs='#facs_2_r_2_1_tl_9' n='N009'/>ness—a rare combiñation, and one we encountered infrequently during our work on this issue.
+				<lb facs='#facs_2_r_2_1_tl_10' n='N010'/>Brevity being considered the soul of one-half the aforementioned combination, we will
+				<lb facs='#facs_2_r_2_1_tl_11' n='N011'/>burden you neither with ponderous taxonomies of humor nor elaborate apologies for what is not
+				<lb facs='#facs_2_r_2_1_tl_12' n='N012'/>present in our allotment of 32 pages and why. We wish you some good laughs over what is
+				<lb facs='#facs_2_r_2_1_tl_13' n='N013'/>present, and hope that next time some fool gives vent within earshot to the pronouncement that
+				<lb facs='#facs_2_r_2_1_tl_14' n='N014'/>feminists are all grim and humorless, you will have a suitable rejoinder ready to hurl.
+				<lb facs='#facs_2_r_2_1_tl_15' n='N015'/>HERESIES
+				<lb facs='#facs_2_r_2_1_tl_16' n='N016'/>Issue 19
+				<lb facs='#facs_2_r_2_1_tl_17' n='N017'/>EDITORIAL COLLECTIVE
+				<lb facs='#facs_2_r_2_1_tl_18' n='N018'/>Emma Amos
+				<lb facs='#facs_2_r_2_1_tl_19' n='N019'/>Day Gleeson
+				<lb facs='#facs_2_r_2_1_tl_20' n='N020'/>Avis Lang
+				<lb facs='#facs_2_r_2_1_tl_21' n='N021'/>Ellen Lanyon
+				<lb facs='#facs_2_r_2_1_tl_22' n='N022'/>with thanks to Teal Fraser,
+				<lb facs='#facs_2_r_2_1_tl_23' n='N023'/>Sarah Jenkins, Joan Jubela
+				<lb facs='#facs_2_r_2_1_tl_24' n='N024'/>DESIGN/PRODUCTION
+				<lb facs='#facs_2_r_2_1_tl_25' n='N025'/>Day Gleeson
+				<lb facs='#facs_2_r_2_1_tl_26' n='N026'/>with special thanks to
+				<lb facs='#facs_2_r_2_1_tl_27' n='N027'/>Kathie Brown
+			</p>
+			<p>
+				<lb facs='#facs_2_r_3_1_tl_1' n='N001'/>Heresies: A Feminist Publication on Art &amp; Poli
+				<lb facs='#facs_2_r_3_1_tl_2' n='N002'/>tics is published two times a year by Heresies
+				<lb facs='#facs_2_r_3_1_tl_3' n='N003'/>Collective, Inc., c/o Foundation for the Commu
+				<lb facs='#facs_2_r_3_1_tl_4' n='N004'/>nity of Artists, 280 Broadway, Suite 412, New York
+				<lb facs='#facs_2_r_3_1_tl_5' n='N005'/>NY 10007. Subscription rates: $15 for four issues
+				<lb facs='#facs_2_r_3_1_tl_6' n='N006'/>S24 for institutions. Outside the U.S. and Canada
+				<lb facs='#facs_2_r_3_1_tl_7' n='N007'/>add S2 postage. Single copies: 85 each. Address
+				<lb facs='#facs_2_r_3_1_tl_8' n='N008'/>all correspondence to: Heresies, PO Box 766,
+				<lb facs='#facs_2_r_3_1_tl_9' n='N009'/>Canal Street Station, New York, NY 10013
+				<lb facs='#facs_2_r_3_1_tl_10' n='N010'/>Heresies, ISSN 0146-3411. Vol. 5, No. 2,
+				<lb facs='#facs_2_r_3_1_tl_11' n='N011'/>ssue 19
+				<lb facs='#facs_2_r_3_1_tl_12' n='N012'/>Ö1985, Heresies Collective, Inc. All rights reserved
+				<lb facs='#facs_2_r_3_1_tl_13' n='N013'/>This publication is made possible, in part, with
+				<lb facs='#facs_2_r_3_1_tl_14' n='N014'/>public funds from the New York State Council or
+				<lb facs='#facs_2_r_3_1_tl_15' n='N015'/>the Arts and the National Endowment for the Arts
+				<lb facs='#facs_2_r_3_1_tl_16' n='N016'/>Additional funds provided by New York Commu
+				<lb facs='#facs_2_r_3_1_tl_17' n='N017'/>nity Trust and Coordinating Council of Literary Mag
+				<lb facs='#facs_2_r_3_1_tl_18' n='N018'/>azines. Heresies is indexed by the Alternative
+				<lb facs='#facs_2_r_3_1_tl_19' n='N019'/>Press Centre, Box 7229, Baltimore, MD 21218. It
+				<lb facs='#facs_2_r_3_1_tl_20' n='N020'/>is a member of COSMEP (Committee of Smal
+				<lb facs='#facs_2_r_3_1_tl_21' n='N021'/>Magazine Editors and Publishers), Box 703, San
+				<lb facs='#facs_2_r_3_1_tl_22' n='N022'/>Francisco, CA 94101.
+			</p>
+			<pb n='3'/>
+			<pb n='4'/>
+			<p>
+				<lb facs='#facs_4_l' n='N001'/>The Examinher
+			</p>
+			<p>
+				<lb facs='#facs_4_r_2_1_tl_1' n='N001'/>MALE SEXUAL CURBS ENDORSED,
+				<lb facs='#facs_4_r_2_1_tl_2' n='N002'/>10 TO 7, BY SENATE COMMITTEE
+				<lb facs='#facs_4_r_2_1_tl_3' n='N003'/>Hitch Plan Would Seek
+				<lb facs='#facs_4_r_2_1_tl_4' n='N004'/>Constitutional Change
+			</p>
+			<p>
+				<lb facs='#facs_4_r_3_1_tl_1' n='N001'/>BY BERNADETTE WEINTRAUB
+				<lb facs='#facs_4_r_3_1_tl_2' n='N002'/>The following reportis based on report-
+				<lb facs='#facs_4_r_3_1_tl_3' n='N003'/>ing by Ann Sutherland Harris.
+				<lb facs='#facs_4_r_3_1_tl_4' n='N004'/>WASHINGTON, March 10 — The
+				<lb facs='#facs_4_r_3_1_tl_5' n='N005'/>Senate Judiciary Committee today
+				<lb facs='#facs_4_r_3_1_tl_6' n='N006'/>approved a proposed constitutional
+				<lb facs='#facs_4_r_3_1_tl_7' n='N007'/>amendment that would enable Con
+				<lb facs='#facs_4_r_3_1_tl_8' n='N008'/>gress and individual states to adopt
+				<lb facs='#facs_4_r_3_1_tl_9' n='N009'/>laws banning male sexual activity ex
+				<lb facs='#facs_4_r_3_1_tl_10' n='N010'/>cept with consenting wives.
+				<lb facs='#facs_4_r_3_1_tl_11' n='N011'/>By a vote of 10 to 7, the panel en
+				<lb facs='#facs_4_r_3_1_tl_12' n='N012'/>dorsed a measure sponsored by Sena-
+				<lb facs='#facs_4_r_3_1_tl_13' n='N013'/>tor Ora G. Hitch, Republican of Utah,
+				<lb facs='#facs_4_r_3_1_tl_14' n='N014'/>that seeks to reverse the 1973 Supreme
+				<lb facs='#facs_4_r_3_1_tl_15' n='N015'/>Court decision upholding the right of
+				<lb facs='#facs_4_r_3_1_tl_16' n='N016'/>men to engage in sexual activities out-
+				<lb facs='#facs_4_r_3_1_tl_17' n='N017'/>side of marriage.
+				<lb facs='#facs_4_r_3_1_tl_18' n='N018'/>The vote today marked the first time
+				<lb facs='#facs_4_r_3_1_tl_19' n='N019'/>that a full Congressional committee had
+				<lb facs='#facs_4_r_3_1_tl_20' n='N020'/>supported an amendment banning ex
+				<lb facs='#facs_4_r_3_1_tl_21' n='N021'/>tramarital sex by men and opened the
+				<lb facs='#facs_4_r_3_1_tl_22' n='N022'/>way for a full-fledged floor debate on
+				<lb facs='#facs_4_r_3_1_tl_23' n='N023'/>the issue.
+				<lb facs='#facs_4_r_3_1_tl_24' n='N024'/>Senator Hitch’s proposed amend
+				<lb facs='#facs_4_r_3_1_tl_25' n='N025'/>ment would give Congress and states
+				<lb facs='#facs_4_r_3_1_tl_26' n='N026'/>concurrent power to restrict and pro
+				<lb facs='#facs_4_r_3_1_tl_27' n='N027'/>hibit immoral sex”. State laws that were
+				<lb facs='#facs_4_r_3_1_tl_28' n='N028'/>more restrictive than national laws
+				<lb facs='#facs_4_r_3_1_tl_29' n='N029'/>would prevail. In seeking to overturn
+				<lb facs='#facs_4_r_3_1_tl_30' n='N030'/>the 1973 Supreme Court decision on
+				<lb facs='#facs_4_r_3_1_tl_31' n='N031'/>extra-martial sex, the amendment says,
+				<lb facs='#facs_4_r_3_1_tl_32' n='N032'/>“The right of men to engage in sexual
+				<lb facs='#facs_4_r_3_1_tl_33' n='N033'/>activity outside marriage is not secured
+				<lb facs='#facs_4_r_3_1_tl_34' n='N034'/>by this Constitution”.
+				<lb facs='#facs_4_r_3_1_tl_35' n='N035'/>Constitutional amendments must be
+				<lb facs='#facs_4_r_3_1_tl_36' n='N036'/>approved by two-thirds of each house
+				<lb facs='#facs_4_r_3_1_tl_37' n='N037'/>of Congress and ratified by the legisla
+				<lb facs='#facs_4_r_3_1_tl_38' n='N038'/>tures of three-fourths of the states. Be
+				<lb facs='#facs_4_r_3_1_tl_39' n='N039'/>cause of the controversial nature of the
+				<lb facs='#facs_4_r_3_1_tl_40' n='N040'/>extra-marital sex issue, the Hitch mea
+				<lb facs='#facs_4_r_3_1_tl_41' n='N041'/>sure is expected to produce consider
+				<lb facs='#facs_4_r_3_1_tl_42' n='N042'/>able debate and possibly some delaying
+				<lb facs='#facs_4_r_3_1_tl_43' n='N043'/>tactics by its opponents.
+			</p>
+			<p>
+				<lb facs='#facs_4_r_4_1_tl_1' n='N001'/>On the House side, a similar mea
+				<lb facs='#facs_4_r_4_1_tl_2' n='N002'/>sure has been sponsored by Repre-
+				<lb facs='#facs_4_r_4_1_tl_3' n='N003'/>sentative Johanna M. Oakstream,
+				<lb facs='#facs_4_r_4_1_tl_4' n='N004'/>Republican of Ohio. No action on the
+				<lb facs='#facs_4_r_4_1_tl_5' n='N005'/>measure has been taken by the House
+				<lb facs='#facs_4_r_4_1_tl_6' n='N006'/>Judiciary Committee, and Congres
+				<lb facs='#facs_4_r_4_1_tl_7' n='N007'/>sional aides say privately that they ex
+				<lb facs='#facs_4_r_4_1_tl_8' n='N008'/>pect the House to wait for further Sen-
+				<lb facs='#facs_4_r_4_1_tl_9' n='N009'/>ate action before taking up the male
+				<lb facs='#facs_4_r_4_1_tl_10' n='N010'/>sex curb issue.
+				<lb facs='#facs_4_r_4_1_tl_11' n='N011'/>Dr. Jeanne K. Wilkie, President of
+				<lb facs='#facs_4_r_4_1_tl_12' n='N012'/>the National Sperm Protection Com
+				<lb facs='#facs_4_r_4_1_tl_13' n='N013'/>mittee, termed today’s vote “a major
+				<lb facs='#facs_4_r_4_1_tl_14' n='N014'/>victory” and a “milestone” for groups
+				<lb facs='#facs_4_r_4_1_tl_15' n='N015'/>seeking to bar the production of im
+				<lb facs='#facs_4_r_4_1_tl_16' n='N016'/>moral sperm in the United States, but
+				<lb facs='#facs_4_r_4_1_tl_17' n='N017'/>she acknowledged that the Hitch
+				<lb facs='#facs_4_r_4_1_tl_18' n='N018'/>Amendment faced a tough fight in the
+				<lb facs='#facs_4_r_4_1_tl_19' n='N019'/>Senate, partly because some sperm con-
+				<lb facs='#facs_4_r_4_1_tl_20' n='N020'/>trol groups opposed it on the ground
+				<lb facs='#facs_4_r_4_1_tl_21' n='N021'/>that it did not go far enough.
+				<lb facs='#facs_4_r_4_1_tl_22' n='N022'/>The National Council of Mothers Su
+				<lb facs='#facs_4_r_4_1_tl_23' n='N023'/>perior, which endorsed the proposed
+				<lb facs='#facs_4_r_4_1_tl_24' n='N024'/>amendment late last year, said that the
+				<lb facs='#facs_4_r_4_1_tl_25' n='N025'/>committee’s action was “an auspicious
+				<lb facs='#facs_4_r_4_1_tl_26' n='N026'/>event for the cause of sperm”. But such
+				<lb facs='#facs_4_r_4_1_tl_27' n='N027'/>groups as the Unplanned Fatherhood
+				<lb facs='#facs_4_r_4_1_tl_28' n='N028'/>Federation of America, the National
+				<lb facs='#facs_4_r_4_1_tl_29' n='N029'/>Sperm Rights Action League and the
+				<lb facs='#facs_4_r_4_1_tl_30' n='N030'/>American Civil Liberties Union strong
+				<lb facs='#facs_4_r_4_1_tl_31' n='N031'/>ly criticized the vote, saying in part that
+				<lb facs='#facs_4_r_4_1_tl_32' n='N032'/>the measure failed to take into account
+				<lb facs='#facs_4_r_4_1_tl_33' n='N033'/>surveys showing that most Americans
+				<lb facs='#facs_4_r_4_1_tl_34' n='N034'/>favored a degree of sexual freedom
+				<lb facs='#facs_4_r_4_1_tl_35' n='N035'/>for men.
+				<lb facs='#facs_4_r_4_1_tl_36' n='N036'/>“We see this as enlarging the battle
+				<lb facs='#facs_4_r_4_1_tl_37' n='N037'/>over individual and civil rights”, said
+				<lb facs='#facs_4_r_4_1_tl_38' n='N038'/>Frank Wattleton, president of Un-
+				<lb facs='#facs_4_r_4_1_tl_39' n='N039'/>planned Fatherhood. “We see this as
+				<lb facs='#facs_4_r_4_1_tl_40' n='N040'/>part of a broader agenda of repression
+				<lb facs='#facs_4_r_4_1_tl_41' n='N041'/>by extremists, by those who are at-
+				<lb facs='#facs_4_r_4_1_tl_42' n='N042'/>tempting to define morality and to en-
+				<lb facs='#facs_4_r_4_1_tl_43' n='N043'/>act laws that reflect their narrow inter
+				<lb facs='#facs_4_r_4_1_tl_44' n='N044'/>pretation of what is moral.” Norman
+			</p>
+			<p>
+				<lb facs='#facs_4_r_5_1_tl_1' n='N001'/>Falkenberg, executive director of the
+				<lb facs='#facs_4_r_5_1_tl_2' n='N002'/>National Sperm Rights Action League,
+				<lb facs='#facs_4_r_5_1_tl_3' n='N003'/>said, “Every major public opinion sur
+				<lb facs='#facs_4_r_5_1_tl_4' n='N004'/>vey shows that the majority of Ameri-
+				<lb facs='#facs_4_r_5_1_tl_5' n='N005'/>can people are opposed to the amend-
+				<lb facs='#facs_4_r_5_1_tl_6' n='N006'/>ment”. He termed the vote “a setback
+				<lb facs='#facs_4_r_5_1_tl_7' n='N007'/>but not a defeat”. The committee’s vote
+				<lb facs='#facs_4_r_5_1_tl_8' n='N008'/>did not follow party lines and several
+				<lb facs='#facs_4_r_5_1_tl_9' n='N009'/>Senators who supported the measure
+				<lb facs='#facs_4_r_5_1_tl_10' n='N010'/>expressed strong reservations about it.
+				<lb facs='#facs_4_r_5_1_tl_11' n='N011'/>Shirl Thrumoth, the South Carolina
+				<lb facs='#facs_4_r_5_1_tl_12' n='N012'/>Republican who is Chairwoman of the
+				<lb facs='#facs_4_r_5_1_tl_13' n='N013'/>Committee and Alana K. Sampson, a
+				<lb facs='#facs_4_r_5_1_tl_14' n='N014'/>Republican from Wyoming, said they
+				<lb facs='#facs_4_r_5_1_tl_15' n='N015'/>would try to amend the proposal on
+				<lb facs='#facs_4_r_5_1_tl_16' n='N016'/>the Senate floor and leave sperm con
+				<lb facs='#facs_4_r_5_1_tl_17' n='N017'/>trol entirely to each state. Such a step
+				<lb facs='#facs_4_r_5_1_tl_18' n='N018'/>would be anathema to most of the
+				<lb facs='#facs_4_r_5_1_tl_19' n='N019'/>“anti-illegitimate-sperm” groups that
+				<lb facs='#facs_4_r_5_1_tl_20' n='N020'/>want an illegitimate sperm ban as na
+				<lb facs='#facs_4_r_5_1_tl_21' n='N021'/>tional policy
+				<lb facs='#facs_4_r_5_1_tl_22' n='N022'/>Senator Josephine R. Bidden, Dem-
+				<lb facs='#facs_4_r_5_1_tl_23' n='N023'/>ocrat of Delaware, said that the vote
+				<lb facs='#facs_4_r_5_1_tl_24' n='N024'/>was the most difficult one she has made
+				<lb facs='#facs_4_r_5_1_tl_25' n='N025'/>as a Senator and that, as a Matriarchal
+				<lb facs='#facs_4_r_5_1_tl_26' n='N026'/>Catholic, she was not sure that she had
+				<lb facs='#facs_4_r_5_1_tl_27' n='N027'/>a “right to impose” her views on an
+				<lb facs='#facs_4_r_5_1_tl_28' n='N028'/>issue that would affect the entire na
+				<lb facs='#facs_4_r_5_1_tl_29' n='N029'/>tion. She then voted in favor of the pro
+				<lb facs='#facs_4_r_5_1_tl_30' n='N030'/>posed amendment. In addition to MS.
+				<lb facs='#facs_4_r_5_1_tl_31' n='N031'/>Midden, one other Democrat, Sena-
+				<lb facs='#facs_4_r_5_1_tl_32' n='N032'/>tor Denise DeConception of Arizona
+				<lb facs='#facs_4_r_5_1_tl_33' n='N033'/>supported the proposed amendment.
+				<lb facs='#facs_4_r_5_1_tl_34' n='N034'/>Besides Ms. Hitch, Ms. Thrumoth
+				<lb facs='#facs_4_r_5_1_tl_35' n='N035'/>and Ms. Sampson, other Republican
+				<lb facs='#facs_4_r_5_1_tl_36' n='N036'/>Senators who voted for the measure
+				<lb facs='#facs_4_r_5_1_tl_37' n='N037'/>were Pauline Laxalt of Nevada, Ro-
+				<lb facs='#facs_4_r_5_1_tl_38' n='N038'/>berta Dole of Kansas, Johanna P. East
+				<lb facs='#facs_4_r_5_1_tl_39' n='N039'/>of North Carolina, Charlene E. Gross-
+				<lb facs='#facs_4_r_5_1_tl_40' n='N040'/>ley of lowa and Jennifer Denton
+				<lb facs='#facs_4_r_5_1_tl_41' n='N041'/>of Alabama. Democrats who voted
+				<lb facs='#facs_4_r_5_1_tl_42' n='N042'/>against the measure were Senators Ed-
+				<lb facs='#facs_4_r_5_1_tl_43' n='N043'/>wina M. Kennedy of Massachusetts.
+				<lb facs='#facs_4_r_5_1_tl_44' n='N044'/>continued on next page
+			</p>
+			<pb n='5'/>
+			<p>
+				<lb facs='#facs_5_r_1_1_tl_1' n='N001'/>CONTINUITY OF PEOPLE PROGRAM:
+				<lb facs='#facs_5_r_1_1_tl_2' n='N002'/>A MODEST PROPOSAL By D.D. RESEARCH ASSOCIATES
+			</p>
+			<p>
+				<lb facs='#facs_5_r_3_1_tl_1' n='N001'/>The Continuity of People program is a
+				<lb facs='#facs_5_r_3_1_tl_2' n='N002'/>reasonable and efficient alternative to
+				<lb facs='#facs_5_r_3_1_tl_3' n='N003'/>the present Canadian government plans
+				<lb facs='#facs_5_r_3_1_tl_4' n='N004'/>for use of the eight official bunkers
+				<lb facs='#facs_5_r_3_1_tl_5' n='N005'/>which are designated as top-level radi-
+				<lb facs='#facs_5_r_3_1_tl_6' n='N006'/>ation shelters in the event of a nucleai
+				<lb facs='#facs_5_r_3_1_tl_7' n='N007'/>war. Places are reserved in these bun
+				<lb facs='#facs_5_r_3_1_tl_8' n='N008'/>kers for government and military offi
+				<lb facs='#facs_5_r_3_1_tl_9' n='N009'/>cials, plus a few media people. The
+				<lb facs='#facs_5_r_3_1_tl_10' n='N010'/>Continuity of People program proposes
+				<lb facs='#facs_5_r_3_1_tl_11' n='N011'/>replacing this largely male and aging
+				<lb facs='#facs_5_r_3_1_tl_12' n='N012'/>population with a list of women of child
+				<lb facs='#facs_5_r_3_1_tl_13' n='N013'/>bearing age. These women would form
+				<lb facs='#facs_5_r_3_1_tl_14' n='N014'/>a breeding stock pool for the future con-
+				<lb facs='#facs_5_r_3_1_tl_15' n='N015'/>tinuity of our species. Each bunker
+				<lb facs='#facs_5_r_3_1_tl_16' n='N016'/>would also contain a Sperm Bank Re
+				<lb facs='#facs_5_r_3_1_tl_17' n='N017'/>pository. The brief outlines the latest
+				<lb facs='#facs_5_r_3_1_tl_18' n='N018'/>advances in bio-medical technology. It
+				<lb facs='#facs_5_r_3_1_tl_19' n='N019'/>demonstrates the advantages to Can
+				<lb facs='#facs_5_r_3_1_tl_20' n='N020'/>ada of getting in on the ground floor
+				<lb facs='#facs_5_r_3_1_tl_21' n='N021'/>of this new high-tech industry while, at
+				<lb facs='#facs_5_r_3_1_tl_22' n='N022'/>the same time, making a world-class
+				<lb facs='#facs_5_r_3_1_tl_23' n='N023'/>contribution to the survival of our spe
+				<lb facs='#facs_5_r_3_1_tl_24' n='N024'/>cies. The Continuity of People program
+				<lb facs='#facs_5_r_3_1_tl_25' n='N025'/>is an alternative to the Continuity of
+				<lb facs='#facs_5_r_3_1_tl_26' n='N026'/>Government program, Canada’s offi
+				<lb facs='#facs_5_r_3_1_tl_27' n='N027'/>cial Emergency Measures response in
+				<lb facs='#facs_5_r_3_1_tl_28' n='N028'/>the event of a nuclear war.
+				<lb facs='#facs_5_r_3_1_tl_29' n='N029'/>The Continuity of Government pro-
+				<lb facs='#facs_5_r_3_1_tl_30' n='N030'/>gram is based on the assumption that,
+				<lb facs='#facs_5_r_3_1_tl_31' n='N031'/>whatever happens in the aftermath of
+				<lb facs='#facs_5_r_3_1_tl_32' n='N032'/>a nuclear holocaust, government and
+				<lb facs='#facs_5_r_3_1_tl_33' n='N033'/>the military must survive. The program
+				<lb facs='#facs_5_r_3_1_tl_34' n='N034'/>assumes that the selected few govern
+				<lb facs='#facs_5_r_3_1_tl_35' n='N035'/>ment and military officials, plus a few
+				<lb facs='#facs_5_r_3_1_tl_36' n='N036'/>media people, in the bunkers will not
+				<lb facs='#facs_5_r_3_1_tl_37' n='N037'/>be directly hit by a nuclear weapon nor
+				<lb facs='#facs_5_r_3_1_tl_38' n='N038'/>will they be asphyxiated or cooked alive
+				<lb facs='#facs_5_r_3_1_tl_39' n='N039'/>as were the people in such shelters in
+			</p>
+			<p>
+				<lb facs='#facs_5_r_5_1_tl_1' n='N001'/>Dresden during the fire-bombings of
+				<lb facs='#facs_5_r_5_1_tl_2' n='N002'/>World War II.
+				<lb facs='#facs_5_r_5_1_tl_3' n='N003'/>Based on these assumptions, the
+				<lb facs='#facs_5_r_5_1_tl_4' n='N004'/>Continuity of Government program en
+				<lb facs='#facs_5_r_5_1_tl_5' n='N005'/>visions these chosen government and
+				<lb facs='#facs_5_r_5_1_tl_6' n='N006'/>military men, plus a few media peo-
+				<lb facs='#facs_5_r_5_1_tl_7' n='N007'/>ple, rebuilding our society after a nu
+				<lb facs='#facs_5_r_5_1_tl_8' n='N008'/>clear holocaust.
+				<lb facs='#facs_5_r_5_1_tl_9' n='N009'/>Our research indicates that this is not
+				<lb facs='#facs_5_r_5_1_tl_10' n='N010'/>a reasonable assumption.
+				<lb facs='#facs_5_r_5_1_tl_11' n='N011'/>Our research has led us to other con
+				<lb facs='#facs_5_r_5_1_tl_12' n='N012'/>clusions about the survival of our spe
+				<lb facs='#facs_5_r_5_1_tl_13' n='N013'/>cies. These conclusions are embodied
+				<lb facs='#facs_5_r_5_1_tl_14' n='N014'/>in the Continuity of People program in
+				<lb facs='#facs_5_r_5_1_tl_15' n='N015'/>which we propose:
+			</p>
+			<p>
+				<lb facs='#facs_5_r_6_1_tl_1' n='N001'/>1) That the official list of “bunker
+				<lb facs='#facs_5_r_6_1_tl_2' n='N002'/>survivors” be replaced by a list of
+				<lb facs='#facs_5_r_6_1_tl_3' n='N003'/>healthy women of child-bearing age.
+				<lb facs='#facs_5_r_6_1_tl_4' n='N004'/>2) That each official bunker contain
+				<lb facs='#facs_5_r_6_1_tl_5' n='N005'/>an official Sperm Bank Repository.
+				<lb facs='#facs_5_r_6_1_tl_6' n='N006'/>3) That each bunker be reconstitu
+				<lb facs='#facs_5_r_6_1_tl_7' n='N007'/>ted and equipped with an obstetrics
+				<lb facs='#facs_5_r_6_1_tl_8' n='N008'/>wing, including a Conception Unit,
+				<lb facs='#facs_5_r_6_1_tl_9' n='N009'/>where the women will be artificially
+				<lb facs='#facs_5_r_6_1_tl_10' n='N010'/>inseminated with the sperm of their
+				<lb facs='#facs_5_r_6_1_tl_11' n='N011'/>choice.
+				<lb facs='#facs_5_r_6_1_tl_12' n='N012'/>4) That each bunker also be equipped
+				<lb facs='#facs_5_r_6_1_tl_13' n='N013'/>with facilities for the care of infants
+				<lb facs='#facs_5_r_6_1_tl_14' n='N014'/>and children.
+				<lb facs='#facs_5_r_6_1_tl_15' n='N015'/>continued on next page
+			</p>
+			<p>
+				<lb facs='#facs_5_r_4_1_tl_1' n='N001'/>Male Sexual Curbs continued
+				<lb facs='#facs_5_r_4_1_tl_2' n='N002'/>Roberta C. Bird of West Virginia, Pa
+				<lb facs='#facs_5_r_4_1_tl_3' n='N003'/>tricia J. Leahy of Vermont, Maxine
+				<lb facs='#facs_5_r_4_1_tl_4' n='N004'/>Caucus of Montana and Howardena M.
+				<lb facs='#facs_5_r_4_1_tl_5' n='N005'/>Metzenbaum of Ohio. Two Republi-
+				<lb facs='#facs_5_r_4_1_tl_6' n='N006'/>can Senators, Arlene Specter of Penn-
+				<lb facs='#facs_5_r_4_1_tl_7' n='N007'/>sylvania and Charlene Mathias of
+				<lb facs='#facs_5_r_4_1_tl_8' n='N008'/>Maryland opposed the measure
+				<lb facs='#facs_5_r_4_1_tl_9' n='N009'/>In urging approval of her proposed
+				<lb facs='#facs_5_r_4_1_tl_10' n='N010'/>amendment, Senator Hitch said repeat-
+				<lb facs='#facs_5_r_4_1_tl_11' n='N011'/>edly that the measure “puts us in the
+				<lb facs='#facs_5_r_4_1_tl_12' n='N012'/>middle” between “the two extremes
+				<lb facs='#facs_5_r_4_1_tl_13' n='N013'/>dominating the debate”. The proposal
+				<lb facs='#facs_5_r_4_1_tl_14' n='N014'/>itself is one of several before Congress,
+				<lb facs='#facs_5_r_4_1_tl_15' n='N015'/>including a measure sponsored by Ms.
+				<lb facs='#facs_5_r_4_1_tl_16' n='N016'/>East and Senator Jessica Rudders, Re
+				<lb facs='#facs_5_r_4_1_tl_17' n='N017'/>publican of North Carolina, that would
+				<lb facs='#facs_5_r_4_1_tl_18' n='N018'/>define life as beginning when sperm
+				<lb facs='#facs_5_r_4_1_tl_19' n='N019'/>leaves the penis.
+			</p>
+			<pb n='6'/>
+			<p>
+				<lb facs='#facs_6_r_4_1_tl_1' n='N001'/>We will now address ourselves to
+				<lb facs='#facs_6_r_4_1_tl_2' n='N002'/>each of these proposals, demonstrat-
+				<lb facs='#facs_6_r_4_1_tl_3' n='N003'/>ing how easily and efficiently the Con
+				<lb facs='#facs_6_r_4_1_tl_4' n='N004'/>tinuity of People program could be put
+				<lb facs='#facs_6_r_4_1_tl_5' n='N005'/>into place.
+				<lb facs='#facs_6_r_4_1_tl_6' n='N006'/>1) We think there will be no diffi
+				<lb facs='#facs_6_r_4_1_tl_7' n='N007'/>culty in soliciting volunteers from
+				<lb facs='#facs_6_r_4_1_tl_8' n='N008'/>amongst the female population. Once
+				<lb facs='#facs_6_r_4_1_tl_9' n='N009'/>these women are assured that it is their
+				<lb facs='#facs_6_r_4_1_tl_10' n='N010'/>patriotic duty to offer their wombs for
+				<lb facs='#facs_6_r_4_1_tl_11' n='N011'/>the future, they will come forward by
+				<lb facs='#facs_6_r_4_1_tl_12' n='N012'/>the hundreds, if not thousands.
+				<lb facs='#facs_6_r_4_1_tl_13' n='N013'/>The difficulty will then be to narrow
+				<lb facs='#facs_6_r_4_1_tl_14' n='N014'/>the selection to a few hundred choice
+				<lb facs='#facs_6_r_4_1_tl_15' n='N015'/>breeding stock. This will include a de
+				<lb facs='#facs_6_r_4_1_tl_16' n='N016'/>tailed physical examination and an ex
+				<lb facs='#facs_6_r_4_1_tl_17' n='N017'/>haustive study of individual medical
+				<lb facs='#facs_6_r_4_1_tl_18' n='N018'/>histories to avoid possible inherited ge
+				<lb facs='#facs_6_r_4_1_tl_19' n='N019'/>netic defects. Intelligence and any other
+				<lb facs='#facs_6_r_4_1_tl_20' n='N020'/>human characteristics deemed desirable
+				<lb facs='#facs_6_r_4_1_tl_21' n='N021'/>will also have to be carefully screened.
+				<lb facs='#facs_6_r_4_1_tl_22' n='N022'/>2) Given today’s advanced bio-medi-
+				<lb facs='#facs_6_r_4_1_tl_23' n='N023'/>cal technology, it would be no prob
+				<lb facs='#facs_6_r_4_1_tl_24' n='N024'/>lem to install Sperm Bank Reposito
+				<lb facs='#facs_6_r_4_1_tl_25' n='N025'/>ries. Artificial insemination and sperm
+				<lb facs='#facs_6_r_4_1_tl_26' n='N026'/>storage units are already on line in the
+				<lb facs='#facs_6_r_4_1_tl_27' n='N027'/>United States; for example, the Tyler
+				<lb facs='#facs_6_r_4_1_tl_28' n='N028'/>Medical Clinic in Westwood, Califor-
+				<lb facs='#facs_6_r_4_1_tl_29' n='N029'/>nia; the Southern California Cryo
+				<lb facs='#facs_6_r_4_1_tl_30' n='N030'/>bank, and the Repository for Germi
+				<lb facs='#facs_6_r_4_1_tl_31' n='N031'/>nal Choice. These centres collect the
+				<lb facs='#facs_6_r_4_1_tl_32' n='N032'/>sperm of “superior men” and bank it
+				<lb facs='#facs_6_r_4_1_tl_33' n='N033'/>for the future procreation of improved
+				<lb facs='#facs_6_r_4_1_tl_34' n='N034'/>human genetic stock. The banked
+				<lb facs='#facs_6_r_4_1_tl_35' n='N035'/>sperm is “frozen” in liquid nitrogen and
+				<lb facs='#facs_6_r_4_1_tl_36' n='N036'/>can last indefinitely. Certainly it would
+				<lb facs='#facs_6_r_4_1_tl_37' n='N037'/>survive (if a bunker was not directly
+				<lb facs='#facs_6_r_4_1_tl_38' n='N038'/>hit) for the hundred years or so neces
+				<lb facs='#facs_6_r_4_1_tl_39' n='N039'/>sary for setting up a breeding program
+				<lb facs='#facs_6_r_4_1_tl_40' n='N040'/>for a post-nuclear society.
+				<lb facs='#facs_6_r_4_1_tl_41' n='N041'/>These Sperm Bank Repositories
+				<lb facs='#facs_6_r_4_1_tl_42' n='N042'/>would enable the collection and storage
+				<lb facs='#facs_6_r_4_1_tl_43' n='N043'/>of “ejaculates” donated by young, vig-
+				<lb facs='#facs_6_r_4_1_tl_44' n='N044'/>orous men in our society. Such males
+				<lb facs='#facs_6_r_4_1_tl_45' n='N045'/>would also have to be carefully screened
+				<lb facs='#facs_6_r_4_1_tl_46' n='N046'/>for desirable physical and mental char
+				<lb facs='#facs_6_r_4_1_tl_47' n='N047'/>acteristics (see Appendix A).
+				<lb facs='#facs_6_r_4_1_tl_48' n='N048'/>In fact, these Repositories would pro
+				<lb facs='#facs_6_r_4_1_tl_49' n='N049'/>vide numerous spin-off services to our
+				<lb facs='#facs_6_r_4_1_tl_50' n='N050'/>present society which would offset the
+				<lb facs='#facs_6_r_4_1_tl_51' n='N051'/>initial installation costs:
+				<lb facs='#facs_6_r_4_1_tl_52' n='N052'/>a) They would provide medical re
+				<lb facs='#facs_6_r_4_1_tl_53' n='N053'/>cords of current sperm count patterns.
+				<lb facs='#facs_6_r_4_1_tl_54' n='N054'/>It is now widely known that the sperm
+				<lb facs='#facs_6_r_4_1_tl_55' n='N055'/>count of the average American male
+				<lb facs='#facs_6_r_4_1_tl_56' n='N056'/>has dropped to what some believe is
+				<lb facs='#facs_6_r_4_1_tl_57' n='N057'/>an all-time low. We need to know if
+				<lb facs='#facs_6_r_4_1_tl_58' n='N058'/>the Canadian male sperm count follows
+				<lb facs='#facs_6_r_4_1_tl_59' n='N059'/>this decline.
+				<lb facs='#facs_6_r_4_1_tl_60' n='N060'/>b) We would be able to collect and
+				<lb facs='#facs_6_r_4_1_tl_61' n='N061'/>store sperm from special interest groups
+				<lb facs='#facs_6_r_4_1_tl_62' n='N062'/>such as the military and nuclear work-
+				<lb facs='#facs_6_r_4_1_tl_63' n='N063'/>ers whose work routinely exposes them
+				<lb facs='#facs_6_r_4_1_tl_64' n='N064'/>to chemical toxins and radiation. Since
+				<lb facs='#facs_6_r_4_1_tl_65' n='N065'/>such exposure not only causes a reduced
+				<lb facs='#facs_6_r_4_1_tl_66' n='N066'/>sperm count but also can cause genetic
+			</p>
+			<pb n='7'/>
+			<p>
+				<lb facs='#facs_7_r_2_1_tl_1' n='N001'/>mutations, the sperm of such men after
+				<lb facs='#facs_7_r_2_1_tl_2' n='N002'/>exposure must be considered of an in
+				<lb facs='#facs_7_r_2_1_tl_3' n='N003'/>ferior quality.
+				<lb facs='#facs_7_r_2_1_tl_4' n='N004'/>c) Given that our overall population
+				<lb facs='#facs_7_r_2_1_tl_5' n='N005'/>is an aging one, such Repositories will
+				<lb facs='#facs_7_r_2_1_tl_6' n='N006'/>provide an on-going source of sperm
+				<lb facs='#facs_7_r_2_1_tl_7' n='N007'/>taken from men in their breeding
+				<lb facs='#facs_7_r_2_1_tl_8' n='N008'/>prime.
+				<lb facs='#facs_7_r_2_1_tl_9' n='N009'/>The high-tech efficiency of these
+				<lb facs='#facs_7_r_2_1_tl_10' n='N010'/>Sperm Bank Repositories is not to be
+				<lb facs='#facs_7_r_2_1_tl_11' n='N011'/>underestimated. One researcher has
+				<lb facs='#facs_7_r_2_1_tl_12' n='N012'/>calculated that we need freeze only two
+				<lb facs='#facs_7_r_2_1_tl_13' n='N013'/>ejaculates—800 million sperm—to get
+				<lb facs='#facs_7_r_2_1_tl_14' n='N014'/>a lifetime’s supply of genetic material
+				<lb facs='#facs_7_r_2_1_tl_15' n='N015'/>from one male (Rothman, 1983). At
+				<lb facs='#facs_7_r_2_1_tl_16' n='N016'/>this rate we could ensure a good cross
+				<lb facs='#facs_7_r_2_1_tl_17' n='N017'/>section of our society, including race
+				<lb facs='#facs_7_r_2_1_tl_18' n='N018'/>and ethnic groups, were represented in
+				<lb facs='#facs_7_r_2_1_tl_19' n='N019'/>each Repository (see Appendix B).
+				<lb facs='#facs_7_r_2_1_tl_20' n='N020'/>Finally, under Section 2, we think it
+				<lb facs='#facs_7_r_2_1_tl_21' n='N021'/>essential that the female recipient of
+				<lb facs='#facs_7_r_2_1_tl_22' n='N022'/>the sperm have an element of choice
+				<lb facs='#facs_7_r_2_1_tl_23' n='N023'/>as to type of donor. This is not scientif
+				<lb facs='#facs_7_r_2_1_tl_24' n='N024'/>ically necessary but we anticipate avoid-
+			</p>
+			<p>
+				<lb facs='#facs_7_r_3_1_tl_1' n='N001'/>ing human relations problems amongst
+				<lb facs='#facs_7_r_3_1_tl_2' n='N002'/>the women and their offspring during
+				<lb facs='#facs_7_r_3_1_tl_3' n='N003'/>the time required to bring the offspring
+				<lb facs='#facs_7_r_3_1_tl_4' n='N004'/>to functional maturity.
+				<lb facs='#facs_7_r_3_1_tl_5' n='N005'/>3) The reconstitution of the bunkers
+				<lb facs='#facs_7_r_3_1_tl_6' n='N006'/>to accommodate the consequences of
+				<lb facs='#facs_7_r_3_1_tl_7' n='N007'/>the Continuity of People program is
+				<lb facs='#facs_7_r_3_1_tl_8' n='N008'/>obvious.
+				<lb facs='#facs_7_r_3_1_tl_9' n='N009'/>We should also ensure that some of
+				<lb facs='#facs_7_r_3_1_tl_10' n='N010'/>the women are trained medical person-
+				<lb facs='#facs_7_r_3_1_tl_11' n='N011'/>nel (doctors, nurses, midwives) and ar
+				<lb facs='#facs_7_r_3_1_tl_12' n='N012'/>tificial insemination technicians. These
+				<lb facs='#facs_7_r_3_1_tl_13' n='N013'/>personnel can themselves be pregnant
+				<lb facs='#facs_7_r_3_1_tl_14' n='N014'/>while they are training other women
+				<lb facs='#facs_7_r_3_1_tl_15' n='N015'/>and, by the time they are due to drop
+				<lb facs='#facs_7_r_3_1_tl_16' n='N016'/>their offspring, these other personnel
+				<lb facs='#facs_7_r_3_1_tl_17' n='N017'/>will take over their duties. This rota-
+				<lb facs='#facs_7_r_3_1_tl_18' n='N018'/>tion of female personnel is more effi
+				<lb facs='#facs_7_r_3_1_tl_19' n='N019'/>cient than employing male professionals
+				<lb facs='#facs_7_r_3_1_tl_20' n='N020'/>who cannot themselves bear children
+				<lb facs='#facs_7_r_3_1_tl_21' n='N021'/>and whose sperm may be of question
+				<lb facs='#facs_7_r_3_1_tl_22' n='N022'/>able quality. In addition, face-to-face
+				<lb facs='#facs_7_r_3_1_tl_23' n='N023'/>breeding contact must be avoided—it
+				<lb facs='#facs_7_r_3_1_tl_24' n='N024'/>cannot be too highly stressed that in
+			</p>
+			<p>
+				<lb facs='#facs_7_r_4_1_tl_1' n='N001'/>the event of a nuclear holocaust, we
+				<lb facs='#facs_7_r_4_1_tl_2' n='N002'/>must place our trust in bio-medical tech
+				<lb facs='#facs_7_r_4_1_tl_3' n='N003'/>nology rather than on human reactions
+				<lb facs='#facs_7_r_4_1_tl_4' n='N004'/>which may be unpredictable.
+				<lb facs='#facs_7_r_4_1_tl_5' n='N005'/>Nurseries and child-care facilities are
+				<lb facs='#facs_7_r_4_1_tl_6' n='N006'/>necessary. The offspring of this breed
+				<lb facs='#facs_7_r_4_1_tl_7' n='N007'/>ing stock must, in turn, produce enough
+				<lb facs='#facs_7_r_4_1_tl_8' n='N008'/>healthy genetic material to re-stock the
+				<lb facs='#facs_7_r_4_1_tl_9' n='N009'/>world human gene pool.
+				<lb facs='#facs_7_r_4_1_tl_10' n='N010'/>To this end, the breeding stock and
+				<lb facs='#facs_7_r_4_1_tl_11' n='N011'/>their offspring must be protected at all
+				<lb facs='#facs_7_r_4_1_tl_12' n='N012'/>costs from radiation exposure. There
+				<lb facs='#facs_7_r_4_1_tl_13' n='N013'/>is no safe threshold for even low-level
+				<lb facs='#facs_7_r_4_1_tl_14' n='N014'/>radiation exposure (Bertell et al., 1981).
+				<lb facs='#facs_7_r_4_1_tl_15' n='N015'/>We therefore anticipate that our select
+				<lb facs='#facs_7_r_4_1_tl_16' n='N016'/>group will have to remain in under
+				<lb facs='#facs_7_r_4_1_tl_17' n='N017'/>ground shelters unto the third and pos
+				<lb facs='#facs_7_r_4_1_tl_18' n='N018'/>sibly fourth generation. Even if the
+				<lb facs='#facs_7_r_4_1_tl_19' n='N019'/>young females of each drop are impreg-
+				<lb facs='#facs_7_r_4_1_tl_20' n='N020'/>nated at the onset of ovulation, this will
+				<lb facs='#facs_7_r_4_1_tl_21' n='N021'/>take at least 45 years.
+				<lb facs='#facs_7_r_4_1_tl_22' n='N022'/>Text by Donna E. Smyth; Graphics by Karen Fourless
+				<lb facs='#facs_7_r_4_1_tl_23' n='N023'/>in collaboration with: Pat Kipping, Bonnie Bobryk,
+				<lb facs='#facs_7_r_4_1_tl_24' n='N024'/>Wilma Needham, Liz Calder, Nancy Colpitts and
+				<lb facs='#facs_7_r_4_1_tl_25' n='N025'/>Gillian Thomas.
+			</p>
+			<pb n='8'/>
+			<p>
+				<lb facs='#facs_8_r_1_1_tl_1' n='N001'/>On the Picket-Reception Line
+				<lb facs='#facs_8_r_1_1_tl_2' n='N002'/>with LADIES AGAINST WOMEN
+			</p>
+			<p>
+				<lb facs='#facs_8_r_2_1_tl_1' n='N001'/>By VIRGINIA CHOLESTEROL
+				<lb facs='#facs_8_r_2_1_tl_2' n='N002'/>(with Mrs. Theodore William Banks)
+				<lb facs='#facs_8_r_2_1_tl_3' n='N003'/>As dawn broke, I plugged in my iron,
+				<lb facs='#facs_8_r_2_1_tl_4' n='N004'/>and began to think nice thoughts to my
+				<lb facs='#facs_8_r_2_1_tl_5' n='N005'/>self to get ready for the day. As I
+				<lb facs='#facs_8_r_2_1_tl_6' n='N006'/>touched up the ruffles on my perma
+				<lb facs='#facs_8_r_2_1_tl_7' n='N007'/>nent press polka-dot shirtdress, I
+				<lb facs='#facs_8_r_2_1_tl_8' n='N008'/>hummed my favorite little ditty from
+				<lb facs='#facs_8_r_2_1_tl_9' n='N009'/>our chant-sheet for the day. I pressed
+				<lb facs='#facs_8_r_2_1_tl_10' n='N010'/>the twists out of the apron ties on my
+				<lb facs='#facs_8_r_2_1_tl_11' n='N011'/>cute little dressy apron ... MOMMIES,
+				<lb facs='#facs_8_r_2_1_tl_12' n='N012'/>MOMMIES...I touched up the de
+				<lb facs='#facs_8_r_2_1_tl_13' n='N013'/>signer label inside the collar of my pink
+				<lb facs='#facs_8_r_2_1_tl_14' n='N014'/>angora sweater with the sequin trim
+				<lb facs='#facs_8_r_2_1_tl_15' n='N015'/>...DONTBE COMMIES...I pressed
+				<lb facs='#facs_8_r_2_1_tl_16' n='N016'/>my little floral hankie, so terribly use
+				<lb facs='#facs_8_r_2_1_tl_17' n='N017'/>ful for waving in an emphatic yet taste-
+				<lb facs='#facs_8_r_2_1_tl_18' n='N018'/>ful way...STAY ATHOME...I put the
+				<lb facs='#facs_8_r_2_1_tl_19' n='N019'/>setting on linen and got to work on the
+				<lb facs='#facs_8_r_2_1_tl_20' n='N020'/>corners of the picket signs...AND
+				<lb facs='#facs_8_r_2_1_tl_21' n='N021'/>FOLD PAJAMIES...I unplugged the
+				<lb facs='#facs_8_r_2_1_tl_22' n='N022'/>iron and let it cool so I could work all
+				<lb facs='#facs_8_r_2_1_tl_23' n='N023'/>those unsightly wrinkles out of my
+				<lb facs='#facs_8_r_2_1_tl_24' n='N024'/>pantyhose.
+				<lb facs='#facs_8_r_2_1_tl_25' n='N025'/>I dressed quickly, remembering to
+				<lb facs='#facs_8_r_2_1_tl_26' n='N026'/>splash on my favorite cologne, Eleva-
+				<lb facs='#facs_8_r_2_1_tl_27' n='N027'/>tor Evacuator, and to smooth on some
+				<lb facs='#facs_8_r_2_1_tl_28' n='N028'/>extra makeup, just for confidence. LA
+				<lb facs='#facs_8_r_2_1_tl_29' n='N029'/>DIES AGAINST WOMEN had struck
+				<lb facs='#facs_8_r_2_1_tl_30' n='N030'/>before, but I alway felt the adrenalin
+				<lb facs='#facs_8_r_2_1_tl_31' n='N031'/>flow on the morning of an action.
+				<lb facs='#facs_8_r_2_1_tl_32' n='N032'/>Some of the past get-togethers came
+				<lb facs='#facs_8_r_2_1_tl_33' n='N033'/>back to me as I fastened my pearls. I
+				<lb facs='#facs_8_r_2_1_tl_34' n='N034'/>remembered the lovely picketline re-
+				<lb facs='#facs_8_r_2_1_tl_35' n='N035'/>ception we gave for Phyllis when she
+				<lb facs='#facs_8_r_2_1_tl_36' n='N036'/>finally came to speak in San Francisco,
+				<lb facs='#facs_8_r_2_1_tl_37' n='N037'/>with the cheerleader shaking her pom-
+				<lb facs='#facs_8_r_2_1_tl_38' n='N038'/>poms and squealing,“RESTORE VIR-
+				<lb facs='#facs_8_r_2_1_tl_39' n='N039'/>GINITY AS A HIGH SCHOOL
+				<lb facs='#facs_8_r_2_1_tl_40' n='N040'/>GRADUATIONREQUIREMENT!
+				<lb facs='#facs_8_r_2_1_tl_41' n='N041'/>It was so nice to see all those well-
+				<lb facs='#facs_8_r_2_1_tl_42' n='N042'/>mannered and smiling supporters,
+				<lb facs='#facs_8_r_2_1_tl_43' n='N043'/>though some of them were not up to
+				<lb facs='#facs_8_r_2_1_tl_44' n='N044'/>dress code. But missionary work is quite
+				<lb facs='#facs_8_r_2_1_tl_45' n='N045'/>difficult in that way. In fact, some of
+				<lb facs='#facs_8_r_2_1_tl_46' n='N046'/>those blue-jeaned, flat-footed, bare
+				<lb facs='#facs_8_r_2_1_tl_47' n='N047'/>faced feminists actually laughed at us!
+				<lb facs='#facs_8_r_2_1_tl_48' n='N048'/>We smiled stiffly, and handed them cop
+				<lb facs='#facs_8_r_2_1_tl_49' n='N049'/>ies of our ladyfesto. It was such a relief
+				<lb facs='#facs_8_r_2_1_tl_50' n='N050'/>when Phyllis came out in her polka dot
+				<lb facs='#facs_8_r_2_1_tl_51' n='N051'/>bows. Afterwards in the rain we
+				<lb facs='#facs_8_r_2_1_tl_52' n='N052'/>cheered: “KEEP OUR NATION ON
+				<lb facs='#facs_8_r_2_1_tl_53' n='N053'/>THE TRACK, ONE STEP FOR-
+				<lb facs='#facs_8_r_2_1_tl_54' n='N054'/>WARD, THREE STEPS BACK!
+				<lb facs='#facs_8_r_2_1_tl_55' n='N055'/>I hurried to collect the powder blue
+				<lb facs='#facs_8_r_2_1_tl_56' n='N056'/>leaflets we had tossed off the night be
+				<lb facs='#facs_8_r_2_1_tl_57' n='N057'/>fore. Most of our announcements have
+			</p>
+			<p>
+				<lb facs='#facs_8_r_3_1_tl_1' n='N001'/>been on hot pink, but this was a coali
+				<lb facs='#facs_8_r_3_1_tl_2' n='N002'/>tion event, so out of respect for the men
+				<lb facs='#facs_8_r_3_1_tl_3' n='N003'/>who might be in any of the member
+				<lb facs='#facs_8_r_3_1_tl_4' n='N004'/>groups, we chose the blue. It looked
+				<lb facs='#facs_8_r_3_1_tl_5' n='N005'/>like rain,so I Saran-wrapped the picket
+				<lb facs='#facs_8_r_3_1_tl_6' n='N006'/>signs, just as though I was wrapping
+				<lb facs='#facs_8_r_3_1_tl_7' n='N007'/>up a bake-sale item (I must send my
+				<lb facs='#facs_8_r_3_1_tl_8' n='N008'/>recipe for Twinkies From Scratch to
+				<lb facs='#facs_8_r_3_1_tl_9' n='N009'/>those nice generals at the Pentagon).
+				<lb facs='#facs_8_r_3_1_tl_10' n='N010'/>And just then my dear friend Edith
+				<lb facs='#facs_8_r_3_1_tl_11' n='N011'/>oh, excuse me, language is so impor
+				<lb facs='#facs_8_r_3_1_tl_12' n='N012'/>tant!—I meant to say my dear friend,
+				<lb facs='#facs_8_r_3_1_tl_13' n='N013'/>Mrs.T.“Bill” Banks, rang my doorbell.
+				<lb facs='#facs_8_r_3_1_tl_14' n='N014'/>Edith is the Lady Chairman of the Na
+				<lb facs='#facs_8_r_3_1_tl_15' n='N015'/>tional Association for the Advancement
+				<lb facs='#facs_8_r_3_1_tl_16' n='N016'/>of Rich People, and a lady by birth.
+				<lb facs='#facs_8_r_3_1_tl_17' n='N017'/>She had come to show me the signs she
+				<lb facs='#facs_8_r_3_1_tl_18' n='N018'/>had had her maids design for her. Mrs.
+				<lb facs='#facs_8_r_3_1_tl_19' n='N019'/>Banks’ own sign read,“POVERTY IS
+				<lb facs='#facs_8_r_3_1_tl_20' n='N020'/>SO TASTELESS: SERVE THE UP-
+				<lb facs='#facs_8_r_3_1_tl_21' n='N021'/>PER CRUST.”I
+				<lb facs='#facs_8_r_3_1_tl_22' n='N022'/>They were all so nice
+				<lb facs='#facs_8_r_3_1_tl_23' n='N023'/>that she invited the maids to join us as
+				<lb facs='#facs_8_r_3_1_tl_24' n='N024'/>soon as they finished doing all her
+				<lb facs='#facs_8_r_3_1_tl_25' n='N025'/>windows.
+				<lb facs='#facs_8_r_3_1_tl_26' n='N026'/>At the dot of 8:26, our former image
+				<lb facs='#facs_8_r_3_1_tl_27' n='N027'/>consultant and staunch defender of the
+				<lb facs='#facs_8_r_3_1_tl_28' n='N028'/>Hollywood Empire, Mr. A. Tad Slick,
+				<lb facs='#facs_8_r_3_1_tl_29' n='N029'/>came to whisk us away to the social
+				<lb facs='#facs_8_r_3_1_tl_30' n='N030'/>statement of the decade: the state visit
+				<lb facs='#facs_8_r_3_1_tl_31' n='N031'/>of the Queen to our fair city. He was
+				<lb facs='#facs_8_r_3_1_tl_32' n='N032'/>pleased with the press releases I hac
+				<lb facs='#facs_8_r_3_1_tl_33' n='N033'/>whipped up, but of course he didn’t sa
+				<lb facs='#facs_8_r_3_1_tl_34' n='N034'/>anything; after all, the man knows his
+				<lb facs='#facs_8_r_3_1_tl_35' n='N035'/>place! But he was very interested in hav-
+				<lb facs='#facs_8_r_3_1_tl_36' n='N036'/>ing me read the list of endorsing groups
+				<lb facs='#facs_8_r_3_1_tl_37' n='N037'/>as we drove through the crowds, care
+				<lb facs='#facs_8_r_3_1_tl_38' n='N038'/>fully avoiding police barricades.
+				<lb facs='#facs_8_r_3_1_tl_39' n='N039'/>First and foremost was the Moral
+				<lb facs='#facs_8_r_3_1_tl_40' n='N040'/>Monopoly (God Save Rev. Jerry Fall-
+				<lb facs='#facs_8_r_3_1_tl_41' n='N041'/>out). I did hope there would be a repre
+				<lb facs='#facs_8_r_3_1_tl_42' n='N042'/>sentative with at least one of the tasteful
+				<lb facs='#facs_8_r_3_1_tl_43' n='N043'/>signs that their Long Beach, Califor
+				<lb facs='#facs_8_r_3_1_tl_44' n='N044'/>nia affiliates carried when we marched
+				<lb facs='#facs_8_r_3_1_tl_45' n='N045'/>with them in the Doo Dah Parade:
+				<lb facs='#facs_8_r_3_1_tl_46' n='N046'/>AMERICAIS ONIY BIG ENOUGH
+				<lb facs='#facs_8_r_3_1_tl_47' n='N047'/>FOR ONE OPINION.... GOD
+				<lb facs='#facs_8_r_3_1_tl_48' n='N048'/>INC., IS ON OUR SIDE.... AN
+				<lb facs='#facs_8_r_3_1_tl_49' n='N049'/>OPEN MIND IS THE DEVIL&apos;S
+				<lb facs='#facs_8_r_3_1_tl_50' n='N050'/>WORKSHOP.
+				<lb facs='#facs_8_r_3_1_tl_51' n='N051'/>Also on the list were: Students for an
+				<lb facs='#facs_8_r_3_1_tl_52' n='N052'/>Aristocratic Sociey (S.A.S.) Mobiliza-
+				<lb facs='#facs_8_r_3_1_tl_53' n='N053'/>tion Against Democracy—a group of
+				<lb facs='#facs_8_r_3_1_tl_54' n='N054'/>neo-monarchists who would prefer to
+				<lb facs='#facs_8_r_3_1_tl_55' n='N055'/>serve glamorous, divine rulers rather
+				<lb facs='#facs_8_r_3_1_tl_56' n='N056'/>than the drab bureaucrats elected by
+				<lb facs='#facs_8_r_3_1_tl_57' n='N057'/>commoners;the N.A.A.R.P., of course,
+				<lb facs='#facs_8_r_3_1_tl_58' n='N058'/>and their maids and servants; L.A.W.
+				<lb facs='#facs_8_r_3_1_tl_59' n='N059'/>and our men’s auxiliary. We hoped that
+			</p>
+			<p>
+				<lb facs='#facs_8_r_4_1_tl_1' n='N001'/>perhaps Y.L.A.Y.W. (Younger Ladies
+				<lb facs='#facs_8_r_4_1_tl_2' n='N002'/>Against Younger Women) would be
+				<lb facs='#facs_8_r_4_1_tl_3' n='N003'/>there with their team of cheerleader-
+				<lb facs='#facs_8_r_4_1_tl_4' n='N004'/>ettes. The little pep-leaders with the
+				<lb facs='#facs_8_r_4_1_tl_5' n='N005'/>pink pompoms were such a knock-out
+				<lb facs='#facs_8_r_4_1_tl_6' n='N006'/>the summer before in our protest
+				<lb facs='#facs_8_r_4_1_tl_7' n='N007'/>appearance in the Lesbian and Gay
+				<lb facs='#facs_8_r_4_1_tl_8' n='N008'/>Freedom Day Parade in San Francisco:
+				<lb facs='#facs_8_r_4_1_tl_9' n='N009'/>Cherri Pie and Candi Cotten were
+				<lb facs='#facs_8_r_4_1_tl_10' n='N010'/>so devastating when they led us in those
+				<lb facs='#facs_8_r_4_1_tl_11' n='N011'/>sweet little cheers for normality: BYE
+				<lb facs='#facs_8_r_4_1_tl_12' n='N012'/>BYE, E.R.A., PATRIARCHY’S
+				<lb facs='#facs_8_r_4_1_tl_13' n='N013'/>HERE TO STAY!.... PROCREA
+				<lb facs='#facs_8_r_4_1_tl_14' n='N014'/>TION, NOTRECREATION: CLOSE
+				<lb facs='#facs_8_r_4_1_tl_15' n='N015'/>YOUR EYES AND DO YOUR
+				<lb facs='#facs_8_r_4_1_tl_16' n='N016'/>DUTY
+				<lb facs='#facs_8_r_4_1_tl_17' n='N017'/>The coalition of the day was in some
+				<lb facs='#facs_8_r_4_1_tl_18' n='N018'/>ways a reunion for organizers of a pre
+				<lb facs='#facs_8_r_4_1_tl_19' n='N019'/>vious crusade. Representatives of the
+				<lb facs='#facs_8_r_4_1_tl_20' n='N020'/>Reagan for Shah” campaign were
+				<lb facs='#facs_8_r_4_1_tl_21' n='N021'/>gathering together almost four years
+				<lb facs='#facs_8_r_4_1_tl_22' n='N022'/>after our unsuccessful attempt to can
+				<lb facs='#facs_8_r_4_1_tl_23' n='N023'/>cel the 1980 elections and have RRI
+				<lb facs='#facs_8_r_4_1_tl_24' n='N024'/>installed as divine rightwinger by the
+				<lb facs='#facs_8_r_4_1_tl_25' n='N025'/>CIA. We had felt that what was good
+				<lb facs='#facs_8_r_4_1_tl_26' n='N026'/>enough for our foreign policy should
+				<lb facs='#facs_8_r_4_1_tl_27' n='N027'/>be good enough for our domestic pol
+				<lb facs='#facs_8_r_4_1_tl_28' n='N028'/>icy. Unfortunately, they went ahead
+				<lb facs='#facs_8_r_4_1_tl_29' n='N029'/>with the elections and pre-empted all
+				<lb facs='#facs_8_r_4_1_tl_30' n='N030'/>our favorite TV programs for a costly
+				<lb facs='#facs_8_r_4_1_tl_31' n='N031'/>and boring campaign.
+				<lb facs='#facs_8_r_4_1_tl_32' n='N032'/>Mrs. Banks, Mr. Slick, and I arrived
+				<lb facs='#facs_8_r_4_1_tl_33' n='N033'/>at the gathering place for well-wishers
+				<lb facs='#facs_8_r_4_1_tl_34' n='N034'/>and rowdy ungrateful tacky types, and
+				<lb facs='#facs_8_r_4_1_tl_35' n='N035'/>greeted the very nice police officers who
+				<lb facs='#facs_8_r_4_1_tl_36' n='N036'/>would be our hosts for the morning
+				<lb facs='#facs_8_r_4_1_tl_37' n='N037'/>Across the street, our peers were lin
+				<lb facs='#facs_8_r_4_1_tl_38' n='N038'/>ing up in their furs and jewels to receive
+				<lb facs='#facs_8_r_4_1_tl_39' n='N039'/>the Royal Guests.
+				<lb facs='#facs_8_r_4_1_tl_40' n='N040'/>Our invitations must have been inad
+				<lb facs='#facs_8_r_4_1_tl_41' n='N041'/>vertantly lost in the mail, we told the
+				<lb facs='#facs_8_r_4_1_tl_42' n='N042'/>nice young officer at the barricade. He
+				<lb facs='#facs_8_r_4_1_tl_43' n='N043'/>stared at Edith in her stunning baby
+				<lb facs='#facs_8_r_4_1_tl_44' n='N044'/>harp seal stole with the club marks and
+				<lb facs='#facs_8_r_4_1_tl_45' n='N045'/>her very attractive South African em
+				<lb facs='#facs_8_r_4_1_tl_46' n='N046'/>erald brooch. He studied Mr. Slick in
+				<lb facs='#facs_8_r_4_1_tl_47' n='N047'/>his orange slacks and magenta beret.
+				<lb facs='#facs_8_r_4_1_tl_48' n='N048'/>And he wanted very much to see
+				<lb facs='#facs_8_r_4_1_tl_49' n='N049'/>my picket signs: NANCY FOR
+				<lb facs='#facs_8_r_4_1_tl_50' n='N050'/>QUEEN....KEEP REVOLUTION
+				<lb facs='#facs_8_r_4_1_tl_51' n='N051'/>FAR FROM OUR SHORE/TRADE
+				<lb facs='#facs_8_r_4_1_tl_52' n='N052'/>NORTHERN IRELAND FOR EL
+				<lb facs='#facs_8_r_4_1_tl_53' n='N053'/>SALVADOR ....BAN THE POOR.
+				<lb facs='#facs_8_r_4_1_tl_54' n='N054'/>I told him I am very middle Ameri-
+				<lb facs='#facs_8_r_4_1_tl_55' n='N055'/>can, and that my husband was a fan of
+				<lb facs='#facs_8_r_4_1_tl_56' n='N056'/>Mr. Reagan’s movies. My late husband,
+				<lb facs='#facs_8_r_4_1_tl_57' n='N057'/>Mr. Chester Cholesterol, was a very
+				<lb facs='#facs_8_r_4_1_tl_58' n='N058'/>successful margarine rancher and a very
+				<lb facs='#facs_8_r_4_1_tl_59' n='N059'/>good American. We had a fine enter
+				<lb facs='#facs_8_r_4_1_tl_60' n='N060'/>prise running herds of Imperialist Mar
+				<lb facs='#facs_8_r_4_1_tl_61' n='N061'/>garine, both tub and stick, until Ches
+				<lb facs='#facs_8_r_4_1_tl_62' n='N062'/>ter’s coronary. We’d been very careful
+				<lb facs='#facs_8_r_4_1_tl_63' n='N063'/>to eat only the finest additives, yet Mr.
+				<lb facs='#facs_8_r_4_1_tl_64' n='N064'/>Cholesterol passed to his reward. I told
+			</p>
+			<pb n='9'/>
+			<p>
+				<lb facs='#facs_9_r_1_1_tl_1' n='N001'/>the officer I was saving myself for Ches-
+				<lb facs='#facs_9_r_1_1_tl_2' n='N002'/>ter in heaven, so in the meantime I was
+				<lb facs='#facs_9_r_1_1_tl_3' n='N003'/>working to bring back the good old
+				<lb facs='#facs_9_r_1_1_tl_4' n='N004'/>days, whenever they were. I said I had
+				<lb facs='#facs_9_r_1_1_tl_5' n='N005'/>reason to believe that Nancy Reagan
+				<lb facs='#facs_9_r_1_1_tl_6' n='N006'/>and the Queen of England might be
+				<lb facs='#facs_9_r_1_1_tl_7' n='N007'/>able to bring back the era when ladies
+				<lb facs='#facs_9_r_1_1_tl_8' n='N008'/>were ladies, and men were men, and no
+				<lb facs='#facs_9_r_1_1_tl_9' n='N009'/>one was women, especially men. I
+				<lb facs='#facs_9_r_1_1_tl_10' n='N010'/>nodded in the direction of a gentle
+				<lb facs='#facs_9_r_1_1_tl_11' n='N011'/>man in evening dress, carrying a sign
+				<lb facs='#facs_9_r_1_1_tl_12' n='N012'/>which read, “QUEENS AGAINST
+				<lb facs='#facs_9_r_1_1_tl_13' n='N013'/>ROYALTY.
+				<lb facs='#facs_9_r_1_1_tl_14' n='N014'/>The officer was steadfast. (I do like
+				<lb facs='#facs_9_r_1_1_tl_15' n='N015'/>that in a police officer!) But when I
+				<lb facs='#facs_9_r_1_1_tl_16' n='N016'/>asked if he was a member of our affili
+				<lb facs='#facs_9_r_1_1_tl_17' n='N017'/>ate, P.O.P.S. (Peace Officers for a Po
+				<lb facs='#facs_9_r_1_1_tl_18' n='N018'/>lice State), he indicated where we
+				<lb facs='#facs_9_r_1_1_tl_19' n='N019'/>should go to wait for the Queens of En
+				<lb facs='#facs_9_r_1_1_tl_20' n='N020'/>gland and Hollywood Empire. We
+				<lb facs='#facs_9_r_1_1_tl_21' n='N021'/>thanked him and flashed our “OBEY
+				<lb facs='#facs_9_r_1_1_tl_22' n='N022'/>AUTHORITY” buttons at him.
+				<lb facs='#facs_9_r_1_1_tl_23' n='N023'/>Our contingent began to arrive and
+				<lb facs='#facs_9_r_1_1_tl_24' n='N024'/>we had just begun to pass out our cir
+				<lb facs='#facs_9_r_1_1_tl_25' n='N025'/>culars and chant, when those pesky
+				<lb facs='#facs_9_r_1_1_tl_26' n='N026'/>media people swarmed in, even though
+				<lb facs='#facs_9_r_1_1_tl_27' n='N027'/>we informed them that we only do in
+				<lb facs='#facs_9_r_1_1_tl_28' n='N028'/>terviews with CIA informants.
+				<lb facs='#facs_9_r_1_1_tl_29' n='N029'/>Why is your group promoting Nan
+				<lb facs='#facs_9_r_1_1_tl_30' n='N030'/>cy Reagan for Queen?” they asked.
+				<lb facs='#facs_9_r_1_1_tl_31' n='N031'/>This nation needs our own royalty
+				<lb facs='#facs_9_r_1_1_tl_32' n='N032'/>and we believe that Lady Nancy the
+				<lb facs='#facs_9_r_1_1_tl_33' n='N033'/>First has those regal qualities. She has
+				<lb facs='#facs_9_r_1_1_tl_34' n='N034'/>shown this with her China Policy and
+				<lb facs='#facs_9_r_1_1_tl_35' n='N035'/>her gracious let them eat catsup airs.
+			</p>
+			<p>
+				<lb facs='#facs_9_r_2_1_tl_1' n='N001'/>She has said that she would never wear
+				<lb facs='#facs_9_r_2_1_tl_2' n='N002'/>a crown because it would muss up her
+				<lb facs='#facs_9_r_2_1_tl_3' n='N003'/>hair, but that is a small obstacle. We
+				<lb facs='#facs_9_r_2_1_tl_4' n='N004'/>feel that American petro-chemical in
+				<lb facs='#facs_9_r_2_1_tl_5' n='N005'/>genuity can come up with a hairspray
+				<lb facs='#facs_9_r_2_1_tl_6' n='N006'/>that will withstand not only tornados
+				<lb facs='#facs_9_r_2_1_tl_7' n='N007'/>but coronations. After all, her husbanc
+				<lb facs='#facs_9_r_2_1_tl_8' n='N008'/>hs been using it for years.
+				<lb facs='#facs_9_r_2_1_tl_9' n='N009'/>A LIFE TERM FOR REAGAN! A
+				<lb facs='#facs_9_r_2_1_tl_10' n='N010'/>LIFE TERM FOR REAGAN!
+				<lb facs='#facs_9_r_2_1_tl_11' n='N011'/>STATE DINNERS, NOT SCHOOL
+				<lb facs='#facs_9_r_2_1_tl_12' n='N012'/>LUNCHES! FANFARE, NOT
+				<lb facs='#facs_9_r_2_1_tl_13' n='N013'/>WELFARE!
+				<lb facs='#facs_9_r_2_1_tl_14' n='N014'/>THE BOSSES, AM-AL-G’MATED.
+				<lb facs='#facs_9_r_2_1_tl_15' n='N015'/>WILL NEVER BE DEFEATED!
+				<lb facs='#facs_9_r_2_1_tl_16' n='N016'/>ALLPOWERTOTHE CORPORA-
+				<lb facs='#facs_9_r_2_1_tl_17' n='N017'/>TIONS! FREE THE FORTUNE 500!
+				<lb facs='#facs_9_r_2_1_tl_18' n='N018'/>We milled, chanted, cheered and chat
+				<lb facs='#facs_9_r_2_1_tl_19' n='N019'/>ted. We were very polite. When the
+				<lb facs='#facs_9_r_2_1_tl_20' n='N020'/>Queen of England and Queen Nancy
+				<lb facs='#facs_9_r_2_1_tl_21' n='N021'/>approached, we ladies rattled our jew-
+				<lb facs='#facs_9_r_2_1_tl_22' n='N022'/>els or simply waggled our little tooth
+				<lb facs='#facs_9_r_2_1_tl_23' n='N023'/>pick-flags. It was a brief climax, but
+				<lb facs='#facs_9_r_2_1_tl_24' n='N024'/>satisfying.
+				<lb facs='#facs_9_r_2_1_tl_25' n='N025'/>As we gathered for our group por
+				<lb facs='#facs_9_r_2_1_tl_26' n='N026'/>trait, we were suddenly surrounded by
+				<lb facs='#facs_9_r_2_1_tl_27' n='N027'/>the press again, and took the opportu
+				<lb facs='#facs_9_r_2_1_tl_28' n='N028'/>nity to make more of our positions
+				<lb facs='#facs_9_r_2_1_tl_29' n='N029'/>known:
+				<lb facs='#facs_9_r_2_1_tl_30' n='N030'/>Abolish the environment. It takes
+				<lb facs='#facs_9_r_2_1_tl_31' n='N031'/>up far too much space, and indoor-out-
+				<lb facs='#facs_9_r_2_1_tl_32' n='N032'/>door carpeting is so much easier to
+				<lb facs='#facs_9_r_2_1_tl_33' n='N033'/>keep clean.
+			</p>
+			<p>
+				<lb facs='#facs_9_r_3_1_tl_1' n='N001'/>“Free ladies from Wage Slavery! The
+				<lb facs='#facs_9_r_3_1_tl_2' n='N002'/>59c we earn to every dollar of men’s
+				<lb facs='#facs_9_r_3_1_tl_3' n='N003'/>wages is entirely too much ! Ladies do
+				<lb facs='#facs_9_r_3_1_tl_4' n='N004'/>not accept money for their labors.”
+				<lb facs='#facs_9_r_3_1_tl_5' n='N005'/>Mr. Slick then explained that Ron
+				<lb facs='#facs_9_r_3_1_tl_6' n='N006'/>nie could be more useful if he declared
+				<lb facs='#facs_9_r_3_1_tl_7' n='N007'/>the presidency a fully ceremonial posi-
+				<lb facs='#facs_9_r_3_1_tl_8' n='N008'/>tion and dissolved Congress. Mrs. T.
+				<lb facs='#facs_9_r_3_1_tl_9' n='N009'/>Bill” (Edith) Banks explained her pro
+				<lb facs='#facs_9_r_3_1_tl_10' n='N010'/>gram to protect endangered accesso
+				<lb facs='#facs_9_r_3_1_tl_11' n='N011'/>ries, such as alligator pumps and leo
+				<lb facs='#facs_9_r_3_1_tl_12' n='N012'/>pardskin jackets. I put on my “BORN
+				<lb facs='#facs_9_r_3_1_tl_13' n='N013'/>TO CLEAN” button and picked up the
+				<lb facs='#facs_9_r_3_1_tl_14' n='N014'/>stray signs from our contingent, most
+				<lb facs='#facs_9_r_3_1_tl_15' n='N015'/>of whom had left to go home and fix
+				<lb facs='#facs_9_r_3_1_tl_16' n='N016'/>lunch.
+				<lb facs='#facs_9_r_3_1_tl_17' n='N017'/>The day was over, though it was only
+				<lb facs='#facs_9_r_3_1_tl_18' n='N018'/>11:00.
+			</p>
+			<p>
+				<lb facs='#facs_9_r_4_1_tl_1' n='N001'/>LADIES AGAINST WOMEN is an artifi
+				<lb facs='#facs_9_r_4_1_tl_2' n='N002'/>cial-turf-roots organization, dedicated to
+				<lb facs='#facs_9_r_4_1_tl_3' n='N003'/>bringing Ladies back to the good old days,
+				<lb facs='#facs_9_r_4_1_tl_4' n='N004'/>whenever they were. L.A.W. members have
+				<lb facs='#facs_9_r_4_1_tl_5' n='N005'/>held bake-sales for the Pentagon, picket-
+				<lb facs='#facs_9_r_4_1_tl_6' n='N006'/>reception lines to honor Phyllis LeShaft,
+				<lb facs='#facs_9_r_4_1_tl_7' n='N007'/>and iron-ins to celebrate events such as the
+				<lb facs='#facs_9_r_4_1_tl_8' n='N008'/>ERA defeat. L.A.W. was formed in 1980,
+				<lb facs='#facs_9_r_4_1_tl_9' n='N009'/>as a task farce of the Reagan for Shah Cam
+				<lb facs='#facs_9_r_4_1_tl_10' n='N010'/>paign, advocates of Moderate Repression
+				<lb facs='#facs_9_r_4_1_tl_11' n='N011'/>at Home. For information on joining or
+				<lb facs='#facs_9_r_4_1_tl_12' n='N012'/>forming local chapters, write the national
+				<lb facs='#facs_9_r_4_1_tl_13' n='N013'/>office at: 1600 Woolsey St., +7, Berkeley,
+				<lb facs='#facs_9_r_4_1_tl_14' n='N014'/>CA 94703.
+				<lb facs='#facs_9_r_4_1_tl_15' n='N015'/>O Cholesterol and Banks
+			</p>
+			<pb n='10'/>
+			<pb n='11'/>
+			<p>
+				<lb facs='#facs_11_r_1_1_tl_1' n='N001'/>LETTERS TO THE EDITOR
+			</p>
+			<p>
+				<lb facs='#facs_11_r_2_1_tl_1' n='N001'/>dear lesbian insider/insighter/inciter,
+				<lb facs='#facs_11_r_2_1_tl_2' n='N002'/>we are a group of east coast urban
+				<lb facs='#facs_11_r_2_1_tl_3' n='N003'/>separatist/guerillas. we are calling on
+				<lb facs='#facs_11_r_2_1_tl_4' n='N004'/>our sisters to recognize our urban sep
+				<lb facs='#facs_11_r_2_1_tl_5' n='N005'/>aratist reality. we are calling our sisters
+				<lb facs='#facs_11_r_2_1_tl_6' n='N006'/>in rural areas on their regional chauvin
+				<lb facs='#facs_11_r_2_1_tl_7' n='N007'/>ism, their constant cry that the only way
+				<lb facs='#facs_11_r_2_1_tl_8' n='N008'/>to be truly separatist is to live on the
+				<lb facs='#facs_11_r_2_1_tl_9' n='N009'/>land.
+				<lb facs='#facs_11_r_2_1_tl_10' n='N010'/>we live on the land that the patri
+				<lb facs='#facs_11_r_2_1_tl_11' n='N011'/>archy stole from us and our goal is to
+				<lb facs='#facs_11_r_2_1_tl_12' n='N012'/>reclaim our mother earth for all wymyn,
+				<lb facs='#facs_11_r_2_1_tl_13' n='N013'/>including those in cities infested by the
+				<lb facs='#facs_11_r_2_1_tl_14' n='N014'/>prick mentality.
+				<lb facs='#facs_11_r_2_1_tl_15' n='N015'/>we are 12 wymyn-born wymyn. 10 of
+				<lb facs='#facs_11_r_2_1_tl_16' n='N016'/>us are white, 1 of us is Ist world and 1
+				<lb facs='#facs_11_r_2_1_tl_17' n='N017'/>of us does not subscribe to racial defi
+				<lb facs='#facs_11_r_2_1_tl_18' n='N018'/>nitions. 3 of us are jews, and 9 of us
+				<lb facs='#facs_11_r_2_1_tl_19' n='N019'/>are post-christians or post-social-chris
+				<lb facs='#facs_11_r_2_1_tl_20' n='N020'/>tian-atheists. (1 is an ex-nun and 1 is a
+			</p>
+			<p>
+				<lb facs='#facs_11_r_4_1_tl_1' n='N001'/>krishna consciousness survivor.)
+				<lb facs='#facs_11_r_4_1_tl_2' n='N002'/>2 of us are working class, 7 of us are
+				<lb facs='#facs_11_r_4_1_tl_3' n='N003'/>middle class, 1 of us is upper middle
+				<lb facs='#facs_11_r_4_1_tl_4' n='N004'/>class and 2 of us feel the complications
+				<lb facs='#facs_11_r_4_1_tl_5' n='N005'/>of our class backgrounds and herstories
+				<lb facs='#facs_11_r_4_1_tl_6' n='N006'/>do not allow us to name ourselves at
+				<lb facs='#facs_11_r_4_1_tl_7' n='N007'/>at this time. 2 of us are mothers of
+				<lb facs='#facs_11_r_4_1_tl_8' n='N008'/>womonchildren, 1 of us gave up cus
+				<lb facs='#facs_11_r_4_1_tl_9' n='N009'/>tody of a male child and 1 of us aborted
+				<lb facs='#facs_11_r_4_1_tl_10' n='N010'/>a male fetus for political reasons. 8 of
+				<lb facs='#facs_11_r_4_1_tl_11' n='N011'/>us are childfree, we are all relatively
+				<lb facs='#facs_11_r_4_1_tl_12' n='N012'/>ablebodied at this time. our median age
+				<lb facs='#facs_11_r_4_1_tl_13' n='N013'/>is 26 yrs, 5 mos.
+				<lb facs='#facs_11_r_4_1_tl_14' n='N014'/>we are concerned that our move
+				<lb facs='#facs_11_r_4_1_tl_15' n='N015'/>ment is losing its spark, is being trashed
+				<lb facs='#facs_11_r_4_1_tl_16' n='N016'/>by left-oriented wymyn and even some
+				<lb facs='#facs_11_r_4_1_tl_17' n='N017'/>Ist world wymyn who have not yet un-
+				<lb facs='#facs_11_r_4_1_tl_18' n='N018'/>derstood what their Ist world lesbian
+				<lb facs='#facs_11_r_4_1_tl_19' n='N019'/>separatist sisters have been saying. we
+				<lb facs='#facs_11_r_4_1_tl_20' n='N020'/>feel we have arrived at some impor
+				<lb facs='#facs_11_r_4_1_tl_21' n='N021'/>tant insights/incites for struggling with
+			</p>
+			<p>
+				<lb facs='#facs_11_r_7_1_tl_1' n='N001'/>differences. unlike in so many rural set-
+				<lb facs='#facs_11_r_7_1_tl_2' n='N002'/>tings, we walk the streets and see a rain-
+				<lb facs='#facs_11_r_7_1_tl_3' n='N003'/>bow of different colored faces daily,
+				<lb facs='#facs_11_r_7_1_tl_4' n='N004'/>differently shaped bodies formed by
+				<lb facs='#facs_11_r_7_1_tl_5' n='N005'/>racial and ethnic differences. although
+				<lb facs='#facs_11_r_7_1_tl_6' n='N006'/>most of these wymyn are still at the
+				<lb facs='#facs_11_r_7_1_tl_7' n='N007'/>pre-lesbian stages—in the interface be
+				<lb facs='#facs_11_r_7_1_tl_8' n='N008'/>tween us there is communication, lead
+				<lb facs='#facs_11_r_7_1_tl_9' n='N009'/>ing to the formation of a true anti-racist
+				<lb facs='#facs_11_r_7_1_tl_10' n='N010'/>womon-centered vision. in understand
+				<lb facs='#facs_11_r_7_1_tl_11' n='N011'/>ing the complexity of difference that
+				<lb facs='#facs_11_r_7_1_tl_12' n='N012'/>the patriarchy has used to divide wym
+				<lb facs='#facs_11_r_7_1_tl_13' n='N013'/>yn, we must not lose sight of the ulti
+				<lb facs='#facs_11_r_7_1_tl_14' n='N014'/>mate division this planet has to offer:
+				<lb facs='#facs_11_r_7_1_tl_15' n='N015'/>between female and male. we must not
+				<lb facs='#facs_11_r_7_1_tl_16' n='N016'/>get bogged down in petty differences
+				<lb facs='#facs_11_r_7_1_tl_17' n='N017'/>of opinion or fine points of politics so
+				<lb facs='#facs_11_r_7_1_tl_18' n='N018'/>that we forget the REALENEMY. this
+				<lb facs='#facs_11_r_7_1_tl_19' n='N019'/>division is ever more obvious to us be
+				<lb facs='#facs_11_r_7_1_tl_20' n='N020'/>cause as city dwellers we are living in
+				<lb facs='#facs_11_r_7_1_tl_21' n='N021'/>the balls of the beast.
+				<lb facs='#facs_11_r_7_1_tl_22' n='N022'/>the necessity for vigilant guerilla
+				<lb facs='#facs_11_r_7_1_tl_23' n='N023'/>dyketactics is imminent. the lunaform
+				<lb facs='#facs_11_r_7_1_tl_24' n='N024'/>shield is good so far as it goes, but it is
+				<lb facs='#facs_11_r_7_1_tl_25' n='N025'/>an individualist solution. we are work-
+				<lb facs='#facs_11_r_7_1_tl_26' n='N026'/>ing on developing a meta-ethics of
+				<lb facs='#facs_11_r_7_1_tl_27' n='N027'/>difference that is not only a theory, but
+				<lb facs='#facs_11_r_7_1_tl_28' n='N028'/>a strategy for survival.
+				<lb facs='#facs_11_r_7_1_tl_29' n='N029'/>we are presently investigating such
+				<lb facs='#facs_11_r_7_1_tl_30' n='N030'/>actions as gyna-mighting a nuclear fa
+				<lb facs='#facs_11_r_7_1_tl_31' n='N031'/>cility in our region in coalition with a
+				<lb facs='#facs_11_r_7_1_tl_32' n='N032'/>group of Ist world sisters recognizing
+				<lb facs='#facs_11_r_7_1_tl_33' n='N033'/>that nuclear power, and weapons are
+				<lb facs='#facs_11_r_7_1_tl_34' n='N034'/>racist patriarchal tools (for obvious
+				<lb facs='#facs_11_r_7_1_tl_35' n='N035'/>reasons we can’t be more specific about
+				<lb facs='#facs_11_r_7_1_tl_36' n='N036'/>this action at this time) and we are print
+				<lb facs='#facs_11_r_7_1_tl_37' n='N037'/>ing and distributing material that tells
+				<lb facs='#facs_11_r_7_1_tl_38' n='N038'/>the truth about urban lesbian separat
+				<lb facs='#facs_11_r_7_1_tl_39' n='N039'/>ism in non-separatist but usually wymyn
+				<lb facs='#facs_11_r_7_1_tl_40' n='N040'/>occupied spaces, e.g. laundromats, wel
+				<lb facs='#facs_11_r_7_1_tl_41' n='N041'/>fare offices, supermarkets.
+				<lb facs='#facs_11_r_7_1_tl_42' n='N042'/>we invite all other lesbian separatist
+				<lb facs='#facs_11_r_7_1_tl_43' n='N043'/>wymyn to engage in this dialog, to truly
+				<lb facs='#facs_11_r_7_1_tl_44' n='N044'/>live on the boundaries (inside and out
+				<lb facs='#facs_11_r_7_1_tl_45' n='N045'/>side the city limits) so we can continue
+				<lb facs='#facs_11_r_7_1_tl_46' n='N046'/>to be wymyn in movement and not set-
+				<lb facs='#facs_11_r_7_1_tl_47' n='N047'/>tle into the apathetic wymyn’s “com
+				<lb facs='#facs_11_r_7_1_tl_48' n='N048'/>munities” that mary daly has warned
+				<lb facs='#facs_11_r_7_1_tl_49' n='N049'/>us against (see gyn/ecology). such “com
+				<lb facs='#facs_11_r_7_1_tl_50' n='N050'/>munities” are dotting the rural land
+				<lb facs='#facs_11_r_7_1_tl_51' n='N051'/>scapes of this country.
+				<lb facs='#facs_11_r_7_1_tl_52' n='N052'/>this is what the truly ethical vision,
+				<lb facs='#facs_11_r_7_1_tl_53' n='N053'/>the meta-ethnics of difference implies.
+				<lb facs='#facs_11_r_7_1_tl_54' n='N054'/>the clealla thomas brigade
+				<lb facs='#facs_11_r_7_1_tl_55' n='N055'/>cleaella thomas is a freedomfighter for
+				<lb facs='#facs_11_r_7_1_tl_56' n='N056'/>wymyn in our community who taught
+				<lb facs='#facs_11_r_7_1_tl_57' n='N057'/>us the phrase, “all men are nothin but
+				<lb facs='#facs_11_r_7_1_tl_58' n='N058'/>dogs.
+			</p>
+			<pb n='12'/>
+			<p>
+				<lb facs='#facs_12_r_1_1_tl_1' n='N001'/>LOST ATLANTIS DISCOVERED
+			</p>
+			<p>
+				<lb facs='#facs_12_r_2_1_tl_1' n='N001'/>Meet the Skyscraper People
+				<lb facs='#facs_12_r_2_1_tl_2' n='N002'/>of the Burning West by GRACE SHINELL
+				<lb facs='#facs_12_r_2_1_tl_3' n='N003'/>Recalled only in myth, their very existence doubted, the Sky-
+				<lb facs='#facs_12_r_2_1_tl_4' n='N004'/>scraper People of the Burning West are now known to have lived,
+				<lb facs='#facs_12_r_2_1_tl_5' n='N005'/>briefly thrived, and died out on the shores of the lost continent of
+				<lb facs='#facs_12_r_2_1_tl_6' n='N006'/>Atlantis. The evidence for their existence, now that it has been recog-
+				<lb facs='#facs_12_r_2_1_tl_7' n='N007'/>nized, is of an indisputable quality. The Skyscraperans left no im
+				<lb facs='#facs_12_r_2_1_tl_8' n='N008'/>pressive ruins, archives or other official records but they did leave a
+				<lb facs='#facs_12_r_2_1_tl_9' n='N009'/>profusion of waste matter, strewn along an unmistakable trail of
+				<lb facs='#facs_12_r_2_1_tl_10' n='N010'/>devastation, and a continent so violently despoiled that, upon dis
+				<lb facs='#facs_12_r_2_1_tl_11' n='N011'/>covery, it was assumed to be recently erupted. For the scholar who
+				<lb facs='#facs_12_r_2_1_tl_12' n='N012'/>is literally willing to dig into these remains, there are advantages in
+				<lb facs='#facs_12_r_2_1_tl_13' n='N013'/>the way that the Skyscraperans obviously lived—and died.
+				<lb facs='#facs_12_r_2_1_tl_14' n='N014'/>The scale of their mistakes never enabled them to effect a clean
+				<lb facs='#facs_12_r_2_1_tl_15' n='N015'/>up or a cover up. Skyscraperan cities were not deserted by the peo-
+				<lb facs='#facs_12_r_2_1_tl_16' n='N016'/>ple; rather they fell into ruin as the people lived in them and, at last,
+				<lb facs='#facs_12_r_2_1_tl_17' n='N017'/>metropolises and suburbs alike were left as open cemeteries. Evi-
+				<lb facs='#facs_12_r_2_1_tl_18' n='N018'/>dence like this does not elude explanation; it is self-explanatory and
+				<lb facs='#facs_12_r_2_1_tl_19' n='N019'/>compensates for the fact that the Skyscraperans never had the wit
+				<lb facs='#facs_12_r_2_1_tl_20' n='N020'/>or opportunity to write their history. They met their end in a sudden
+				<lb facs='#facs_12_r_2_1_tl_21' n='N021'/>conflagration but, by its torchlight, the remains of their lost civiliza
+				<lb facs='#facs_12_r_2_1_tl_22' n='N022'/>tion are still illumined for us. Illustrated below are examples of
+				<lb facs='#facs_12_r_2_1_tl_23' n='N023'/>finds from the Burning West, discovered in an authenticated
+				<lb facs='#facs_12_r_2_1_tl_24' n='N024'/>Skyscraperan mound. The exciting story of the search for the last
+				<lb facs='#facs_12_r_2_1_tl_25' n='N025'/>citadel of the legendary Skyscraper People, with a full analysis of
+				<lb facs='#facs_12_r_2_1_tl_26' n='N026'/>the finds, as illustrated and told by the excavator, will soon be avail
+				<lb facs='#facs_12_r_2_1_tl_27' n='N027'/>able to the public.
+			</p>
+			<pb n='13'/>
+			<p>
+				<lb facs='#facs_13_r_1_1_tl_1' n='N001'/>ART WORLD TREASURE
+				<lb facs='#facs_13_r_1_1_tl_2' n='N002'/>DEAD AT 96
+			</p>
+			<p>
+				<lb facs='#facs_13_r_3_1_tl_1' n='N001'/>By JENNY SNIDER
+				<lb facs='#facs_13_r_3_1_tl_2' n='N002'/>She was known as the CRAZY EDIE
+				<lb facs='#facs_13_r_3_1_tl_3' n='N003'/>OF CULTURE; a woman who couldn’t
+				<lb facs='#facs_13_r_3_1_tl_4' n='N004'/>say “No, to a nice, free meal, yet
+				<lb facs='#facs_13_r_3_1_tl_5' n='N005'/>never seemed to gain any weight. Jean-
+				<lb facs='#facs_13_r_3_1_tl_6' n='N006'/>netta Sélavinski succumbed to sudden
+				<lb facs='#facs_13_r_3_1_tl_7' n='N007'/>horror vacui, just one month short of
+				<lb facs='#facs_13_r_3_1_tl_8' n='N008'/>her 97th birthday. She outlived most
+				<lb facs='#facs_13_r_3_1_tl_9' n='N009'/>of the artists of her own generation and
+				<lb facs='#facs_13_r_3_1_tl_10' n='N010'/>many others. Surviving are her beloved
+				<lb facs='#facs_13_r_3_1_tl_11' n='N011'/>husband Larry and their thirteen chil
+				<lb facs='#facs_13_r_3_1_tl_12' n='N012'/>dren, all of whom are contesting her
+				<lb facs='#facs_13_r_3_1_tl_13' n='N013'/>will.
+				<lb facs='#facs_13_r_3_1_tl_14' n='N014'/>Her work, while often emulated, was
+				<lb facs='#facs_13_r_3_1_tl_15' n='N015'/>never duplicated and difficult to forge.
+				<lb facs='#facs_13_r_3_1_tl_16' n='N016'/>Its abstruse yet expressive richness gave
+				<lb facs='#facs_13_r_3_1_tl_17' n='N017'/>rise to many of the 20th century’s most
+				<lb facs='#facs_13_r_3_1_tl_18' n='N018'/>puzzling movements, among them
+				<lb facs='#facs_13_r_3_1_tl_19' n='N019'/>Neo-Judaism, plastic Revisionism, and
+				<lb facs='#facs_13_r_3_1_tl_20' n='N020'/>Mythic Hyperbolism. Tirelessly, she
+				<lb facs='#facs_13_r_3_1_tl_21' n='N021'/>pulled the visual wool over the eyes of
+				<lb facs='#facs_13_r_3_1_tl_22' n='N022'/>her public and made a fortune doing it.
+				<lb facs='#facs_13_r_3_1_tl_23' n='N023'/>Zest for Life
+				<lb facs='#facs_13_r_3_1_tl_24' n='N024'/>T’m as old as the hills, and as up to
+				<lb facs='#facs_13_r_3_1_tl_25' n='N025'/>date as yesterday’s papers, she
+				<lb facs='#facs_13_r_3_1_tl_26' n='N026'/>quipped to students when she was 94.
+				<lb facs='#facs_13_r_3_1_tl_27' n='N027'/>She attributed her enormous creative
+				<lb facs='#facs_13_r_3_1_tl_28' n='N028'/>energy and huge appetities to a late
+				<lb facs='#facs_13_r_3_1_tl_29' n='N029'/>menopause, at the age of 87. “If you
+				<lb facs='#facs_13_r_3_1_tl_30' n='N030'/>make up your mind, you can be for
+				<lb facs='#facs_13_r_3_1_tl_31' n='N031'/>ever fertile,” her daughters remember
+				<lb facs='#facs_13_r_3_1_tl_32' n='N032'/>her saying.
+				<lb facs='#facs_13_r_3_1_tl_33' n='N033'/>Besides a lovely home in Jerusalem,
+				<lb facs='#facs_13_r_3_1_tl_34' n='N034'/>a suite of offices in the World Trade
+				<lb facs='#facs_13_r_3_1_tl_35' n='N035'/>Center, and a cookie concession in
+				<lb facs='#facs_13_r_3_1_tl_36' n='N036'/>Macy’s, she maintained two more state-
+				<lb facs='#facs_13_r_3_1_tl_37' n='N037'/>ly mansions, one in Key West, Flor-
+				<lb facs='#facs_13_r_3_1_tl_38' n='N038'/>ida, “for the cats, and the other in
+				<lb facs='#facs_13_r_3_1_tl_39' n='N039'/>Hohokus, New Jersey, “to be near my
+				<lb facs='#facs_13_r_3_1_tl_40' n='N040'/>dentist.” Her multi-million dollar ren
+				<lb facs='#facs_13_r_3_1_tl_41' n='N041'/>ovation of the Israeli Knesset into art-
+				<lb facs='#facs_13_r_3_1_tl_42' n='N042'/>ists’ housing raised eyebrows on the
+				<lb facs='#facs_13_r_3_1_tl_43' n='N043'/>Left, and earned her a reputation as
+				<lb facs='#facs_13_r_3_1_tl_44' n='N044'/>the Leona Helmsley of the Art World
+				<lb facs='#facs_13_r_3_1_tl_45' n='N045'/>Ever insouciant, she told reporters, “It
+				<lb facs='#facs_13_r_3_1_tl_46' n='N046'/>may be lonely at the top, but the view
+				<lb facs='#facs_13_r_3_1_tl_47' n='N047'/>is spectacular.
+				<lb facs='#facs_13_r_3_1_tl_48' n='N048'/>Early Struggles
+				<lb facs='#facs_13_r_3_1_tl_49' n='N049'/>In her best-selling autobiography,
+				<lb facs='#facs_13_r_3_1_tl_50' n='N050'/>Been Drawing from the Left Side of
+				<lb facs='#facs_13_r_3_1_tl_51' n='N051'/>My Brain So Long It Looks Alright to
+				<lb facs='#facs_13_r_3_1_tl_52' n='N052'/>Me, Sélavinski revealed that, after grad-
+				<lb facs='#facs_13_r_3_1_tl_53' n='N053'/>uating from high school, she adamantly
+				<lb facs='#facs_13_r_3_1_tl_54' n='N054'/>refused to leave home, so in despera
+				<lb facs='#facs_13_r_3_1_tl_55' n='N055'/>tion, her parents took up ballroom
+			</p>
+			<p>
+				<lb facs='#facs_13_r_4_1_tl_1' n='N001'/>dancing and left her to tour as the Jew-
+				<lb facs='#facs_13_r_4_1_tl_2' n='N002'/>ish Vernon and Irene Castle. Stung by
+				<lb facs='#facs_13_r_4_1_tl_3' n='N003'/>this, and an earlier rejection from a
+				<lb facs='#facs_13_r_4_1_tl_4' n='N004'/>leading New York school for cartoon
+				<lb facs='#facs_13_r_4_1_tl_5' n='N005'/>ing, she got herself out of bed and
+				<lb facs='#facs_13_r_4_1_tl_6' n='N006'/>shipped to Paris, stowing away in her
+				<lb facs='#facs_13_r_4_1_tl_7' n='N007'/>mother’s steamer trunk.
+				<lb facs='#facs_13_r_4_1_tl_8' n='N008'/>Early Scruples
+				<lb facs='#facs_13_r_4_1_tl_9' n='N009'/>In Paris, she began her studies, liv
+				<lb facs='#facs_13_r_4_1_tl_10' n='N010'/>ing comfortably for years as Picasso’s
+				<lb facs='#facs_13_r_4_1_tl_11' n='N011'/>mistress, before, during and after his
+				<lb facs='#facs_13_r_4_1_tl_12' n='N012'/>Blue period. “Finally, though, I just
+				<lb facs='#facs_13_r_4_1_tl_13' n='N013'/>couldn’t stand playing second fiddle to
+				<lb facs='#facs_13_r_4_1_tl_14' n='N014'/>an older master, she confided to re
+				<lb facs='#facs_13_r_4_1_tl_15' n='N015'/>porters who greeted her and fellow-
+				<lb facs='#facs_13_r_4_1_tl_16' n='N016'/>traveler Marcel Duchamp in 1915, on
+				<lb facs='#facs_13_r_4_1_tl_17' n='N017'/>their arrival in the States.
+				<lb facs='#facs_13_r_4_1_tl_18' n='N018'/>Vowing to friends that she’d never
+				<lb facs='#facs_13_r_4_1_tl_19' n='N019'/>love another artist, she settled in New
+				<lb facs='#facs_13_r_4_1_tl_20' n='N020'/>York, and began pursuing her career
+				<lb facs='#facs_13_r_4_1_tl_21' n='N021'/>in earnest. In the years following World
+				<lb facs='#facs_13_r_4_1_tl_22' n='N022'/>War I, she produced “some of her most
+				<lb facs='#facs_13_r_4_1_tl_23' n='N023'/>refreshing and light-hearted works,” to
+				<lb facs='#facs_13_r_4_1_tl_24' n='N024'/>quote then-young Nelson Rockefeller,
+				<lb facs='#facs_13_r_4_1_tl_25' n='N025'/>who helped establish her reputation as
+				<lb facs='#facs_13_r_4_1_tl_26' n='N026'/>a good artist and a good investment
+				<lb facs='#facs_13_r_4_1_tl_27' n='N027'/>Next Stop, Hollywood
+				<lb facs='#facs_13_r_4_1_tl_28' n='N028'/>“I was working at Columbia, doing
+				<lb facs='#facs_13_r_4_1_tl_29' n='N029'/>sets for a new Fred Astaire picture, she
+				<lb facs='#facs_13_r_4_1_tl_30' n='N030'/>wrote later, recalling her first meeting
+				<lb facs='#facs_13_r_4_1_tl_31' n='N031'/>with the young Rita Hayworth. “She
+			</p>
+			<p>
+				<lb facs='#facs_13_r_5_1_tl_1' n='N001'/>was even more gorgeous without her
+				<lb facs='#facs_13_r_5_1_tl_2' n='N002'/>makeup.” The two were inseparable for
+				<lb facs='#facs_13_r_5_1_tl_3' n='N003'/>years, and neither denied rumors that
+				<lb facs='#facs_13_r_5_1_tl_4' n='N004'/>their relationship was more than
+				<lb facs='#facs_13_r_5_1_tl_5' n='N005'/>platonic. Sélavinski left Hollywood
+				<lb facs='#facs_13_r_5_1_tl_6' n='N006'/>abruptly, however, after it was discov
+				<lb facs='#facs_13_r_5_1_tl_7' n='N007'/>ered that she had been planting stink
+				<lb facs='#facs_13_r_5_1_tl_8' n='N008'/>bombs on the set of The Lady from
+				<lb facs='#facs_13_r_5_1_tl_9' n='N009'/>Shanghai. Years later, she teased cura-
+				<lb facs='#facs_13_r_5_1_tl_10' n='N010'/>tors, saying “I wonder how many of
+				<lb facs='#facs_13_r_5_1_tl_11' n='N011'/>you know why Orson Welles never
+				<lb facs='#facs_13_r_5_1_tl_12' n='N012'/>comes to my openings.
+				<lb facs='#facs_13_r_5_1_tl_13' n='N013'/>Daring Pioneer
+				<lb facs='#facs_13_r_5_1_tl_14' n='N014'/>In the early Fifties, she worked fe
+				<lb facs='#facs_13_r_5_1_tl_15' n='N015'/>verishly on a series of larger-than-life
+				<lb facs='#facs_13_r_5_1_tl_16' n='N016'/>portraits of Rita. These paintings were
+				<lb facs='#facs_13_r_5_1_tl_17' n='N017'/>later hailed as prefiguring Photo-Real
+				<lb facs='#facs_13_r_5_1_tl_18' n='N018'/>ism by a good seventeen and a half
+				<lb facs='#facs_13_r_5_1_tl_19' n='N019'/>years.
+				<lb facs='#facs_13_r_5_1_tl_20' n='N020'/>As news of her death spread through
+				<lb facs='#facs_13_r_5_1_tl_21' n='N021'/>an otherwise preoccupied art world,
+				<lb facs='#facs_13_r_5_1_tl_22' n='N022'/>tributes began pouring in. “At last, we
+				<lb facs='#facs_13_r_5_1_tl_23' n='N023'/>will have some real scholarship to
+				<lb facs='#facs_13_r_5_1_tl_24' n='N024'/>replace the rumor, speculation anc
+				<lb facs='#facs_13_r_5_1_tl_25' n='N025'/>outright boosterism that has passed
+				<lb facs='#facs_13_r_5_1_tl_26' n='N026'/>for criticism in her lifetime,” wrote
+				<lb facs='#facs_13_r_5_1_tl_27' n='N027'/>still-alive critic, Hilton Kramer. But
+				<lb facs='#facs_13_r_5_1_tl_28' n='N028'/>perhaps Vincent Canby was the kind-
+				<lb facs='#facs_13_r_5_1_tl_29' n='N029'/>est, when he wrote, “T’II sure miss her.
+				<lb facs='#facs_13_r_5_1_tl_30' n='N030'/>She gave the best damn interviews in
+				<lb facs='#facs_13_r_5_1_tl_31' n='N031'/>the business.
+			</p>
+			<pb n='14'/>
+			<p>
+				<lb facs='#facs_14_r_1_1_tl_1' n='N001'/>Daily Horoscope By ZANA
+			</p>
+			<p>
+				<lb facs='#facs_14_r_2_1_tl_1' n='N001'/>LOOK TO THE STARS
+			</p>
+			<p>
+				<lb facs='#facs_14_r_3_1_tl_1' n='N001'/>DON’T MOVE TILL YOU
+				<lb facs='#facs_14_r_3_1_tl_2' n='N002'/>READ THIS
+				<lb facs='#facs_14_r_3_1_tl_3' n='N003'/>l’Il bet you didn’t know it, but this is
+				<lb facs='#facs_14_r_3_1_tl_4' n='N004'/>a very critical day. So be sure to read
+				<lb facs='#facs_14_r_3_1_tl_5' n='N005'/>this important message before getting
+				<lb facs='#facs_14_r_3_1_tl_6' n='N006'/>out of bed. If you’ve already gotten out
+				<lb facs='#facs_14_r_3_1_tl_7' n='N007'/>of bed, please! get back in. Otherwise,
+				<lb facs='#facs_14_r_3_1_tl_8' n='N008'/>depending on when you were born,
+				<lb facs='#facs_14_r_3_1_tl_9' n='N009'/>something terribly dire may occur.
+				<lb facs='#facs_14_r_3_1_tl_10' n='N010'/>You see, l’ve received some very sig-
+				<lb facs='#facs_14_r_3_1_tl_11' n='N011'/>nificant information for those of you
+				<lb facs='#facs_14_r_3_1_tl_12' n='N012'/>who were born under one of the twelve
+				<lb facs='#facs_14_r_3_1_tl_13' n='N013'/>astrological signs. Disregard any other
+				<lb facs='#facs_14_r_3_1_tl_14' n='N014'/>horoscopes you may come across, be
+				<lb facs='#facs_14_r_3_1_tl_15' n='N015'/>cause this is the real inside dope, baby.
+				<lb facs='#facs_14_r_3_1_tl_16' n='N016'/>You Born Today are quite neurotic
+				<lb facs='#facs_14_r_3_1_tl_17' n='N017'/>and extremely susceptible. to tempta
+				<lb facs='#facs_14_r_3_1_tl_18' n='N018'/>tions which could prove disastrous. Peo
+				<lb facs='#facs_14_r_3_1_tl_19' n='N019'/>ple born under your sign have bright,
+				<lb facs='#facs_14_r_3_1_tl_20' n='N020'/>sunny dispositions and get along easily
+				<lb facs='#facs_14_r_3_1_tl_21' n='N021'/>with others, but you are an exception.
+				<lb facs='#facs_14_r_3_1_tl_22' n='N022'/>Because of the placement of Saturn in
+				<lb facs='#facs_14_r_3_1_tl_23' n='N023'/>your chart, you’re not too likeable, but
+				<lb facs='#facs_14_r_3_1_tl_24' n='N024'/>kind of interesting in your own flaky
+				<lb facs='#facs_14_r_3_1_tl_25' n='N025'/>way. Curb a tendency toward physical
+				<lb facs='#facs_14_r_3_1_tl_26' n='N026'/>violence. You should be well suited to
+				<lb facs='#facs_14_r_3_1_tl_27' n='N027'/>ornithology, or might build a brilliant
+				<lb facs='#facs_14_r_3_1_tl_28' n='N028'/>career in Wagnerian opera. Garbage
+				<lb facs='#facs_14_r_3_1_tl_29' n='N029'/>collection could be right up your alley.
+				<lb facs='#facs_14_r_3_1_tl_30' n='N030'/>Birthdate of Phyllis Schafly, Charles
+				<lb facs='#facs_14_r_3_1_tl_31' n='N031'/>Manson.
+				<lb facs='#facs_14_r_3_1_tl_32' n='N032'/>ARIES
+				<lb facs='#facs_14_r_3_1_tl_33' n='N033'/>Moon is in Libra, sun is in Mercury
+				<lb facs='#facs_14_r_3_1_tl_34' n='N034'/>and mercury is up around 98. Go to
+				<lb facs='#facs_14_r_3_1_tl_35' n='N035'/>the high-rent district and find a nice
+				<lb facs='#facs_14_r_3_1_tl_36' n='N036'/>home with a good-sized swimming pool;
+				<lb facs='#facs_14_r_3_1_tl_37' n='N037'/>cool off with a refreshing swim. If any
+				<lb facs='#facs_14_r_3_1_tl_38' n='N038'/>body tries to stop you, show them this
+				<lb facs='#facs_14_r_3_1_tl_39' n='N039'/>horoscope. You’re in fine form today
+				<lb facs='#facs_14_r_3_1_tl_40' n='N040'/>and should be able to cope with a cou
+				<lb facs='#facs_14_r_3_1_tl_41' n='N041'/>ple of broken arms quite easily.
+				<lb facs='#facs_14_r_3_1_tl_42' n='N042'/>TAURUS
+				<lb facs='#facs_14_r_3_1_tl_43' n='N043'/>Terrible day for Taureans. Probably
+				<lb facs='#facs_14_r_3_1_tl_44' n='N044'/>will be the worse day of your life. Eat
+				<lb facs='#facs_14_r_3_1_tl_45' n='N045'/>a bottle of aspirin for breakfast and do
+				<lb facs='#facs_14_r_3_1_tl_46' n='N046'/>yourself a favor. You won’t regret it.
+				<lb facs='#facs_14_r_3_1_tl_47' n='N047'/>GEMINI
+				<lb facs='#facs_14_r_3_1_tl_48' n='N048'/>Travel is favored today, especially to
+				<lb facs='#facs_14_r_3_1_tl_49' n='N049'/>the Marshall Islands. Bring back a
+				<lb facs='#facs_14_r_3_1_tl_50' n='N050'/>coconut.
+			</p>
+			<p>
+				<lb facs='#facs_14_r_4_1_tl_1' n='N001'/>CANCER
+				<lb facs='#facs_14_r_4_1_tl_2' n='N002'/>You may have to change your plans
+				<lb facs='#facs_14_r_4_1_tl_3' n='N003'/>today. Be flexible, but on the other
+				<lb facs='#facs_14_r_4_1_tl_4' n='N004'/>hand, don’t be wishy-washy. But if you
+				<lb facs='#facs_14_r_4_1_tl_5' n='N005'/>see your duty, do your duty as you see
+				<lb facs='#facs_14_r_4_1_tl_6' n='N006'/>it clearly. Be strong, but not rigid. Bend
+				<lb facs='#facs_14_r_4_1_tl_7' n='N007'/>like a willow, but be solid as the oak.
+				<lb facs='#facs_14_r_4_1_tl_8' n='N008'/>Do what is right and don’t let anybody
+				<lb facs='#facs_14_r_4_1_tl_9' n='N009'/>tell you otherwise. Heed advice of other
+				<lb facs='#facs_14_r_4_1_tl_10' n='N010'/>people; their wisdom may be great. But
+				<lb facs='#facs_14_r_4_1_tl_11' n='N011'/>don’t change your plans today, because
+				<lb facs='#facs_14_r_4_1_tl_12' n='N012'/>only you know what is right for you.
+				<lb facs='#facs_14_r_4_1_tl_13' n='N013'/>LEO
+				<lb facs='#facs_14_r_4_1_tl_14' n='N014'/>Mixed planetary influences. The
+				<lb facs='#facs_14_r_4_1_tl_15' n='N015'/>morning will definitely be a bad time,
+				<lb facs='#facs_14_r_4_1_tl_16' n='N016'/>so stay in bed until 2 p.m. at least. Eat
+				<lb facs='#facs_14_r_4_1_tl_17' n='N017'/>corn on the cob and lentil sprouts when
+				<lb facs='#facs_14_r_4_1_tl_18' n='N018'/>you awaken—this will prime you for
+				<lb facs='#facs_14_r_4_1_tl_19' n='N019'/>the important work of the day. At 4 p.m.
+				<lb facs='#facs_14_r_4_1_tl_20' n='N020'/>socializing is favored, but make your
+				<lb facs='#facs_14_r_4_1_tl_21' n='N021'/>friends leave by 6, as the evening should
+				<lb facs='#facs_14_r_4_1_tl_22' n='N022'/>be spent in solitude. An ideal time to
+				<lb facs='#facs_14_r_4_1_tl_23' n='N023'/>get in touch with yourself through a
+				<lb facs='#facs_14_r_4_1_tl_24' n='N024'/>pedicure.
+				<lb facs='#facs_14_r_4_1_tl_25' n='N025'/>VIRGO
+				<lb facs='#facs_14_r_4_1_tl_26' n='N026'/>Care needed in matters of commu
+				<lb facs='#facs_14_r_4_1_tl_27' n='N027'/>nication. Misinterpretation of a letter
+				<lb facs='#facs_14_r_4_1_tl_28' n='N028'/>or message could lead to grave errors.
+				<lb facs='#facs_14_r_4_1_tl_29' n='N029'/>A perfectly innocent person could suf-
+				<lb facs='#facs_14_r_4_1_tl_30' n='N030'/>fer untold grief because of your stu
+				<lb facs='#facs_14_r_4_1_tl_31' n='N031'/>pidity. So use your noodle, nitwit.
+				<lb facs='#facs_14_r_4_1_tl_32' n='N032'/>LIBRA
+				<lb facs='#facs_14_r_4_1_tl_33' n='N033'/>Venus will enter your house today.
+				<lb facs='#facs_14_r_4_1_tl_34' n='N034'/>Have some chicken salad sandwiches
+				<lb facs='#facs_14_r_4_1_tl_35' n='N035'/>and green olives on hand. Venus will
+				<lb facs='#facs_14_r_4_1_tl_36' n='N036'/>leave around mid-afternoon, when
+				<lb facs='#facs_14_r_4_1_tl_37' n='N037'/>Jupiter arrives. They aren’t on the best
+				<lb facs='#facs_14_r_4_1_tl_38' n='N038'/>of terms. Invite Jupiter to stay the night,
+				<lb facs='#facs_14_r_4_1_tl_39' n='N039'/>but only if you dig loud snoring. By
+				<lb facs='#facs_14_r_4_1_tl_40' n='N040'/>the way, he’s allergic to feather pillows
+				<lb facs='#facs_14_r_4_1_tl_41' n='N041'/>and cat hair.
+				<lb facs='#facs_14_r_4_1_tl_42' n='N042'/>SCORPIO
+				<lb facs='#facs_14_r_4_1_tl_43' n='N043'/>Generous influences now stimulate
+				<lb facs='#facs_14_r_4_1_tl_44' n='N044'/>your initiative and ambition. Go after
+				<lb facs='#facs_14_r_4_1_tl_45' n='N045'/>the job you desire—you’re bound to
+				<lb facs='#facs_14_r_4_1_tl_46' n='N046'/>get it. And don’t let any personnel di
+				<lb facs='#facs_14_r_4_1_tl_47' n='N047'/>rectors tell you otherwise.
+			</p>
+			<p>
+				<lb facs='#facs_14_r_5_1_tl_1' n='N001'/>SAGITTARIUS
+				<lb facs='#facs_14_r_5_1_tl_2' n='N002'/>Sagittarius, it is your nature to forge
+				<lb facs='#facs_14_r_5_1_tl_3' n='N003'/>ahead, to shoot your arrow high in the
+				<lb facs='#facs_14_r_5_1_tl_4' n='N004'/>air with confidence. Trouble is, half the
+				<lb facs='#facs_14_r_5_1_tl_5' n='N005'/>time you don’t aim very well. People
+				<lb facs='#facs_14_r_5_1_tl_6' n='N006'/>are getting pretty sick of pulling your
+				<lb facs='#facs_14_r_5_1_tl_7' n='N007'/>arrows out of themselves, kid. Leave
+				<lb facs='#facs_14_r_5_1_tl_8' n='N008'/>the old bow in the closet today and ar
+				<lb facs='#facs_14_r_5_1_tl_9' n='N009'/>range for some psychiatric counseling.
+				<lb facs='#facs_14_r_5_1_tl_10' n='N010'/>CAPRICORN
+				<lb facs='#facs_14_r_5_1_tl_11' n='N011'/>Mars and Neptune in conjunction,
+				<lb facs='#facs_14_r_5_1_tl_12' n='N012'/>Main and Central parallel. Unfavorable
+				<lb facs='#facs_14_r_5_1_tl_13' n='N013'/>aspects in the left-hand lane; do NOT
+				<lb facs='#facs_14_r_5_1_tl_14' n='N014'/>turn right on red after stop. Watch for
+				<lb facs='#facs_14_r_5_1_tl_15' n='N015'/>armadillos on Highway 25 West right
+				<lb facs='#facs_14_r_5_1_tl_16' n='N016'/>before the shopping center. And be sure
+				<lb facs='#facs_14_r_5_1_tl_17' n='N017'/>to have your tires checked—the right
+				<lb facs='#facs_14_r_5_1_tl_18' n='N018'/>rear is getting mighty low.
+				<lb facs='#facs_14_r_5_1_tl_19' n='N019'/>AQUARIUS
+				<lb facs='#facs_14_r_5_1_tl_20' n='N020'/>An unusual situation may confront
+				<lb facs='#facs_14_r_5_1_tl_21' n='N021'/>you today. It is strongly advised that
+				<lb facs='#facs_14_r_5_1_tl_22' n='N022'/>you wrap a heavy scarf around your
+				<lb facs='#facs_14_r_5_1_tl_23' n='N023'/>neck and carry a crucifix and a mirror.
+				<lb facs='#facs_14_r_5_1_tl_24' n='N024'/>PISCES
+				<lb facs='#facs_14_r_5_1_tl_25' n='N025'/>Your symbol—fish swimming in
+				<lb facs='#facs_14_r_5_1_tl_26' n='N026'/>opposite directions—indicates your
+				<lb facs='#facs_14_r_5_1_tl_27' n='N027'/>schizophrenic nature. Today you’ll be
+				<lb facs='#facs_14_r_5_1_tl_28' n='N028'/>strongly drawn to persons of two dif
+				<lb facs='#facs_14_r_5_1_tl_29' n='N029'/>ferent sexes; you will be offered the
+				<lb facs='#facs_14_r_5_1_tl_30' n='N030'/>opportunity of a lifetime in Lawrence,
+				<lb facs='#facs_14_r_5_1_tl_31' n='N031'/>Kansas, and another opportunity of a
+				<lb facs='#facs_14_r_5_1_tl_32' n='N032'/>lifetime in Buenos Aires; you’ll be di
+				<lb facs='#facs_14_r_5_1_tl_33' n='N033'/>agnosed as diabetic in the morning and
+				<lb facs='#facs_14_r_5_1_tl_34' n='N034'/>receive a five-pound box of chocolates
+				<lb facs='#facs_14_r_5_1_tl_35' n='N035'/>in the afternoon. Business as usual for
+				<lb facs='#facs_14_r_5_1_tl_36' n='N036'/>Pisces.
+			</p>
+			<pb n='15'/>
+			<p>
+				<lb facs='#facs_15_r_1_1_tl_1' n='N001'/>BEST BETS:
+				<lb facs='#facs_15_r_1_1_tl_2' n='N002'/>NEW FALL TV SHOWS
+			</p>
+			<p>
+				<lb facs='#facs_15_r_14_1_tl_1' n='N001'/>By JONI ABRAMS
+				<lb facs='#facs_15_r_14_1_tl_2' n='N002'/>PHALLUS
+				<lb facs='#facs_15_r_14_1_tl_3' n='N003'/>A Dallas-like soap opera set in Phal-
+				<lb facs='#facs_15_r_14_1_tl_4' n='N004'/>lus, Texas concerns a family that con
+				<lb facs='#facs_15_r_14_1_tl_5' n='N005'/>structs miniature oil rigs and then
+				<lb facs='#facs_15_r_14_1_tl_6' n='N006'/>fondles them until they come in.
+				<lb facs='#facs_15_r_14_1_tl_7' n='N007'/>WETBACK!
+				<lb facs='#facs_15_r_14_1_tl_8' n='N008'/>Dramatic series focuses on the ad
+				<lb facs='#facs_15_r_14_1_tl_9' n='N009'/>ventures and problems of immigration
+				<lb facs='#facs_15_r_14_1_tl_10' n='N010'/>officers in San Bernardino, California.
+				<lb facs='#facs_15_r_14_1_tl_11' n='N011'/>Some very exciting chopper scenes in
+				<lb facs='#facs_15_r_14_1_tl_12' n='N012'/>this one. Efrem Zimbalist, Jr. plays a
+				<lb facs='#facs_15_r_14_1_tl_13' n='N013'/>veteran officer; Erik Estrada is an un
+				<lb facs='#facs_15_r_14_1_tl_14' n='N014'/>documented worker.
+				<lb facs='#facs_15_r_14_1_tl_15' n='N015'/>THAT&apos;S INEDIBLE!
+				<lb facs='#facs_15_r_14_1_tl_16' n='N016'/>This new nutrition show for consum
+				<lb facs='#facs_15_r_14_1_tl_17' n='N017'/>ers will set you straight about the food
+				<lb facs='#facs_15_r_14_1_tl_18' n='N018'/>you love to eat. The premier episode:
+				<lb facs='#facs_15_r_14_1_tl_19' n='N019'/>Unraveling the mysteries of Velveeta
+				<lb facs='#facs_15_r_14_1_tl_20' n='N020'/>cheese.
+				<lb facs='#facs_15_r_14_1_tl_21' n='N021'/>THE DALTONS
+				<lb facs='#facs_15_r_14_1_tl_22' n='N022'/>Earl Hammer created this schmaltzy
+				<lb facs='#facs_15_r_14_1_tl_23' n='N023'/>look at the Depression-era lives of the
+				<lb facs='#facs_15_r_14_1_tl_24' n='N024'/>famous bookstore chain family.
+				<lb facs='#facs_15_r_14_1_tl_25' n='N025'/>WALL STREET WEEK
+				<lb facs='#facs_15_r_14_1_tl_26' n='N026'/>Louis Rukeyser discusses profit mar
+				<lb facs='#facs_15_r_14_1_tl_27' n='N027'/>gins in the prophylactics industry.
+			</p>
+			<p>
+				<lb facs='#facs_15_r_15_1_tl_1' n='N001'/>SIDNEY SNORE
+				<lb facs='#facs_15_r_15_1_tl_2' n='N002'/>Tony Randall stars in this touching
+				<lb facs='#facs_15_r_15_1_tl_3' n='N003'/>sit-com about a homosexual with nar
+				<lb facs='#facs_15_r_15_1_tl_4' n='N004'/>colepsy who falls asleep in the strang
+				<lb facs='#facs_15_r_15_1_tl_5' n='N005'/>est places.
+			</p>
+			<p>
+				<lb facs='#facs_15_r_16_1_tl_1' n='N001'/>THE BLT CLUB
+				<lb facs='#facs_15_r_16_1_tl_2' n='N002'/>Panelists Jerry Falwell, Menachim
+				<lb facs='#facs_15_r_16_1_tl_3' n='N003'/>Begin and Julia Child discuss such top
+				<lb facs='#facs_15_r_16_1_tl_4' n='N004'/>ics as, “Does God hear the prayers of
+				<lb facs='#facs_15_r_16_1_tl_5' n='N005'/>people who eat bacon?
+			</p>
+			<p>
+				<lb facs='#facs_15_r_17_1_tl_1' n='N001'/>MIMISHERATON’S FOOD TIMES
+			</p>
+			<p>
+				<lb facs='#facs_15_r_18_1_tl_1' n='N001'/>by SUSANNA CUYLER
+				<lb facs='#facs_15_r_18_1_tl_2' n='N002'/>My advice on visiting guests is this: if
+				<lb facs='#facs_15_r_18_1_tl_3' n='N003'/>they’re good friends and want to be
+				<lb facs='#facs_15_r_18_1_tl_4' n='N004'/>there with you, go ahead and try to
+				<lb facs='#facs_15_r_18_1_tl_5' n='N005'/>give them heart attacks with meals
+				<lb facs='#facs_15_r_18_1_tl_6' n='N006'/>dished up with heavy cream, butter and
+				<lb facs='#facs_15_r_18_1_tl_7' n='N007'/>lots of rich eggs. Before and after din
+				<lb facs='#facs_15_r_18_1_tl_8' n='N008'/>ner, offer them cheese. If they’re young,
+				<lb facs='#facs_15_r_18_1_tl_9' n='N009'/>get them drunk on salads and desserts
+				<lb facs='#facs_15_r_18_1_tl_10' n='N010'/>made piquant with juicy booze sauces.
+			</p>
+			<pb n='16'/>
+			<p>
+				<lb facs='#facs_16_r_1_1_tl_1' n='N001'/>LOOKS AT BOOKS
+			</p>
+			<p>
+				<lb facs='#facs_16_r_2_1_tl_1' n='N001'/>A Critical Guide to Best Sellers in the “Age of Reagan
+			</p>
+			<p>
+				<lb facs='#facs_16_r_3_1_tl_1' n='N001'/>Each presidency inspires its own kind
+				<lb facs='#facs_16_r_3_1_tl_2' n='N002'/>of literature. Who can forget the flood
+				<lb facs='#facs_16_r_3_1_tl_3' n='N003'/>of books about Nixon and Watergate?
+				<lb facs='#facs_16_r_3_1_tl_4' n='N004'/>The following is a critical guide to the
+				<lb facs='#facs_16_r_3_1_tl_5' n='N005'/>best sellers that are almost certain to
+				<lb facs='#facs_16_r_3_1_tl_6' n='N006'/>appear before the end of the “Age of
+				<lb facs='#facs_16_r_3_1_tl_7' n='N007'/>Reagan.
+				<lb facs='#facs_16_r_3_1_tl_8' n='N008'/>The World According to Haig
+				<lb facs='#facs_16_r_3_1_tl_9' n='N009'/>by Bob Woodward
+				<lb facs='#facs_16_r_3_1_tl_10' n='N010'/>Behind the scenes account of the mili
+				<lb facs='#facs_16_r_3_1_tl_11' n='N011'/>tary and political careers of Gen. Al
+				<lb facs='#facs_16_r_3_1_tl_12' n='N012'/>exander Haig. As in his previous works,
+				<lb facs='#facs_16_r_3_1_tl_13' n='N013'/>Woodward sprinkles this book with new
+				<lb facs='#facs_16_r_3_1_tl_14' n='N014'/>information and juicy anecdotes. One
+				<lb facs='#facs_16_r_3_1_tl_15' n='N015'/>story describes the first time General
+				<lb facs='#facs_16_r_3_1_tl_16' n='N016'/>Haig suggested to President Reagan
+				<lb facs='#facs_16_r_3_1_tl_17' n='N017'/>that the U.S. reopen relations with Al
+			</p>
+			<p>
+				<lb facs='#facs_16_r_4_1_tl_1' n='N001'/>bania. According to Woodward, Rea
+				<lb facs='#facs_16_r_4_1_tl_2' n='N002'/>gan’s face clouded, his eyebrows flew
+				<lb facs='#facs_16_r_4_1_tl_3' n='N003'/>up and he asked, “Where’s Albania?
+				<lb facs='#facs_16_r_4_1_tl_4' n='N004'/>Never Say Buy-It
+				<lb facs='#facs_16_r_4_1_tl_5' n='N005'/>by Richard Simmons and
+				<lb facs='#facs_16_r_4_1_tl_6' n='N006'/>Louis Rukeyser
+				<lb facs='#facs_16_r_4_1_tl_7' n='N007'/>Are you singing the blues because of
+				<lb facs='#facs_16_r_4_1_tl_8' n='N008'/>Reaganomics? Have your unemploy-
+				<lb facs='#facs_16_r_4_1_tl_9' n='N009'/>ment benefits run out? Has your wife
+				<lb facs='#facs_16_r_4_1_tl_10' n='N010'/>moved to Houston to look for work?
+				<lb facs='#facs_16_r_4_1_tl_11' n='N011'/>This book is for you. Richard Simmons
+				<lb facs='#facs_16_r_4_1_tl_12' n='N012'/>details exercises to get you back in
+				<lb facs='#facs_16_r_4_1_tl_13' n='N013'/>shape for those grueling job interviews
+				<lb facs='#facs_16_r_4_1_tl_14' n='N014'/>and Louis Rukeyser tells you which of
+				<lb facs='#facs_16_r_4_1_tl_15' n='N015'/>your investments you should liquidate.
+				<lb facs='#facs_16_r_4_1_tl_16' n='N016'/>A winning and thinning collaboration.
+			</p>
+			<p>
+				<lb facs='#facs_16_r_11_1_tl_1' n='N001'/>Fashions
+				<lb facs='#facs_16_r_11_1_tl_2' n='N002'/>You don’t have to tell me where your passions lie
+				<lb facs='#facs_16_r_11_1_tl_3' n='N003'/>You don’t have to tell me if you laugh or cry
+				<lb facs='#facs_16_r_11_1_tl_4' n='N004'/>Ifyou&apos;re he or she
+				<lb facs='#facs_16_r_11_1_tl_5' n='N005'/>or if you&apos;re taken or free
+				<lb facs='#facs_16_r_11_1_tl_6' n='N006'/>because it&apos;s all in your fashions
+				<lb facs='#facs_16_r_11_1_tl_7' n='N007'/>can see the answers
+				<lb facs='#facs_16_r_11_1_tl_8' n='N008'/>in your footwear
+				<lb facs='#facs_16_r_11_1_tl_9' n='N009'/>in your jackets
+				<lb facs='#facs_16_r_11_1_tl_10' n='N010'/>and in the cut of your hair
+				<lb facs='#facs_16_r_11_1_tl_11' n='N011'/>can see the answers
+				<lb facs='#facs_16_r_11_1_tl_12' n='N012'/>where you hang out
+				<lb facs='#facs_16_r_11_1_tl_13' n='N013'/>when you wake up
+				<lb facs='#facs_16_r_11_1_tl_14' n='N014'/>and what you laugh about
+				<lb facs='#facs_16_r_11_1_tl_15' n='N015'/>because it&apos;s all in your fashions
+				<lb facs='#facs_16_r_11_1_tl_16' n='N016'/>You don&apos;t have to talk about your politics
+				<lb facs='#facs_16_r_11_1_tl_17' n='N017'/>You don’t have to talk about the movies you see
+				<lb facs='#facs_16_r_11_1_tl_18' n='N018'/>About the dance you do
+				<lb facs='#facs_16_r_11_1_tl_19' n='N019'/>Idon&apos;t need a clue
+				<lb facs='#facs_16_r_11_1_tl_20' n='N020'/>Because it&apos;s all in your fashions
+				<lb facs='#facs_16_r_11_1_tl_21' n='N021'/>can see the answers
+				<lb facs='#facs_16_r_11_1_tl_22' n='N022'/>in your address
+				<lb facs='#facs_16_r_11_1_tl_23' n='N023'/>in your bookcase
+				<lb facs='#facs_16_r_11_1_tl_24' n='N024'/>and by the look on your face
+				<lb facs='#facs_16_r_11_1_tl_25' n='N025'/>can see the answers
+				<lb facs='#facs_16_r_11_1_tl_26' n='N026'/>in your best friends
+				<lb facs='#facs_16_r_11_1_tl_27' n='N027'/>on yourf.v.
+				<lb facs='#facs_16_r_11_1_tl_28' n='N028'/>and by the money you make
+				<lb facs='#facs_16_r_11_1_tl_29' n='N029'/>because it&apos;s all in your
+				<lb facs='#facs_16_r_11_1_tl_30' n='N030'/>it&apos;s all in your
+				<lb facs='#facs_16_r_11_1_tl_31' n='N031'/>it&apos;s all in your f-a-s-h-i-o-n-s
+				<lb facs='#facs_16_r_12_1_tl_1' n='N032'/>O Barbara Kruger, 1979
+			</p>
+			<pb n='17'/>
+			<pb n='18'/>
+			<pb n='19'/>
+			<p>
+				<lb facs='#facs_19_r_4_1_tl_1' n='N001'/>T.V. GLIDE
+				<lb facs='#facs_19_r_4_1_tl_2' n='N002'/>My T.V. has been watching me
+				<lb facs='#facs_19_r_4_1_tl_3' n='N003'/>Its blank, stolid face
+				<lb facs='#facs_19_r_4_1_tl_4' n='N004'/>Like the faces on a bus
+				<lb facs='#facs_19_r_4_1_tl_5' n='N005'/>Or the crafty faces of the dead.
+				<lb facs='#facs_19_r_4_1_tl_6' n='N006'/>Suddenly, it sprouts four wings
+				<lb facs='#facs_19_r_4_1_tl_7' n='N007'/>One on either side,
+				<lb facs='#facs_19_r_4_1_tl_8' n='N008'/>Then two tiny ones for each antenna and
+				<lb facs='#facs_19_r_4_1_tl_9' n='N009'/>It swoops out of the room through an open window
+				<lb facs='#facs_19_r_4_1_tl_10' n='N010'/>That offers a sky horizontal with blue.
+				<lb facs='#facs_19_r_4_1_tl_11' n='N011'/>Lorraine Schein
+			</p>
+			<p>
+				<lb facs='#facs_19_r_5_1_tl_1' n='N001'/>POEM
+				<lb facs='#facs_19_r_5_1_tl_2' n='N002'/>Whenever you feel alienated
+				<lb facs='#facs_19_r_5_1_tl_3' n='N003'/>Remember God is there
+				<lb facs='#facs_19_r_5_1_tl_4' n='N004'/>Watching you on his TV set,
+				<lb facs='#facs_19_r_5_1_tl_5' n='N005'/>While drinking beer, in his underwear.
+				<lb facs='#facs_19_r_5_1_tl_6' n='N006'/>Lorraine Schein
+			</p>
+			<p>
+				<lb facs='#facs_19_r_6_1_tl_1' n='N001'/>woke
+				<lb facs='#facs_19_r_6_1_tl_2' n='N002'/>today
+				<lb facs='#facs_19_r_6_1_tl_3' n='N003'/>with
+				<lb facs='#facs_19_r_6_1_tl_4' n='N004'/>an attitude
+				<lb facs='#facs_19_r_6_1_tl_5' n='N005'/>the world
+				<lb facs='#facs_19_r_6_1_tl_6' n='N006'/>was all
+				<lb facs='#facs_19_r_6_1_tl_7' n='N007'/>MINED
+			</p>
+			<p>
+				<lb facs='#facs_19_r_7_1_tl_1' n='N001'/>Rose Lesniak
+			</p>
+			<pb n='20'/>
+			<pb n='21'/>
+			<pb n='22'/>
+			<pb n='23'/>
+			<pb n='24'/>
+			<pb n='25'/>
+			<p>
+				<lb facs='#facs_25_r_1_1_tl_1' n='N001'/>BIKINI
+				<lb facs='#facs_25_r_1_1_tl_2' n='N002'/>Itis almost impossible to imagine a world without
+				<lb facs='#facs_25_r_1_1_tl_3' n='N003'/>color, Dick tells Jane.
+				<lb facs='#facs_25_r_1_1_tl_4' n='N004'/>As a little girl, Jane always worried that she would
+				<lb facs='#facs_25_r_1_1_tl_5' n='N005'/>furn into a pumpkin, rather than a princess.
+				<lb facs='#facs_25_r_1_1_tl_6' n='N006'/>What color is a coconut, Jane asks her mother.
+				<lb facs='#facs_25_r_1_1_tl_7' n='N007'/>All coconut is white, Jane’s mother replies. Oh,
+				<lb facs='#facs_25_r_1_1_tl_8' n='N008'/>then all nonwhite things are noncoconuts, Jane
+				<lb facs='#facs_25_r_1_1_tl_9' n='N009'/>says. Yes, Dick adds. It a thing is a coconut or not
+				<lb facs='#facs_25_r_1_1_tl_10' n='N010'/>a coconut, then it its a coconut, it&apos;s white. Like
+				<lb facs='#facs_25_r_1_1_tl_11' n='N011'/>Moby Dick.
+				<lb facs='#facs_25_r_1_1_tl_12' n='N012'/>Before Dick and Jane enter the first grade, Mother
+				<lb facs='#facs_25_r_1_1_tl_13' n='N013'/>and Father purchase coloring books to allow Dick
+				<lb facs='#facs_25_r_1_1_tl_14' n='N014'/>and Jane to learn to color a thing with its appro
+				<lb facs='#facs_25_r_1_1_tl_15' n='N015'/>priate color. A coloring book also helps Dick and
+				<lb facs='#facs_25_r_1_1_tl_16' n='N016'/>Jane learn fo color only in the appropriate spaces,
+				<lb facs='#facs_25_r_1_1_tl_17' n='N017'/>that is, inside the lines.
+				<lb facs='#facs_25_r_1_1_tl_18' n='N018'/>Certain coloring books even have a color code
+				<lb facs='#facs_25_r_1_1_tl_19' n='N019'/>with numbers so Dick and Jane never have to
+				<lb facs='#facs_25_r_1_1_tl_20' n='N020'/>think which color goes where. The kids understand
+				<lb facs='#facs_25_r_1_1_tl_21' n='N021'/>the code:
+				<lb facs='#facs_25_r_1_1_tl_22' n='N022'/>+lis red.
+				<lb facs='#facs_25_r_1_1_tl_23' n='N023'/>+2 is blue.
+				<lb facs='#facs_25_r_1_1_tl_24' n='N024'/>+3 is orange.
+				<lb facs='#facs_25_r_1_1_tl_25' n='N025'/>Etc. This will help Dick and Jane later in life when
+				<lb facs='#facs_25_r_1_1_tl_26' n='N026'/>they grow up to be scientists, and colors are offen
+				<lb facs='#facs_25_r_1_1_tl_27' n='N027'/>quantitatively rather than qualitatively described.
+				<lb facs='#facs_25_r_1_1_tl_28' n='N028'/>It Dick and Jane color the appropriate spaces
+				<lb facs='#facs_25_r_1_1_tl_29' n='N029'/>in the approprate colors, everything will appear
+			</p>
+			<p>
+				<lb facs='#facs_25_r_4_1_tl_1' n='N001'/>normal. Pertectly normal.
+				<lb facs='#facs_25_r_4_1_tl_2' n='N002'/>In Dick and Jane’s coloring book, there are no
+				<lb facs='#facs_25_r_4_1_tl_3' n='N003'/>shadows, no reflections, no place for modeling
+				<lb facs='#facs_25_r_4_1_tl_4' n='N004'/>or chiaroscuro.
+				<lb facs='#facs_25_r_4_1_tl_5' n='N005'/>Dick and Jane learn at an early age that an
+				<lb facs='#facs_25_r_4_1_tl_6' n='N006'/>orange without its color is in some sense not an
+				<lb facs='#facs_25_r_4_1_tl_7' n='N007'/>orange. Color allows Dick and Jane to distinguish
+				<lb facs='#facs_25_r_4_1_tl_8' n='N008'/>what is real.
+				<lb facs='#facs_25_r_4_1_tl_9' n='N009'/>What color is a raven? Jane asks her mother.
+				<lb facs='#facs_25_r_4_1_tl_10' n='N010'/>All ravens are black, Mother replies. If all ravens
+				<lb facs='#facs_25_r_4_1_tl_11' n='N011'/>are black, Jane says to Dick, then all nonblack
+				<lb facs='#facs_25_r_4_1_tl_12' n='N012'/>things are nonravens. Of course, Dick says. It a
+				<lb facs='#facs_25_r_4_1_tl_13' n='N013'/>thing is a raven or not a raven, then it ifs a raven
+				<lb facs='#facs_25_r_4_1_tl_14' n='N014'/>it&apos;s black.
+				<lb facs='#facs_25_r_4_1_tl_15' n='N015'/>More color and less conversation, Mother says.
+				<lb facs='#facs_25_r_4_1_tl_16' n='N016'/>Picture a landscape: rolling hills dotted with graz
+				<lb facs='#facs_25_r_4_1_tl_17' n='N017'/>ing sheep in the foreground, majestic snow
+				<lb facs='#facs_25_r_4_1_tl_18' n='N018'/>capped mountains in the background. Continuing
+				<lb facs='#facs_25_r_4_1_tl_19' n='N019'/>the tradition of Dutch landscape painting, picture
+				<lb facs='#facs_25_r_4_1_tl_20' n='N020'/>an inordinate amount of space for the shitting and
+				<lb facs='#facs_25_r_4_1_tl_21' n='N021'/>unstable sky. Billowing cumulus are obviously the
+				<lb facs='#facs_25_r_4_1_tl_22' n='N022'/>clouds of choice. Picture a full-color, two-page
+				<lb facs='#facs_25_r_4_1_tl_23' n='N023'/>spread in the Livermore Lab&apos;s Energy and lech
+				<lb facs='#facs_25_r_4_1_tl_24' n='N024'/>nology Review. Embedded in the middle distance
+				<lb facs='#facs_25_r_4_1_tl_25' n='N025'/>of this greatly enlarged postcard view, picture a
+				<lb facs='#facs_25_r_4_1_tl_26' n='N026'/>nuclear design laboratory.
+				<lb facs='#facs_25_r_4_1_tl_27' n='N027'/>Afomic bomb explosions do not normally appear
+				<lb facs='#facs_25_r_4_1_tl_28' n='N028'/>in coloring books. What do occasionally appear
+				<lb facs='#facs_25_r_4_1_tl_29' n='N029'/>are cumulus clouds or mushrooms, which the ex
+				<lb facs='#facs_25_r_4_1_tl_30' n='N030'/>plosions resemble.
+				<lb facs='#facs_25_r_4_1_tl_31' n='N031'/>People suffering from overexposure to radia
+				<lb facs='#facs_25_r_4_1_tl_32' n='N032'/>tion do not appear in coloring books either. A
+				<lb facs='#facs_25_r_4_1_tl_33' n='N033'/>child can assume that the man or woman ouf
+				<lb facs='#facs_25_r_4_1_tl_34' n='N034'/>lined in a coloring book still has his or her thyroid.
+				<lb facs='#facs_25_r_4_1_tl_35' n='N035'/>No scar is evident that might indicated surgical
+				<lb facs='#facs_25_r_4_1_tl_36' n='N036'/>removal ot an organ deleteriously affected by
+				<lb facs='#facs_25_r_4_1_tl_37' n='N037'/>overexposure.
+				<lb facs='#facs_25_r_4_1_tl_38' n='N038'/>Everything is for the best in the coloring book.
+				<lb facs='#facs_25_r_4_1_tl_39' n='N039'/>The world is the best of all possible worlds.
+				<lb facs='#facs_25_r_4_1_tl_40' n='N040'/>Coloring books train a child to stay within cer
+				<lb facs='#facs_25_r_4_1_tl_41' n='N041'/>tain boundaries circumscribed for him or her, to
+				<lb facs='#facs_25_r_4_1_tl_42' n='N042'/>refrain from crossing over certain lines. Occasion
+				<lb facs='#facs_25_r_4_1_tl_43' n='N043'/>ally a color strays outside the line. Certain chil
+				<lb facs='#facs_25_r_4_1_tl_44' n='N044'/>dren may even take a kind of perverse pleasure
+				<lb facs='#facs_25_r_4_1_tl_45' n='N045'/>in occasionally coloring outside the line or scrib
+				<lb facs='#facs_25_r_4_1_tl_46' n='N046'/>bling long affer they have learned to neafly color.
+			</p>
+			<pb n='26'/>
+			<p>
+				<lb facs='#facs_26_r_2_1_tl_1' n='N001'/>This is not good, the teacher remarks.
+				<lb facs='#facs_26_r_2_1_tl_2' n='N002'/>Children who neatly color in their coloring books,
+				<lb facs='#facs_26_r_2_1_tl_3' n='N003'/>depending on various circumstances, may or may
+				<lb facs='#facs_26_r_2_1_tl_4' n='N004'/>not later choose to sit-down in the road to block
+				<lb facs='#facs_26_r_2_1_tl_5' n='N005'/>ade weapons research at Livermore Lab. In col
+				<lb facs='#facs_26_r_2_1_tl_6' n='N006'/>oring books, people sit in chairs, not on roads.
+				<lb facs='#facs_26_r_2_1_tl_7' n='N007'/>Click click click.
+				<lb facs='#facs_26_r_2_1_tl_8' n='N008'/>Jane knows where she can and cannot go. She
+				<lb facs='#facs_26_r_2_1_tl_9' n='N009'/>can read the signs. She understands the words
+				<lb facs='#facs_26_r_2_1_tl_10' n='N010'/>NO TRESPASSING. Or TRESPASSING ANDIOI-
+				<lb facs='#facs_26_r_2_1_tl_11' n='N011'/>TERING FORBIDDEN BY LAW. Jane learned to
+				<lb facs='#facs_26_r_2_1_tl_12' n='N012'/>read in the first grade.
+				<lb facs='#facs_26_r_2_1_tl_13' n='N013'/>Click click click.
+				<lb facs='#facs_26_r_2_1_tl_14' n='N014'/>Jane is a tourist. She snaps a picture ot the Law-
+				<lb facs='#facs_26_r_2_1_tl_15' n='N015'/>rence Livermore National Laboratory through the
+				<lb facs='#facs_26_r_2_1_tl_16' n='N016'/>chainlink tence surrounding the lab.
+				<lb facs='#facs_26_r_2_1_tl_17' n='N017'/>Click click click.
+				<lb facs='#facs_26_r_2_1_tl_18' n='N018'/>Jane does not have a security clearance, so she
+				<lb facs='#facs_26_r_2_1_tl_19' n='N019'/>is denied access to the lab inside the chainlink
+				<lb facs='#facs_26_r_2_1_tl_20' n='N020'/>fence. She can only photograph what she can
+				<lb facs='#facs_26_r_2_1_tl_21' n='N021'/>see from outside. Which is not much.
+			</p>
+			<p>
+				<lb facs='#facs_26_r_5_1_tl_1' n='N001'/>Jane wants to purchase a new bikini. Jane has in
+				<lb facs='#facs_26_r_5_1_tl_2' n='N002'/>mind a bikini with yellow polka dots. Jane lives in
+				<lb facs='#facs_26_r_5_1_tl_3' n='N003'/>Livermore, Calitornia near the Lawrence Livermore
+				<lb facs='#facs_26_r_5_1_tl_4' n='N004'/>National Laboratory, the same lab where scien
+				<lb facs='#facs_26_r_5_1_tl_5' n='N005'/>tists design not bikini bathing suits but nuclear
+				<lb facs='#facs_26_r_5_1_tl_6' n='N006'/>weapons. Ihe lab where scientists study radio
+				<lb facs='#facs_26_r_5_1_tl_7' n='N007'/>logical levels on Bikini Atoll.
+			</p>
+			<p>
+				<lb facs='#facs_26_r_7_1_tl_1' n='N001'/>Although Jane lives in Livermore, she must drive
+				<lb facs='#facs_26_r_7_1_tl_2' n='N002'/>to Dublin to purchase her bikini, a town approxi-
+				<lb facs='#facs_26_r_7_1_tl_3' n='N003'/>mately 15 minutes trom Livermore by car. There
+				<lb facs='#facs_26_r_7_1_tl_4' n='N004'/>are no shopping malls in Livermore, although the
+				<lb facs='#facs_26_r_7_1_tl_5' n='N005'/>population is larger than that of Dublin. Perhaps
+				<lb facs='#facs_26_r_7_1_tl_6' n='N006'/>fhe residents of Livermore, like Jane, are eager to
+				<lb facs='#facs_26_r_7_1_tl_7' n='N007'/>preserve the quaintness of their town. Perhaps fhey
+				<lb facs='#facs_26_r_7_1_tl_8' n='N008'/>are not interested in large modern shopping cen
+				<lb facs='#facs_26_r_7_1_tl_9' n='N009'/>ters and the trattic and congestion that always
+				<lb facs='#facs_26_r_7_1_tl_10' n='N010'/>seem to accompany them. Perhaps no one minds
+				<lb facs='#facs_26_r_7_1_tl_11' n='N011'/>whatever inconvenience the absence of a shop
+				<lb facs='#facs_26_r_7_1_tl_12' n='N012'/>ping mall might cause them, because there are
+				<lb facs='#facs_26_r_7_1_tl_13' n='N013'/>distinct advantages to not having a mall in fown.
+				<lb facs='#facs_26_r_7_1_tl_14' n='N014'/>What are the disadvantages of having a nu
+				<lb facs='#facs_26_r_7_1_tl_15' n='N015'/>clear weapons research laboratory in fowne
+				<lb facs='#facs_26_r_7_1_tl_16' n='N016'/>Picture a perfectly normal still lite. The oranges
+				<lb facs='#facs_26_r_7_1_tl_17' n='N017'/>are orange. The wooden table brown. The cur
+				<lb facs='#facs_26_r_7_1_tl_18' n='N018'/>tains bright yellow. The cottee cup turquoise blue.
+				<lb facs='#facs_26_r_7_1_tl_19' n='N019'/>A still lite of tranquility. Öf modest abundance.
+				<lb facs='#facs_26_r_7_1_tl_20' n='N020'/>Picture a perfectly normal still life. The coconuts
+				<lb facs='#facs_26_r_7_1_tl_21' n='N021'/>are orange. The wooden table brown. The floor
+				<lb facs='#facs_26_r_7_1_tl_22' n='N022'/>a slightly darker shade of brown. The curtains
+				<lb facs='#facs_26_r_7_1_tl_23' n='N023'/>bright yellow. The coffee cup turquoise blue. A
+				<lb facs='#facs_26_r_7_1_tl_24' n='N024'/>still lite ot domesticity. Öf modest abundance.
+				<lb facs='#facs_26_r_7_1_tl_25' n='N025'/>Domestic tranquility is important in a still lite. It
+				<lb facs='#facs_26_r_7_1_tl_26' n='N026'/>is also important in the Preamble to the Constitu
+				<lb facs='#facs_26_r_7_1_tl_27' n='N027'/>tion. To the framers ot the Constitution, promot
+				<lb facs='#facs_26_r_7_1_tl_28' n='N028'/>ing the domestic tranquility seemed like a perfectly
+				<lb facs='#facs_26_r_7_1_tl_29' n='N029'/>normal thing to do.
+				<lb facs='#facs_26_r_7_1_tl_30' n='N030'/>The domestic tranquility ot the Bikinians was ob
+			</p>
+			<pb n='27'/>
+			<p>
+				<lb facs='#facs_27_r_1_1_tl_1' n='N001'/>viously upset when they were displaced trom Bi
+				<lb facs='#facs_27_r_1_1_tl_2' n='N002'/>kini to Rongerik Atoll in 1946. And again when
+				<lb facs='#facs_27_r_1_1_tl_3' n='N003'/>they were resettled on Kwajalein Atoll. And again
+				<lb facs='#facs_27_r_1_1_tl_4' n='N004'/>when they were relocated to Kili Island. And trans
+				<lb facs='#facs_27_r_1_1_tl_5' n='N005'/>ferred back to Bikini in 1972. And then displaced
+				<lb facs='#facs_27_r_1_1_tl_6' n='N006'/>once again to Kili in 1978. Anyone can understand
+				<lb facs='#facs_27_r_1_1_tl_7' n='N007'/>the difficulty involved in constantly packing ano
+				<lb facs='#facs_27_r_1_1_tl_8' n='N008'/>repacking fables, coftee cups, curtains, etc., to
+				<lb facs='#facs_27_r_1_1_tl_9' n='N009'/>move again and again. All in all, the Bikinians
+				<lb facs='#facs_27_r_1_1_tl_10' n='N010'/>have been displaced a total ot 5 times.
+				<lb facs='#facs_27_r_1_1_tl_11' n='N011'/>The word ’atom’ follows the word ’atoll’ in the
+				<lb facs='#facs_27_r_1_1_tl_12' n='N012'/>dictionary. Ihe 5 displacements were necessary
+				<lb facs='#facs_27_r_1_1_tl_13' n='N013'/>to keep the Bikinians away trom the effects of the
+				<lb facs='#facs_27_r_1_1_tl_14' n='N014'/>atomic and hydrogen bombs exploded in the vi
+				<lb facs='#facs_27_r_1_1_tl_15' n='N015'/>cinity of their atoll.
+				<lb facs='#facs_27_r_1_1_tl_16' n='N016'/>Effect is a 6 letter word. So is Bikini. Bikini Atoll
+				<lb facs='#facs_27_r_1_1_tl_17' n='N017'/>had 26 islands. There are now only 23.
+				<lb facs='#facs_27_r_1_1_tl_18' n='N018'/>The average person has no problem with a
+				<lb facs='#facs_27_r_1_1_tl_19' n='N019'/>word like effect. Or a word like explanation. An
+				<lb facs='#facs_27_r_1_1_tl_20' n='N020'/>explanation for the inedible orange coconuts grow
+				<lb facs='#facs_27_r_1_1_tl_21' n='N021'/>ing on Bikini Atoll is the presence of terrestrial ra
+				<lb facs='#facs_27_r_1_1_tl_22' n='N022'/>dionuclides in the ecosystem.
+				<lb facs='#facs_27_r_1_1_tl_23' n='N023'/>he explanation for the presence of terrestrial
+				<lb facs='#facs_27_r_1_1_tl_24' n='N024'/>radionuclides in the ecosystem is the presence of
+				<lb facs='#facs_27_r_1_1_tl_25' n='N025'/>nuclear testing from 1946-58. The explanation for
+				<lb facs='#facs_27_r_1_1_tl_26' n='N026'/>the presence of nuclear testing on Bikini Atoll trom
+				<lb facs='#facs_27_r_1_1_tl_27' n='N027'/>1946-58, however, is problematic. To preserve the
+				<lb facs='#facs_27_r_1_1_tl_28' n='N028'/>peace, of course, is one explanation.
+				<lb facs='#facs_27_r_1_1_tl_29' n='N029'/>Some explanations are more polite than oth
+				<lb facs='#facs_27_r_1_1_tl_30' n='N030'/>ers. Peace is both a polite and noncontroversial
+				<lb facs='#facs_27_r_1_1_tl_31' n='N031'/>explanation. But then, the tentacular nature of im
+				<lb facs='#facs_27_r_1_1_tl_32' n='N032'/>perialist ideology is insidious. Jane’s mother, for
+				<lb facs='#facs_27_r_1_1_tl_33' n='N033'/>example, always fold her to refrain trom discuss
+				<lb facs='#facs_27_r_1_1_tl_34' n='N034'/>ing controversial topics, like nuclear testing, at the
+				<lb facs='#facs_27_r_1_1_tl_35' n='N035'/>dinner table.
+				<lb facs='#facs_27_r_1_1_tl_36' n='N036'/>Dinner tables have 4 legs. Periodic tables have
+				<lb facs='#facs_27_r_1_1_tl_37' n='N037'/>106 elements.
+				<lb facs='#facs_27_r_1_1_tl_38' n='N038'/>Leftovers trom a dinner are easily discarded.
+				<lb facs='#facs_27_r_1_1_tl_39' n='N039'/>Many sinks are even equipped with an electric
+				<lb facs='#facs_27_r_1_1_tl_40' n='N040'/>garbage disposal to aid in the disappearance of
+				<lb facs='#facs_27_r_1_1_tl_41' n='N041'/>unwanted waste. Leffovers trom a nuclear fest,
+				<lb facs='#facs_27_r_1_1_tl_42' n='N042'/>on the other hand, are not as easily discarded.
+				<lb facs='#facs_27_r_1_1_tl_43' n='N043'/>Radioactive elements continue to emit radiation
+				<lb facs='#facs_27_r_1_1_tl_44' n='N044'/>as they decay. A halt-lite is the amount of time for
+				<lb facs='#facs_27_r_1_1_tl_45' n='N045'/>halt the amount ot a radioactive substance to
+				<lb facs='#facs_27_r_1_1_tl_46' n='N046'/>disintegrate.
+				<lb facs='#facs_27_r_1_1_tl_47' n='N047'/>It there is always halt of something, there is al
+				<lb facs='#facs_27_r_1_1_tl_48' n='N048'/>ways something left over.
+				<lb facs='#facs_27_r_1_1_tl_49' n='N049'/>An artist does not generally include the leffovers
+				<lb facs='#facs_27_r_1_1_tl_50' n='N050'/>trom a dinner in his or her still lite.
+				<lb facs='#facs_27_r_1_1_tl_51' n='N051'/>Here today. Still here tomorrow.
+			</p>
+			<p>
+				<lb facs='#facs_27_r_2_1_tl_1' n='N001'/>Webster’s voluminous Third International Dictionary
+				<lb facs='#facs_27_r_2_1_tl_2' n='N002'/>states that the word ’bikini&apos; is derived trom the
+				<lb facs='#facs_27_r_2_1_tl_3' n='N003'/>comparison ot the effects wrought by a scantily
+				<lb facs='#facs_27_r_2_1_tl_4' n='N004'/>clad woman to the effects ot an atomic bomb.
+				<lb facs='#facs_27_r_2_1_tl_5' n='N005'/>The effects of nuclear testing on Bikini Atoll from
+				<lb facs='#facs_27_r_2_1_tl_6' n='N006'/>1946-58, like the dictionary, are also voluminous:
+				<lb facs='#facs_27_r_2_1_tl_7' n='N007'/>an ecosystem destroyed by the presence of fer
+				<lb facs='#facs_27_r_2_1_tl_8' n='N008'/>restrial radionuclides, a contaminated lagoon, a
+				<lb facs='#facs_27_r_2_1_tl_9' n='N009'/>displaced Bikinian population, radiation exposure
+				<lb facs='#facs_27_r_2_1_tl_10' n='N010'/>to hundreds of Micronesians. What do these ef
+				<lb facs='#facs_27_r_2_1_tl_11' n='N011'/>fects have in common with the effects ot a scant
+				<lb facs='#facs_27_r_2_1_tl_12' n='N012'/>ily clad woman? Or is the derivation in Webster&apos;s
+				<lb facs='#facs_27_r_2_1_tl_13' n='N013'/>referring to the proximal effects of an atomic bomb:
+				<lb facs='#facs_27_r_2_1_tl_14' n='N014'/>the explosion, that climatic/climactic moment itselt.
+				<lb facs='#facs_27_r_2_1_tl_15' n='N015'/>The bikini is still in style. The Bikini Atoll is not.
+				<lb facs='#facs_27_r_2_1_tl_16' n='N016'/>It is abandoned and will be uninhabitable for
+				<lb facs='#facs_27_r_2_1_tl_17' n='N017'/>another 35-24,300 years. A case of interim
+				<lb facs='#facs_27_r_2_1_tl_18' n='N018'/>obsolescence.
+			</p>
+			<p>
+				<lb facs='#facs_27_r_3_1_tl_1' n='N001'/>Deborah Small
+			</p>
+			<pb n='28'/>
+			<p>
+				<lb facs='#facs_28_l' n='N001'/>Love Novellas
+			</p>
+			<p>
+				<lb facs='#facs_28_l_683' n='N001'/>Jersey Allyn
+				<lb facs='#facs_28_l_689' n='N002'/>aka J. Allyn/Artist
+				<lb facs='#facs_28_r_3_1_tl_1' n='N003'/>An audio installation of 8 portraits
+				<lb facs='#facs_28_r_3_1_tl_2' n='N004'/>between 1 and 6 minutes in length.
+				<lb facs='#facs_28_r_3_1_tl_3' n='N005'/>Technical installation: Greg Sholette
+				<lb facs='#facs_28_r_3_1_tl_4' n='N006'/>Franklin Furnace
+				<lb facs='#facs_28_r_3_1_tl_5' n='N007'/>New York City, New York
+				<lb facs='#facs_28_r_3_1_tl_6' n='N008'/>March 16—April 9, 1983
+				<lb facs='#facs_28_r_3_1_tl_7' n='N009'/>The audience entered, adjusted
+				<lb facs='#facs_28_r_3_1_tl_8' n='N010'/>themselves in chairs chosen to further
+				<lb facs='#facs_28_r_3_1_tl_9' n='N011'/>enhance the portrait, adjusted
+				<lb facs='#facs_28_r_3_1_tl_10' n='N012'/>headphones, and listened.
+				<lb facs='#facs_28_r_3_1_tl_11' n='N013'/>Excerpts follow:
+			</p>
+			<p>
+				<lb facs='#facs_28_r_2_1_tl_1' n='N001'/>You know those slicers they sell on midnight TV that !could
+				<lb facs='#facs_28_r_2_1_tl_2' n='N002'/>never imnagine who the hell would ever buy themn—I mean
+				<lb facs='#facs_28_r_2_1_tl_3' n='N003'/>midnight sales? That gadget that cuts things 52 ways
+				<lb facs='#facs_28_r_2_1_tl_4' n='N004'/>—count &apos;em, 52? HE SELLS THEM! And not only that, he
+				<lb facs='#facs_28_r_2_1_tl_5' n='N005'/>sold me one! He&apos;d sell his mother and you wouldm’t notice
+				<lb facs='#facs_28_r_2_1_tl_7' n='N006'/>you had just changed hands ome of the most valuable things
+				<lb facs='#facs_28_r_2_1_tl_9' n='N007'/>in existence. Normally l’d hate that type, and I adore him.
+			</p>
+			<p>
+				<lb facs='#facs_28_r_4_1_tl_1' n='N001'/>And after two weeks she mapnies. She decides, why not?
+				<lb facs='#facs_28_r_4_1_tl_2' n='N002'/>Try this for once. Everyone’s trying everything else. Why
+				<lb facs='#facs_28_r_4_1_tl_3' n='N003'/>not try this? She&apos;s never done tradition. Flushing at
+				<lb facs='#facs_28_r_4_1_tl_4' n='N004'/>thoughts of the loved one. Blushing at nothing. Fleeting
+				<lb facs='#facs_28_r_4_1_tl_5' n='N005'/>feelings of love making rushes.... ! adore you, both say. Your
+				<lb facs='#facs_28_r_4_1_tl_6' n='N006'/>lover will mever wish to leave you, the Chinese cookie fon
+				<lb facs='#facs_28_r_4_1_tl_7' n='N007'/>tune says. And they marry and say forever and ever and
+				<lb facs='#facs_28_r_4_1_tl_8' n='N008'/>why not? Why not try tradition?
+			</p>
+			<pb n='29'/>
+			<pb n='30'/>
+			<pb n='31'/>
+			<pb n='32'/>
+			<pb n='33'/>
+			<pb n='34'/>
+			<pb n='35'/>
+		</body>
+	</text>
+</TEI>
