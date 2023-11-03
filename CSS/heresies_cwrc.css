@@ -21,7 +21,7 @@ TEI {
     margin: 10px 25px;
     font-family: Times Roman, serif;
     line-height: 1em;
-    font-size: 1em;
+    font-size: 1.1em;
 }
 font
 /*  added <ab> styling - adding left margin */
@@ -69,7 +69,7 @@ argument {
 }
 att {
     display: inline;
-    font-family: sans-serif;
+    font-family: serif;
     color: blue;
     background-color: inherit;
 }
@@ -483,7 +483,7 @@ gap:after {
 gi,
 tag {
     display: inline;
-    font-family: sans-serif;
+    font-family: serif;
     color: blue;
     background-color: inherit;
 }
@@ -1186,7 +1186,7 @@ taxonomy {
 
 /* hiding green font color, adding italic/bold */
 term {
-    font-family: sans-serif;
+    font-family: serif;
     /*color: green;*/
     background-color: inherit;
     display: inline;
