@@ -16,12 +16,12 @@
     **********    
  *
  */
-/* Use Arial for default font */
+/* adjusting font-size and line-height */
 TEI {
     margin: 10px 25px;
-    font-family: Arial, sans_serif;
-    line-height: 1.9em;
-    font-size: 1.2em;
+    font-family: Times Roman, serif;
+    line-height: 1em;
+    font-size: 1.1em;
 }
 font
 /*  added <ab> styling - adding left margin */
@@ -69,7 +69,7 @@ argument {
 }
 att {
     display: inline;
-    font-family: sans-serif;
+    font-family: serif;
     color: blue;
     background-color: inherit;
 }
@@ -483,7 +483,7 @@ gap:after {
 gi,
 tag {
     display: inline;
-    font-family: sans-serif;
+    font-family: serif;
     color: blue;
     background-color: inherit;
 }
@@ -892,10 +892,12 @@ opener {
     display: block;
     margin-bottom: 0.5em;
 }
-opener p {
+/* DJ hiding justification and text-indent: 11/10/2024
+/* opener p {
     text-align: justify !important;
     text-indent: 0 !important;
 }
+*/
 orig {
     display: inline;
     color: gray;
@@ -912,8 +914,9 @@ p {
     display: block;
     margin-bottom: 0.5em;
     line-height: 2em;
+    text-indent: 0;
 }
-
+/* hiding page break markings */
 pb {
     display: block;
     color: gray;
@@ -921,7 +924,7 @@ pb {
     font-size: .9em;
 }
 
-/* Trying to add "Page" before page # */
+/*-- Trying to add "Page" before page # --
 pb:before {
     content: "Page ";
     color: gray;
@@ -936,8 +939,7 @@ pb:after {
     margin-top: 1em;
     text-align: center;
 }
-
-
+*/
 persName {
     color: blue;
     display: inline;
@@ -1146,11 +1148,13 @@ sp {
     margin-left: 2em;
 }
 
+
 /* Trying to change text alignment and indent (was justify / 30px */
 div p {
     text-align: left;
     text-indent: 0px;
 }
+
 speaker {
     display: inline;
     font-weight: bold;
@@ -1186,7 +1190,7 @@ taxonomy {
 
 /* hiding green font color, adding italic/bold */
 term {
-    font-family: sans-serif;
+    font-family: serif;
     /*color: green;*/
     background-color: inherit;
     display: inline;
