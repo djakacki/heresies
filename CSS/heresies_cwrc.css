@@ -885,7 +885,7 @@ num {
 }
 
 objectName {
-    color: green;
+    color: purple;
     display: inline;
 }
 opener {
@@ -1145,9 +1145,11 @@ sp {
     margin-bottom: 0.5em;
     margin-left: 2em;
 }
+
+/* Trying to change text alignment and indent (was justify / 30px */
 div p {
-    text-align: justify;
-    text-indent: 30px;
+    text-align: left;
+    text-indent: 0px;
 }
 speaker {
     display: inline;
