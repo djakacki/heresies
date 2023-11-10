@@ -892,10 +892,12 @@ opener {
     display: block;
     margin-bottom: 0.5em;
 }
-opener p {
+/* DJ hiding justification and text-indent: 11/10/2024
+/* opener p {
     text-align: justify !important;
     text-indent: 0 !important;
 }
+*/
 orig {
     display: inline;
     color: gray;
@@ -912,8 +914,9 @@ p {
     display: block;
     margin-bottom: 0.5em;
     line-height: 2em;
+    text-indent: 0;
 }
-/* hiding page break markings
+/* hiding page break markings */
 pb {
     display: block;
     color: gray;
@@ -921,7 +924,7 @@ pb {
     font-size: .9em;
 }
 
--- Trying to add "Page" before page # --
+/*-- Trying to add "Page" before page # --
 pb:before {
     content: "Page ";
     color: gray;
@@ -937,7 +940,6 @@ pb:after {
     text-align: center;
 }
 */
-
 persName {
     color: blue;
     display: inline;
