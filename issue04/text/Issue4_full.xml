@@ -14861,12 +14861,15 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                band’s house. She is in a state of great excite-
                ment and, chanting all the time, she speaks
                about everything that comes to her mind.</p>
-            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_122.jpg" n="122" xml:id="img_0122"/>
-            <p>
-               "BYTHE LAKESIDETHERE ISANECHO
-               Towards a History of Women’s Traditional Arts</p>
-            <p>
-               Valerie Hollister and Elizabeth Weatherford
+
+/////
+<div>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_122.jpg" n="119" xml:id="img_0122"/>
+            <head><title type="main">"BY THE LAKESIDE THERE IS AN ECHO</title>
+               <title type="sub">Towards a History of Women’s Traditional Arts</title>
+            </head>
+   <byline>Valerie Hollister and Elizabeth Weatherford</byline>
+            <epigraph>
                “By the lakeside there is an echo. As they stand
                there with an open book the chosen passages are
                re-uttered from the other side by a voice that be-
@@ -14877,34 +14880,32 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                that which is and that which is not. The shadows
                brooding over the lake shift and begin to shiver
                because of the vibrations of the voice.
-               —Monique Wittig, Lés Guérilleres</p>
-            <p/>
-            <p>
+               —Monique Wittig, Lés Guérilleres</epigraph>
+
+            <caption>
                Delicate terra-cotta figurines were molded in clay by Agni women (Ivory
-               Coast) as portraits destined for royal tombs</p>
+               Coast) as portraits destined for royal tombs</caption>
             <p>
                For a more complete history of women’s art we must know the actual circumstances of women’s creativity and
                aesthetic contributions to culture. Scholars of traditional societies* assume that men’s “art” is sacred and dangerous
                to women and children, while women’s “craft” is significant only in the daily sphere and of no prime importance.
                These assumptions obscure the real and complex situation of women’s artmaking and totally block an appreciation
-               We approached this article from different experiences. One of us, an anthropologist, is concerned with the cur-
-               of their art.
-               rent debates in feminist anthropological theory about women’s power or lack of it. One argument states that in all
+               of their art.</p>
+   <p>We approached this article from different experiences. One of us, an anthropologist, is concerned with the current debates in feminist anthropological theory about women’s power or lack of it. One argument states that in all
                cultures women, no matter how actively they participate in the society’s life, are always considered inferior to men.
                Is this analysis true or are we so dependent on fragmentary reporting, usually based on the information of men, that
                we have not developed a way of knowing either women or their own evaluation of what they do? The other of us, a
                painter, interested for many years in the arts of Africa and the lives of African women, began this collaboration
                unknowingly influenced by the traditional arts of women. Both of us had been moved by the beauty of women’s art
                in traditional societies and wished to consider the ramifications of women’s public and private artmaking. This arti
-               cle comes out of our readings and conversations.
-               By assembling and analyzing the sparse information on the art of women in traditional societies we hope to raise
+               cle comes out of our readings and conversations.</p>
+               <p>By assembling and analyzing the sparse information on the art of women in traditional societies we hope to raise
                questions which will provoke further research. We have organized our discussion into categories which emphasize
                questions about the scope of women’s art and its relationship to their societies and to women’s status within those,
                societies.</p>
-            <p>
-               ARTAS SYMBOLS OF AUTHORITY
-               THE ART OF WOMEN’S RITUALS</p>
-            <p>
+
+   <head><title>THE ART OF WOMEN’S RITUALS</title></head>
+            <div><p>
                Birth, initiation, marriage and death are ritually
                celebrated by women in most societies and many female
                cults worship a patron goddess or god, but we can find
@@ -14926,7 +14927,10 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                make ritual art? We presume far more examples exist
                Extensive documentation of these objects is necessary to
                expand our knowledge of women’s art and their lives.</p>
-            <p>
+            </div>
+   
+   <head><title>ART AS SYMBOLS OF AUTHORITY</title></head>
+   <p>
                Masks, free-standing figures and other carvings (appar-
                ently always made by men) are used as symbols of secular
                authority in traditional societies. Western anthropologists
@@ -14940,32 +14944,29 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                the object s power.) The literature implies that since
                women do not use these symbols of authority, they have
                little public power. The following examples show that
-               these assumptions are not true.
-               In Sierra Leone and Liberia, the all-female Bundu
+               these assumptions are not true.</p>
+               <p>In Sierra Leone and Liberia, the all-female Bundu
                society commissions masks for use as symbols of their
                authority. The helmet mask and woven body covering
                worn by the women lend an awesome appearance to their
                dance performance and are invested with such power that
                they are utilized both in funeral rites and in intimidating
-               males or females who insult women. In the Ivory Coast</p>
-            <p>
+               males or females who insult women. In the Ivory Coast
+            <note>
                *Tribal and peasant societies, with a nonmechanized technology, and with much social and political life centered on a kin group consisting of
                many generations connected by blood or marriage ties, not partaking indigenously of the Western cultural or economic tradition.
-               119</p>
-            <p>
-               This content downloaded from
-               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UT.
-               All use subject to https://about.jstor.org/terms</p>
-            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_123.jpg" n="123" xml:id="img_0123"/>
-            <p>
-               Woman dancer of the Bundu society wearing commissioned helmet mask.</p>
-            <p>
+               119</note>
+
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_123.jpg" n="120" xml:id="img_0123"/>
+            <caption>
+               Woman dancer of the Bundu society wearing commissioned helmet mask.</caption>
+            <caption>
                Woman from Hupa (north California) tribe in typical dress embellished
-               with sea shells. Credit: Smithsonian</p>
-            <p>
+               with sea shells. Credit: Smithsonian</caption>
+            <caption>
                Fulani woman (the western Sudan) wearing traditional hair style.
-               ﻿120</p>
-            <p>
+               ﻿120</caption>
+            
                Senufo women commission carvings for use in their
                divination society, the Sandogo.“ Women’s divination is
                considered essential to determining outcomes of important
@@ -14977,15 +14978,15 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                African cultures in which power was wielded jointly by
                female and male sovereigns, art work was commissioned
                by both, but we do not know in what ways it represented
-               the female aspects of power.
-               Besides commissioned objects, women use dance to
+               the female aspects of power.</p>
+               <p>Besides commissioned objects, women use dance to
                affirm their authority. Among the Kom and other groups
                in the Cameroons women participate in a disciplinary
                performance called anlu, if a parent or pregnant woman is
                insulted or beaten or an old woman abused, if incest
                occurs, or when the women of the village want to use
-               discipline against men.
-               “Anlu is started off by a woman who doubles up in an
+               discipline against men.</p>
+               <quote>“Anlu is started off by a woman who doubles up in an
                awful position and gives out a high-pitched shrill,
                breaking it by beating on the lips with the four
                fingers. Any woman recognizing the sound does the
@@ -14999,13 +15000,14 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                appointed time, donned in vines, with painted faces,
                to carry out the full ritual . . . Vulgar parts of the
                body are exhibited as the chant rises in weird depth
-               ... [Account by Kom man).
-               During the Aba riots of 1921 when 10,000 Ibo women
+               ... [Account by Kom man].5</quote>
+               <p>During the Aba riots of 1921 when 10,000 Ibo women
                demonstrated against the British, their final, most
                powerful show of force was a performance like anlu. In
                what other instances do women’s arts of authority exist
-               and what forms do they take?
-               PERSONAL DECORATION</p>
+               and what forms do they take?</p>
+</div>
+               <head><title>PERSONAL DECORATION</title></head>
             <p>
                In many cultures personal ornamentation, perhaps more
                than any other art form, provides the basis for a complex
@@ -15022,31 +15024,29 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                appease ancestors, bring good luck and represent the heart
                and love itself.“ Because societies like these do not use
                writing, such codifications of messages are especially
-               significant.
-               Excessive neck lengthening, knocking out of teeth,
+               significant.</p>
+               <p>Excessive neck lengthening, knocking out of teeth,
                amputation of fingers, wearing of multiple weighty
                anklets, necklaces and bracelets, footbinding and clitoral
                and labial excisions are all done in the name of beauty
                Why is women’s personal decoration apparently more
                extreme than that of men of their cultures, and why do
-               women s clothing and jewelry so often seem to hinder their</p>
-            <p>
-               This content downloaded from
-               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
-               All use subject to https://about.jstor.org/terms</p>
-            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_124.jpg" n="124" xml:id="img_0124"/>
-            <p/>
-            <p/>
-            <p>
+               women s clothing and jewelry so often seem to hinder their
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_124.jpg" n="121" xml:id="img_0124"/>
+
+            <caption>
                Women’s wall murals in South Africa combine archaic and modern tech
                niques. This work portrays the village of the artist, a Ndebele woman
-               Kulele Mohlangu. Credit: Thomas Matthews, African Arts
+               Kulele Mohlangu. Credit: Thomas Matthews, African Arts</caption>
+               
                mobility? To what extent is personal decoration an
                expression of self-identification and to what extent is it a
                sign of women’s being property and a reinforcement of
-               women’s inferior status?
-               THE UTILITARIAN ARTS
-               Although frequently centered in the home, women’s
+               women’s inferior status?</p></div>
+<div>               
+   <head><title>THE UTILITARIAN ARTS</title></head>
+               <p>Although frequently centered in the home, women’s
                utilitarian arts form a fundamental and pervasive part of
                the public visual aesthetic. Women create a visual enviror
                ment by the arrangement and cleanliness of their tents or
@@ -15059,8 +15059,8 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                there is little analysis of them or of the status of the women
                who make them. Why has the impact of women’s art on
                their cultures been so neglected by scholars when it plays
-               such a pervasive role in people’s lives?
-               Women’s traditional art has received little attention from
+               such a pervasive role in people’s lives?</p>
+               <p>Women’s traditional art has received little attention from
                Western writers not only because it is utilitarian but
                because it is almost always abstract. Neither the iconog-
                raphy, the formal structure nor the symbolism of women’s
@@ -15072,8 +15072,8 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                designs have no meaning is directly related to the idea that
                traditional women artists are not creative. How do women’s
                choices of image and pattern reflect their traditions, their
-               own inventiveness and concerns of their society?
-               In traditional societies men as well as women produce
+               own inventiveness and concerns of their society?</p>
+               <p>In traditional societies men as well as women produce
                utilitarian art. Yet even when they work with the same
                materials their form, content and technique differ markedly
                (for example, Plain buffalo-skin robe designs and the loom
@@ -15083,15 +15083,17 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                planations, often ignoring the impact of historical events,
                such as colonialism and the introduction of foreign
                technologies.</p>
-            <p>
+            <caption>
                Detail, Bokolanfini cloth. Resist-printed by painting negative areas with
                mud and decorated with motifs representing a nineteenth-century battle.
                The cross represents a Mauritanian woman’s cushion, which symbolizes no
-               bility. Credit: Marli Shamir</p>
-            <p>
-               FEMALE MUSICIANS, BARDS AND
-               SINGERS
-               Musical instruments are frequently particular to one sex or
+               bility. Credit: Marli Shamir</caption>
+
+</div>
+         <div>
+            
+               <head><title>FEMALE MUSICIANS, BARDS AND SINGERS</title></head>
+               <p>Musical instruments are frequently particular to one sex or
                the other. Among the ! Kung of the Kalahari Desert men
                play hunting bows, with one end placed in their mouths.
                Adolescent girls play the pluriarch, the “women’s” instru-
@@ -15104,15 +15106,15 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                their own hand clapping. Men can join the women’s dance
                although women cannot join that of men. How do musica
                instruments and musical performances by women reflect
-               their roles and status in other spheres?
-               Through their lullabies women’s song universally pro-
+               their roles and status in other spheres?</p>
+               <p>Through their lullabies women’s song universally pro-
                vides the earliest environment in which children develop
                language and musical sensibilities. When women work and
                perform rituals together and for each other, song and
                dance play an important part, but have rarely been record-
                ed. The songs’ explicit erotic content (often satiric and
-               bantering) may have militated against fuller description.
-               Where women have major economic and social roles, as
+               bantering) may have militated against fuller description.</p>
+               <p>Where women have major economic and social roles, as
                in tropical Africa, women s participation and leadership in
                public song and dance performance is traditional.? In other
                cultures where the sexual spheres are more clearly hierar
@@ -15123,8 +15125,8 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                rior. All other songs are called women s songs and are
                usually sung in groups by women, children or men: by
                describing suffering and everyday reality, they reveal
-               women’s skepticism and resistance to the heroic ideal.10
-               In many agrarian cultures when women sing alone
+               women’s skepticism and resistance to the heroic ideal.10</p>
+               <p>In many agrarian cultures when women sing alone
                before a public audience they are considered prostitutes. A
                respectable woman is therefore restricted in her public
                activities.1 Nomadic Arabic desert cultures, however, en-
@@ -15141,21 +15143,15 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                formances a commentary on their culture’s history; and in
                what contexts do women articulate their own history,
                myths and opinions through dance and song!</p>
-            <p>
-               This content downloaded from
-               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
-               All use subject to https://about.jstor.org/term</p>
-            <p>
-               121</p>
-            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_125.jpg" n="125" xml:id="img_0125"/>
-            <p>
-               WOMEN’S ART AND
-               CULTURAL CHANGE</p>
-            <p>
+
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_125.jpg" n="122" xml:id="img_0125"/>
+            
+            <caption>
                Osage ribbon-work blanket. The hand motif may have represented family
-               members, or perhaps it had a more mystical meaning.</p>
-            <p>
-               WOMEN ARTISTS’ COMMUNITIES</p>
+               members, or perhaps it had a more mystical meaning.</caption>
+         </div>
+         <div>
+            <head><title>WOMEN ARTISTS’ COMMUNITIES</title></head>
             <p>
                Traditional women artists work in groups either by col-
                laborating on one object (such as the long tapa cloths of
@@ -15168,21 +15164,23 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                recognized and acknowledged among these women, their
                artmaking is not highly competitive. In the village of
                Ushafa, Nigeria, women who “make the best ware only
-               make special pots when commissioned to do so .
+               make special pots when commissioned to do so ...
                otherwise, their pots are made to be indistinguishable from
                the rest.”13 How do women artists interact and criticize
                each other’s work in traditional societies, and do their
-               communities differ from those of men artists?
-               Since colonialism, commissions by traders who deal in
+               communities differ from those of men artists?</p>
+               <p>Since colonialism, commissions by traders who deal in
                traditional artifacts have tended to isolate experts from the
                other artists. Modern governments, by creating new
                training centers for the unskilled, have usurped the tradi
                tional roles of the experts. How does the alteration of their
                artistic communities affect women s art and status in their
                cultures?</p>
-            <p>
+            <caption>
                Contemporary female bard of the Baggara of the southern Sudan Republic.
-               Credit: R. C. Carlisle</p>
+               Credit: R. C. Carlisle</caption></div>
+         
+  <div>          <head><title>WOMEN’S ART AND CULTURAL CHANGE</title></head>
             <p>
                With the introduction of new materials, the substitution of
                imported objects and the influence of new images.
@@ -15248,10 +15246,8 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                occurred? What changes in quality and meaning take
                place when women artists use new materials and begin to
                produce art for unfamiliar buyers? With the expansion of</p>
-            <p>
-               This content downloaded fron
-               134.82.70.63 on Sat,f:ffff on Thu, 01 Jan 1976 12:34:56 UTC
-               All use subject to https://about.jstor.org/terms</p>
+  </div>
+            
             <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_126.jpg" n="126" xml:id="img_0126"/>
             <p>
                Cuna women dancing. The molas which serve as panels on their blouses are
@@ -15352,10 +15348,11 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                Elizabeth Weatherford is a cultural anthropologist teaching at the School of Visual Arts
                in New York City.
                123</p>
-            <p>
-               This content downloaded from
-               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UT(
-               All use subject to https://about.jstor.org/terms</p>
+</div>
+            
+            //////
+
+
             <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_127.jpg" n="127" xml:id="img_0127"/>
             <p>
                BIBLIOGRAPHY
