@@ -956,7 +956,7 @@ div persName,
 div placeName,
 div orgName,
 div title {
-    font-style: italic;
+    color: #336699;
 }
 principal {
     display: block;
@@ -1206,6 +1206,7 @@ time {
 }
 title {
     display: inline;
+    font-style: italic;
 }
 title[type = "subtitle"] {
     display: block;
