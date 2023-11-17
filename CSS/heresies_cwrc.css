@@ -1206,7 +1206,6 @@ time {
 }
 title {
     display: inline;
-    font-style: italic;
 }
 title[type = "subtitle"] {
     display: block;
