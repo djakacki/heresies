@@ -1,0 +1,1966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conversations &amp; Reminiscences</title>
+            <author>Multiple</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb
+               facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_075.jpg"
+               n="72" xml:id="img_0075"/>
+
+            <head>CONVERSATIONS &amp; REMINISCENCES</head>
+            <p> One function of the artist in modern Western culture has been to seek out the
+               despised, rejected or totally overlooked visual objects in her environment and dis-
+               cover and reevaluate her aesthetics.</p>
+            <p>In an issue devoted to Women’s Traditional Arts, it seemed essential to me to
+               seriously reexamine those women who never stopped creating, though their work is
+               often bypassed by liberated women artists who have turned away from the trappings of
+               their fe- male environment and past.</p>
+            <p>The following letter was sent to many women all over the United States. Here are some
+               of the replies.</p>
+            <quote> Dear<lb/> The fourth issue of Heresies Magazine is entirely devoted to womens
+               traditional arts. we know you are a highly skilled craftswoman. we would be very
+               pleased if you would allow a taped interviey to be made where you could talk about
+               your craft, How you learned it, who you learned it from, to whom you have taught it,
+               and how , and what it means to you, are some of the questions we are interested in.
+               We hope you will demonstrate your craft and allow it to be documented by a
+                  photographer.<persName>Martha Edelheit</persName></quote>
+            <div>
+
+
+               <head>CONVERSATIONS</head>
+               <head>THREE CONVERSATIONS</head>
+               <byline>by Sylvia Kolbowski, Judy Silberstein, Jean Wagner, IDAWRIGHT</byline>
+
+               <head>IDA WRIGHT</head>
+               <p>These raspberry leaves are very, very good . . . if you are going to have a child
+                  it’s best to start drinking raspberry tea three months before you give birth and 1
+                  was brought up that a gypsy woman could have her child, wash it in a mud puddle
+                  and walk off, and one of the reasons was they drank raspberry tea and had a very
+                  easy labor. The Indian women did the same.</p>
+               <p>I grew up in Vermont, just across the river. My grandfather came down from Canada;
+                  he was Indian so we used a lot of these things (medicinal and wild edible plants)
+                  at home always. My mother used some of these things in cooking, during the
+                  depression years. My father didn’t have work then so we used a lot of these
+                  things; some of them, for my mother, the first time. My mother’s ancestry was
+                  English and she just had never had much chance to learn these things. I learned it
+                  mainly from dad and his sister.</p>
+               <p>I always had a great interest in flowers and what was this and what was that, and
+                  1 can’t remember when I didn’t have a guide of some kind. 1 was encouraged to look
+                  things up by myself as well as being told what they were. When I was 11 I went and
+                  lived with my grandfather’s half-sister and her husband and they tried to take the
+                  Indian out of me, but they couldn’t do it. They really encouraged me to learn the
+                  names of plants. But they used to scold because 1 had a bunch of flowers in one
+                  hand and a rock in the other most of the time and they were trying to civilize me.
+                  But they didn’t. I often wonder now what they really would think to know that l’m
+                  teaching the things that they tried to break me of the habits of using. In fact
+                  they knew 1 wanted to teach when 1 got out of high school, but they didn’t believe
+                  in borrowing money so you could go on to school. So l got married and started my
+                  own kindergarten—we had six kids that lived, we had ten children. My husband
+                  wanted 12; I would have stopped at two. After my second child was born, a breech
+                  birth, the doctor said, “You’d better not have any more children for a while, I
+                  told my husband. He said, “Huh, my mother had 13, you can have more than two;” so
+                  1 had ten. A lot of people say how did you raise such healthy children? When we
+                  were on the farm we never had more than 85,000 a year for years, most of their
+                  growing-up years. Five or six, seven thousand at the most would take care of the
+                  cattle and the family. I tell them, I brought them up on dandelions and venison,
+                  what do you think?</p>
+               <p>I’ve taught some of my children about plants. l’ve got daughters- in-law that
+                  listen, but don’t quite believe. My husband used to say. “I wouldn’t eat that, it
+                  might be poisonous.” I’d say, “What did you eat for supper tonight? “I don’t know,
+                  somethin’, whatevever you put on the table.” I’d say, “Well, you just ate it; have
+                  you died?” He’s beginning now not to talk that way. It was a long time now, but
+                  for years he’d been eating these things and I just didn’t talk about what I put on
+                  the table. Then I began teaching a college course, and he began saying, “Oh, I
+                  didn’t know about that.” I was ever so happy when college came nearby and 1 could
+                  go to school; l’d always wanted to. 1 got my diploma when I was 49. I was de-
+                  termined I was going to get it before I was 50. I made it.</p>
+               <p>I do all the canning by myself now. I taught my daughters to can. Yes, it is a lot
+                  of work, but l’ve done it so many years that 1 wouldn’t know what it’d be like to
+                  have a summer vacation and do nothing. I would feel all the time that I should be
+                  putting away things for the winter. During the time I had polio I never knew that
+                  it had been discussed, but I just was told in my hospital bed that welfare was
+                  going to give money to help feed my children. They evi- dently had not asked
+                  because I had 500 quarts of canned goods for my family to use.</p>
+               <p>Until recently I thought everybody knew something about some of these wild plants.
+                  l’ve always lived in the country and people around me always were using things
+                  like dandelions, marsh mari- golds and milkweed. There’s so many things, and just
+                  never time enough, nor hands enough in my life. This summer l’ve had the best time
+                  because I did have someone who could drive, who was willing to take me wherever 1
+                  wanted to go. There’s so much still undone.</p>
+            </div>
+            <div>
+               <pb
+                  facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_076.jpg"
+                  n="73" xml:id="img_0076"/>
+
+               <head>DORA SCHOCHET</head>
+               <p>I was born in Bialystok. That was Russia then, now it’s Poland. I’m 47 years here,
+                  and I came here I was 26, 27. I came on Thanks- giving day; the boat came here on
+                  Kosciusko. It docked, I went right to the turkey. It was already different times
+                  when 1 came here. Times weren’t good. My two girls were born. 1 had a lot of time
+                  in Europe. I never worked in my life. 1 was not a millionaire’s daugh- ter, but a
+                  comfortable parents’ daughter. This work was having friends, going out. In Europe
+                  a girl is not working. Only boys, and boys are in the business or going to school.
+                  When 1 started to go to school, first I learned Yiddish, then I went to public
+                  school; it was Russian. When the Germans came in, I learned German. Then the
+                  Polish came in; you changed for Polish. And then I was married. I came to this
+                  country; 1 went a little school here, and that’s it. Now it’s a dream, what it
+                  was. We were girls thinking of good times. My mother always wanted 1 should go to
+                  school and learn how to sew, but I never went. I learned it all myself. When I
+                  became of age, 10 or 12, she bought a machine and said, “You must sew on a
+                  machine, because I could never do it.” We used to wash the whole week. Before
+                  washing, you had to fix things, darn things, iron things, but my mother, she
+                  didn’t know how. So my mother always thought 1 should know a little. She always
+                  wanted me to go to a dressmaker and she will pay to teach me, but 1 never wanted.
+                  I did things that I like to do myself. Maybe I was 12 or 13, I started. I was
+                  making my embroidery for myself, for my children. My mother told me it was to
+                  prepare for marriage. You always prepare. That’s why I thought to make so many
+                  things. I thought for children, and I didn’t think of selling it. Oh no, I would
+                  never let Babe sell them. Not selling. She can give to her daughter.</p>
+               <p>The colors I always did on my own. 1 chose the pictures to my taste. Things that I
+                  felt, flowers, faces, lots of curls. You like green, Ilike blue. I didn’t make the
+                  designs. I used to buy them, like a pat tern, and we used to trace them. This was
+                  so beautiful when it was done, like a picture of angels. After all, angels should
+                  be naked, but how could you have a picture with naked angels. Here was white, here
+                  was pinkish satin; this was white wool, like a bear on a floor. Satin like a
+                  curtain. This was apple green silk; real silk, beautiful silk. It’s not such a
+                  nice face one of them, because angels should really have nicer faces than that,
+                  but that was the pattern, and 1 couldn’t do any other way, because 1 wasn’t to
+                  change the painting. You see, I criticize my own work. Change it? I could not do
+                  it. I only could embroider. This has to be done this way, according to the design:
+                  some smaller stitches, some longer. Some day 1l’Il wash it, like in Woolite; I’Il
+                  iron it, and I’Il frame it in nonglare glass.</p>
+               <p>When I came to this country you know I had a lot of stuff. We didn’t have
+                  television, only a gramophone, then later on, we had maybe a radio. In my house my
+                  girlfriends and 1 used to get to- gether. So we did work; all day long the young
+                  women, the elderly women . . . We came here; a friend of mine gave me a lot of
+                  stuff to sell for money; but nobody wanted to look at it. So 1 packed it and sent
+                  it back. I kept mine, put it away, packed and unpacked, put it away, air it out,
+                  put it away again, air it out and put it away again. I made everything to be used.
+                  Definite, I thought. When I was here and nobody wanted to look at it, 1 was very
+                  much disappointed. I worked so hard. That’s why I stopped to do it here. Look, I
+                  could not even give for a gift what I made. They made fun of it. Sure 1 thought it
+                  was art. I thought it something worthwhile to do it. In Europe handwork was very
+                  much important.</p>
+               <p>I’m married 55 years, so I could write a book with a lot of trouble. When I
+                  started embroidering I didn’t have any trouble. I did it for pleasure. I didn’t
+                  think of it as a career. Maybe if I was to live now, if I would be as young as
+                  you, I wouldn’t want to be a housewife, be- cause, let’s face the facts, it’s a
+                  waste of time. It’s not appreciated, if you like. Keep on being what you want to
+                  be, be successful. I ad- mire women that’s going to work now. I say, it’s really
+                  lovely that my daughter Evelyn goes to work. She’s a person, she s somebody.</p>
+            </div>
+            <div>
+               <head>GEORGINA GARCIA</head>
+               <p> What I do is embroider. This is the kind of embroidery I do at work—it’s called
+                  cross-stitch. It’s a sample for a blouse to see if the color is all right. Here in
+                  New York is where most of this kind of em- broidery is done. l’m the
+                  “sample-maker. Let’s suppose that you’re a customer, you come to see it, you like
+                  it and you order three or four thousand dozen to be made for you. Then that order
+                  goes to the embroidery machines and while I can embroider one piece. those
+                  machines can produce 250 pieces. There are a few women who are watchers, who for
+                  example put the cloth on the frames and take care of the machines, but they’re
+                  almost always men. Five or six girls work on each frame; there are helpers there
+                  also to change the thread, to mark where the embroidery goes. No one actually
+                  draws. The machine works on a key punch. It’s beautiful, the embroidery problem. I
+                  love it; it’s beautiful. The “sample-makers” are always women. My work is always
+                  done by machine, but there are companies that do hand embroidery —like the
+                  sweaters that are embroidered by hand. The company I work for has 14 women who
+                  work in their houses because they have children. In one hour, I can do both
+                  flowers. You have to keep counting the stitches continually or else you’re lost,
+                  the flower loses its shape completely. You have to have a lot of patience. When
+                  you do the first one it always takes longer, but l’ve had so much prac-</p>
+               <p> tice; by the time you do the second or third it’s much easier. I taught myself
+                  how to embroider in Cuba. In my house, as in practically every other house in
+                  tropical countries, there was a sew- ing machine, a Singer. But, as a young girl I
+                  liked to embroider so much that I embroidered sheets. Before I got married I made
+                  my whole trousseau. Completely. 1 used to get my designs from people who 1 saw
+                  embroider, and used to see the designs in magazines. I have a dress I made when I
+                  was 17 years old; I made the whole yoke by hand. I saw the style somewhere, then 1
+                  planned out the pattern myself. My mother, she didn’t embroider but she sewed.
+                  Look, my two sisters work as duplicate makers in dress factories and they do well.
+                  They went to school in Cuba for two years and got their degrees in sewing. In Cuba
+                  there was no remedy, if you were from the poor classes, but to learn to sew or
+                  embroider. I lived in a rural town in the Las Villas province. The first job I had
+                  when I came to this country was making wedding veils. For one year I sewed on the
+                  crowns by hand. After that job I did part-time embroidery because I wasn’t
+                  practiced enough on the electric machines. In Cuba you have to use a foot pedal.
+                  Then I stopped doing the embroidery that I had done for myself because they paid
+                  me more for doing something that I liked. When you go out for work you have to be
+                  practical and leave <pb
+                     facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_077.jpg"
+                     n="74" xml:id="img_0077"/> behind. . . . I don’t have a chance any more to do
+                  work for my house. Just think, I work at the company for seven hours. Those who
+                  embroider get left without their sight. You can’t do this work for many years
+                  without losing your sight. Everyday that passes l’m left with less sight. After I
+                  come home I work for another four hours. I start at about 6:30 and it’s 10:30 and
+                  l’m still sitting at that machine. Tired. Dead, dead, dead, tired, tired. But I
+                  need it. I’m paying for my daughter’s college. On Saturdays I work at home till
+                  about three or four. And if I don’t finish then I finish Sunday morn- ing. They
+                  pay me by the hour.</p>
+               <p>There s no difference at all between the work I used to do for myself and the work
+                  I do now. I think it’s art. Because not everybody can do it. In my company l’ve
+                  brought out three or four stitches that they didn’t know. I’ve seen them in the
+                  beautiful embroid- eries that come from Switzerland that are done on special
+                  machines. I put myself to it and figured out the stitches. Because I love it. I
+                  can’t explain it, I was born with it. More than any kind of embroid- ery I like
+                  doing the work 1 do now. I don’t work for the money alone. I need to work, because
+                  no one works unless they have to, but when 1 make something 1 put all my
+                  concentration on the job. I do everything 1 can to see that the work comes out
+                  pretty. And when it doesn’t come out good 1 take it out and embroider it again. 1
+                  love my work, that’s the truth. 1 mean look at that picture, 1 was 17 and I
+                  already knew how to sew with ease.</p>
+
+            </div>
+
+
+            <div>
+               <head>EDNA C. MILLER</head>
+               <byline>by Nancy Davidson</byline>
+
+               <p> Edna C. Miller is a member of the Amish Community, Arthur, Illinois. Age 53, she
+                  has nine children—five girls and four boys (age. 9-30). A widow, she supports her
+                  family by running a restaurant in her home; her traditional craft is cooking. Edna
+                  Miller would not allow her photograph to be taken.“Thou shalt not make unto thee a
+                  graven image . . . was given as justification. The passage from Exodus. </p>
+
+
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>How did you learn to cook?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab> Handed down from my mother. Of course, my mother died when I was 11 so I used
+                     to work out” for other people until I was married, so I picked up some of it
+                     from them.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Are your recipes written or oral?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>Well, like our young girls, they will want a recipe to go by where we do a lot
+                     of ours from scratch.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Who helps prepare the meals?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>My girls; they can cook just as good as I can.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Do your boys ever help?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>My oldest boy will help serve and my 14-year-old boy does the dishes.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Is that unusual?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>He wouldn’t, not if we weren’t serving meals, l’ve got enough girls, he
+                     wouldn’t help with the dishes. I let the children have the tips.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Do you refer to people that are not Amish as “the English”</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>We just didn’t have another name.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>I was thinking about being American.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>Oh yes, we are too, aren’t we? That’s true. We all are.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Are most of the people that come to your restaurant Amish or “English”</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>"English" people.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>When you were a girl, what kinds of chores were you expected to do?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>Everything on the farm. Milking, feed the chickens, feed the calves, anything
+                     there was.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Is there a difference for your daughters?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>I’ve often told them they are lucky they don’t have to work like I used to.
+                     No, they don’t have as many chores. They even complain about feeding the
+                     chickens.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Does having a restaurant change any of the duties that your daughters have or
+                     any of the work you might expect them to do?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>If they didn’t work in the restaurant they would have to have a job someplace
+                     else. This is our way of living.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>What kinds of things do your daughters do when they "work out."</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>I have one who works in a cabinet shop, the others just do housework.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Is the daughter who works in the cabinet shop learning that craft so that she
+                     will eventually become a cabinetmaker?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>I don’t know. It’s not usually that a girl will—men do. We’ve got several
+                     cabinet shops around here. But she knows how. She does the framing with the
+                     cabinets and then she also does the bookwork.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>You have raised your children for eight years by yourself. Do you get help
+                     from others?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>Oh yes, there has been. I have lots of brothers and sisters, they help and of
+                     course my husband’s side, they do too.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Do you come from a large family!</ab>
+               </sp>
+
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>Yes, there were 19. See my mother died when I was 11 and my father married
+                     again. There were ten children from my mother and nine from my stepmother. So
+                     there’s quite a get together.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Do many women in the Amish community have their own businesses?</ab>
+               </sp>
+
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>Oh, there’s usually, a widow will try to have something for a living, there’s
+                     like cloth stores, just this and that. Some do baking, so we just started in
+                     with this. We enjoy it, people are nice and we get lots of compliments on our
+                     dinners. And we enjoyed it until the Health Department came in and we were
+                     closed for a month, now my business is really hurt.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Why did the Health Department close the restaurant?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>They said people were getting sick. But I couldn’t get any names. We had seven
+                     different inspectors, but it kind of died down and some people are coming
+                     back.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Have you had any interesting experiences with “the English” people who eat in
+                     your restaurant?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>We get tickled at some of the remarks we hear, like “real cow cream” and you
+                     know someone even mentioned Amish water and, well, there isn’t such a thing.
+                     Just, well, you know, they think we re so different when really we re just
+                     people the same as they are.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>Do you find it difficult without a husband to deal with discipline?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>Well, T’ve always felt the father can do more with them than the mother, which
+                     is right, the father should be the head of the home. It is hard for me to do it
+                     alone.</ab>
+               </sp>
+
+               <sp>
+                  <speaker>NANCY:</speaker>
+                  <ab>How do you think it’s changed you?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>EDNA:</speaker>
+                  <ab>I don’t know, I think maybe stronger. I know I used to just cry if things
+                     didn’t go right, but I can’t do that all the time.</ab>
+               </sp>
+            </div>
+
+            <div>
+               <pb
+                  facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_078.jpg"
+                  n="78" xml:id="img_0078"/>
+               <head><title>My Father’s Brother’s Wife’s Mother</title></head>
+               <byline>by Hannah Wilke</byline>
+               <p> Mrs. Dora Bund, 86 years old, is my aunt’s mother. Earlier this year, I visited
+                  her in the hospital where 1 conducted this interview. She has a heart condition.
+                  Also present were Mrs. Bund’s daughter, Beatrice Butter (Beaty), her
+                  daughter-in-law, Marcia Bund, and my mother, Selma Butter.</p>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>I saw the blanket you made for my mother. How do you make them and why.</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>You want in Yiddish or in English...</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>Ich can nich sprechen Yiddish. English, please.</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>I make them. It’s my work . . . I have to do something.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>You never made the blankets until about six years.</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>No. It cost too much money. Then my grandson-in-law gave me the wool. For the
+                     great-grandchildren 1 got blankets. Every birthday I make blankets. Before I
+                     must make money. I sew dresses. Then I stopped sewing, start this.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>So, when you were 80, you stopped working and started to make the
+                     blankets.</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>Even in the nighttime, l’m sick and I can’t sleep. I take my work and sit in
+                     the bed, till l’m tired. I make the rule, I knit. When I was ten years old I
+                     start to sew. Europe is not like over here. Was in school three hours a day,
+                     and I only worked to do something. One day my mother looked for me in the whole
+                     park. She can’t find me. I was with the dressmaker. When it was night- time 1
+                     came home. Everybody asked me where 1 was. And I say, 1 want to sew. 1 don’t
+                     want to go to school. So my mother went to this dressmaker and say, all right,
+                     she learn to sew, only she must go two hours to school. My mother paid this
+                     lady three dollars for two years to teach me to sew. When the two years finish,
+                     I say, this is the last day 1 be over here. The dressmaker tell me, you owe me
+                     ten days because you were in shul one day, you were sick one day . . . After
+                     that 1 got a different dressmaker. She gave me 815 for two years. Thirty cents
+                     a week. I was 14, 15 years old. Must be there all day. Come eight o’clock till
+                     eight o’clock. Was a strike. Must be union. And the strike was finished, we
+                     worked from eight to five, from nine to six. One dressmaker take me for a
+                     dollar a week. I was 16. I work for this woman not too long. My family had a
+                     big house then. One dressmaker came by and said to my father and mother, she
+                     pay 815 a year rent to put her machine in their window. She said, maybe you
+                     would buy a machine and I be partners with you. My father go right away and
+                     bought me a new machine for 850. And I stop that othei work. 1 was very small.
+                     When the people come and I take measure, 1 can’t reach them. My father was a
+                     carpenter. He make me a bench to step up. When I married I got three machines.
+                     Four girls work for me.</ab>
+               </sp>
+               <sp>
+                  <speaker>SELMA:</speaker>
+                  <ab>I remember you saying you buried your children in a trench during the First
+                     World War.</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>My husband was in war. In Poland. After the Germans come in my country.
+                     Thirty-six people there was in a trench. Others covered us up. It was a day and
+                     a night. In the morning about six o clock the people came and say, come in, the
+                     Germans is here! We was three years with the Germans. When my husband came from
+                     the war it was four years already.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>And you were still a dressmaker?</ab>
+               </sp>
+
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>What kind of dressmaker? Nobody got even to eat. I give up a machine for the
+                     bread.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>When did you come here?</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>1922.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>Did you open the store immediately?</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>No. Right away I bought a machine. In the house. Because I got two small
+                     children.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>Your husband was with you too?</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>We come together. My husband come in America when he was 16 years old. Till
+                     20. He had to leave America to go back to be a soldier. Then we married. Six
+                     months after we married, broke out the war and he had to go back. Only my
+                     husband became a sick man from the war. He was all life sick. Over here you
+                     come soldier from the war, is sick, is got benefits. In my country nobody can
+                     get nothing.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>At 60 you opened up the business because your hus- band couldn’t work any
+                     more.</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab> My husband was 15 years in the house. I come to the store and I sewing dolls.
+                     I sew kitchen curtains. All day I was in the store, and at nighttime. People
+                     still now got curtains. Never 1 use a pattern. Now I can’t even take the needle
+                     in the finger.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>Now you have arthritis, but you can knit?</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>To knit I can put the needle in there. But even sewing a button I get stuck in
+                     the finger.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>Which do you like better?</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>I like to be finished already. What can I like now, tell me? Where is going I
+                     must go. I got a grandfather. He say, when time is come, he get a summons, he
+                     go to court. When is come for me, must go to court. When my grandfather lived,
+                     he say will come a time when will be no walking. People will be flying. And
+                     when my papa and grandfather lived was not even taxes and bills.</ab>
+               </sp>
+               <sp>
+                  <speaker>BEATY:</speaker>
+                  <ab>No taxis and automobiles.</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>I was 15, 16 years old when my grandfather died. We lived together. My
+                     grandfather tells my grandmother to go buy a kerchief. I make the hems and he
+                     gives me two cents. You be good, this window be for your machine. When he is
+                     die, I push right away the machine in this window.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>So if you put the machine in the window you were a seamstress. It would be
+                     like a sign on the door. And when your grandfather died, you knew it was the
+                     time.</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>My grandfather was a baker. He baked bread. My grandfather was rich. My
+                     grandfather maybe got 12 children. Al- ways die. Small babies, babies, babies
+                     die. Only one children. One dog. Before when I was occupied I forgot. Now is
+                     come back.</ab>
+               </sp>
+               <sp>
+                  <speaker>BEATY:</speaker>
+                  <ab>She is the only one left.</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>Nobody. Only my aunt, was my father’s sister, was come over here.</ab>
+               </sp>
+               <sp>
+                  <speaker>BEATY:</speaker>
+                  <ab>At home she (Dora) did a little dressmaking. Like when I was a teenager. We
+                     would take a walk on Clinton Street and I would tell her 1 like the neck of
+                     this and this sleeves of this, and she would make it. She used to holler at me
+                     because I cried if it didn’t look so good, while she was working. And she would
+                     say, to a fool you don’t show half labor. I always had original dresses. She
+                     never worked with a pattern. She should have been a designer in a big place
+                     with ideas.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>Do you call them blankets or art works?</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>I say this is a blanket I make.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>And you made that up yourself, the idea of stripes and squares.</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>Yeh. Yeh. With stripes, each is a different color, different shape, different
+                     size. I sew together and put border around. Make squares is two times as hard
+                     as other. Each strip got maybe ten squares, eight inches by eight inches. Each
+                     square different design. Make strip 80 inches, then more strips and sew
+                     together.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>How long do you take?</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>I make this in four, five weeks. </ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>You like to make objects that are useful?</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>I don’t know. I make. I say, you like it, take it.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>Did you keep any for yourself!</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>I got for myself two. I make over a hundred.</ab>
+               </sp>
+               <sp>
+                  <speaker>BEATY:</speaker>
+                  <ab>A toaster cover she made, a hassock cover . ..</ab>
+               </sp>
+
+
+               <pb
+                  facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_079.jpg"
+                  n="79" xml:id="img_0079"/>
+
+               <sp>
+                  <speaker>MARCIA:</speaker>
+                  <ab>The cover for my rotisserie. The whole house.</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>A couch I covered.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>So you are covering all the ugly stuff.</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>I never want to be rich. Was satisfied with what I got Because when I married
+                     I was rich. Paper money is no good money. Still have money from Poland. Got a
+                     big house. Lose house because the money worth nothing. When the soldiers came
+                     they take away everything. Even Beaty was a baby, got shoes, take away shoes. I
+                     got when I was married two dozen shirts. Everything embroidered. The soldiers
+                     took away. This night they kill four people, because the people don’t give
+                     them. 1 say, take. Is come, the knives was like this. You scream, you see, you
+                     must be shot.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>So you were lucky you had something to give them,</ab>
+               </sp>
+               <sp>
+                  <speaker>DORA:</speaker>
+                  <ab>Take away everything. Wasn’t rich wasn’t nothing.</ab>
+               </sp>
+               <sp>
+                  <speaker>HANNAH:</speaker>
+                  <ab>Real barter has nothing to do with money. It has to do with survival. We all
+                     have our own ways to survive.</ab>
+               </sp>
+               <p> Hannah Wilke is a woman-person-artist who has exhibited at museums around the
+                  country and is affiliated with Ronald Feldman Gallery in N.Y.C., Margo Leavin
+                  Gallery in Los Angeles and Marian Deson Gallery in Chicago.</p>
+            </div>
+            <div>
+               <head><title>SARAH MANDELL and ENID ALJOE</title></head>
+               <byline>by Judith Henry and Dee Shapiro</byline>
+
+               <p> Sarah Mandell doing needle wor</p>
+               <p> Sarah Mandell and Enid Aljoe with collaborative piece</p>
+               <p> Sarah Mandell, grandmother of Dee Shapiro, is 84 years old, Jewish, born in
+                  Russia. For the past 13 years she has been living with her daughter. Enid Aljoe is
+                  55 years old, born in Jamaica, West Indies. She has been the housekeeper in Dee’s
+                  mother’s house hold for 23 years.</p>
+
+               <sp>
+                  <speaker>DEE:</speaker>
+                  <ab>Where did you learn to sew, Grandma?</ab>
+               </sp>
+               <sp>
+                  <speaker>SARAH:</speaker>
+                  <ab>In Europe they had no school. They just had someone to teach the children how
+                     to work so they could work for nothing. If a woman had a house and was getting
+                     work from the neighbors, shirts or blouses, so she took a couple of young girls
+                     and taught them how to sew—meanwhile, they were sewing for her the things, and
+                     when they knew enough most of them went to America and went into the factories
+                     and worked on shirts and blouses. That was all they knew, and those who didn’t
+                     know went into domestic work. I was 12 years old in London, I went to school
+                     but one of my mother’s friends showed me how to sew buttons on. When 1 came
+                     here 1 went to the factory and sewed buttons.</ab>
+               </sp>
+               <sp>
+                  <speaker>DEE:</speaker>
+                  <ab>How many years did you work there?</ab>
+               </sp>
+               <sp>
+                  <speaker>SARAH:</speaker>
+                  <ab>Not long, I got married. After 25 years I went back to work again in the same
+                     factory. I was what you call a finisher, sew- ing buttons, making buttonholes,
+                     all handwork. It was the men working the pressing machines, sewing machines and
+                     cutting ma chines. After the World War, the women came in and were sewing by
+                     machine.</ab>
+               </sp>
+               <sp>
+                  <speaker>JUDY:</speaker>
+                  <ab>Did the men get higher pay?</ab>
+               </sp>
+               <sp>
+                  <speaker>SARAH:</speaker>
+                  <ab>Yes, but it was what you call slave labor.</ab>
+               </sp>
+               <sp>
+                  <speaker>DEE:</speaker>
+                  <ab>Could you work your way up in the factory?</ab>
+               </sp>
+               <sp>
+                  <speaker>SARAH:</speaker>
+                  <ab>No. I didn’t want to go back to work as a finisher because the operators were
+                     getting a union, but they wouldn’t give me a chance to go to the machine, and 1
+                     knew how to sew.</ab>
+               </sp>
+               <sp>
+                  <speaker>DEE:</speaker>
+                  <ab>Why not?</ab>
+               </sp>
+               <sp>
+                  <speaker>SARAH:</speaker>
+                  <ab>Because I would have to get more money and the boss would say, “Oh, I need
+                     you, Sarah, for this kind of work and you can’t be bothered going to the
+                     machine and work,” because he knew 1 would get more money.</ab>
+               </sp>
+               <sp>
+                  <speaker>JUDY:</speaker>
+                  <ab>Did you do any other kind of handwork?</ab>
+               </sp>
+               <sp>
+                  <speaker>SARAH:</speaker>
+                  <ab>I took home lamp shades, that was when I was married and had two children. I
+                     made nice money at the lamp shades, 1 wouldn’t say a lot—just a helping
+                     hand.</ab>
+               </sp>
+               <sp>
+                  <speaker>JUDY:</speaker>
+                  <ab>How long have you been doing this (a bed cover similar to a quilt)!</ab>
+               </sp>
+               <sp>
+                  <speaker>SARAH:</speaker>
+                  <ab>About two years. She [Enid) taught me how, and my daughter is in merchandising
+                     and gets me swatches of material for nothing. I try not to have two colors the
+                     same. If 1 have a good green, I like to finish it with a brown. Enid is very
+                     good for colors; sometimes make a mistake and put two colors the same. 1 know
+                     l’m not careful.</ab>
+               </sp>
+               <sp>
+                  <speaker>ENID:</speaker>
+                  <ab>Because you’re in a hurry.</ab>
+               </sp>
+               <sp>
+                  <speaker>SARAH:</speaker>
+                  <ab>If I wasn’t in a hurry I wouldn’t have great-grand- children. I have one 20
+                     years old.</ab>
+               </sp>
+               <sp>
+                  <speaker>DEE:</speaker>
+                  <ab>How did you learn to make these, Enid?</ab>
+               </sp>
+               <sp>
+                  <speaker>ENID:</speaker>
+                  <ab>In Jamaica, the people had sufficient interest in the youngsters, so they
+                     would formulate a sewing class at home and they would teach you the different
+                     things to do. One of my sisters used to have a class and 1 watched.</ab>
+               </sp>
+               <sp>
+                  <speaker>DEE:</speaker>
+                  <ab>Have you thought about selling them?</ab>
+               </sp>
+               <sp>
+                  <speaker>ENID:</speaker>
+                  <ab>Who, me? No.</ab>
+               </sp>
+               <sp>
+                  <speaker>SARAH:</speaker>
+                  <ab>How could she get a customer? She wants 8500.</ab>
+               </sp>
+               <sp>
+                  <speaker>ENID:</speaker>
+                  <ab>To be honest, l’m not kidding.</ab>
+               </sp>
+               <sp>
+                  <speaker>SARAH:</speaker>
+                  <ab>I’m not kidding either when I know that nobody in the world would give you or
+                     me—not even 8200</ab>
+               </sp>
+               <sp>
+                  <speaker>DEE:</speaker>
+                  <ab>Did people make those things for sale in Jamaica?</ab>
+               </sp>
+               <sp>
+                  <speaker>ENID:</speaker>
+                  <ab>They would make appliqué things in Jamaica for a living. They would have an
+                     organization and the girls get a weekly or monthly salary. Then it goes to the
+                     store where the tourist comes in it gets the price. You must know the value of
+                     handwork to pay for it</ab>
+               </sp>
+               <sp>
+                  <speaker>DEE:</speaker>
+                  <ab>What did your mother do in Jamaica?</ab>
+               </sp>
+               <sp>
+                  <speaker>ENID:</speaker>
+                  <ab>She had nine children.</ab>
+               </sp>
+               <sp>
+                  <speaker>DEE:</speaker>
+                  <ab>Did she do needlework at home?</ab>
+               </sp>
+               <sp>
+                  <speaker>ENID:</speaker>
+                  <ab>Yes, she sewed my father’s shirts and my brother’s shirts.</ab>
+               </sp>
+               <sp>
+                  <speaker>SARAH:</speaker>
+                  <ab>My mother sewed by hand till the minute she died. There were not machines in
+                     my mother’s day. Later 1 had a machine already and she used to come over to my
+                     house and bring me sewing. She always basted it and made me new curtains all
+                     the time.</ab>
+               </sp>
+
+               <p> Judy Henry is an artist uho lives in N.Y.C. Dee Shapiro is a pattern painter uho
+                  lives on Long Island.</p>
+            </div>
+            <!--
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_080.jpg" n="80" xml:id="img_0080"/>
+            <p>
+               KATHLINE IDELLA THOMPSON, My Mother, and DORA LUCINDA
+               JOHNSON, My Maternal Grandmother, by Phyllis Thompson
+               Dora Lucinda Johnson is 82 years old. The mother of seven chil-
+               dren, she resided on a farm in Seneca, Maryland for 70 years. Since
+               the death of her husband in 1974, she has lived with her daughter,
+               Kathline Thompson, in Philadelphia. Kathline Idella Thompson is
+               awidowed mother of four children. Presently, she is a tax examiner
+               for the Department of Internal Revenue in Philadelphia.
+               PHYLLIS: Where were you living Granny, when you were piec-
+               ing quilts?
+               GRANDMOTHER: Darnestown, Maryland, I reckon.
+               MOTHER: Probably out Sugarland where she grew up.
+               GRANDMOTHER: Out Sugarland. Maybe so, I reckon—maybe
+               it was out Sugarland.
+               MOTHER: I don’t know whether she is referring to when she was
+               a child or after she was grown up and married. 1 know very little
+               about where she lived when she was growing up. When I remember
+               about you quilting, you were married then . . . you had us
+               GRANDMOTHER: I was grown up? Don’t remember whether I
+               was married or not when 1 was piecing quilt squares . . . 1 used to
+               piece lots of them.
+               PHYLLIS: Did you create particular kinds of designs or patterns
+               that had names?
+               GRANDMOTHER: I make four pieces you know, like that, then
+               sew’um together, then make another strip, sew it together, then . ..
+               PHYLLIS: You worked with four squares sewn together. ...
+               GRANDMOTHER: Yes, I had my squares cut.
+               PHYLLIS: Were all of your quilts in square patterns? Were there
+               circles or triangles
+               GRANDMOTHER: Just straight squares ... used to make
+               squares, you know . . . something like that. We sew’um togethei
+               ... we sew all four squares together, take another strip of materia
+               and put on all four sides and sew it together.
+               PHYLLIS: Where did you get the fabric scraps?
+               GRANDMOTHER: We saved the scraps. My mother did sewing
+               you see and she saved the scraps and things to make quilts—quilt
+               pieces. Lots of people used to bring sewing for her to do.
+               PHYLLIS.
+               PHYLLIS: She could sew very well then, and made extra money
+               GRANDMOTHER: Very little.
+               for her family. Did you ever make quilts for your family?
+               MOTHER:
+               GRANDMOTHER: No. I used to piece quilt squares and things
+               throw rugs to put in the kitchen.
+               like that when I was home with my mother. I pieced’um for her-
+               PHYLLIS:
+               she used to make quilts. She’d get material to put on the back side
+               then take some raw cotton to put in between, then she had a thing
+               MOTHER:
+               called a rack you know, to put the quilt on. We get the quilt on the
+               rack and hang it up and the quilt would be rolled up during the day
+               and down at night when we were working.
+               PHYLLIS: You would hang it up . . . how? From the ceiling?
+               GRANDMOTHER: Yes, from the rafters. We’d sit there and sew
+               on it. . . . make little strips across the quilt, about that wide and
+               connect the squares.
+               PHYLLIS: Well, well . . . here is one right here. About how long
+               did it take to complete a quilt?
+               starch. How was that done?
+               GRANDMOTHER: It depended on how long I worked on it.
+               MOTHER: I’m not sure of course, but I think her mother did
+               this. Aren’t these some that you got from up Granmumma’s house
+               after she died? Because after she had all of us, she didn’t have time
+               to do that.
+               GRANDMOTHER: Whose is that? They look like some of mine.
+               attracted to them, but they weren’t.
+               MOTHER: This came out of your trunk. I think she helped do</p>
+            <p>
+               . ongen n dern asnte aanas e Lalte daste enen
+               that. This was done on the sewing machine too.
+               GRANDMOTHER: Well, I used to do some on the sewing ma-
+               chine—some by hand and some on the sewing machine.
+               MOTHER: I just ran upstairs and grabbed these while you were
+               talking. They had to come from up Granmumma’s house. She had a
+               lot of time to quilt after her children were grown.
+               GRANDMOTHER: When we were little girls, we were taught
+               how to sew squares and then Momma would put them together.
+               Did you do any crocheting or knitting
+               The only knitting I know of her doing was these little
+               Those knitted rugs made out of old stockings and
+               socks. When did you learn how to crochet and knit?
+               When I started high school. Well, you know, I learned
+               the basic beginning stitches. I would follow directions to crochet
+               doilies. I never really knitted anything. I just learned plain knitting
+               I liked to crochet. I crocheted quite a few doilies, but they were
+               small. At one time. I used to use them a lot.
+               PHYLLIS: Yes, I remember when you used them. I recall that
+               there were many women in the Projects who had ruffled doilies in
+               their homes. That was at least 20 years ago. You washed and starch-
+               ed the doilies on Saturdays. Sometimes you used a sugar mixture for
+               MOTHER: I would starch my doilies, but that didn’t make them
+               stand up. My neighbor showed me how to fix a starch out of sugar
+               and water. You soaked the doily in the sugar mixture and it began to
+               dry, you pulled up the ruffled sides and they would stand stiff and
+               remain in place. You know, l’m surprised that the roaches weren’t</p>
+            <p>
+               lse mpan i an arist und lensder Frendi, de i n huan Puen a Finnaing a Canal Lue</p>
+            <p>
+               ELSE GRAUPE by Grace Graupe-Pillard</p>
+            <p>
+               My mother, Else Graupe, was born in 1912, in the town of Rheda,
+               Westphalia, Germany
+               GRACE: How did you get interested in dressmaking?
+               ELSE: I always liked nice clothing . . . As a child I used to make
+               doll’s dresses . . . I had the fanciest dressed dolls . . . They went to
+               the opera in velvet capes . . . If I had my way I would have chosen</p>
+            <p>
+               dressmaking as a profession rather than study medicine [Ms.
+               Graupe attended medical school for one and a half years before Hit-
+               ler’s policy of Aryanization cut off her studies) . . . but no middle-
+               class girl in Germany was ever allowed to make a living working
+               with her hands
+               GRACE: Who taught you?
+               ELSE: A seamstress came to our house and did sewing for the</p>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_081.jpg" n="81" xml:id="img_0081"/>
+            <p>
+               family. I watched her. . . the way she cut the
+               material . . . she let me help . ..
+               GRACE: Were you encouraged in this
+               talent?
+               ELSE: No.. . no. . . of course not. . . .
+               If you do it for yourself it was okay. . . . but
+               you weren’t encouraged to make it your pro-
+               fession. . . . Soon after the Nazis came to
+               power 1 had to stop medical school . . . l
+               had to learn a trade . . . so of course 1 went
+               back to dressmaking. I went to Berlin . .. I
+               was lucky . . . 1 got an apprenticeship with
+               Gerson—a store like Bergdorf Goodman.
+               But I had just begun when orders came that
+               Jews could no longer work there. The head
+               of all the tailors (the “meister”) who was al-
+               so Jewish had to leave. So the store asked
+               him to work from his home. . . . He hired
+               four or five women—three were really ex-
+               perienced and two were learning to sew . .
+               I started from the bottom . . . I had to do
+               the sweeping . . . 1 spent three years as an
+               apprentice and then 1 passed my journey-
+               man’s examination.
+               Ruering des desgan
+               Else Graupe
+               GRACE: ... like a guild system?
+               ELSE: Yes . . . Just when I finished, I had to leave Germany and
+               emigrated to this country. I started here from scratch. Through the
+               National Council of Jewish Women, I got jobs . . . alterations
+               mainly at first . . . then one customer recommended another . ..
+               eventually 1 got private customers.
+               GRACE: What is your method of working?
+               ELSE: First I get the material and then I drape it on a “dress
+               maker’s figure” . . . here a little pleat . . . there a little pleat . . .
+               play around with it. I get an idea of style and then 1 start to cut.
+               always make everything tailored. I believe in letting the material
+               speak for itself . . . giving it an elegant, smart look . . . typically
+               European . . . just use plain, simple, straight lines.
+               GRACE: Were there any pieces that particularly excited you?
+               ELSE: 1 used to make evening dresses with a lot of embroidery</p>
+            <p>
+               .. all hand done . . . I never use patterne
+               ... They took me two weeks, working 1.
+               to 14 hours a day .. . 1 used to love tha
+               because the embroidery just came by itself
+               ... I added all kinds of beads and stui
+               ... but the style was still plain and simple
+               ... all hand done . . .
+               GRACE: Did you use a special sewing
+               machine?
+               ELSE: I have my Singer machine which is
+               about 30 years old. 1 once had one with all
+               those gadgets, but 1 threw it right out . ..1
+               don’t need it.
+               GRACE: Do you consider yourself an art
+               ELSE: No .. . never . . . for me it wa
+               just a living . .
+               GRACE: Well, obviously it was more
+               than a living?
+               ELSE: To tell you the truth . . . it never
+               entered my mind that 1 might have any ar-
+               tistic ability . . . except for one friend ...
+               she always said that 1 was a real artist.
+               Else Graupe in suit she
+               GRACE: Did you ever have the ambition
+               designed and made
+               to be a designer?
+               ELSE: I would have . . . I had several offers to go into business
+               for a big manufacturer. I designed the company’s first two samples
+               from which they manufactured hundreds of thousands of blouses.
+               The boss very much wanted me to be his designer . . . but I didn’t
+               feel right . . . it’s a nerve-wracking business . . . and second your
+               father wanted me to stay at home with you children . . . I always
+               say . . . now 1 am liberated, he can’t hold me back anymore . . . but
+               at that time I wasn’t . . . if 1 were to do it over again today . . . 1
+               would open my own dress design shop somewhere in midtown Man-
+               hattan. . . . Remember how 1 used to take a suitcase and go to the
+               people . . . I should have had a place . . . they should have come to
+               me . . . 1 wasted so much time . . . but 1 am not sorry . . . 1 really
+               enjoyed my work . . . and love it now more than ever . . . since 1 am
+               free to sew for my best customer—myself laugh).</p>
+            <p/>
+            <p>
+               Dus ue end an panes ls lues aud uade u len lees aud dun a lus Gaer u l 1c.</p>
+            <p>
+               IDA KOHLMEYER by Lynda Benglis
+               Te fern uoman q imporlanee 1o me dus one o nug an teneler,
+               Ida Kohlmeyer. I made a special trip to New Orleans to interview
+               her and to speak of her past and our relationship at Sophie New-
+               comb College where I studied art in the 1960s.
+               LYNDA: Ida, how did you happen to come to art?
+               IDA: I’Il begin at the beginning. . . . I was not young, almost 29
+               years old, grievously immature and becoming aware of the shatter-
+               ing fact that my life was without purpose. I attribute my “growing
+               up to the experience encountered as a soldier’s wife during war-
+               time, and to the sobering thought that life might well come to an
+               abrupt and premature end without much warning.
+               My exposure to art had been sporadic and meagre. I turned to it,
+               I think, with a lingering dilletantism, expecting to find it mildly ab-
+               sorbing. I have never been so mistaken about anything before or
+               since. At the urging of a friend, who was aware of my dilemma, 1
+               enrolled in the John McCrady School in New Orleans, and was
+               there initiated into the exhilaration of creative work.
+               The following fall, I signed up as a part-time student at the New-
+               comb Art School of Tulane University to take drawing and painting.
+               After two years I began working toward a Master of Fine Arts
+               degree. Because of a part-time curriculum, two small children and
+               not too brilliant progress, it took four years to complete the require-
+               ments for the degree. The summer of 1956 I attended Hans Hoff-
+               man’s School in Provincetown, and during the spring of 1957, Mark
+               Rothko came to Newcomb as artist-in-residence. Both of these art-
+               ists were great influences in my life.
+               LYNDA: I think it was unusual that an artist with your back-
+               ground should have had the seriousness of purpose to pursue your
+               interests with both of these major artists.
+               It was your professionalism that impressed me, for 1 had never
+               had real contact before with a woman artist. You always were pre-</p>
+            <p>
+               Installation shot. Fiue from Louisiana Can. 28-Mar. 27, 197) uith Lynda Benges
+               (left) and Ida Kholmeyer (right) with Carnival masks</p>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_082.jpg" n="82" xml:id="img_0082"/>
+            <p>
+               art gallery in New Orleans
+               pared with notes and examples of art works in class, and 1 can
+               IDA: Lynda, I don’t remember doing this for many of my
+               remember never wanting to miss those classes. Further, 1 was
+               students, but there were others and this was my extra dividend in
+               amazed and thrilled that you actually wanted to buy my art work
+               gratification as a teacher.
+               and did! Also, you saw that it was placed in a serious commercial
+               Londa Benglis, an artist, was born in Lake Charles, Louisiana, in 1941. She left Louisiana in 1964, lived in New York from 1964-1973, and since 1973, has been living both in Venice,
+               Caspnia, und lII. C., wending an euuadl undunt d üine iun balt puses</p>
+            <p>
+               STELLA CHASTEEN by Barbara Zucker</p>
+            <p>
+               Alligator Birthday Cake</p>
+            <p>
+               Cakes are like clowns. Both are so deeply imbedded in our culture
+               that their strangeness is ignored
+               The day I got married the car broke down so my parents drove us
+               to our wedding. I sat in the back seat looking up front at the card-
+               board box which held the cake wedged in between my parents. Two
+               circles had been cut out of the top so that the heads of the tiny china
+               bride and groom had enough room to peek out. It looked like people
+               in a surreal sweat box.
+               In Florida I once had a student whose art was all about food and
+               feeding people. In one piece a thin girl lay still on a table for hours.
+               wearing the entire meal which spread down around her in carefu.
+               patterns. Spectators consumed bits from her throughout the even-
+               ing. Ethel Ann’s real piece de resistance was her Master’s project
+               an exorcism of her marriage. She made a gigantic wedding cake
+               carved of wood and foam, complete with doves, net, roses and fes
+               toons. In the performance she stood on the cake, wearing her wed
+               ding dress, talking out her marriage. A man in a tux acted the
+               groom and other performers straightened up, made beds, fetchec
+               and carried. She also baked a traditional wedding cake and mixec
+               some punch which the audience consumed. Her work-for-money
+               and her art work overlapped. She cooked each week for an entire
+               church congregation—shopped, baked and served the Sunday meal
+               Stella Chasteen lives in Woodstock with her three children and
+               her husband. Trained in art academies in London, she came to
+               America in the sixties. She stopped painting because she “didn’i
+               know what to paint.” Her cakes, which she makes as an act of love
+               for her children, are wonderful.
+               STELLA: My first cake was a car
+               BARBARA: How do you carve it
+               STELLA: I bake the cakes, then freeze them and carve it while
+               theyre frozen. 1 can carve it quite precisely frozen. It doesn’t crum-
+               ble or squoosh. 1 use poundcake because it’s a nice solid consisten-
+               cy, not too heavy. Someone advised me to use toothpicks to hold it
+               together.
+               The first one was such a success. The children said, “I want one
+               too, 1 want one too.” They can think up whatever they want. The
+               mountain cake, I had just started teaching Tom how to ski. His
+               birthday is in the winter. You can always tell what he was into that
+               year by what his cake was. The others are more into their fantasies.
+               I did a monster head for Rhody. Sometimes they give specific direc-
+               tions. Tessa’s dog had to be black and white. Rhody’s monster had
+               to have a head that was half blue and half green. After that, at a
+               school fund-raising I made miniature monster heads. I used cashew</p>
+            <p>
+               nuts for horns. All the kids bought up the cakes immediately.
+               I use regular butter frosting and then color it with food coloring
+               and when I want real white I have to get white butter.
+               I made Tessa a fairy. It was the most difficult because it was tall
+               and tended to topple over. It was a hot day in June and the fairy
+               kept falling; I had to keep propping it up. I painted the fairy’s face
+               like a china doll. It was holding a magic wand which was a sparkler
+               which I lit
+               There was a show at the Victoria and Albert Museum in London
+               of cakes. A friend saw the show and said my cakes could have been
+               there. I said, “No,” because for me it is very important that the
+               cakes be eaten. I would have a totally different attitude about what
+               I was making if it was going to be around for any length of time. It
+               can be more outrageous, more goofy—it’s carefully considered, but
+               not in the same way as something permanent. Besides, the kids get
+               such a thrill out of eating it. It’s sort of gory: “I want the head, I
+               want the eye, give me the leg!” It’s great!
+               I like to make use of edible stuff to decorate them with and find
+               unusual things. For the wheels of Rhody’s car I found cookies that
+               looked like spokes of a wheel. For Tessa’s dog’s ears I used Oreo
+               cookies. I once made Tessa a circus cake. All the ropes and trapezes
+               were made out of shoelace licorice.
+               BARBARA: Why don’t you have more photographs of them?
+               STELLA: I make the cake the morning of the party. It takes
+               about three hours just to decorate. Then l’ve got to get the party
+               together. The rush of the party prevents taking pictures. I never
+               have any film in the camera. For the tropical island cake, you know
+               that health food sugar? I used that for sand for the beaches. I also
+               made a traditional English castle with gray frosting. The grownups
+               looked at the frosting and said, “eeeough, gray frosting!” but the
+               kids thought it was terrific because it looked like a castle. I bought
+               knights on horseback and little flags to fly from the turrets. I love
+               doing it.
+               BARBARA: Is there anything else that gives you that kind of
+               pleasure?
+               STELLA: Yes, pottery does, ceramics. Actually, making it is
+               what’s so nice about the cake. It’s all in the doing of it. Then it's
+               gone. It’s not sitting around. The appreciation is immediate. You’ve
+               got all the kids who come to the birthday party.
+               BARBARA: You don’t think of them as art?
+               STELLA: No, I don’t really.
+               BARBARA: Why not
+               STELLA: I think of them as cakes.
+               Barbara Zucker is an artist uho teaches, urites and loues her daughter.</p>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_083.jpg" n="83" xml:id="img_0083"/>
+            <p>
+               7 WOMEN IN NEW JERSEY:</p>
+            <p/>
+            <p>
+               Lois Gerb</p>
+            <p/>
+            <p>
+               Barbara Schaff—pottery
+               Joan Wortis—weaving
+               Pat Frank—goldsmith
+               Vivian O’David—quilting
+               Adele Blumberg—embroidery
+               Lois Gerb—rug hooking
+               Paula Wachtel—Ikebana (Japanese flower arranging)
+               BARBARA: You are talking to a potter who’s into function. I
+               have been through a kind of soul-searching siege about whether I
+               should make ART, capital letters, the way most of my contemporar-
+               ies are doing, and 1 very self-consciously set out to do that, which, of
+               course ended in total disaster because it wasn’t fun, wasn’t free and
+               I didn’t enjoy it very much. 1 make things that are according to my
+               grandmother’s proverb who, may she rest in peace, was Russian
+               ... she said, “You should never have anything in your home but
+               what is useful and beautiful.” I make very simple, very quiet, useful
+               things for everyday because I have this vague philosophy that it en-
+               riches the quality of human life to use handmade things. I don’t be-
+               lieve in using good things only for company—Who is company? 1
+               deserve good things. 1 am a maker of crocks and jugs and cups and
+               mugs and teapots and bowls and everything that you can possibly
+               use in the kitchen. Very primitive, very traditional, tremendousl
+               satisfying.
+               MADGE: Joan, what about your weaving?
+               JOAN: I feel very close to what Barbara is saying. I do functional
+               work.
+               BARBARA: It goes against the trend.
+               JOAN: Yes, very much against the trend. I make garments for
+               both women and men, primarily for women. I came to it really from
+               a great love of folk art, which l’ve always been attracted to—partic-
+               ularly embroidered things, woven things. I want things to be worn.
+               l’m not making things that you might wear once to a costume
+               ball—1 want people to wear things to adorn themselves and fee
+               beautiful in what I make.
+               BARBARA: Neither one of us designs anything for use only. Aes-
+               thetic considerations are extremely important. It has to be both use-
+               ful and beautiful.
+               DEE: This issue is concerned with breaking down these barriers.
+               Not considering yourself an artist because of the attitude toward
+               crafts
+               BARBARA: That’s a tempest in a teapot. Art versus craft.
+               JOAN: That position—that your work is an art work, the pots no
+               longer have openings, they are nonfunctional pots, the weaving is no
+               longer weaving—that is for use, for a floor cover or a wall cover to
+               keep out the cold or on the body. It becomes a wall hanging in the
+               same way that a painting is. Those of us who are working in the
+               contemporary crafts market, as Barbara and 1 are, are sometimes
+               made to feel like second-class citizens because we are not arts/crafts
+               people.
+               PATTY: I think of myself as an artist, and it doesn’t matter what
+               I work in, l’m an artist, period. I think Barbara’s an artist even
+               though she’s very stubborn about considering herself a craftsperson.
+               Anybody who has an idea, takes some material and transforms it in-
+               to something usable, whether you hang it on the wall or put soup
+               into it or stick it on your arm, that is an art object. If nobody in the
+               world likes it except you or your mother, then you have a problem.
+               PAULA: Poverty.
+               PATTY: Right. Or you get a job in the supermarket and so you
+               have time to do the other stuff. We’re all artists. Painters are just as
+               much craftspeople, if they’re worth their salt, because they have to
+               learn how to deal with the materials they work with.
+               DEE: How did you get into jewelry?
+               PATTY: My mother and aunt dragged me through lots of depart
+               ment stores. My mother would give me jewelry to play with, good
+               costume pieces. I would sit around and stare at them for hours-
+               they were like things I played with as a kid. When I got into college,
+               I had rocks which were semi-precious stones and I thought I would
+               take a jewelry course to cut stones. I had an instant rapport with the
+               silver. 1 sold my first ring in three days and I thought, my goodness,
+               I didn’t sell my first painting. So the monetary aspect of my person-
+               ality . . . hm, there’s gold in them thar hills.</p>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_084.jpg" n="84" xml:id="img_0084"/>
+            <p>
+               Part of a discussion by Dee Shapiro and Madge Huntington</p>
+            <p>
+               DEE: Now your mother is collecting your jewelry.
+               PATTY: I can’t keep anything that’s gold around my mother. It’s
+               like the company store; 1 borrowed money from her, then she says,
+               “Let’s work a deal.” She’s got three of my chains.
+               BARBARA: Now you know how I feel. l’m into Patty up to my
+               neck in hock.
+               JOAN: But isn’t the satisfaction wonderful to have all those things
+               people made
+               BARBARA: I’m a trade junkie.
+               JOAN: We go to the craft fairs, running around looking at other
+               people’s things and wanting to live with the things that other people
+               have made with their hands, which we couldn’t afford.
+               PATTY: Right. I can’t afford to keep my jewelry.
+               MADGE: Vivian, are you a crafts artist aside from being a school
+               principal?
+               VIVIAN: No. What I think makes me legitimate in this group is
+               that 1 came into quilting via a sister. I lost my sister a year ago and
+               l’ve gone on with the work because it’s something l’ve grown up
+               with. I brought along with me a quilt my grandmother did, it’s over
+               100 years old.
+               DEE: I think many of the crafts came out of a definite need for
+               the objects as a function in the home.
+               JOAN: However, there were the crazy quilts that were done in the
+               latter half of the nineteenth century, and l’ve seen many of them
+               come pristine out of the trunk and never been backed, never been
+               used. Why?
+               VIVIAN: I think even with the 11 children, no doubt there would
+               have been one quilt that was put someplace that certain people saw
+               and the rest of you wouldn’t.
+               ADELE: T’ve always worked with the needle.
+               VIVIAN: And beautifully.
+               ADELE: From the time I was five until now, which is a considera-
+               ble number of years, I have always had something in my hand or in
+               my pocketbook. If I travel, I always have something with me. And
+               it’s amazing how you get contact with perfect strangers if you’ve got
+               something in your hands. We were in Cuzco, Peru, and our plane
+               was about five hours late. I was working on that seat you’re sitting
+               on, Dee. An Indian woman with a baby was learning these stitches
+               with me, and it was the most wonderful thing . . . 1 wanted to give
+               her child a doll that we had just bought; she said no, she couldn’t ac-
+               cept it because she made it (the doll). So we were exchanging our
+               crafts and a perfect stranger took pictures of us and sent them to
+               me. Me with this Indian woman learning these stitches. For me, the
+               culmination of a busy day is when we can sit down at 11 o’clock and
+               watch the news and I don’t have to do any other work. You don’t
+               have to watch television, you can listen, you can be with your hus-
+               band, you’re doing something with your hands, and you’re creating
+               something. Before I was married 1 had this tremendous passion to
+               accomplish all of these things. Wherever I went visiting relatives.
+               l’d take my tablecloths along with me. And they used to kid me.
+               don’t know if they were hurt that I was doing it. Some men object il
+               you sit and embroider in front of them at board meetings.
+               PATTY: You can be a total participant. You basically make these
+               decisions and it’s just a matter of moving the needle. It’s not coming
+               from the part of you that you need to listen and speak and think
+               with
+               ADELE: You spoke about wanting to keep what you do. I know
+               that what I make has really very little value, unless I put it on a
+               good piece of linen, but you can’t compare it with a goldsmith’s
+               work. 1 feel very possessive about what l’ve done and I don’t give it
+               to anyone except people that are very close to me. Organizations say
+               now see how much hand stuff you can bring in for the bazaar or for
+               the auction and we’ll have a big sale . . . I give of myself all the time
+               to the community, but never my needlework. I still have the little
+               crooked tea towel I did at age five because my mother wouldn’t
+               throw it out.</p>
+            <p>
+               Dee Shapiro is a pattern painter uho lives on Long Island.
+               Madge Huntington is a self-taught artist working with fabric collage wall hangings
+               who lives in N.Y.C. with her husband and children.</p>
+            
+            </div>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_085.jpg" n="85" xml:id="img_0085"/>
+            <head>REMINISCENCES</head>
+                 
+               <byline>KATHINORKLUN</byline>
+                 
+            <p>
+               and lilies-of-the valley that we learned to search out in the shadouy spots inour oun yard and pick for Mothers Day, roses tha
+               grew on crooked, thorny stems with rough, toothy leaves, each one a simple perfection out of which my grandmother picked
+               Japanese beetles, dropping them with their glistening green-and-purple backs into a rusty can of kerosene.
+               There was a cherry tree whose fruit we never ate because the birds got there first. Beyond that was the vegetable garden.
+               There grandmother’s flowers found a place, one corner graced with arching stems of bleeding hearts and regal purple irises,
+               The house was big, open and inviting, full of textures and smells and old-fashioned colors. The wallpaper in the foyer had lit-
+               tle pastoral figures repeating themselves in identical landscapes along the stairs. The paint on the ceiling above my bed was old,
+               peeling off in places and resembling in one spot an old hag with a long nose. My room was papered pink and green, my grand-
+               mother’s favorite colors, and had the musty, long-used, faded smell that pervaded the house. My grandmother had a wringer
+               washing machine in the cleaning room off the kitchen. It had its own smell of old clothes and soap, and the clean/rotten smell of
+               potato peelings and other organic leavings that were kept separate from the burnable garbage. On the door she kept an old
+               calendar with the saying, “Oh, Lord, Thy sea is so great and my boat is so small.
+               She braided rugs. She bought old wool coats at rummage sales, tore them apart, cut them into strips, folded, stitched and
+               braided them into long coils. One of these rugs was on the floor of the dining room, all dark browns and greens and tweeds.
+               My grandmother kept things. In her sewing room there were always piles of clothes from rummage sales, dresser drawers
+               filled with jewelry, gloves and other fine, delicate things. Knick-knacks were all over the house, and a wonderful eight-day clock
+               under a glass bell sat on the mantle in the living room
+               She wore dark print dresses that came down past her knees, and she looked like I thought all grandmothers looked: solid
+               peasant stock from Eastem Europe, apron tied at her waist, hands gnarled from tending her flowers, smelling wonderfully like
+               her kitchen or the earth in her garden.
+               There is a church in the town, and my grandmother often provided flowers for the altar from her garden. I used to tremble
+               when my grandmother, in her goodness, walked right up to the altar and arranged the vases on it. The Church teaches humility
+               and service through its female saints; certainly my grandmother belongs with that long-suffering celestial choir
+               Why are there no flowers on my grandmother’s grave? Since she died, eight years ago, 1 have grown up, and my memories of
+               her have been disturbed by the glimpses my mother has given me of another side of this woman.
+               She was very bitter, she was ready to die,” my mother told me. My mother’s own anger distilled into bitterness as she talked
+               about my grandfather’s travels with his new wife. My grandmother had always wanted to travel, but never had.
+               “She would not see the priest who came to visit.
+               "She . . . had to lie in the bed she made for herself.” What a cold, cruel thing to say. She had encouraged my grandfather to
+               play the role of a man as she knew it, and he did. He hung around with the boys. They grew apart. When she died, my grand-
+               father married a woman who would be a companion.
+               My grandmother was caught in the center of a web of caring she had spun around all of us. I find I never really knew her. No
+               one talks of her, no one reminisces. The family has scattered, the children have grown, the house is no longer the center of a vital
+               network. Weeds have taken over the garden; 1 believe my grandfather has mowed it down.
+               Grandmother’s bitterness seems to have come from what she did with her life. Yet for me as a child, she was part of an undif
+               ferentiated environment of warmth, comfort and beauty.
+               Kathi Norklun is a free-lance writer and art historian living in N.Y.C. She has been working on an exhibition of women's domestic imagery.</p>
+            <p>
+               7
+               BELIYKLAVUN</p>
+            <p>
+               Alice Watters Beebe</p>
+
+            <p>
+               Stenciled tray by Alice Watters Beebe</p>
+            <p>
+               My first clear memory of my mother is of her fishing in hipboots in a northern lake, casting with one of her own flies-gorgeous
+               bugs with fantastic wings which she had tied herself from brightly colored feathers and bits of materials.
+               In the late thirties Mother and a group of her friends became interested in stenciling. They researched old designs and
+               redesigned them for application on trays, lamps, chairs, boxes. The stencils were cut from a very hard waxed linen paper so that
+               the edges stayed sharp and clear despite much use. To celebrate my wedding Mother stenciled a design on the walls of our living
+               room. These women worked hard and were very serious about their work. They were middle-class women without aggressive or
+               competitive ambitions in the business world. They didn’t object to working commercially but did so only if asked. One might il-
+               lustrate a child’s book; one might paint greeting cards. Mother even translated children’s books into Braille. Despite the profes
+               sional quality of these women s' work it was primarily for their own pleasure and that of their families. The quilts they designed</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_086.jpg" n="86" xml:id="img_0086"/>
+            <p>
+               and sewed went on their own beds. The rugs they hooked or braided went on their floor. My father, however, brought my
+               mother’s stenciled trays to elegant stores like Hammacher Schlemmer’s to sell with the outdoor furniture which he designed and
+               built after his retirement.
+               Most discarded items or worn-out materials were preserved as grist for the household mill. Stockings and clothes were kept
+               for rugmaking or cleaning rags. Broken bottles were for scraping furniture, paper bags for absorbing cooking grease,
+               newspapers for laying fires with one special pleated fan to dress up the kindling. The recycling was continuous. It was part of
+               running a home.
+               Mother invented all sorts of gadgets which my brother tried to patent. Every possible drawer in the kitchen cupboards opened
+               into the dining room as well as the kitchen. There was a special holder for soaking brushes upright, a knitting yarn winder and
+               lamps that swung on long arms
+               Mother respected and understood the unpredictable in nature. She studied the agricultural information published by the
+               state, learning about crop rotation, and even after we no longer had animals, continued to cultivate the fields for hay. She never
+               quite believed that the flowers she crossed and the trees she grafted would take.
+               Mother made a vegetable and berry garden, a flower garden and a rose garden. In the cellar under the carriage barn, she
+               grew mushrooms.
+               The planning of all her gardens was quite similar to outdoor environmental sculpture. She never imposed a formal design but
+               used the land as she found it. Rocks were centers for small flowers, “hens and chickens,” succulents and herbs. An existing
+               shrub might be tied into the rest of the garden by more massive clumps of tall plants. The land was planned with appropriate
+               flowers for knolls and valleys, sun and shade. In my memory all the flowers were an exaggerated extension of the wild flowers in
+               the field around them. My sister calls this an old-fashioned garden.
+               When we had cows, mother made butter and cottage cheese and buttermilk, the by-product. The milking was done by hand
+               and then came the separating of the milk and the cream. There seemed to be a countless number of discs to the separator. Then
+               came the slow endless turning of the handle of the big wooden churn until the butter suddenly came.
+               Mother also raised bees and for a short time we had our own honey until Mother, who scorned most of the protective bee
+               costume, nearly died of bee sting
+               She took great pleasure in growing vegetables and fruit and canning them. We all gathered berries for her jelly making. She
+               was a champion blueberry picker. She made both elderberry and blackberry wine. We probably had one of the first freezers, a
+               memorable event. Half of our favorite vegetable, peas, instead of being eaten fresh, were frozen.
+               Late in life she became excited by the possibilities of reproducing old china designs, pots of her own, and glazing. She enrolled
+               at the Sharon Art Center nearby and eventually had her own kilns and worked at home.
+               She was a shy, small woman, prophetic in her time, generously responsive, filled with a natural curiosity and a great love of
+               the earth</p>
+            <p>
+               Deir Luun E a rulhuer nueseses ue duns pess us uoe pesge.</p>
+            <p>
+               LUCHITA HURTADO</p>
+            <p>
+               My family lived in Caracas, Venezuela. Ladies at that time, nervously twirling their rosaries, drove
+               down the perpendicular dangerous road to bathe in the sea. It was believed that the ocean had curative
+               powers. Huge bathhouses stood on the coastline, waves pounding and resounding in their cavernous in-
+               teriors, the dusky air pierced with streaks of sunlight while crabs walked the high ledges and the women
+               and children squealed with delight. It was during a sojourn at the beach, a little over half a century ago,
+               that I was born. Memories of my childhood still invade today’s reality. Padre Peñalber, our parish
+               priest, is at least partly responsible for my lifelong aversion to a certain shade of pink. He was a short
+               stocky man with very bushy eyebrows and a thunderous voice. Cassock swinging, he walked staring
+               at the line of children waiting to hear what the color of their angel dresses would be for the Easter mass
+               At that time dark complexioned children were thought to look best in pink and so 1 would try
+               holding my breath, hoping that perhaps my complexion would change. 1 was invariably unsuccess
+               ful in these attempts for when he looked at me, he would always say, “Pink. You are a pink angel
+               Little girls with papier mache wings strapped to their backs were placed on a scaffold around the
+               altar kneeling on a space hardly larger than a small cushion. I never knew whether 1 had sud-
+               denly grown too tall to be an angel or whether, rebelling against the pink I wore, 1 disrup
+               ted the mass by falling asleep kneeling on one of the higher platforms. Whatever the rea-
+               son, 1 was never again chosen to be an angel at Easter. Being a painter, color has always
+               been a very important part of my life. I go through color periods when anything purple or
+               .
+               red or green or blue seems magically endowed, but never ever a certain shade of pink.
+               Venezuelan girls were taught to sew at an early age. They didn’t knit—the tropical climate cancelled out any warm
+               clothing—but they did sew, crochet, embroider and make beautiful lace. I don’t believe 1 ever saw a group of women working
+               together on a common project; rather, they worked alone, even if in a group, spending long hours embroidering a pillow case or
+               making a lace doily.
+               My grandmother, Rosario, taught me how to sew. If she caught sight of me sitting under a tree enjoying the afternoon breeze,
+               she would ask me to bring her my favorite dress. “Idle hands tempt the devil,” she would say; then together we would undo the
+               hem. Once done, she would say,“Now, sew it up again and let me see how well you can do it.”It never occurred to me to ask her
+               why it was that when I daydreamed I was tempting the devil, whereas when boys daydreamed they were lost in thought, plan-
+               ning some great project.
+               1 didn’t like to sew then, and it took me years to discover that it could be a pleasurable experience. When I became pregnant
+               with my first son in New York, I learned to enjoy sewing. In the forties, when he was born, the only maternity clothes available
+               in stores were called “butcher boy” dresses with an ugly hole cut out in the skirt. 1 had a vision of a long, silk, black and white
+               striped dress with a velvet ribbon and red geraniums and promptly began to make it. It took me weeks and because 1 set the
+               sleeves in backward, I had to stand with my shoulders at an odd angle. However, what I remember most is how good I felt when
+               1 finished and wore it. When my son, Daniel, was born, the dress had been so constantly worn that, like the placenta, it was
+               discarded in the process. I went on sewing then whenever I coveted some imagined piece of clothing or visualized my infant son
+               in a red vest with blue satin ribbons. Sewing has afforded me great satisfaction through the years.
+               Luchita Hurtado, 1974
+               Luchita Hurtado is a painter working in Santa Monica, California. She has four children.</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_087.jpg" n="87" xml:id="img_0087"/>
+            <p>
+               ANNSPERRY</p>
+            <p>
+               Milt un malten die duen un alie gangeue uat
+               udiue laee vümining on he ruisles.</p>
+            <p>
+               “As a Scotch lass. The lining o)
+               the coat matched the Tartan hat.</p>
+            <p>
+               “As a Russian princess—camel’s hair outfit trimmed with
+               beaver, 2-inch scraps sewed together to make long strips.</p>
+            <p>
+               "With my
+               mother and
+               father—the
+               dress was yel-
+               low dotted swiss
+               with green and
+               black velvet dots
+               and ribbons.</p>
+            <p>
+               I was a Scotch lass one fall, a Russian princess the next winter. I had feather or fur-trimmed hats to match every coat and lace-
+               collared, lovingly hand-tucked party dresses. The buttons on my blouses were ceramic fruits or mother-of-pearl hearts; enam-
+               eled flowers closed my sweaters. I was the embodiment of my mother’s fantasies—the outlet for her frustrated talents. Trained
+               in Poland as a fine seamstress, she emigrated to America at 18, took a course at the Traphagen School of Fashion and became a
+               dress designer. My father believed that a wife’s place was in the home, and even though her income would have been a welcome
+               addition to the small salary he earned as a Yiddish poet working for the Yiddish newspapers, she stopped working to take care
+               of their home, and me, their only child.
+               She designed and sewed every kind of clothing for the two of us; shirts, ties, jackets, pyjamas and bathrobes for my father;
+               curtains, slipcovers, bedspreads for the house. Her sewing machine in the bedroom was overflowing with projects. Scraps of
+               fabrics and pieces of thread were always on the rugs and floor.
+               Sometimes she took me with her to hunt for the fabrics—remnants were all she could afford. We would plow through rolled
+               up bundles of cloth wrapped around the middle with a strip of brown paper. The material would tumble out when you pulled
+               one end of the string that tied it together. We searched through boxes of laces, trimmings, scraps of fur, end pieces of em-
+               broidered ribbons, all scraps that could be bought for a few cents by anyone who could think of a way to use them
+               Usually the remnants were wrapped the wrong side out. It wasn’t until we got home and opened them that we were able to see
+               their full beauty. My mother always knew what treasures she had found. “Look,” she’d say, fondling a piece, “this French silk
+               moire, how it reflects the light; this Italian knit, it must have mohair in it, feel how it moves.
+               There was such challenge and excitement when she started making something. Almost always, the pattern called for more
+               yardage than was in the remnant, and she would hover over the fabric on the floor, clouds of pattern pieces surrounding her
+               tape measure draped around her neck, folding and unfolding in every conceivable way until she managed to maneuver the two-
+               and-five-eighths yard remnant to make a three-and-a-half yard skirt. It was magical to me; she could make something out of
+               anything, out of nothing. I could almost see the fabric grow to fit the need. Then she would pick up her enormous shears and
+               begin to cut. (1 once used those shears to cut out some paper doll clothes, and got one of the worst spankings of my
+               childhood—those shears were only for fabric.)
+               This past summer I found myself in a junkyard, trying to pull a beautifully patinaed piece of two-inch pipe from under a pile
+               of 1-beams. It was a hot, muggy day. I was going to the beach when I spotted this likely-looking heap of scrap, and felt com-
+               pelled to stop. As I tugged at the pipe, sticky and sweating, trying not to stab my sandaled feet with a sharp rusted iron bar,
+               cursing, I wondered: What in the world am I doing here? Why this need to stop and explore every junkyard? Why is my studio
+               full of scraps of stéel pipe and sheeting and odd iron shapes?</p>
+            <p>
+               Auu buen t unpune anbiues liait panel des denenn uail nuel luund diens. Due lues iu IC ul der lusband aut lues duen</p>
+            <p>
+               FAITHRINGGOLD</p>
+            <p>
+               Tremember once when I was about 12 years old I tried to make a pair of sandals and a brassiere from some pink satin scraps of
+               material my mother, Willi Posey, had given me. She was the first person to teach me to sew as her mother, Ida, had taught her.
+               The tradition of teaching and sewing in our family probably goes back to our roots in Africa. My mother remembers watching
+               her grandmother, Betsy Bingham, boil and bleach flour sacks until they were “white as snow” to line the quilts she made.
+               Mother also remembers Betsy cutting out basket shapes, triangles and circles out of brightly colored scraps of material to create
+               the design of the quilt.
+               Susie Shannon, Betsy’s mother, had taught her to sew quilts. She was a slave and had made quilts for the plantation owners
+               as part of her duties as “house girl.” Undoubtedly many of the early American quilts with repetitive geometric designs are slave-
+               made and African-influenced.</p>
+            <p>
+               Ida, my grandmother, made clothes for a living when she came north from Jacksonville, Florida, after her husband died in
+               1910. He had been a teaching principal setting up schools in Florida and South Carolina, moving frequently to the next place
+               that needed him and could pay for his services. Ida taught with him in the South, but up North there was no job for her and she
+               still had two young children to support.
+               My mother made our clothes, and sewed for friends free during the depression years. She created original designs and made
+               and cut her own patterns. By the forties, no longer a housewife, she was making a living sewing and giving seasonal fashion
+               shows of her designs. Many are high fashion today, such as the bat-wing sleeves and knee-length pants.
+               My mother was always an artist, but she thinks of herself as a business woman, and measures her success by the number of
+               steady customers she designs for during each season. Today she is in her seventies and her five or six steady customers keep hei
+               in business wearing “Posey” originals.</p>
+            <p/>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_088.jpg" n="88" xml:id="img_0088"/>
+            <p>
+               Lal bingd ais unbes unie e unans augein a aubonae a Len  ae na</p>
+            <p>
+               HELENE AYLON</p>
+            <p>
+               Ijust came across this photo of my mother in-law, Celia, now dead. She had nine children and lived in utter poverty in
+               Williamsburg, Brooklyn. Her husband worked in a sweatshop and studied the Torah.
+               Celia’s art was “making do,” patching up, stretching the dollar. She boasted that the only thing she threw out were egg-
+               shells—“and to begin with, the eggs can be bought cracked for next to nothing.” She knew of a place to buy stale bread which
+               was “better for you than fresh bread.” She’d cut up old telephone books into six-inch squares and use this for toilet paper. Once
+               she came to my house and stared at the soapy water gushing out of the washing machine into the sink. With the speed of lighten-
+               ing, she was triumphantly caught the water in a pail, so that it could be used for washing the floor.
+               Now that I think of it, there was one extravagance: the small bouquet of fresh flowers that traditionally enhanced her “Sab-
+               bath Table." This she would arrange and rearrange.</p>
+            <p>
+               Helene Aylon is a Neu York painter uho left to live in Berkeley, California, four years ago. She shous at the Betty Parsons Gallery in Neu York and feels that the Art World is a better
+               duce uince jemünisn.</p>
+            <p>
+               JOYCE AIKEN
+               Many of my childhood memories center around the women of the family and their work. Both my mother’s and father’s parents
+               lived 25 miles from us in a small farming community and we visited them each Sunday. My maternal grandmother lived on a
+               ranch that grew grapes and peaches. My twin sister Janice and I never looked forward to those Sunday trips, but our boredom
+               was relieved when Grandma was making a quilt. We would quilt while the men went outside to smoke or sit under the umbrella
+               tree. Sometimes the quilting frame staved up for weeks and no one thought it strange that it took up most of the living room.
+               The depression had brough renewed interest in many kinds of needlework because of the poor money situation and the need
+               to use spare time profitably. The women’s magazines were filled with needlework patterns for embellishing dresses, towels and
+               table linens. Neither my mother nor my grandmother could read a crochet pattern, but both could easily work from a piece
+               already made. With friends they formed a women’s group in the early 1930s to trade new ideas for crochet projects or stitches.
+               In 1934 after we moved to a new town Mother went to the Methodist Church once a week to make quilts for the missionairies
+               She would take us along and we would play on the floor around the “sewing ladies.” Within a few years this group would be
+               sewing for the Red Cross and the war effort. Twenty-five years earlier my mother had learned to knit for the service men during
+               World War I.
+               My father’s mother, Emma Braun, was a rugmaker who had learned her craft as a child in Canada. There was a small room
+               in her house that held her rug frame, fabric scraps and burlap. She was constantly searching for good burlap sacks and wool</p>
+            <p>
+               This content downloaded from
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
+               All use subject to https://about.jstor.org/terms</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_089.jpg" n="89" xml:id="img_0089"/>
+
+            <p>
+               Hooked rug,
+               scroll design,
+               by Emma Braun</p>
+            <p>
+               Rose pattern
+               in fillet crochet
+               on corner of tablecloth
+               by Marjorie Braun</p>
+            <p>
+               clothing from the Salvation Army stores. When wool was hard to find, she dyed cotton sheet blankets for rug strips. She de
+               signed her own patterns and carefully drew them on the burlap before starting to hook. 1 was about 11 years old and visiting her
+               in the summer when she taught me the process of washing and preparing the rags, stretching and sewing the burlap to the
+               frame, and doing the hooking. Rugmaking is a solitary craft and Emma Braun was a very private person. She said that when
+               other women went to quilting bees, she preferred to stay home and spend part of each day working on a rug. She hooked about
+               40 rugs in her lifetime, the largest one, 8’ x 10’. The last rug I remember her making was made for me when she was 82.
+               There are few days in my life when I am not involved with some kind of handwork. My mother and I talked about it recently
+               and discovered we were both filled with guilt if there was spare time available and we had no “projects” to work on. She thought
+               it was our nature to be that way. I think it is because neither of us ever saw our mothers idle.</p>
+            <p>
+               Dour Men de Pusene a Calpune dune Luberi a luens iu auhe und lenit ar. de les palliales t uunber s eie bude aund vnde u labie and uoad</p>
+            <p>
+               PAULAKING</p>
+            <p>
+               1am an ex-mother, ex-housewife who grew up in a home
+               where evidence of my creative heritage was displayed on
+               every bed. My mother never completed a quilt herself—they
+               were all given to her by women relatives for her wedding-
+               but she sewed all our clothes, made curtains, slipcovered
+               couches and insisted that my sister and 1 learn to sew well.
+               When I was married at 18, she gave me a sewing machine.
+               During my ten years of marriage, my need to be creative
+               was suppressed, except for decorating the house, making
+               things for the kids, conquering new recipes. Following my
+               two marriages I spent five years in the heterosexual Left at a
+               time when both feminism and art, of any but the most bla-
+               tantly political kind, were condemned as a bourgeois self-in-
+               dulgence. It wasn’t until I stopped doing political work with
+               men and began to identify with the women’s community that
+               1 felt supported enough to deal with my own creative needs.
+               The fact that quiltmaking skills have become a focus for
+               me is tied up with my former identification as a homemaker
+               and with my self-image as a nonartist. Although I am now a
+               lesbian and no longer have any but minimal duties as a
+               mother, the home and all the roles connected to it are still po
+               tent material for me. It is with women in those roles that 1
+               mainly think of sharing my work.
+               1 have been doing stitchery for three years now. 1 restrict-
+               ed myself to using a needle, thimble and a hoop and set out to
+               experience how it was that women had sewn for most of thei
+               creative history. I began to understand that both the form
+               and the content might have political meaning, and that the
+               very act of making stitchery in a way that was respectful of
+               tradition could be a celebration of the creative spirit of gener-
+               ations of women who have never been considered artists.
+               This last year most of my energy has gone into developing
+               stitchery as a political art form. I am not at all interested in
+               having stitchery elevated to its rightful place among the arts.
+               That would make it susceptible to male standards of criti-
+               cism, and stitchery, at least at the amateur level, is one of the
+               few crafts still controlled by women</p>
+            <p>
+               Because stitchery is not defined as art and because many
+               women have some knowledge of the skills involved, it is no
+               as intimidating as other art forms.</p>
+            <p>
+               The Takeover of Eden or A Litle Knowledge Is a Dangerous Thing, applqué
+               quilting, by Paula King</p>
+            <p>
+               Paula King is currently employed by Rape Relief Hotline in Portland, Oregon. She is involved in organizing around the issue of violence against women, and—along with 95 others-
+               vus pus aeguiltesd oi oriminal vespan at die Puigen Miusbear Pouer Plant.</p>
+            <p>
+               DEBORAHJONES-DOMINGUEZ
+               When I found a beautiful quilt in my aunt's closet recently I remembered a little Bo-Pep quilt I had had as a child and the
+               stories told to me by my father about his family</p>
+            <p>
+               This content downloaded from
+               134.82.70.63 on Sat, 26 Mar 2022 19:00:45 UTC
+               All use subject to https://about.jstor.org/terms</p>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_090.jpg" n="90" xml:id="img_0090"/>
+             <p>
+               producing needlawork
+               established wl
+               there was nothing ve lelt oer.
+               table to work togetber, te wonenomemes ked about fiends whose stehing was coare
+               
+               additional two pkedne borde
+               Women stuche e     e      o a ohe and each was
+               proud when sheo Cs ed mon riends o s ar away a 30 miles. This compensated for
+               the sameness teerevg Peope went ou onheswings inhe evenings,
+               sauntering aroneoe
+               ra
+               around on fam
+               quilts, made of
+               more valuable because the cotton used was not refined by cotton ginning</p>
+            <p>
+               During the second hall of the nineteenth centur, his materal grandmother and her sisters came to Amprica from the British
+               Isles. They broughtwith hem the lore of quiltmaking Orphans, they had learned needlework from the women in charge of the
+               households in whih they were raised. These women s lves were practical and unadorned. Phey lived in rural communities, and
+               during the londwiter mnts mobility outsidee hewas eurtaled The men railroaders and coal miners, were gone from
+               the home for long perids, leaving the women time to Work at quilting in the evehings after their chores, From their elders the
+               voung girls learned sitene and other onan s Their abilties vere intreased by work ine very yonne in factories
+               The proces of quinine bean i a eta template fohapes to be used n e desig Fron this témplate a donen
+               cardboard copisvere made of each shapel The cloth was then pinned to the cardboard and cut around its perimeter. The wom
+               en were able tocut these mall hapes quiekly and precisely from whatever goods were on hand, such as ginghams and calicoes.
+               In piecework the eloth shapes were laboriously sewn togetherla piece at à time, joining the units from the center outward.
+               The componentman quilts wer worked on at the vame time and were dacked, ready for use. In designing the quilts the
+               women were selfufficient, h homeagazies tht ulished quil deigs wereseldon used. When the women were not
+               pleased with thi erk te stpped the treas out and cut the cloh touse it as anothe shape in adifferent design. The
+               continuously rearraneolntesde vartn oes t crete t ownnque patterns. Oce they
+               bes  tha partoula block o ci they tool care that the symmetry and séwing were precise;
+               
+               Appliqué ditered  peeeo   ere hemmed  anoer piece of cloth u hich erved as à base ta form a design,
+               instead of bein pe toeter All teravends o cloth were turnes under and sewn around the edge withemall, invisible
+               stitches. Often eety  e appliqued desen was sched into the quilted back ground. When they gathered around the
+               When the clanca together forquilun bees, manyo the women brought unfinished quilts already cut and assembled. It
+               wasa time for cain te beeseypplie te unit te the base, They knew the overall plan
+               and moved eas  e ewo n plesabou two eet apartstretched eight feet in length across the
+               old-fashioned dinoon ereit  qut  o ole rpped, the oher
+               unwrapped in Ao  elg  tanden e ork bretessed, our wonen workeg along each side ot the quilt while an</p>
+
+            <p>
+               pleasantries and invit friends in 1o seem quilts The quilts, carried
+               Alve. Sofetimes one would hea stortes about very old and valuable
+               nereon buge old quilts were</p>
+            <p>
+               Deborah Jones Dominguez is a painter and teacher uho lives and vorks in NY.</p>
+            <p>
+               Lul be Lanus lones landy</p>
+            <p>
+               Mimi Smith is an artist who lives in N.Y.C.</p>
+            <p>
+               MIMI SMITH</p>
+            <p>
+               Photographic arrangements
+               by Sarah Lyman Bayard</p>
+            <p>
+               Sarah Lyman Bayard, my grandmother, lived to be 34. She had no formal education. As a young girlshe boarded a ship alone
+               and sailed from her village, her parents and ten brothers and sisters to America. Her entire life was sent doing work with her
+               hands. She had no concept of what I call art, and the only time I ever heard her mention the word was shortly before she died.
+               She told me that upon arriving in this country she had worked as a stitcher in a sweatshop. After her children were born she
+               earned money by sewing piecework at home. She would spend many, many hours making men’s suits. “When I finished a
+               man’s suit it was a work of art.
+               During the last seven years of her life she moved all of her belongings into a room in my parents’ house. Her most prized
+               possessions were her pictures. They covered two pieces of furniture in her small room. She had certain systems for arranging the
+               pictures. Some were pinned to each other in rows with straight pins, others were just piled or leaning against each other in
+               groups. The arrangements and displays were constantly changing. Guests were always invited to see the changing exhibitions.
+               She was always seeking newer pictures. She told me that she had never had her own life and that all of the people in the pictures
+               had been her life. She said that dusting and hanging the pictures were now her work. She died in 1975. This photo was taken
+               a few days after her death.</p>
+ </div>-->
+         </div>
+      </body>
+      <back>
+         <p>Martha Edelheit is a painter and filmaker who lives in N.Y.C.</p>
+         <p>Sylvia Kolbouski, Judy Silberstein and Jean Wagner are artists who live and work in
+            N.Y.C.</p>
+         <p>Nancy Davidson is an artist and mother presently teaching at the University of
+            Illinois.</p>
+
+      </back>
+   </text>
+</TEI>
