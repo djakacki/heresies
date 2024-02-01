@@ -532,7 +532,7 @@ body > div > div > head {
     padding-bottom: 10px;
     padding-left: 10px;
     color: inherit;
-    background-color: #BBBBBB;
+/*  background-color: #BBBBBB; */
     font-weight: bold;
     margin-bottom: 0.5em;
     margin-top: 11px;
@@ -544,7 +544,7 @@ body > div > div > div > head {
     padding-bottom: 10px;
     padding-left: 10px;
     color: inherit;
-    background-color: #BBBBBB;
+/*  background-color: #BBBBBB;*/
     font-weight: bold;
     margin-bottom: 0.5em;
     margin-top: 1em;
@@ -600,10 +600,9 @@ body > div > div > div > head:before {
     /*    content : counter(div1) "." counter(div2) "." counter(div3) ". ";
 */
     color: black;
-    background-color: inherit;
+/*  background-color: inherit; */
 }
 
-/* Suzette working on head section */
 head {
     color: black;
     font-weight: bold;
@@ -1135,6 +1134,7 @@ soCalled {
     display: inline;
     font-style: italic;
     quotes: "'" "'";
+    line-height: normal;
 }
 soCalled:before {
     content: open-quote;
