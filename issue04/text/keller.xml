@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+                  <div>            
+   <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_057.jpg" n="57" xml:id="img_0057"/>
+            
+               <head><title>WOMEN OF THE BAUHAUS</title></head>
+               <byline>Martha Kelle</byline>
+               <p>Women comprised about a third of the student bodv of the Bauhaus, the famous 1920s experiment in an
+               education, and about ten percent of the faculty.(1) Through the writings of these women, we can see the politics               
+               of the craft/art split in their time—the sexual division of materials, the rejection of the cult of personalityla
+               affirmation of anonymity), the struggle to amalgamate art and craft into a larger social sphere via industr
+               etc. These issues are of continuing interest today—for artists, teachers and feminists.</p>
+            
+               <p>After six months in the preliminary Bauhaus course, students moved on to one of seven workshops in crafts
+               The workshop organization was sometimes diagramed in circular form to avoid the implication of a hier
+               archy. Let's look at where women worked in a Bauhaus linear listing. (2)</p>
+
+            <table>
+               <row>
+                  <cell></cell>
+                  <cell>STONE</cell>
+                  <cell>WOOD</cell>
+                  <cell>METAL</cell>
+                  <cell>CLAY</cell>
+                  <cell>GLASS</cell>
+                  <cell>COLOR</cell>
+                  <cell>TEXTILES</cell>
+               </row>
+               <row>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>(cabinet making)</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>(mural)</cell>
+                  <cell>(weaving)</cell>
+               </row>
+               <row>
+                  <cell>Faculty</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Marianne Brandt</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell><list> 
+                     <item>Helene Borner</item>
+                     <item>Gunta Stölzl</item>
+                        <item>Anni Albers</item>
+                        <item>Otti Berger (sub)</item>
+                        <item>Lilli Reich</item>
+                  </list></cell>
+               </row>
+               <row>
+                  <cell>Students with work in
+                     English-language publications</cell>
+                  <cell>Alma Buscher</cell>
+                  <cell>Marianne Brandt</cell>
+                  <cell></cell>
+                  <cell>Lou Scheper</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>
+                     <list>
+                        <item>Gunta Stölz</item>
+                           <item>Anni Albers</item>
+                           <item>Ruth Hollos</item>
+                           <item>Ruth Citroen Vallentin</item>
+                           <item>Gertrude Hantsch</item>
+                           <item>Hedwig Jungnik</item>
+                            <item>Suse Ackermann</item>
+                        <item>Korona Krause</item>
+                        <item>Margarete Kohler</item>
+                        <item>Marianne Heyman</item>
+                       <item> Mila Hoffman-Lederer</item>
+                        <item>Ida Kerkovios</item>
+                        <item>Benita Otte</item>
+                        <item>Martha Erps</item>
+                        <item>Lies Beyer</item>
+                        <item>Agnes Roghe</item>
+                     </list>
+                  </cell>
+               </row>
+            </table>
+            
+            <figure><caption>
+               Anni Albers: Knotted rug, smyrna wool (1925)
+               Black, shades of gray and red. Gascard-Diepold
+               Collection, Berlin.</caption></figure>
+            <p>
+               What were the sociopolitical implications
+               of the fact that most of these women were
+               relegated to the weaving workshop? Anni
+               Albers at first objected to being there.</p>
+               <quote>I was tempted by the glass workshop. Un-
+               fortunately it was decided that no other stu
+               dents could be admitted for work there. ..
+               Weaving? Weaving I thought was too sissy.
+               I was looking for a real job; I went into
+               weaving unenthusiastically as merely the
+               least objectionable choice . .. Gradually
+               threads caught my imagination. (3)</quote>
+                     
+               <p>Helene Nonne-Schmidt, writing in the
+               Leipzig journal Vivos voco in 1926, saw the
+               role of women in weaving as an affirmation
+               of a traditional women’s art, but today her
+               position has sexist implications.</p>
+               <quote>The artistically active woman applies hersel)
+               most often and most successfully to work in
+               a two-dimensional plane. This observation
+               can be explained by her lack of the spatia
+               imagination characteristic of men. Of course
+               there are individual differences and differ-
+               ences of degree here, just as the nature o)
+               the sexes seldom is either purely masculine
+               or feminine. In addition, the way the wom-
+               an sees is, so to speak, childlike, because
+               like a child she sees the details instead of the
+               over-all picture. The woman’s way of seeing
+               things is not to be taken as a deficiency
+               rather it is simply the way she is constituted
+               and it enables her to pick up the richness o
+               nuances which are lost to the more compre
+               hensive view. But let us not deceive our
+               selves into thinking this aspect of her nature
+               will change, despite all the accomplishments
+               of the Women’s Movement and despite al
+               the investigations and experiments. There
+               are even indications that woman is counting
+               on her limitations, considering them a greal
+               advantage...<lb/>
+               Within the Bauhaus and its workshops the
+               woman is primarily interested in the work o
+               the weaving workshop and there finds the
+               widest range of opportunities. Weaving rep-
+               resents the fusion of an infinite multiplicit)
+               to unity, the interlocking of many threads to
+               make up a fabric. It is quite evident to wha
+               extent this field of work is appropriate to a
+               woman and her talents.<lb/>
+               The ability of woman to become absorbed in
+               detail and her interest in experimental
+               "play" with surfaces suit her for this work...(4)</quote>
+               <p>What were some other political implica
+               tions of the fact that weaving was, as Gunta
+               Stölzl put it, “primarily a woman’s field ol
+               work?” One answer that comes up is the
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_058.jpg" n="58" xml:id="img_0058"/>
+            <figure><caption>
+               Marianne Brandt: Spherical Lighting fixture
+               with safety chains, ca. 1928.</caption></figure>
+            <figure><caption>
+               Marianne Brandt: Small pot for tea essence with
+               deep tea strainer (1924) Brass container, silver-
+               plated, inside, ebony handle. Set-in strainer
+               made of silver. Bauhaus-Archiv, Darmstadt.</caption></figure>
+            
+               political value of material. Some art materi-
+               als are “higher than others; paint, bronze
+               and marble are distinguished from “low
+               art materials such as clay, fiber, glass, wood
+               and metal because of cost and accessibility
+               In this regard, the Bauhaus attitude seemed
+               crucial and ironic. On the one hand there
+               was the declaration about raising no “arro-
+               gant barrier between artist and craftsman.
+               On the other, a barrier was raised within the
+               crafts, though a few women circumvented
+               it. And it seems significant that the weaving
+               workshop was at the bottom of a (not alpha-
+               betical) list of workshops offered in the first
+               brochure published by the Bauhaus.</p>
+               <p>The career of Anni Albers expresses some
+               of the irony of the Bauhaus attitude. Albers,
+               who studied painting before entering the
+               Bauhaus, had a long successful career as a
+               weaver and teacher, but since 1965 she has
+               turned to another art form, printmaking. It
+               is as though, after fighting to prove that
+               weaving is an art, she has given up. “Weav-
+               ing, she said in a recent interview with
+               Gene Baro, “is not generally recognized as
+               an art, but as a craft. I find that when the
+               work is made with threads, it’s considered a
+               craft; when it s on paper, it’s considered
+               art." (5) Yet Albers’s early writings abound
+               with support of the Bauhaus’s unpreju-
+               diced attitude towards materials and their
+               inherent capacities. She explains this atti-
+               tude in numerous instances that relate as
+               well to anonymity in design.</p>
+               <quote>.. . all art is form in some material . . .(6)</quote>
+               <quote>Any material is good enough for art. (7)</quote>
+               <quote>Design is often regarded as the form im-
+               posed on the material by the designer. But is
+               we, as designers, cooperate with the mater-
+               ial, treat it democratically, you might say
+               we will reach a less subjective solution of
+               this problem of form and therefore a more
+               inclusive and permanent one. The less we,
+               as designers, exhibit in our work our per-
+               sonal traits, our likes and dislikes, our pe-
+               culiarities and idiosyncrasies, in short, our
+               individuality, the more balanced the form
+               we arrive at will be. It is better that the
+               material speaks than that we speak our-
+               selves. The design that shouts “I am a pro-
+               duct of Mr. X” is a bad design. As consum-
+               ers, we are not interested in Mr. X but in his
+               product, which we want to be our servant
+               and not his personal ambassador. Now, if
+               we sit at our desk designing, we cannot
+               avoid exhibiting ourselves for we are exclud-
+               ing the material as our co-worker, as the di
+               rective force in our planning. (8)</quote>
+               <p>What about the women in areas other
+               than weaving? Margarete Sachsenberg was
+               business manager of the Bauhaus from
+               1926-1932, organized the transfer of the
+               Bauhaus to Berlin and set up the adminis-
+               tration there. Gerda Marx was a physical
+               education instructor. In 1932, supervision of
+               the interior design workshop and seminar
+               was assigned to Lilli Reich; before this, she
+               was Mies van der Rohe s closest associate as
+               an interior designer. When he was director
+               of the Bauhaus, van der Rohe appointed her
+               to direct the weaving workshop as well.
+               Reich was among the last group of faculty in
+               Berlin who voted to close the Bauhaus
+               under pressure from the Nazi regime.</p>
+               <p>The work of a woman in the cabinet-
+               making workshop was one of the first Bau-
+               haus products to receive favorable public
+               response. Alma Buscher’s design for child-
+               ren s furniture was “thought out equally
+               well with respect to practicality, economy
+               and form. When she designed a toy cab-
+               inet, it was made for children to play and
+               build with; most of it could be taken apart
+               and reassembled. (9)</p>
+               <p>In the metal workshop, Marianne Brandt
+               studied with Moholy-Nagy.</p>
+<quote>               At first I was not accepted with pleasure-
+               there was no place for a woman in a metal
+               workshop, they felt. They admitted this to
+               me later on and meanwhile expressed their
+               displeasure by giving me all sorts of dull,
+               dreary work. How many little hemispheres
+               did I most patiently hammer out of brittle
+               new silver, thinking that was the way it had
+               to be and all beginnings are hard. Later
+               things settled down and we got along well
+               together. (10)</quote>
+               <p>Illustrations of Brandt’s work in indus-
+               trial design can be seen in Wingler s Bau-
+               haus: globe lighting fixtures, her famous
+               Kandem lamp, egg cooker, tea and coffee
+               set. A number of these works—along with
+               weavings by Stölzl and Albers—are in the
+               Museum of Modern Art’s permanent collec-
+               tion.</p>
+               <p>Through Alma Mahler, Walter Gropius
+               (founder of the Bauhaus) met Johannes It-
+               ten and appointed him teacher of the first
+               preliminary course at the Bauhaus. (11)
+               Through Itten s influence, Gertrude Gru-
+               now was hired to teach “Studies in Har-
+               mony.</p>
+               <p>Fifty-five years old at the time of her ap-
+               pointment, Grunow was a woman of
+               ’strong spiritual force” with extraordinary
+               ability to empathize with students — "an
+               intuitively sure hand in dealing with young
+               people. Felix Klee referred to her as “the
+               good spirit of the Bauhaus.” (12) According to
+               her synesthetic thinking, one basic entity,
+               the same original phenomenon, is per
+               ceivable in sound, color and form. Her quo-
+               tation is from a Bauhaus publication. (13)</p>
+              <quote> The supreme law, according to which all
+               order is structured, is called equilibrium.
+               Nature, having placed the organ of equilib-
+               rium in the ear, has given man a guardian
+               and protector of order, the ear thus being
+               designated to be the immediate and highest
+               judge of order within the organism. The<lb/>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_059.jpg" n="59" xml:id="img_0059"/>
+            <figure><caption>
+               Alma Buscher: Children’s Room Dresser, 1924.
+               Wood lacquered in light color. Mrs. Siedhoff,
+               Frankfurt.</caption></figure>
+            <figure><caption>
+               Gunta Stölzl: Tapestry, Jacquard fabric (1928-
+               29) Whereabouts unknown. Watercolor sketch in
+               the Bauhaus-Archiv, Darmstadt.</caption></figure>
+            
+               strong effects that sounds have on man can
+               be attributed to equilibrium. The ear, dur-
+               ing strain on the organism, senses the living
+               order of that organism in its own specific,
+               highest form of sensation, namely as sound
+               (of any kind, even noise). Every living force,
+               and thus every color, corresponds to a law-
+               ful order, to a sound . ..</quote>
+               <p>Further, with regard to the “weight” of
+               color:</p>
+               <quote>The act of weighing derives from the mind
+               judiciously, progressing materially from
+               the heaviest, the structurally firmest to the
+               lightest, most ephemeral, most flexible. The
+               scales and degrees increase and once more
+               require a special order of colors (forces).<lb/>
+               The order of colors . . . occurs as a circular
+               one and constitutes an outward oriented
+               tension of forces . . . The circle, a circle of
+               gravity and equilibrium . . . is a fundamen-
+               tal phenomenon and is of the same impor-
+               tance to statics as the golden section had
+               been for measurement.</quote>
+               <p>Finally, let’s look at the view of Bauhaus
+               women on the community of the Bau-
+               haus; somehow the social organization of
+               the Bauhaus enhanced its influence. Anni
+               Albers describes it as</p>
+               <quote>... a creative vacuum . . . unformalized,
+               unformulated, even contradictory in its var-
+               ious areas. (14)</quote>
+               <p>Called by Felix Klee, "our Bauhaus
+               mother," (15) Tut Schlemmer, wife of the the-
+               ater director Oskar Schlemmer, described
+               the climate of the Bauhaus as “like being on
+               top of a volcano." (16) She recalled:</p>
+               <quote>the continuous unrest that forced everyone
+               to express a fundamental opinion of pro-
+               found problems almost daily . . . It was
+               wild and enthusiastic . .. Boys had long
+               hair, girls short skirts. No collars or stock
+               ings were worn, which was shocking and ex-
+               travagant then .. . We developed a Bau-
+               haus dance—a kind of hop expressing the
+               joy of living. . .. In retrospect I believe I
+               understand the secret of how the Bauhaus
+               could develop in the face of incredible diffi-
+               culties; we simply loved it . . . and felt re-
+               sponsible. (17)</quote>
+               <p>One gets a feeling here for the “unity in
+               diversity” that Gropius described as an ob-
+               jective of the Bauhaus. Lou Scheper, who
+               participated in Klee’s course and Schlem-
+               mer’s theater as well as in Itten’s mural
+               workshop, said:</p>
+               <quote>This community corresponded neither to
+               the concept “commune nor the concept
+               “cloister, even though individual Bauhaus
+               people preferred the ascetic’s cell. The Bau
+               haus community was the sum of significant,
+               independent individuals who could develop
+               more richly in association than in isolation
+               .. . One talked "big"—of the postwar mood
+               of political hope and artistic expectations, of
+               the search for the unified work of art. Play
+               and creative imagination and also a tenden
+               cy toward mysticism, even to spiritual fai
+               healing and to sectarianism and in additio
+               a delight in nature taken from the yout
+               movement are the badge of Bauhaus mem
+               bers of that time, who were more artist
+               than technicians, more craftsmen than con
+               structors. It was only later that . .. th
+               Cathedral of Socialism was replaced by...
+               Art and Technology. Though the Bauhaus
+               had originally started to produce unique,
+               handcrafted pieces, it later developed ..
+               the models for industrially produced art
+               cles. Both were products of the same feeling
+               for form, the sense of function and mater
+               ials, and both were a consequence draun
+               from the social tasks of the time. (18)</quote>
+               <p>The craft areas of the Bauhaus (as re-
+               flected in its name, meaning “Building-
+               House”) were conceived to produce a uni
+               fied architectural whole. Women largel
+               were consigned to the additive craft
+               while men worked in the structural “essen-
+               tial” areas. Women, except for Lou
+               Scheper, worked with soft or malleable ma-
+               terials, and on objects that were mobile (fur-
+               niture, weaving) rather than structurally
+               permanent. Although the Bauhaus is gen-
+               erally regarded as the most innovative art
+               school of the twentieth century, its sexual
+               division of craft continued traditional ideas
+               about women’s work and men’s work.</p>
+               <list>
+                  <item>1) From a roster count in Hans M. Wing-
+               ler, The Bauhaus: Weimar Dessau Ber-
+               lin Chicago (Cambridge: MIT Press.
+               1969) pp. 615-621.</item>
+               <item>2) Herbert Bayer, Ise Gropius, and Walter
+               Gropius, Bauhaus 1919-1928 (New
+               York: Museum of Modern Art, 1938,
+               3rd printing, 1959), p. 23.</item>
+               <item>3) Gene Baro, Anni Albers (Brooklyn: The
+               Brooklyn Museum, 1977), p. 6.</item>
+               <item>4) Reprinted in Wingler, p. 116.</item>
+               <item>5) Baro, p. 8.</item>
+               <item>6)“Art—A Constant in Anni Albers, On
+               Designing (Wesleyan, Connecticut:
+               Wesleyan University Press, 1959), p. 46.</item>
+               <item>7) “One Aspect of Art Work”, Albers, p. 32.</item>
+               <item>8) Albers, p. 6.</item>
+               <item>9) Wingler, pp. 429, 503, 440, 532.</item>
+               <item>10) Wingler, pp. 308, 311.</item>
+               <item>11) Wingler, p. 2</item>
+               <item>12) Eckhard Neumann, Bauhaus and Bau-
+               haus People (New York: Van Nostrand
+               Reinhold, 1970), p. 9.</item>
+               <item>13) Wingler, p. 69.</item>
+               <item>14) Interview with Neil Welliver, Craft
+               Horizons, July/August, 1965, p. 42.</item>
+               <item>15) Neumann, p. 43.</item>
+               <item>16) Neumann, p. 155.</item>
+               <item>17) Neumann, p. 154, 156.</item>
+               <item>18) Neumann, p. 114.</item>
+               </list>
+                  </div>
+      </body>
+               <back>
+               <div><p>Martha Keller is an artist who teaches at School Cra,
+               College in Lavonia, Michigan.</p></div>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,2247 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ESSAY TITLE]</title>
+            <author>[ESSAY AUTHOR]</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?place_annotation_20231203230957414",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-12-04T04:09:57.414Z",
+	"dcterms:modified": "2023-12-04T04:09:57.414Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?place_annotation_20231203230957414#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?place_annotation_20231203230957414#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q2079",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20231203231205473",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-12-04T04:12:05.473Z",
+	"dcterms:modified": "2023-12-04T04:12:05.473Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20231203231205473#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20231203231205473#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[3]/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q73085",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20231203231326000",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-12-04T04:13:26.000Z",
+	"dcterms:modified": "2023-12-04T04:13:26.000Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20231203231326000#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20231203231326000#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[3]/p[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q86078",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20231203231559746",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-12-04T04:15:59.746Z",
+	"dcterms:modified": "2023-12-04T04:15:59.746Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20231203231559746#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20231203231559746#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[4]/p/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q41508",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160419792",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:04:19.792Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160419792#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160419792#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/byline/persName/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q84564025",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160455617",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:04:55.617Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160455617#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160455617#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/table/row[3]/cell[4]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q456521",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160539206",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:05:39.206Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160539206#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160539206#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/table/row[4]/cell[5]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q1871308",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160633714",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:06:33.714Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160633714#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160633714#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/table/row[3]/cell[8]/list/item[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q73085",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160643908",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:06:43.908Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160643908#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160643908#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/table/row[3]/cell[8]/list/item[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q86078",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160655947",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:06:55.947Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160655947#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160655947#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/table/row[3]/cell[8]/list/item[4]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q2037742",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160722247",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:07:22.247Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160722247#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160722247#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/table/row[4]/cell[8]/list/item[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q60559477",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160818981",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:08:18.981Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160818981#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160818981#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/table/row[4]/cell[8]/list/item[7]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q94775041",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160836187",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:08:36.187Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160836187#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160836187#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/table/row[4]/cell[8]/list/item[9]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q18024862",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160912957",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:09:12.957Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160912957#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160912957#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/table/row[4]/cell[8]/list/item[13]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q817333",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160934741",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:09:34.741Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160934741#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114160934741#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/table/row[4]/cell[8]/list/item[14]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q55020487",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161135568",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:11:35.568Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161135568#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161135568#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/table/row[4]/cell[8]/list/item[16]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q68917859",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161202724",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:12:02.724Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161202724#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161202724#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q86078",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161212478",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:12:12.478Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161212478#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161212478#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q57984035",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161258418",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:12:58.418Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161258418#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161258418#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[3]/p[2]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q59525641",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161345766",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:13:45.766Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161345766#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161345766#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[4]/p[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q160448",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161406716",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:14:06.716Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161406716#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161406716#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[4]/p[5]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q61071",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161416810",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:14:16.810Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161416810#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161416810#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[4]/p[5]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q123138",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161443203",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-14T21:14:43.203Z",
+	"dcterms:creator": {
+		"@id": "24",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Lyndon Beier"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161443203#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-11/keller.xml?person_annotation_20240114161443203#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[4]/p[6]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q1403573",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader>
+  <text>
+      <body>
+                  <div>            
+   <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_057.jpg" n="57" xml:id="img_0057"/>
+            
+               <head><title>WOMEN OF THE BAUHAUS</title></head>
+               <byline><persName><persName key="Martha Keller" ref="http://www.wikidata.org/entity/Q84564025">Martha Kelle</persName></persName></byline>
+               <p>Women comprised about a third of the student bodv of the Bauhaus, the famous 1920s experiment in an
+               education, and about ten percent of the faculty.(1) Through the writings of these women, we can see the politics               
+               of the craft/art split in their time—the sexual division of materials, the rejection of the cult of personalityla
+               affirmation of anonymity), the struggle to amalgamate art and craft into a larger social sphere via industr
+               etc. These issues are of continuing interest today—for artists, teachers and feminists.</p>
+            
+               <p>After six months in the preliminary Bauhaus course, students moved on to one of seven workshops in crafts
+               The workshop organization was sometimes diagramed in circular form to avoid the implication of a hier
+               archy. Let's look at where women worked in a Bauhaus linear listing. (2)</p>
+
+            <table>
+               <row>
+                  <cell/>
+                  <cell>STONE</cell>
+                  <cell>WOOD</cell>
+                  <cell>METAL</cell>
+                  <cell>CLAY</cell>
+                  <cell>GLASS</cell>
+                  <cell>COLOR</cell>
+                  <cell>TEXTILES</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell/>
+                  <cell>(cabinet making)</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>(mural)</cell>
+                  <cell>(weaving)</cell>
+               </row>
+               <row>
+                  <cell>Faculty</cell>
+                  <cell/>
+                  <cell/>
+                  <cell><persName key="Marianne Brandt" ref="http://www.wikidata.org/entity/Q456521">Marianne Brandt</persName></cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell><list> 
+                     <item><persName>Helene Borner</persName></item>
+                     <item><persName key="Gunta Stölzl" ref="http://www.wikidata.org/entity/Q73085">Gunta Stölzl</persName></item>
+                        <item><persName key="Anni Albers" ref="http://www.wikidata.org/entity/Q86078">Anni Albers</persName></item>
+                        <item><persName key="Otti Berger" ref="http://www.wikidata.org/entity/Q2037742">Otti Berger</persName> (sub)</item>
+                        <item><persName>Lilli Reich</persName></item>
+                  </list></cell>
+               </row>
+               <row>
+                  <cell>Students with work in
+                     English-language publications</cell>
+                  <cell>Alma Buscher</cell>
+                  <cell>Marianne Brandt</cell>
+                  <cell/>
+                  <cell><persName key="Lou Scheper-Berkenkamp" ref="http://www.wikidata.org/entity/Q1871308">Lou Scheper</persName></cell>
+                  <cell/>
+                  <cell/>
+                  <cell>
+                     <list>
+                        <item>Gunta Stölz</item>
+                           <item>Anni Albers</item>
+                           <item><persName key="Ruth Hollós-Consemüller" ref="http://www.wikidata.org/entity/Q60559477">Ruth Hollos</persName></item>
+                           <item><persName>Ruth Citroen Vallentin</persName></item>
+                           <item><persName>Gertrude Hantsch</persName></item>
+                           <item><persName>Hedwig Jungnik</persName></item>
+                            <item><persName key="Suse Ackermann" ref="http://www.wikidata.org/entity/Q94775041">Suse Ackermann</persName></item>
+                        <item><persName>Korona Krause</persName></item>
+                        <item><persName key="Margarete Koehler-Bittkow" ref="http://www.wikidata.org/entity/Q18024862">Margarete Kohler</persName></item>
+                        <item><persName>Marianne Heyman</persName></item>
+                       <item> <persName>Mila Hoffman-Lederer</persName></item>
+                        <item><persName>Ida Kerkovios</persName></item>
+                        <item><persName key="Benita Koch-Otte" ref="http://www.wikidata.org/entity/Q817333">Benita Otte</persName></item>
+                        <item><persName key="Marta Breuer" ref="http://www.wikidata.org/entity/Q55020487">Martha Erps</persName></item>
+                        <item><persName>Lies Beyer</persName></item>
+                        <item><persName key="Agnes Roghe" ref="http://www.wikidata.org/entity/Q68917859">Agnes Roghe</persName></item>
+                     </list>
+                  </cell>
+               </row>
+            </table>
+            
+            <figure><caption/></figure>
+            <p>
+               What were the sociopolitical implications
+               of the fact that most of these women were
+               relegated to the weaving workshop? <persName key="Anni Albers" ref="http://www.wikidata.org/entity/Q86078">Anni
+               Albers</persName> at first objected to being there.</p>
+               <quote>I was tempted by the glass workshop. Unfortunately it was decided that no other students could be admitted for work there. [...] Weaving? Weaving I thought was too sissy.
+               I was looking for a real job; I went into
+               weaving unenthusiastically as merely the
+               least objectionable choice. [...] Gradually
+               threads caught my imagination. (3)</quote></div><div>
+                     
+               <p><persName key="Helene Nonné-Schmidt" ref="http://www.wikidata.org/entity/Q57984035">Helene Nonne-Schmidt</persName>, writing in the
+               <placeName key="Leipzig" ref="http://www.wikidata.org/entity/Q2079">Leipzig</placeName> journal Vivos voco in 1926, saw the
+               role of women in weaving as an affirmation
+               of a traditional women’s art, but today her
+               position has sexist implications.</p>
+               <quote>The artistically active woman applies hersef most often and most successfully to work in
+               a two-dimensional plane. This observation
+               can be explained by her lack of the spatial imagination characteristic of men. Of course
+               there are individual differences and differences of degree here, just as the nature of the sexes seldom is either purely masculine
+               or feminine. In addition, the way the woman sees is, so to speak, childlike, because
+               like a child she sees the details instead of the
+               overall picture. The woman’s way of seeing
+               things is not to be taken as a deficiency; rather it is simply the way she is constituted
+               and it enables her to pick up the richness of nuances which are lost to the more comprehensive view. But let us not deceive ourselves into thinking this aspect of her nature
+               will change, despite all the accomplishments
+               of the Women’s Movement and despite all
+               the investigations and experiments. There
+               are even indications that woman is counting
+               on her limitations, considering them a great advantage...</quote></div><div><quote><lb/>
+               Within the Bauhaus and its workshops the
+               woman is primarily interested in the work of the weaving workshop and there finds the
+               widest range of opportunities. Weaving represents the fusion of an infinite multiplicity to unity, the interlocking of many threads to
+               make up a fabric. It is quite evident to what extent this field of work is appropriate to a
+               woman and her talents.<lb/>
+               The ability of woman to become absorbed in
+               detail and her interest in experimental
+               "play" with surfaces suits her for this work...(4)</quote>
+               <p>What were some other political implications of the fact that weaving was, as <persName key="Gunta Stölzl" ref="http://www.wikidata.org/entity/Q73085">Gunta
+               Stölzl</persName> put it, “primarily a woman’s field of work?” One answer that comes up is the
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_058.jpg" n="58" xml:id="img_0058"/>
+            <figure><caption/></figure>
+            
+               political value of material. Some art materials are "higher than others;" paint, bronze
+               and marble are distinguished from “low
+               art"materials such as clay, fiber, glass, wood
+               and metal because of cost and accessibility. In this regard, the Bauhaus attitude seemed
+               crucial and ironic. On the one hand there
+               was the declaration about raising no "arrogant barrier" between artist and craftsman.
+               On the other, a barrier was raised within the
+               crafts, though a few women circumvented
+               it. And it seems significant that the weaving
+               workshop was at the bottom of a (not alphabetical) list of workshops offered in the first
+               brochure published by the Bauhaus.</p>
+               <p>The career of <persName key="Anni Albers" ref="http://www.wikidata.org/entity/Q86078">Anni Albers</persName> expresses some
+               of the irony of the Bauhaus attitude. Albers,
+               who studied painting before entering the
+               Bauhaus, had a long successful career as a
+               weaver and teacher, but since 1965 she has
+               turned to another art form, printmaking. It
+               is as though, after fighting to prove that
+               weaving is an art, she has given up. "Weaving," she said in a recent interview with
+               <persName key="Gene Baro" ref="http://www.wikidata.org/entity/Q59525641">Gene Baro</persName>, "is not generally recognized as
+               an art, but as a craft. I find that when the
+               work is made with threads, it’s considered a
+               craft; when it's on paper, it’s considered
+               art." (5) Yet Albers’s early writings abound
+               with support of the Bauhaus’s unprejudiced attitude towards materials and their
+               inherent capacities. She explains this attitude in numerous instances that relate as
+               well to anonymity in design.</p>
+               <quote>[...] all art is form in some material [. . .] (6)</quote>
+               <quote>Any material is good enough for art. (7)</quote>
+               <quote>Design is often regarded as the form imposed on the material by the designer. But is
+               we, as designers, cooperate with the material, treat it democratically, you might say
+               we will reach a less subjective solution of
+               this problem of form and therefore a more
+               inclusive and permanent one. The less we,
+               as designers, exhibit in our work our personal traits, our likes and dislikes, our peculiarities and idiosyncrasies, in short, our
+               individuality, the more balanced the form
+               we arrive at will be. It is better that the
+               material speaks than that we speak ourselves. The design that shouts “I am a product of Mr. X” is a bad design. As consumers, we are not interested in Mr. X but in his
+               product, which we want to be our servant
+               and not his personal ambassador. Now, if
+               we sit at our desk designing, we cannot
+               avoid exhibiting ourselves for we are excluding the material as our co-worker, as the directive force in our planning. (8)</quote></div><div>
+               <p>What about the women in areas other
+               than weaving? <persName>Margarete Sachsenberg</persName> was
+               business manager of the Bauhaus from
+               1926-1932, organized the transfer of the
+               Bauhaus to Berlin and set up the administration there. Gerda Marx was a physical
+               education instructor. In 1932, supervision of
+               the interior design workshop and seminar
+               was assigned to Lilli Reich; before this, she
+               was <persName key="Ludwig Mies van der Rohe" ref="http://www.wikidata.org/entity/Q41508">Mies van der Rohe</persName>'s closest associate as
+               an interior designer. When he was director
+               of the Bauhaus, van der Rohe appointed her
+               to direct the weaving workshop as well.
+               Reich was among the last group of faculty in
+               Berlin who voted to close the Bauhaus
+               under pressure from the Nazi regime.</p>
+               <p>The work of a woman in the cabinet-making workshop was one of the first Bauhaus products to receive favorable public
+               response. Alma Buscher’s design for children's furniture was "thought out equally
+               well with respect to practicality, economy
+               and form. When she designed a toy cabinet, it was made for children to play and
+               build with; most of it could be taken apart
+               and reassembled." (9)</p>
+               <p>In the metal workshop, Marianne Brandt
+               studied with <persName key="László Moholy-Nagy" ref="http://www.wikidata.org/entity/Q160448">Moholy-Nagy</persName>.</p>
+<quote>               At first I was not accepted with pleasure-
+               there was no place for a woman in a metal
+               workshop, they felt. They admitted this to
+               me later on and meanwhile expressed their
+               displeasure by giving me all sorts of dull,
+               dreary work. How many little hemispheres
+               did I most patiently hammer out of brittle
+               new silver, thinking that was the way it had
+               to be and all beginnings are hard. Later
+               things settled down and we got along well
+               together. (10)</quote>
+               <p>Illustrations of Brandt’s work in industrial design can be seen in Wingler's Bauhaus: globe lighting fixtures, her famous
+               Kandem lamp, egg cooker, tea and coffee
+               set. A number of these works—along with
+               weavings by Stölzl and Albers—are in the
+               Museum of Modern Art’s permanent collection.</p>
+               <p>Through Alma Mahler, <persName key="Walter Gropius" ref="http://www.wikidata.org/entity/Q61071">Walter Gropius</persName>
+               (founder of the Bauhaus) met <persName key="Johannes Itten" ref="http://www.wikidata.org/entity/Q123138">Johannes Itten</persName> and appointed him teacher of the first
+               preliminary course at the Bauhaus. (11)
+               Through Itten's influence, <persName>Gertrude Grunow</persName> was hired to teach "Studies in Harmony."</p>
+               <p>Fifty-five years old at the time of her appointment, Grunow was a woman of "strong spiritual force" with extraordinary
+               ability to empathize with students — "an
+               intuitively sure hand in dealing with young
+               people." <persName key="Felix Klee" ref="http://www.wikidata.org/entity/Q1403573">Felix Klee</persName> referred to her as "the
+               good spirit of the Bauhaus." (12) According to
+               her synesthetic thinking, one basic entity,
+               the same original phenomenon, is perceivable in sound, color and form. Her quotation is from a Bauhaus publication. (13)</p>
+              <quote> The supreme law, according to which all
+               order is structured, is called equilibrium.
+               Nature, having placed the organ of equilibrium in the ear, has given man a guardian
+               and protector of order, the ear thus being
+               designated to be the immediate and highest
+               judge of order within the organism. The<lb/>
+            
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_059.jpg" n="59" xml:id="img_0059"/>
+            <figure><caption>strong effects that sounds have on man can
+               be attributed to equilibrium. The ear, during strain on the organism, senses the living
+               order of that organism in its own specific,
+               highest form of sensation, namely as sound
+               (of any kind, even noise). Every living force,
+               and thus every color, corresponds to a lawful order, to a sound . ..</caption></figure></quote><p>Further, with regard to the “weight” of
+               color:</p>
+               <quote>The act of weighing derives from the mind
+               judiciously, progressing materially from
+               the heaviest, the structurally firmest to the
+               lightest, most ephemeral, most flexible. The
+               scales and degrees increase and once more
+               require a special order of colors (forces).<lb/>
+               The order of colors . . . occurs as a circular
+               one and constitutes an outward oriented
+               tension of forces . . . The circle, a circle of
+               gravity and equilibrium . . . is a fundamental phenomenon and is of the same importance to statics as the golden section had
+               been for measurement.</quote>
+               <p>Finally, let’s look at the view of Bauhaus
+               women on the community of the Bauhaus; somehow the social organization of
+               the Bauhaus enhanced its influence. Anni
+               Albers describes it as</p>
+               <quote>... a creative vacuum . . . unformalized,
+               unformulated, even contradictory in its var-
+               ious areas. (14)</quote>
+               <p>Called by Felix Klee, "our Bauhaus
+               mother," (15) Tut Schlemmer, wife of the theater director Oskar Schlemmer, described
+               the climate of the Bauhaus as “like being on
+               top of a volcano." (16) She recalled:</p>
+               <quote>the continuous unrest that forced everyone
+               to express a fundamental opinion of profound problems almost daily [...] It was
+               wild and enthusiastic [...] Boys had long
+               hair, girls short skirts. No collars or stockings were worn, which was shocking and extravagant then [...] We developed a Bauhaus dance—a kind of hop expressing the
+               joy of living. [...] In retrospect I believe I
+               understand the secret of how the Bauhaus
+               could develop in the face of incredible difficulties; we simply loved it [...] and felt responsible. (17)</quote>
+               <p>One gets a feeling here for the "unity in
+               diversity" that Gropius described as an objective of the Bauhaus. Lou Scheper, who
+               participated in Klee’s course and Schlemmer’s theater as well as in Itten’s mural
+               workshop, said:</p>
+               <quote>This community corresponded neither to
+               the concept "commune nor the concept" cloister, even though individual Bauhaus
+               people preferred the ascetic’s cell. The Bauhaus community was the sum of significant,
+               independent individuals who could develop
+               more richly in association than in isolation [...] One talked "big"—of the postwar mood
+               of political hope and artistic expectations, of
+               the search for the unified work of art. Play
+               and creative imagination and also a tendency toward mysticism, even to spiritual faith healing and to sectarianism and in addition                a delight in nature taken from the youth movement are the badge of Bauhaus members of that time, who were more artist
+               than technicians, more craftsmen than constructors. It was only later that [...] the Cathedral of Socialism was replaced by [...] Art and Technology. Though the Bauhaus
+               had originally started to produce unique,
+               handcrafted pieces, it later developed [...] the models for industrially produced articles. Both were products of the same feeling
+               for form, the sense of function and materials, and both were a consequence drawn from the social tasks of the time. (18)</quote>
+               <p>The craft areas of the Bauhaus (as reflected in its name, meaning "Building-House") were conceived to produce a unified architectural whole. Women largely were consigned to the additive craft
+               while men worked in the structural "essential" areas. Women, except for Lou
+               Scheper, worked with soft or malleable materials, and on objects that were mobile (furniture, weaving) rather than structurally
+               permanent. Although the Bauhaus is gen-
+               erally regarded as the most innovative art
+               school of the twentieth century, its sexual
+               division of craft continued traditional ideas
+               about women’s work and men’s work.</p>
+               <list>
+                  <item>1) From a roster count in Hans M. Wingler, The Bauhaus: Weimar Dessau Berlin Chicago (Cambridge: MIT Press.
+               1969) pp. 615-621.</item>
+               <item>2) Herbert Bayer, Ise Gropius, and Walter
+               Gropius, Bauhaus 1919-1928 (New
+               York: Museum of Modern Art, 1938,
+               3rd printing, 1959), p. 23.</item>
+               <item>3) Gene Baro, Anni Albers (Brooklyn: The
+               Brooklyn Museum, 1977), p. 6.</item>
+               <item>4) Reprinted in Wingler, p. 116.</item>
+               <item>5) Baro, p. 8.</item>
+               <item>6)“Art—A Constant in Anni Albers, On
+               Designing (Wesleyan, Connecticut:
+               Wesleyan University Press, 1959), p. 46.</item>
+               <item>7) “One Aspect of Art Work”, Albers, p. 32.</item>
+               <item>8) Albers, p. 6.</item>
+               <item>9) Wingler, pp. 429, 503, 440, 532.</item>
+               <item>10) Wingler, pp. 308, 311.</item>
+               <item>11) Wingler, p. 2</item>
+               <item>12) Eckhard Neumann, Bauhaus and Bauhaus People (New York: Van Nostrand
+               Reinhold, 1970), p. 9.</item>
+               <item>13) Wingler, p. 69.</item>
+               <item>14) Interview with Neil Welliver, Craft
+               Horizons, July/August, 1965, p. 42.</item>
+               <item>15) Neumann, p. 43.</item>
+               <item>16) Neumann, p. 155.</item>
+               <item>17) Neumann, p. 154, 156.</item>
+               <item>18) Neumann, p. 114.</item>
+               </list>
+                  </div>
+      </body>
+               <back>
+               <div><p>Martha Keller is an artist who teaches at School Cra,
+               College in Lavonia, Michigan.</p></div>
+      </back>
+  </text>
+</TEI>

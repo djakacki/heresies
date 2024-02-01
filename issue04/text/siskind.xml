@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Apron ... </title>
+            <author>Elli Siskind</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb
+               facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_074.jpg"
+               n="74" xml:id="img_0074"/>
+            <head><title>The Apron... Status Symbol ... or Stitchery Sample?</title></head>
+            <byline>Elli Siskind</byline>
+            <p>The earliest aprons wove a shield of magical strength about the women who wore them,
+               sym bolizing fertility. A Great Moth er figurine, the “Venus of Les pugne,” 14,000
+               B.C., wears an apron beneath her voluptuous buttocks. She is carved of ivory though
+               the apron proclaiming her fecundity was probably wo- ven of pierced cowrie shells.
+               (1)</p>
+            <p>Among Celts and other early English and European tribes aprons vied with body paint
+               as ceremonial costume and decora tion. On every continent triba women wove aprons of
+               feathers, bark and leaves, and patternec them with natural dyes. Aborig- ine virgins
+               in Australia still wea aprons of leaves. (2) The fig lea worn by the mythological Eve
+               was probably a fertility apron rather than a modesty panel. Missionaries, acting upon
+               the body-is-bad principle, replaced these natural materials with cheap cotton
+               pinafores, called in Polynesia the Pina Foa, and sub- stituted Victorian needlework
+               foi traditional “pagan” designs. (3)</p>
+            <p>European peasant women cre- ated brilliantly colored and em- broidered aprons. In
+               Italy long strips of plaid wool or silk edged with embroidered borders were worked in
+               stitchery and worn wrapped around the waist, over- lapping in front. The Koteny made
+               by Hungarian women was highly prized and passed down ir the family. The Indianapolis
+               Children’s Museum owns a Hun- garian apron exuberantly worked with billowing scarlet
+               and red violet poppies and finished with hand-knotted fringe on an em broidered blue
+               and green ground. In Rumania style called for nar row rectangles of gold, black and
+               red horizontal stripes, worn back and front. A Czech apron in rainbow silks displays
+               the jac- quard brocade weaving tech nique. Swedish and Swiss aprons were gaily
+               striped, identifying the parish of the wearer (4)</p>
+            <p>A gypsy woman can ostracize a male member of the tribe by touching or covering him
+               with her apron or katrinsa which sym bolizes to the tribe the marime or unclean
+               status of the lower half of a woman’s body. (5) In the American folk song “Careles
+               Love” the apron is a baromete of virginity lost and the woman’ loss of esteem among
+               males seek ing wives.</p>
+            <quote>Once 1 wore my apron low . . and you came by my door . . Now I wear my apron
+               high. . and you come to my door and pass on by . ..</quote>
+            <p>In Elizabethan England aprons came into fashion. Wealthy, ti- tled women created a
+               frivolous parody of the working apron, stitched in white lawn and ex pensive Franch
+               lace. During the reign of Queen Anne, wedding gowns were not complete without a
+               lace-point apron secured with a jeweled pin. (6)</p>
+            <p>In Victorian England the wife and mother role became separ- ated from household
+               chores for affluent women. A checked ging ham apron was worn by the cook. Kitchen
+               servants and par lormaids wore floor-length white aprons with huge skirts and bibs
+               Ladies sat at their needlework with dainty aprons, announcing their privileged class
+               by the apron’s impracticality. (7)</p>
+            <p>Personal decoration was dis- couraged as vanity by early American settlers. Pilgrim
+               wom en wore snowy-white, full-length aprons set against plain green brown and dull
+               purple homespur skirts.(8) Pioneer women’s apron were tucked many times dowr the
+               front. This enabled the hems, which burnt as they swept the hearth, to be turned up
+               again and again.(9) Aprons of a century ago still carry stains that bear witness to
+               the enduring nature of woman’s work. Middle-class American women in the early
+               nineteenth century wore aprons with their fine Sunday gowns. Those over 30 and/or
+               married were expected to wear black or white, and as a woman grew old- er, black was
+               her only option Silk or satin or other fine ma- terials such as dimity and chiffon
+               could be used to make Sunday aprons and hand-decorating demonstrated a woman’s wifely
+               skills.(10)</p>
+            <p>Aprons dwindled in size as in- dustrialization freed women from the making of dyes,
+               soap, condiments and jellies—not to mention the killing of chickens. Although
+               contemporary women have neither the practical nor the institutionalized need for
+               apron- wearing, by rediscovering the apron in the history of the decor- ative arts,
+               we add to the rich fab- ric of the emerging history of women’s art.</p>
+            <list>
+               <item>1.Hilaire Hiler, From Nudity to Raiment (Paris: Librairie de France, 1929), p.
+                  36.</item>
+               <item>2.Ibid., p. 80.</item>
+               <item>3.Ibid.</item>
+               <item>4.Mary Evans, Costume Throughout the Ages (Phila- delphia: J. B. Lippincott
+                  Co., 1930), pp. 202-245.</item>
+               <item>5.Anne Sutherland, Gypsies: The Hidden Americans (New York: Free Press, 1975),
+                  p. 103.</item>
+               <item>6.Lucy Barton, Historic Cos tume for the Stage (Boston: Baker Co., 1935), p.
+                  230.</item>
+               <item>7.Ibid., p. 320.</item>
+               <item>8.Alice Morse Earle, Two Cen- turies of Costume in America (New York: The
+                  Macmillan Co., 1910), p. 172.</item>
+               <item>9.Told to me by Dixie Clark Connor Prairie Farms, In- dianapolis,
+                  Indiana.</item>
+               <item>10.Told to me by Mary Jane Teeter, Curator of Victorian Art, Children’s Museum
+                  of Indianapolis, Indianapolis. Indiana.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <p>Elli Siskind, originally from Kansas and points West, lives in Indianapolis. She does
+            acrylic paintings, including a recent series of laundromat pieces about women's
+            work.</p>
+      </back>
+   </text>
+</TEI>

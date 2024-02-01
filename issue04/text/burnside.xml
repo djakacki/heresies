@@ -2,13 +2,12 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>TITLE</title>
-            <author>AUTHOR</author>
+            <title>weaving</title>
+            <author>Madeleine Burnside</author>
             <respStmt>
                <persName>Haley Beardsley</persName>
                <resp>Editor (2021- Present)</resp>
@@ -126,7 +125,64 @@
    </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <div><!-- hold -->
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_030.jpg" n="30" xml:id="img_0030"/>
+            <head><title>weaving</title></head>
+            <byline>Madeleine Burnside</byline>
+
+            <p>No mistake. Works at the loom a profusion of thoughts and angrily beats the red into place upon the
+               grey. Makes no haste but in a sustained resentment forces them. Places the yarn. The warps are the
+               parallel paths of her choices that bear her in a single direction, the teeth of the comb fit them, for a
+               moment the colors appear superfluous to the continuing texture. She twists and resents what is seen as
+               beauty arising.</p>
+            
+            <p>At another moment sets the red in blocks in such a way that emotion is confused with attention to the
+               work, the beating of the comb an essential part. She says of her children, sometimes I work at the
+               loom, sometimes they understand. The difference between my life and theirs is that my disgust is not
+               unraveled.</p>
+            
+            <p>To the rhythm of the shuttle shé breaks the symmetry of the pattern bysturning the fourth arrow
+               inwards. In another year she tears her daughter and rémakes the place differently so that scars cross.
+               Her efforts are not to achieve but to continue. Rays of light from the window illuminate areas of the
+               cloth, the sun marks her shines and creases her face. In the increasing brightness she becomes unable  to discriminate between the fabric and the land.</p>
+            
+            <p>She wishes to include her children, those changing qualities in her ife, but as she withholds herself
+               from her disappointments so she comes no nearer to her desires.</p>
+            
+            <p>She sits on the floor and for a moment they feel she is accesible to them, her craft gamelike and
+               simple, they warm to her, they speak.</p>
+
+            <p>At times weaving is not a pleasant task but A vadteland of drudgere an end to which is not promised.
+               She is aware at these times that cutting a rug from the loom does not relieve the ongoing pressure.
+               She fasts. She does not sleep. The time opens and closes before her movemente. She continues filled
+               with a specific calm spreading her hand on the surface of the loom as, beyond the window, the arms of
+               trees are empty, precise, to cátchion the curve of them lines of snow. She considers. It is in this spirit
+               that she has named children, placing upon them varn and dye in the hope that they will perform rites
+               to announce all the phases of their passing.</p>
+            
+               <p>And sitting inside the frame she will recast the work, another play of colors whose relations and
+               individuals set in her mind the parting of the space. It is time to rewarp the loom; she has come very
+               near to the end of the pefmitted period for she has played with the moment here as on other occasions
+               she has forced the thread into pláce and had it shy away from her. She again pauses, lingers in the
+               empty frame and smiles, having freed herself from the pulling of the hours she,makes perfect
+               indifferent gestures at the loom.</p>
+            
+               <p>She perceives this stage as a part of a chain, the links placed in her life as an offering. She draws the
+               edge in or, pulling the thread taut, settles herself within the rigid sides. She gathers her thoughts, they
+               pass into the wool as, when it is spun, scenes from the landscape are twisted into it. She spaces the
+               measures, this is one thread wrapped around the frame, rising and sinking always the same like herself
+               and days.</p>
+               
+            <p>The weavings are all of this thread that eases from her hand a troubled or a sweet excrescence into the
+               world. This is her substance in which the moments are caught, their outline fingered and their matter
+               consumed in such a way that they themselves become the fiber of the web.</p>
+         </div>
       </body>
+     <back>
+              <div>
+               <p>I am a writer, not a weaver. The text is a metaphor for my craft. The descriptions of weaving are based on
+               observations of Navajo women’s traditional skills in Ganado, Arizona, near Canyon de Chelly.</p>
+         </div>
+      </back>
   </text>
 </TEI>

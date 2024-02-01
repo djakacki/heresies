@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITLE</title>
+            <author>AUTHOR</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb
+               facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_106.jpg"
+               n="103" xml:id="img_0106"/>
+            <head><title>Women's Art in Village India</title></head>
+            <p> In discussing the articles we received on different aspects of women and their art
+               in village India, we noticed a recurring theme: artmaking in India is in a state of
+               flux. Colonization, industrialization and the impingement of the world market have in
+               fluenced choices of material, means of production, the meaning of ritual content, the
+               relationship between artist and consumer and the status of the artist in society.
+               Women’s traditional arts such as embroidery and ritual painting on walls and ground,
+               themselves often affected by such changes, co-exist with nontraditional forms such as
+               painting on paper produced specifically for the market. Nontraditional paintings by
+               women from Mithila have received recent attention through articles, a book and ex-
+               hibitions in India and Europe.</p>
+            <p>As we discussed the articles submitted to us, a dilemma became apparent since two
+               distinct interpretations of the meaning of Mithila paintings in terms of ritual
+               content and social significance emerged. It seemed to us that we were seeing a
+               demonstration of ways in which feminist analyses develop and some of the problems in
+               making an accurate woman-centered description. Véquaud and Stendhall <note>Yves
+                  Véquaud, Women Artists of Mithila (London: Thames and Hudson, 1977); Renate
+                  Stendhal, “Ein Volk von Malerinnen” (“A Nation of Women Artists”), Emma, No. 6
+                  (June 1977), pp. 50-53. Thanks to Tobe Levin for her translation of this
+                  article.</note> connected the Maithil<note>2Maithil is the adjective form of
+                  Mithila. ”Personal communication, Tamara Wasserman—E. W.</note> women to a
+               tradition of independent women artists who perpetuated ancient matriarchal customs.
+               We were attracted to their picture of Maithil women as “a nation of women artists.”
+               But as editors we felt that this analysis, in the light of fieldwork observations by
+               feminist sociologists, did not adequately reflect the extremely circum- scribed life
+               typical of women in village India. We noted, moreover, that the traditional painters
+               of Mithila were women of the upper caste, the caste which most strictly requires
+               seclusion of women and absolute obedience to men.</p>
+            <p>On the other hand, the sociological writers tended not to emphasize some of the
+               strengths of women, even in this extremely segregated (sex and caste) society. Women
+               developed their creativity, forming women’s art traditions outside of male control.
+               Most prized by the women themselves is the work derived from weaving raffia or
+               embroidering cloth. Paintings exist in a category other than art; they are sacred
+               acts in themselves. But they are exclusively women’s work—and there lies their
+               interest to us, as we search for examples of traditional women’s art, their designs,
+               materials and techniques.</p>
+            <p>Why a connection was made to matriarchal traditions becomes clearer if we note that
+               in southern India, at least, the ritual wall and ground paintings are made in honor
+               of the goddess Lakshmi, who is throughout Hindu India a patron goddess of women.?
+               Thus the paintings reinforce female concerns and a sense of female community.
+               However, this is the sense of communi- ty that occurs when one group is
+               systematically oppressed. A visually rich and religiously meaningful woman’s art
+               exists. But this does not deny, to our dismay, the real exclusion of women of
+               Mithila, as of other areas of India, from full control of their lives. —The
+               Editors</p>
+         </div>
+         <pb
+            facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_107.jpg"
+            n="104" xml:id="img_0107"/>
+         <div>
+
+            <head>WOMEN OF INDIA</head>
+            <byline>Sharon Wood</byline>
+            <p> Despite the complex and heterogeneous nature of Indian society, there are certain
+               consistent attitudes and values. Such is the case with the status of women: their
+               positions relative to men and to other women, and the practical effects of prevailing
+               atti tudes on their lives.</p>
+            <p>The following description of the roles open to the majority of women is based on my
+               own observations and written sources, Four-fifths of the population are caste Hindus,
+               and unless otherwise indicated, 1 am referring to caste Hindu women. The family, not
+               the individual, is the primary economic and social unit in India. A joint family,
+               where married sons, their wives, unmarried daughters and parents live together, is
+               the Indian ideal. Most women’s lives are spent within the family court yard while men
+               circulate between home, fields, markets, villages and cities. Home is where children
+               first learn to perpetuate the subordination of women.</p>
+            <p>Inferior status is more evident in North India where many women still practice a
+               modified form of Purdah, seclusion at home and covering one’s face in the presence of
+               most men. Purdah became popular during the Muslim rule (approximatel 1200-1700) and
+               was practiced among royal and upper-class women. Centuries of foreign invaders
+               attacked the North, but prior to the British, few penetrated to the South, so it was
+               not necessary to “protect” women by hiding them.</p>
+
+            <div>
+               <head>TOO BAD IT’S A GIRL</head>
+               <p>Parents welcome the birth of their first daughter as a manifestation of the
+                  goddess of wealth. It is considered pious to give away a daughter in marriage, but
+                  with each daughter a dowry must be given, and succeeding daughters mean
+                  substantial, perhaps ruinous expense. Dowries, the only property traditionally
+                  allowed to women, supposedly guarantee their maintenance in their husband’s family
+                  and serve as a tangible measure of economic strength to the community at large.
+                  There is considerable social pressure to continue the dowry system despite its
+                  illegality. Dowries are given by some families who know that the law is
+                  unenforceable, and by many more who do not know of the law’s existence.</p>
+               <p>Sons are preferred because they will remain to contribute financial and physical
+                  support, perpetuate the family line and per- form necessary funeral rites for
+                  their parents.</p>
+               <p>Considered temporary residents, daughters are frequently reminded that they will
+                  marry and go to live with their in-laws. Their share of household work depends on
+                  the economic standing and jati (lineage group within broad caste categories) of
+                  their family. Regardless of caste, all women are expected to know how to cook,
+                  clean and care for children.</p>
+               <p>Traditional education, memorization of religious texts, was denied to women and
+                  the lower castes. Modern education, though prestigious, is an economic luxury for
+                  women.</p>
+            </div>
+            <div>
+               <head>THE ARRANGEMENT</head>
+               <p>The major event in most people’s lives is marriage. Families select potential
+                  spouses to strengthen or improve their social posi- tion. In North India this
+                  takes the form of affiliation between families in distant villages, and in South
+                  India consolidation within a local setting. Thus, a North Indian bride faces total
+                  strangers, perhaps a new language, while a South Indian bride may marry someone as
+                  familiar as a cousin. The transition from parents’ to in-laws’ home is rarely as
+                  traumatic for her.</p>
+               <p>There are a few socially acceptable alternatives to marriage for upper- or
+                  middle-caste women. One is to secure employment in a “proper” profession,
+                     <note>The ideal profession is medicine. Doctors may defy almost all domestic
+                     and societal restrictions and still are highly respected. Nursing, however, is
+                     undesirable because it is associated with traditional midwifery, a low-caste
+                     profession.</note> such as teaching, and continue to live with their parents,
+                  celibate, in a social limbo, their public behavior subject to scrutiny and
+                  criticism by’neighbors. A more drastic but traditional choice, available to
+                  malcontents and nonconform- ists of both sexes, is to leave society and become a
+                  religious devotee: a hard and often solitary life. Most women get married.</p>
+            </div>
+            <div>
+               <head>DEVOTION, DUTY AND SACRIFICE</head>
+               <p>By adolescence, young people have witnessed many marriages and know their
+                  obligations and expectations. A bride should serve her mother-in-law, respectfully
+                  avoid older men, show symbolic and real deference to her husband and have babies.
+                  She expects to be ill- treated by her mother-in-law, to have little in common with
+                  her husband except sex and to be allowed occasional visits to her parents home
+                  where she is a privileged guest.</p>
+               <p>During menstruation women are considered unclean and not allowed to cook. Instead
+                  of resting indoors, they frequently work harder than usual outdoors. As protectors
+                  of domestic purity, they are expected to be more ritually strict than men. Defy-
+                  ing such restrictions is one way women express their anger.</p>
+               <p>Childbirth is ritually unclean. Low-caste midwives, otherwise shunned, enter homes
+                  of all castes and assist. Their freedom of movement is envied by upper-caste women
+                  who haven’t fully rationalized and internalized their own sequestered lives.</p>
+               <p>On almost every social level, a wife’s status improves with the birth of a child,
+                  especially a son. Children are wives’ social insur- ance and the most acceptable
+                  focus of their attention and affection. If women do not produce sons, husbands who
+                  can afford it take another wife. Divorce is an unspeakable disgrace, so the first
+                  wife stays on, adjusting to her lowered status as a barren woman.</p>
+            </div>
+            <div>
+               <head>THE LATER YEARS</head>
+               <p>Maintenance of a joint family demonstrates stability, reliability and strength to
+                  the community, which rewards the family with prestige and economic opportunities.
+                  But many forces work against its continuance: difficulties of integrating brides
+                  into the household, rivalries between nuclear units and possible conflict between
+                  brothers over family property. These find expres- sion in battles between mothers-
+                  and daughters-in-law and among brothers’ wives. Quarrels among women are an
+                  acceptable release of tension. It is believed that women drive apart families
+                  which would otherwise remain peaceably united.</p>
+               <p>In matters beyond the domestic sphere, women are expected to indirectly wield what
+                  power they have through the men in their family. A wife’s status depends on her
+                  husband’s position in the household: after his mother, the oldest son’s wife has
+                  the most authority. Some widowed mothers have considerable influence over their
+                  sons, much to the displeasure of the sons’ wives.</p>
+
+
+               <pb
+                  facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_108.jpg"
+                  n="105" xml:id="img_0108"/>
+               <p> Antagonism between mothers- and daughters-in-law keeps them divided, competing
+                  for their son/husband’s support, and diverts them from more fundamental sources of
+                  discontent inherent in the repressive hierarchy of family relations.</p>
+               <p>Age is respected, and unless widowed, women can attain a secure and powerful
+                  position in their later years.</p>
+               <p>Treatment of widows varies widely depending on their age, relations with their
+                  children and family resources. Young, childless widows dependent on their in-laws
+                  are undoubtedly treated the worst. Widows’ heads are shaved, their glass jewelry
+                  broken and their saris replaced by permanent mourning clothes. Widows are not
+                  allowed to remarry. A proper widow should devote herself to religion and quietly
+                  pine away. Those with the means, interest and determination become involved in
+                  com- munity social services or charity work.</p>
+               <p>In later life, people are encouraged to turn to religion, the selection and
+                  practice of which provide more personal choice than any other aspect of Indian
+                  life. Continued participation in family and social activities is frowned upon.</p>
+            </div>
+            <div>
+               <head>ANOTHER WORLD</head>
+               <p>Low-caste, Harijan (untouchable) and tribal women are more independent
+                  economically, socially and ritually. Poverty forces them to work, and although
+                  they receive lower salaries than men, the result is freedom unknown to their
+                  upper-caste sisters. They choose their husbands, leave or divorce them and remarry
+                  if widowed. This is possible because these people are so poor that a woman’s
+                  wage-earning ability is of great value. But Harijan and tribal women must contend
+                  with real and threatened vio- lence, insults and humiliation due to their caste
+                  ranking.</p>
+            </div>
+            <div>
+               <head>HOW MUCH CONTROL DO WOMEN HAVE OVER THEIR OWN LIVES?</head>
+               <p>In one lifetime, women fulfill a number of assigned roles, each with its own
+                  privileges and constraints. Transitions between roles are often abrupt, making it
+                  very difficult to retain and consolidate power or authority.</p>
+               <p>Upper-caste women have more economic security and community respect, accompanied
+                  by physical and social confinement.</p>
+               <p>Lower-caste women have the possibility of choice in their domestic relations, but
+                  live and die in crushing poverty.</p>
+               <p>A U.N. report notes that on a worldwide basis</p>
+               <p>.. .even where women have made major gains in acquiring access to knowledge,
+                  training and economic independence, their share in decision-making in both the
+                  family and in public life—that is, their share of political power—appears to lag
+                  behind their share in other resources. <note>2U.N. Department of Economic and
+                     Social Affairs, Status of Women and Family Planning.</note></p>
+            </div>
+
+            <div>
+               <list>
+                  <item>Beteille, Andre and Madan, T.N., Encounter and Experience: Personal Accounts
+                     of Fieldwork. Delhi: Vikas Publishing House, 1975.</item>
+                  <item> Cormack, Margaret, The Hindu Woman. New York: Teachers College, Columbia
+                     University, 1953.</item>
+                  <item>Das, Frieda Hauswirth, Purdah: The Status of Indian Women. New York: Vangard
+                     Press, 1932. Mandelbaum, D. G., Society in India. Berkeley: University of
+                     California Press, 1970, vol. 1 and 2.</item>
+                  <item>Masani, Mehra, “Indian Women: Second Class Citizens,” Illustrated Weekly of
+                     India, Vol. XCVI, No. 9, March 2, 1975, p. 4</item>
+                  <item>Mies, Maria, “Indian Women and Leadership,” Bulletin of Concerned Asian
+                     Scholars, Vol. 7, No. 1, January-March 1975, p. 56.</item>
+                  <item>Minturn, L. and Hitchcock, J., The Rajputs of Khalapur, India. New York:
+                     John Wiley and Sons, 1966.</item>
+                  <item>Mody, Susan and Mhatre, Sharayu, “Sexual Class in India,” Bulletin of
+                     Concerned Asian Scholars, Vol. 7, No. 1, January-March 1975, p. 49.</item>
+                  <item>Omvedt, Gail, “Caste, Class, and Women’s Liberation in India,” Bulletin of
+                     Concerned Asian Scholars, Vol. 7, No. 1, January-March 1975, p. 43.</item>
+                  <item>U.N. Department of Economic and Social Affairs, Status of Women and Family
+                     Planning. New York: U.N. Publications, 1975.</item>
+               </list>
+            </div>
+
+            <div>
+               <head>On The Status of Women in India</head>
+               <list>
+                  <item>Contrary to demographic averages, the ratio of men to women in India is
+                     100:93. This is attributed to the neglect of females.</item>
+                  <item>90% of abandoned babies in Delhi, the Indian capital, are female.§</item>
+                  <item>The Indian Constitution proposed universal, free, compulsory edu- cation but
+                     postponed it to 1965, then to 1981. In 1971, 97% of boys and 62% of girls aged
+                     6 to 11 years were enrolled in school. Actual attendance figures were not
+                     available.</item>
+                  <item>60% of all children drop out of school before the fifth grade.†</item>
+                  <item>39% of the male and 18.7% of the female population were literate in 1974;
+                     40% of the “literate” women can only sign their names.</item>
+                  <item>4/5 of the population is rural; 13.2% of rural women are literate. Women
+                     formed 18% of the work force in 1971, a decrease from 27 in 1961. The official
+                     explanation was “economic stagnation,” but employers use protective labor laws
+                     as excuses to not hire women.7</item>
+                  <item>80% of working women are agricultural laborers, 15% work in fac- tories or
+                     plantations, or as unorganized laborers such as bidi (cig- arette) makers,
+                     hawkers, and domestic servants. 90% of working women are illiterate.7</item>
+                  <item>5% of urban women who matriculated and 20% of university grad- uates find
+                     work; only 0.4% of Indian women hold degrees.</item>
+                  <item>50% of employed, educated women teach primary school, 15% are clerks or
+                     typists, 15% teach secondary school, 7% are nurses and 10% are doctors,
+                     lawyers, college teachers, artists, administrators, etc.†</item>
+                  <item>15% of all rural women are married before 14 years of age.</item>
+                  <item>71% of women aged 15 to 19 were married, widowed or divorced in
+                     1961.§</item>
+                  <item>100,000 women, mostly widows, aged 20 to 45, become destitute every year due
+                     to lack of work.</item>
+                  <item>Life expectancy for men is 51.3 years, and 49.6 for women.</item>
+                  <item>§U.N. Department of Economic and Social Affairs, Status of Wom- en and
+                     Family Planning (New York: U.N. Publications, 1975).</item>
+                  <item>Masani, Mehra, “Indian Women: Second Class Citizens,” Illus- trated Weekly
+                     of India, Vol. XCVI, No. 9 (March 2, 1975), p. 4.</item>
+                  <item>tTimes of India, sec. 1. p. 1 (June 7. 19751.</item>
+               </list>
+            </div>
+         </div>
+         <div>
+            <pb
+               facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_109.jpg"
+               n="106" xml:id="img_0109"/>
+
+            <head>Embroidery from the Northwest</head>
+            <byline>Zette Emmons</byline>
+            <p>In the 700,000 villages of India, the peasant woman is born into a set of prescribed
+               rituals which she is responsible for maintaining and transmitting. Traditional art is
+               one form these rituals take; in Northwestern India, an area historically rich in all
+               kinds of textiles, peasant women embroider. A classification of textiles made in
+               India for domestic use includes “skilled work of weavers and dyers, who work close to
+               large market towns; articles of luxury made under court patronage or in the court
+               tradition; folk embroidery; and fabrics of the aborigina tribes.”<note>John Irwin,
+                  Textiles and Ornaments of India (New York: The Museum of Modern Art, 1956), p.
+                  29</note> The first two forms of production are dominated by male weavers and
+               craftsmen working in a commercial structure. The fourth is outside the mainstream of
+               Indian village life, though folk embroidery draws upon many aboriginal antecedents
+               which have become tangled with Islamic and Hindu influences.</p>
+            <p>The depth of religious feeling and devotion that permeates Indian village life does
+               not exist in the West in any comparable way, and it is fron this regard for the
+               deities that the impulse to create something beautiful and worthy seems to come.
+               Outer and inner worlds are merged in a relationship kept flowing and harmonious by
+               the constant application of visible symbols and signs. Everything is part of
+               everything else; there is none of the “disconnectedness” that is so much a part of
+               life in the West. When the woman embroiders, she is conscious of the decorativenes of
+               what she does, but she also has the satisfaction of honoring the world of the spirits
+               residing in the plants and animals which she imitates in thread. Even the poorest
+               village woman is capable of making her life more bearable and secure by the
+               application of decoration to her house on herself. A Krishna proverb which applies to
+               village women at work is—“I take the form desired by my worshippers.” <note>Anand,
+                  Mulk Raj, “The Hand and the Heart,” MARG (Bombay: Marg Publications, 1969), p.
+                  6.</note></p>
+            <p>Women wear blouses, full skirts and shawls, all heavily embroidered. They spend their
+               spare time embroidering not only their own clothing or trousseaus for their
+               daughters, but also natis (children s headdresses), toranas (wall hangings), animal
+               trappings and small bags for carrying jewelry and other small items. To wear someone
+               else’s clothing would be unthinkable. When the wearer dies or when a garment is worn
+               out, the old garment is cast off.</p>
+            <p>Patterns to be embroidered are drawn onto cloth, which is worked in flat sections and
+               sewn together when finished. Chain, cross and but- tonhole stitches cover the surface
+               with patterns; satin stitching fills large areas with color. Small mirrors or pieces
+               of mica are used extensively, interspersed fancifully with the embroidery. Mirrors
+               also decorate walls, furniture and even chicken coops. They are not only attractive.
+               flashing in the sun, but also frighten away demons.</p>
+            <p>In the designs of peasant women in all parts of India, the essences of the animals,
+               flowers and gods are revealed, emphasized by repetition. Dots, triangles and lines
+               are arranged in panels surrounding abstracted symbols and objects. Even buses,
+               bicycles and airplanes may be incor- porated into the work. The sense of color is
+               more pronounced in the Northwest than in any other part of India. Traditional dyes
+               have been derived from indigo, cochineal (red made from crushed insect bodies), iron
+               filings (black), saffron and various other plants yielding yellows and oranges. Pupul
+               Jayaker of the All-India Handicrafts Board describes the emotional content for
+               peasant women of the colors they use.</p>
+            <quote>Red was the color of Chunari, a tie-dyed sari, and was the symbol of sohog, the
+               first days of marriage and love-play. It was the garment worn by the Abhisarika, the
+               young woman seeking in the darkness of night her waiting beloved. Saffron or gerua
+               was the color of Vasant, of spring, of young mango blossoms, of swarms of bees, of
+               southern winds and the passionate cry of mating birds. Maroon and black were the
+               colors of mourning. Blue or nil, the color of indigo, was also the color of Krishna,
+               the cowherd child-god who bore the name of Navjaldhar—he who is of that color, that
+               of the newly formed cloud, dormant with the darkness that is rain. But there was
+               another blue, Hari nil, or the color of water which is reflecting a clear spring sky.
+                  <note>Irwin, p. 20.</note></quote>
+            <p>Daughters learn embroidery from their mothers who teach not only the techniques but
+               the mythology that provides much of the subject mat ter for their images. Styles in
+               the village gradually change according to the inclination of successive generations
+               of artists and the impact of cultures. Islamic influence is seen in the geometric
+               mazes and flower patterns; the bright colors and looser flowing lines are Hindu in
+               origin.</p>
+            <p>In the twentieth century industrialization has made inroads on every Indian village,
+               no matter how remote. The survival of women’s arts, especially embroidery is being
+               threatened by the adoption of bright, mill-made cloth. Synthetic dyes have largely
+               replaced traditional ones. Im- itation printed or machine-sewn embroidery also
+               appears now in place of the real thing. In recognition of this the All-India
+               Handicrafts Board has provided incentives for maintaining quality by turning some
+               previously noncommercial arts into quality-controlled commodities. This often has the
+               opposite effect of the one intended, because the spark of life may go out of work
+               produced for an unknown market whose needs are irrelevant to the rural craftsperson.
+               Gandhi believed that it was possible and desirable for India to return to a
+               village-centered economy in which the machine would be relegated to a minor role and
+               the villager dictate the pace of life. Although his ideas are out of favor in
+               present-day India, there is still a sentimental longing for that kind of simplicity
+               in which the drive to create and survive comes out of the soil. The peasant woman
+               holds on to the old ways for the time being, but there is no doubt that even she will
+               become a victim, willing or not, of the changes that have afflicted the West since
+               the industrial revolution.</p>
+         </div>
+
+         <div>
+            <pb
+               facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_110.jpg"
+               n="107" xml:id="img_0110"/>
+
+            <head> Mithila Paintings</head>
+            <byline>Erika Mosei</byline>
+
+            <p>Mithila is a large region in North Bihar with an ancient high culture which is
+               represented in the Sanskrit written tradition of the Brahman caste. The “painting
+               women of Mithila” who belong to this elite sociocultural stratum are a numerical
+               minority. They have more leisure time to practice their art skills than do women of
+               lower castes.</p>
+            <p>What is specific to the art of these Maithil women? To answer this question it is
+               necessary to understand the traditional hierarchy of arts and artisans. As in our own
+               culture, manual labor and handmade art such as sculpture or painting have, in spite
+               of highly developed techniques and theories, been considered less prestigious
+               professions than mental labor and intellectual art like poetry. In a male-dominated
+               hierarchica society like India’s, the latter sphere is traditionally occupied, with
+               few exceptions, by men of high rank. Tasks requiring skilled hands ar- relegated to
+               low-caste occupational specialists</p>
+            <p>In addition to the arts and crafts of specialists, nonprofessional domestic art is
+               produced by women as part of their household duties. Orna mental decoration with
+               symbolic meaning is made on festive occasions to beautify the home, household
+               utensils, and those who live in the house. The numerous festivities of the life and
+               calendar cycles, especially marriages, are functional occasions for the art of women.
+               The most eye-catching of the domestic arts are the wall and floor drawings, two
+               aspects of the total range of women’s traditional arts which use many media, styles
+               and contents. Wall murals feature motifs of gods and goddesses, epic scenes, brides
+               and grooms and fertility symbols. Floor designs are made with rice flour dissolved in
+               water and drawn with the fingers to mark a kind of ground altar for household
+               rituals. What is considered the ritual center of the drawing is covered very
+               carefully with earth after ritual use so that no one will accidentally step on it.
+               The other ornamental forms, however, remain exposed to the sun and rain.</p>
+            <p>Objects of high aesthetic quality are created as gifts for friends and relatives and
+               as donations to the gods. Such domestic art done by women is usually not highly
+               esteemed. In fact the concept of art is usually not applied to it though its creative
+               qualities equal those of classical art There are various explanations for the low
+               prestige of women’s traditional domestic arts:</p>
+            <p>The objects are primarily functional, having an everyday household use rather than
+               being representative monuments of social prestige. In addition, symbolic items are
+               prepared for one time use only in a specific ritual context</p>
+            <p>The raw material out of which the art is made is usually regarded as being of little
+               value because it is freely available, e.g., grass, mud. flowers and other organic
+               material, self-prepared colors. Also, the materials tend not to be durable so that
+               objects become unattractive within a short time. The objects are predominantly
+               hand-worked. Highly developed tools and technologies are rarely used in their
+               production. Thi kind of art is available without cost, a feature which tends to
+               undermine its appreciation</p>
+            <p>High-caste Brahman males may become defiled by doing manual labor; thus domestic work
+               is left to low-caste servants and housewives. In this context, how was it possible
+               that out of the mass of women in India a few could break out of the rigid traditional
+               value system to become famous as a group in the world market of naive and folk art,
+               producing paintings which sell as “Mithila paintings”?</p>
+            <p>A clue to the answer lies in the word “market.” In 1967-1968, after a famine, the
+               government of India carried out a relief program in North Bihar. At that time,
+               various handicrafts were bought and women were encouraged to prepare sikki grass work
+               and other traditional folk arts on payment. Pupul Jayakar, the woman who headed the
+               Handicrafts and Handlooms Exports Corporation at that time in Delhi, introduced the
+               idea of distributing handmade paper among village women so that they could transfer
+               their traditional motifs from murals and floor designs or to paper and create
+               marketable products. The All-India Handicrafts Board promoted this project. In
+               response to a Western demand for naive and folk art with ritual and oriental themes,
+               the Mithila paintings became commercially successful. Unlike the ritual traditional
+               art forms, the paintings on paper are not symbolic forms of meditation and prayer,
+               but are made explicitly in order to eamn money. (When the demand is there, they are
+               produced daily.) This, at least, is the way the women themselves view their artistic
+               achievements</p>
+            <p>About 500 women in the region paint for the market. For most women painting is not
+               the main source of family income. The money earned through painting is rarely
+               available for personal use. In most cases, male members of the family collect and
+               spend the money the women earn. But even though the earnings are not theirs to keep,
+               most benefit from their work either psychologically or by eliciting what has rarely
+               beer possible for them—social prestige and respect from male family members. (Three
+               of the women received the highest prize, the “Nationa Award of Master-Craftsmen” from
+               the All-India Handicrafts Board.) Together, the women painters of Mithila have
+               achieved collective acclaim for their region</p>
+            <p>The concepts of art and creativity in our Westem sense do not exist at all in this
+               context. What we mean by traditional art is for these women a part of domestic ritual
+               decoration, which extends far beyond the area of drawing and painting. Painting has
+               been selected for promotion from the whole complex of domestic art skills because
+               critical criteria have been brought in from the outside. These criteria, deduced from
+               Western traditional art academic categories, value painting as highly-esteemed
+               bourgeois art. Typical female skills like embroidery do not have much worth on such
+               scales. The women of Mithila in fact value textile art skills and, above all, the
+               fine weaving of sikki, higher than painting Interestingly, when formerly disregarded
+               female work succeeds commercially, males join the ranks, and, in this case, even
+               Brahman mer have acted as helpers, publicity agents or even as painters.</p>
+            <p>The art of the women of Mithila is exemplary of an indigenous woman’s art as opposed
+               to women’s art in the West which still, in the realm of "fine” arts, may be regarded
+               as imitative of dominating male art styles. The ideology that male artists have been
+               the major creative geniuses and that women have been the followers is usually
+               accepted without question on the simple basis that there have been more famous male
+               artists in the history of art. Only in some seemingly insignificant corners of the
+               world has female creativity had the chance to develop without male competition,
+               mainly in the domestic sphere</p>
+         </div>
+
+      </body>
+      <back>
+         <p>Sharon Wood is a student of film at San Francisco State. She traveled in India in 1974
+            and plans to return to do further film work. 105</p>
+         <p> Zete Emmons vas born in San Francisco and studied at the University of California at
+            Berkeley. She spent 1971-1972 in India documenting folk art on a grant from Berkeley and
+            presently lives in Kingston, R.I</p>
+         <p> Erika Moser is a lecturer of visual anthropology at the South Asia Institute,
+            University of Heidelberg, Germany. She is the Vice-President of the Society for Folk
+            Arts Preservation, Inc.</p>
+      </back>
+   </text>
+</TEI>
