@@ -146,10 +146,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20230927021148911",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20230927021148911",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-09-27T00:11:48.911Z",
-	"dcterms:modified": "2023-09-27T00:11:48.911Z",
 	"dcterms:creator": {
 		"@id": "23",
 		"@type": [
@@ -160,21 +159,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20230927021148911#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20230927021148911#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20230927021148911#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20230927021148911#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/byline/persName"
 		}
@@ -185,7 +184,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -226,10 +225,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537287",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537287",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.287Z",
-	"dcterms:modified": "2024-02-06T11:35:37.287Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -240,21 +238,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537287#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537287#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537287#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537287#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[2]"
 		}
@@ -265,7 +263,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -305,10 +303,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.288Z",
-	"dcterms:modified": "2024-02-06T11:35:37.288Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -319,21 +316,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[3]"
 		}
@@ -344,7 +341,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -385,10 +382,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.288Z",
-	"dcterms:modified": "2024-02-06T11:35:37.288Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -399,21 +395,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[4]"
 		}
@@ -424,7 +420,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -464,10 +460,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.288Z",
-	"dcterms:modified": "2024-02-06T11:35:37.288Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -478,21 +473,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[5]"
 		}
@@ -503,7 +498,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -543,10 +538,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.288Z",
-	"dcterms:modified": "2024-02-06T11:35:37.288Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -557,21 +551,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[6]"
 		}
@@ -582,7 +576,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -623,10 +617,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.288Z",
-	"dcterms:modified": "2024-02-06T11:35:37.288Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -637,21 +630,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[7]"
 		}
@@ -662,7 +655,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -702,10 +695,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.288Z",
-	"dcterms:modified": "2024-02-06T11:35:37.288Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -716,21 +708,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537288#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[8]"
 		}
@@ -741,7 +733,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -782,10 +774,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.289Z",
-	"dcterms:modified": "2024-02-06T11:35:37.289Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -796,21 +787,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[9]"
 		}
@@ -821,7 +812,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -862,10 +853,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.289Z",
-	"dcterms:modified": "2024-02-06T11:35:37.289Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -876,21 +866,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[10]"
 		}
@@ -901,7 +891,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -942,10 +932,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.289Z",
-	"dcterms:modified": "2024-02-06T11:35:37.289Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -956,21 +945,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[11]"
 		}
@@ -981,7 +970,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -1021,10 +1010,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.289Z",
-	"dcterms:modified": "2024-02-06T11:35:37.289Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1035,21 +1023,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[12]"
 		}
@@ -1060,7 +1048,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -1101,10 +1089,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.289Z",
-	"dcterms:modified": "2024-02-06T11:35:37.289Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1115,21 +1102,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[13]"
 		}
@@ -1140,7 +1127,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -1180,10 +1167,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.289Z",
-	"dcterms:modified": "2024-02-06T11:35:37.289Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1194,21 +1180,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537289#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[14]"
 		}
@@ -1219,7 +1205,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -1260,10 +1246,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.290Z",
-	"dcterms:modified": "2024-02-06T11:35:37.290Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1274,21 +1259,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[15]"
 		}
@@ -1299,7 +1284,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -1339,10 +1324,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.290Z",
-	"dcterms:modified": "2024-02-06T11:35:37.290Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1353,21 +1337,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[16]"
 		}
@@ -1378,7 +1362,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -1419,10 +1403,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.290Z",
-	"dcterms:modified": "2024-02-06T11:35:37.290Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1433,21 +1416,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[17]"
 		}
@@ -1458,7 +1441,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -1498,10 +1481,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.290Z",
-	"dcterms:modified": "2024-02-06T11:35:37.290Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1512,21 +1494,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[18]"
 		}
@@ -1537,7 +1519,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -1577,10 +1559,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.290Z",
-	"dcterms:modified": "2024-02-06T11:35:37.290Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1591,21 +1572,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537290#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[19]"
 		}
@@ -1616,7 +1597,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -1656,10 +1637,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537291",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537291",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.291Z",
-	"dcterms:modified": "2024-02-06T11:35:37.291Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1670,21 +1650,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537291#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537291#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537291#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537291#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[20]"
 		}
@@ -1695,7 +1675,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -1736,10 +1716,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537291",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537291",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.291Z",
-	"dcterms:modified": "2024-02-06T11:35:37.291Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1750,21 +1729,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537291#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537291#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537291#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240206123537291#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[21]"
 		}
@@ -1775,7 +1754,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -1815,10 +1794,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206123537291",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206123537291",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.291Z",
-	"dcterms:modified": "2024-02-06T11:35:37.291Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1829,21 +1807,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206123537291#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206123537291#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206123537291#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206123537291#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/title"
 		}
@@ -1854,7 +1832,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -1894,10 +1872,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537293",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?note_annotation_20240206123537293",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.293Z",
-	"dcterms:modified": "2024-02-06T11:35:37.293Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1908,21 +1885,21 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537293#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?note_annotation_20240206123537293#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537293#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?note_annotation_20240206123537293#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/note"
 		}
@@ -1933,7 +1910,7 @@
 		"rdf:value": "Murasaki Shikibu is widely considered to be the first female novelist: \"The Tale of Genji\""
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -1973,10 +1950,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537294",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?note_annotation_20240206123537294",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:35:37.294Z",
-	"dcterms:modified": "2024-02-06T11:35:37.294Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1987,21 +1963,21 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537294#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?note_annotation_20240206123537294#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537294#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?note_annotation_20240206123537294#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/note[2]"
 		}
@@ -2012,7 +1988,7 @@
 		"rdf:value": "Miss Bailey, the title character in a short story written by George Colman."
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -2052,88 +2028,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537296",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-02-06T11:35:37.296Z",
-	"dcterms:modified": "2024-02-06T11:35:37.296Z",
-	"dcterms:creator": {
-		"@id": "1",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "admin"
-	},
-	"oa:motivatedBy": "oa:describing",
-	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537296#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537296#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[4]/note"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NoteInternal",
-		"dc:format": "text/plain",
-		"rdf:value": "Likely a reference to Elisabeth Pepys, wife of Samuel Pepys and focus of the speculative novel/diaristic synthesis \"The Journal of Mrs. Pepys.\" "
-	},
-	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206124025645",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206124025645",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:40:25.645Z",
+	"dcterms:modified": "2024-02-06T11:40:25.645Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -2144,21 +2042,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206124025645#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206124025645#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206124025645#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206124025645#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/note/title"
 		}
@@ -2169,7 +2067,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -2209,10 +2107,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206123959679",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206123959679",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T11:39:59.679Z",
-	"dcterms:modified": "2024-02-06T11:39:59.679Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -2223,21 +2120,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206123959679#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206123959679#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206123959679#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206123959679#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/title"
 		}
@@ -2248,7 +2145,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -2288,10 +2185,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206211203693",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206211203693",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T20:12:03.693Z",
-	"dcterms:modified": "2024-02-06T20:12:03.693Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -2302,21 +2198,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206211203693#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206211203693#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206211203693#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206211203693#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/back/div/p/title"
 		}
@@ -2327,7 +2223,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -2367,10 +2263,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206213528964",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206213528964",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-06T20:35:28.964Z",
-	"dcterms:modified": "2024-02-06T20:35:28.964Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -2381,21 +2276,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206213528964#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206213528964#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
+			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206213528964#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240206213528964#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/back/div/p/title[2]"
 		}
@@ -2406,7 +2301,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
+		"@id": "https://leaf-writer.leaf-vre.org",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -2438,7 +2333,7 @@
          	<pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_018.jpg" n="18" xml:id="img_0018"/>
          <p>I've spent a lot of my time in the library here, picking out obscure references to memoirs written by bad ladies two hundred years ago and novels by worse ladies who, although personally blameless, wrote wicked books: <title key="A Romance of the Pyrenees" ref="https://archive.org/details/romancepyrenees05cuthgoog/page/n3/mode/2up">A Romance of the Pyrenees</title>.
 				<title>Marianna</title> or <title>The Puritan's Daughter</title>. Weird, ghastly stuff. Five romances under the pseudonym <emph><persName key="Jane Austen" ref="http://www.wikidata.org/entity/Q36322" cert="medium" role="aut" type="real">By a Lady</persName></emph>. Domestic sentiment. Gothic castles. Purity. If only I can reduce this pulp to pulp and spread it out into some kind of shape. Dead voices,
-				haunting and terrible: I want, I need, I hope, I believe. What sort of homes did they have? Did they do their own cooking? Did they expect to get pregnant every year? (See Mrs. Defoe's journal.) The awful constriction, the huge skirts. Mrs. Pepys<note type="researchNote">Likely a reference to Elisabeth Pepys, wife of Samuel Pepys and focus of the speculative novel/diaristic synthesis "The Journal of Mrs. Pepys." </note>' dress allowance (''the poor wretch," her husband called her). How are we fall'n, fall'n by mistaken rules!" "Women live like Bats or
+				haunting and terrible: I want, I need, I hope, I believe. What sort of homes did they have? Did they do their own cooking? Did they expect to get pregnant every year? (See Mrs. Defoe's journal.) The awful constriction, the huge skirts. Mrs. Pepys' dress allowance (''the poor wretch," her husband called her). How are we fall'n, fall'n by mistaken rules!" "Women live like Bats or
 				Owls, labour like Beasts, and die like Worms." "Anyone may blame me who likes." "How good it must be to be a man when
 				you want to travel." "John laughs at me, but one expects that in marriage." "It had all been a therapeutic lie. The mind was powerless to save her. Only a man . . ." "I / Revolve in my / Sheath of impossibles—"  Scholars don’t usually sit gasping and sobbing in corners of the library stacks.
 </p><p>				But they should. They should.</p>
