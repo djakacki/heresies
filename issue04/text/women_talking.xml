@@ -146,9 +146,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927021148911",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20230927021148911",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-09-27T00:11:48.911Z",
+	"dcterms:modified": "2023-09-27T00:11:48.911Z",
 	"dcterms:creator": {
 		"@id": "23",
 		"@type": [
@@ -159,10 +160,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927021148911#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20230927021148911#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -173,7 +174,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927021148911#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20230927021148911#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/byline/persName"
 		}
@@ -225,24 +226,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927021043777",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537287",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:10:43.777Z",
-	"dcterms:modified": "2023-09-27T00:10:43.777Z",
+	"dcterms:created": "2024-02-06T11:35:37.287Z",
+	"dcterms:modified": "2024-02-06T11:35:37.287Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927021043777#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537287#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -253,88 +254,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927021043777#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537287#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[4]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q40909",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927021414169",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:14:14.169Z",
-	"dcterms:modified": "2023-09-27T00:14:14.169Z",
-	"dcterms:creator": {
-		"@id": "23",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Kelly Troop"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927021414169#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927021414169#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[2]"
+			"rdf:value": "TEI/text/body/div/p/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -383,24 +305,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927021525166",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:15:25.166Z",
-	"dcterms:modified": "2023-09-27T00:15:25.166Z",
+	"dcterms:created": "2024-02-06T11:35:37.288Z",
+	"dcterms:modified": "2024-02-06T11:35:37.288Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927021525166#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -411,9 +333,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927021525166#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[3]"
+			"rdf:value": "TEI/text/body/div/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -463,24 +385,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927022543313",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:25:43.313Z",
-	"dcterms:modified": "2023-09-27T00:25:43.313Z",
+	"dcterms:created": "2024-02-06T11:35:37.288Z",
+	"dcterms:modified": "2024-02-06T11:35:37.288Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927022543313#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -491,9 +413,88 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927022543313#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[5]"
+			"rdf:value": "TEI/text/body/div/p/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q40909",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-06T11:35:37.288Z",
+	"dcterms:modified": "2024-02-06T11:35:37.288Z",
+	"dcterms:creator": {
+		"@id": "1",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "admin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -542,24 +543,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927022719882",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:27:19.882Z",
-	"dcterms:modified": "2023-09-27T00:27:19.882Z",
+	"dcterms:created": "2024-02-06T11:35:37.288Z",
+	"dcterms:modified": "2024-02-06T11:35:37.288Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927022719882#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -570,9 +571,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927022719882#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[6]"
+			"rdf:value": "TEI/text/body/div/p/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -622,24 +623,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927022830608",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:28:30.608Z",
-	"dcterms:modified": "2023-09-27T00:28:30.608Z",
+	"dcterms:created": "2024-02-06T11:35:37.288Z",
+	"dcterms:modified": "2024-02-06T11:35:37.288Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927022830608#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -650,9 +651,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927022830608#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[7]"
+			"rdf:value": "TEI/text/body/div/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -701,24 +702,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023001477",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:30:01.477Z",
-	"dcterms:modified": "2023-09-27T00:30:01.477Z",
+	"dcterms:created": "2024-02-06T11:35:37.288Z",
+	"dcterms:modified": "2024-02-06T11:35:37.288Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023001477#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -729,9 +730,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023001477#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537288#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[8]"
+			"rdf:value": "TEI/text/body/div/p/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -781,24 +782,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023106663",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:31:06.663Z",
-	"dcterms:modified": "2023-09-27T00:31:06.663Z",
+	"dcterms:created": "2024-02-06T11:35:37.289Z",
+	"dcterms:modified": "2024-02-06T11:35:37.289Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023106663#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -809,9 +810,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023106663#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[9]"
+			"rdf:value": "TEI/text/body/div/p/persName[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -861,24 +862,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023204701",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:32:04.701Z",
-	"dcterms:modified": "2023-09-27T00:32:04.701Z",
+	"dcterms:created": "2024-02-06T11:35:37.289Z",
+	"dcterms:modified": "2024-02-06T11:35:37.289Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023204701#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -889,9 +890,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023204701#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[10]"
+			"rdf:value": "TEI/text/body/div/p/persName[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -941,24 +942,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023317768",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:33:17.768Z",
-	"dcterms:modified": "2023-09-27T00:33:17.768Z",
+	"dcterms:created": "2024-02-06T11:35:37.289Z",
+	"dcterms:modified": "2024-02-06T11:35:37.289Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023317768#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -969,9 +970,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023317768#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[11]"
+			"rdf:value": "TEI/text/body/div/p/persName[11]"
 		}
 	},
 	"oa:hasBody": {
@@ -1020,24 +1021,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023433707",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:34:33.707Z",
-	"dcterms:modified": "2023-09-27T00:34:33.707Z",
+	"dcterms:created": "2024-02-06T11:35:37.289Z",
+	"dcterms:modified": "2024-02-06T11:35:37.289Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023433707#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1048,9 +1049,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023433707#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[12]"
+			"rdf:value": "TEI/text/body/div/p/persName[12]"
 		}
 	},
 	"oa:hasBody": {
@@ -1100,24 +1101,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023612773",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:36:12.773Z",
-	"dcterms:modified": "2023-09-27T00:36:12.773Z",
+	"dcterms:created": "2024-02-06T11:35:37.289Z",
+	"dcterms:modified": "2024-02-06T11:35:37.289Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023612773#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1128,9 +1129,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023612773#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[13]"
+			"rdf:value": "TEI/text/body/div/p/persName[13]"
 		}
 	},
 	"oa:hasBody": {
@@ -1179,24 +1180,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023815930",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:38:15.930Z",
-	"dcterms:modified": "2023-09-27T00:38:15.930Z",
+	"dcterms:created": "2024-02-06T11:35:37.289Z",
+	"dcterms:modified": "2024-02-06T11:35:37.289Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023815930#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1207,9 +1208,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023815930#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537289#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[14]"
+			"rdf:value": "TEI/text/body/div/p/persName[14]"
 		}
 	},
 	"oa:hasBody": {
@@ -1259,24 +1260,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023921568",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:39:21.568Z",
-	"dcterms:modified": "2023-09-27T00:39:21.568Z",
+	"dcterms:created": "2024-02-06T11:35:37.290Z",
+	"dcterms:modified": "2024-02-06T11:35:37.290Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023921568#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1287,9 +1288,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927023921568#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[15]"
+			"rdf:value": "TEI/text/body/div/p/persName[15]"
 		}
 	},
 	"oa:hasBody": {
@@ -1338,24 +1339,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927024208521",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:42:08.521Z",
-	"dcterms:modified": "2023-09-27T00:42:08.521Z",
+	"dcterms:created": "2024-02-06T11:35:37.290Z",
+	"dcterms:modified": "2024-02-06T11:35:37.290Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927024208521#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1366,9 +1367,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927024208521#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[16]"
+			"rdf:value": "TEI/text/body/div/p/persName[16]"
 		}
 	},
 	"oa:hasBody": {
@@ -1418,24 +1419,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927024328741",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:43:28.741Z",
-	"dcterms:modified": "2023-09-27T00:43:28.741Z",
+	"dcterms:created": "2024-02-06T11:35:37.290Z",
+	"dcterms:modified": "2024-02-06T11:35:37.290Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927024328741#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1446,9 +1447,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927024328741#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[17]"
+			"rdf:value": "TEI/text/body/div/p/persName[17]"
 		}
 	},
 	"oa:hasBody": {
@@ -1497,23 +1498,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927025344229",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:53:44.229Z",
+	"dcterms:created": "2024-02-06T11:35:37.290Z",
+	"dcterms:modified": "2024-02-06T11:35:37.290Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927025344229#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1524,9 +1526,167 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927025344229#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[20]"
+			"rdf:value": "TEI/text/body/div/p/persName[18]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q447019",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-06T11:35:37.290Z",
+	"dcterms:modified": "2024-02-06T11:35:37.290Z",
+	"dcterms:creator": {
+		"@id": "1",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "admin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537290#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[19]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q13562984",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537291",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-06T11:35:37.291Z",
+	"dcterms:modified": "2024-02-06T11:35:37.291Z",
+	"dcterms:creator": {
+		"@id": "1",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "admin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537291#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537291#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[20]"
 		}
 	},
 	"oa:hasBody": {
@@ -1576,23 +1736,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927025530700",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537291",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T00:55:30.700Z",
+	"dcterms:created": "2024-02-06T11:35:37.291Z",
+	"dcterms:modified": "2024-02-06T11:35:37.291Z",
 	"dcterms:creator": {
-		"@id": "23",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Kelly Troop"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927025530700#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537291#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1603,9 +1764,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20230927025530700#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?person_annotation_20240206123537291#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[21]"
+			"rdf:value": "TEI/text/body/div/p/persName[21]"
 		}
 	},
 	"oa:hasBody": {
@@ -1654,88 +1815,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?note_annotation_20230927030112497",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206123537291",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-09-27T01:01:12.497Z",
-	"dcterms:creator": {
-		"@id": "23",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Kelly Troop"
-	},
-	"oa:motivatedBy": "oa:describing",
-	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?note_annotation_20230927030112497#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?note_annotation_20230927030112497#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/note[3]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "oa:TextualBody",
-		"dc:format": "text/plain",
-		"rdf:value": "This is Miss Bailey from a short story written by George Colman. Tag could not be found."
-	},
-	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?note_annotation_20231106162102196",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-11-06T15:21:02.196Z",
-	"dcterms:modified": "2023-11-06T15:21:02.196Z",
+	"dcterms:created": "2024-02-06T11:35:37.291Z",
+	"dcterms:modified": "2024-02-06T11:35:37.291Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1744,91 +1827,12 @@
 		],
 		"cwrc:hasName": "admin"
 	},
-	"oa:motivatedBy": "oa:describing",
-	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?note_annotation_20231106162102196#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?note_annotation_20231106162102196#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/head/note"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NoteInternal",
-		"dc:format": "text/plain",
-		"rdf:value": "*Various excerpts from the forthcoming novel, On Strike Against God, to be published in the spring of 1978 by Out and Out Books."
-	},
-	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20231106162714612",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-11-06T15:27:14.612Z",
-	"dcterms:modified": "2023-11-06T15:27:14.612Z",
-	"dcterms:creator": {
-		"@id": "24",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Lyndon Beier"
-	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20231106162714612#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206123537291#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1839,167 +1843,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20231106162714612#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206123537291#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[19]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q13562984",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20231106162808543",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-11-06T15:28:08.543Z",
-	"dcterms:modified": "2023-11-06T15:28:08.543Z",
-	"dcterms:creator": {
-		"@id": "24",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Lyndon Beier"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20231106162808543#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?person_annotation_20231106162808543#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[18]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q447019",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf.bucknell.edu",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?title_annotation_20231106162930040",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-11-06T15:29:30.040Z",
-	"dcterms:modified": "2023-11-06T15:29:30.040Z",
-	"dcterms:creator": {
-		"@id": "24",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Lyndon Beier"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?title_annotation_20231106162930040#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf.bucknell.edu",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?title_annotation_20231106162930040#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p[4]/title"
+			"rdf:value": "TEI/text/body/div/p[4]/title"
 		}
 	},
 	"oa:hasBody": {
@@ -2048,23 +1894,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?note_annotation_20240114215735484",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537293",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-14T20:57:35.484Z",
+	"dcterms:created": "2024-02-06T11:35:37.293Z",
+	"dcterms:modified": "2024-02-06T11:35:37.293Z",
 	"dcterms:creator": {
-		"@id": "24",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Lyndon Beier"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?note_annotation_20240114215735484#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537293#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2075,15 +1922,15 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?note_annotation_20240114215735484#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537293#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p[2]/note"
+			"rdf:value": "TEI/text/body/div/p/note"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NoteInternal",
 		"dc:format": "text/plain",
-		"rdf:value": "Gothic architecture is an architectural style that was prevalent in Europe from the late 12th to the 16th century, during the High and Late Middle Ages, surviving into the 17th and 18th centuries in some areas. (https://en.wikipedia.org/wiki/Gothic_architecture)"
+		"rdf:value": "Murasaki Shikibu is widely considered to be the first female novelist: \"The Tale of Genji\""
 	},
 	"as:generator": {
 		"@id": "https://leaf.bucknell.edu",
@@ -2126,23 +1973,24 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?note_annotation_20240114220200507",
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537294",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-14T21:02:00.507Z",
+	"dcterms:created": "2024-02-06T11:35:37.294Z",
+	"dcterms:modified": "2024-02-06T11:35:37.294Z",
 	"dcterms:creator": {
-		"@id": "24",
+		"@id": "1",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Lyndon Beier"
+		"cwrc:hasName": "admin"
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?note_annotation_20240114220200507#Target",
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537294#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2153,9 +2001,88 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://leaf.bucknell.edu/sites/default/files/2023-09/russ.xml?note_annotation_20240114220200507#Selector",
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537294#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p[4]/note"
+			"rdf:value": "TEI/text/body/div/p/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Miss Bailey, the title character in a short story written by George Colman."
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537296",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-06T11:35:37.296Z",
+	"dcterms:modified": "2024-02-06T11:35:37.296Z",
+	"dcterms:creator": {
+		"@id": "1",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "admin"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537296#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?note_annotation_20240206123537296#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[4]/note"
 		}
 	},
 	"oa:hasBody": {
@@ -2172,41 +2099,358 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206124025645",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-06T11:40:25.645Z",
+	"dcterms:creator": {
+		"@id": "1",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "admin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206124025645#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206124025645#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/note/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://viaf.org/viaf/292926747/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206123959679",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-06T11:39:59.679Z",
+	"dcterms:modified": "2024-02-06T11:39:59.679Z",
+	"dcterms:creator": {
+		"@id": "1",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "admin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206123959679#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206123959679#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://viaf.org/viaf/9954165326399716290005/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206211203693",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-06T20:12:03.693Z",
+	"dcterms:modified": "2024-02-06T20:12:03.693Z",
+	"dcterms:creator": {
+		"@id": "1",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "admin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206211203693#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206211203693#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/back/div/p/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q7977856",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206213528964",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-06T20:35:28.964Z",
+	"dcterms:modified": "2024-02-06T20:35:28.964Z",
+	"dcterms:creator": {
+		"@id": "1",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "admin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206213528964#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2024-02/women_talking.xml?title_annotation_20240206213528964#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/back/div/p/title[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q7770974",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
       <body>
       	<pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_017.jpg" n="17" xml:id="img_0017"/>
-         <div>
-            <head>Women Talking, Women Thinking<note type="researchNote">*Various excerpts from the forthcoming novel, On Strike Against God, to be published in the spring of 1978 by Out and Out Books.</note></head>
+         <div cert="high" org="composite" part="Y" sample="initial" type="essay" xml:space="default">
+            <head>Women Talking, Women Thinking</head>
 				<byline><persName key="Joanna Russ" ref="http://www.wikidata.org/entity/Q265270" cert="high" role="aud" type="real">Joanna Russ</persName></byline>
-			</div>
-         <div><p>What did we talk about?
+			
+         <p>What did we talk about?
 				I don't remember. We talked so hard and sat so still that I got cramps in my knees. We had too many cups of tea and then didn't want to leave the table to go to the bathroom because we didn’t want to stop talking. You will think we talked of revolution but we didn't. Nor did we talk of our own souls. Nor of sewing. Nor of babies. Nor of departmental intrigue. It was politics
-				if by politics you mean the laboratory talk that characters in bad movies are perpetually trving to convey (unsuccessfully) when
+				if by politics you mean the laboratory talk that characters in bad movies are perpetually trying to convey (unsuccessfully) when
 				they Wrinkle Their Wee Brows and say (valiantly—dutifully—after all, they didn’t write it) "But, Doctor, doesn’t that violate
-				Finagle's Constant?" I staggered to the bathroom, released floods of tea, and returned to the kitchen to talk. It was professional talk. It left me grey-faced and with such concentration that I began to develop a headache. We talked about <persName key="George Eliot" ref="http://www.wikidata.org/entity/Q131333"><note type="researchNote">George Eliot is the pen name of Mary Ann Evans</note>
-Mary Ann Evans's </persName>loss of faith, about <persName key="Emily Brontë" ref="http://www.wikidata.org/entity/Q80137" role="aut">Emily Brontë</persName>'s isolation, about <persName key="Charlotte Brontë" ref="http://www.wikidata.org/entity/Q127332" cert="high" role="aut" type="real">Charlotte Brontë</persName>'s blinding cloud, about the split in <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909" role="aut">Virginia Woolf</persName>'s head and the split in her economic situation. We talked about <persName key="Murasaki Shikibu" ref="http://www.wikidata.org/entity/Q81731" role="aut">Lady Murasaki</persName>, who wrote in a form that no respectable man would touch<note type="researchNote">Murasaki Shikibu (eng: Lady Murasaki) is widely considered to be the first ever to author a novel ("The Tale of Genji," p. approx 1000).</note>, <persName key="Hrotsvitha" ref="http://www.wikidata.org/entity/Q170248" cert="high" role="aut" type="real">Hroswit</persName>, a little name whose plays "may perhaps amuse myself," Miss <persName key="Jane Austen" ref="http://www.wikidata.org/entity/Q36322" role="aut">Austen</persName> who had no more expression in society than a firescreen or a poker. They did not all write letters, write memoirs, or go on the stage. <persName key="Sappho" ref="http://www.wikidata.org/entity/Q17892" cert="high" role="aut" type="real">Sappho</persName>—only an ambiguous,
-				somewhat disagreeable name. <persName key="Corinna" ref="http://www.wikidata.org/entity/Q241132" cert="medium" role="aut">Corinna</persName>? The teacher of <persName key="Pindar" ref="http://www.wikidata.org/entity/Q134929" cert="high" role="aut" type="real">Pindar</persName>. <persName key="Olive Schreiner" ref="http://www.wikidata.org/entity/Q151180" role="aut">Olive Schreiner</persName>, growing up on the veldt<note type="Definition">"open, uncultivated country or grassland in southern Africa. It is conventionally classified by altitude into highveld, middleveld, and lowveld."</note>, wrote one book, married happily, and never wrote another. <persName key="Kate Chopin" ref="http://www.wikidata.org/entity/Q230476" cert="high" role="aut" type="real">Kate Chopin</persName> wrote a scandalous book and never wrote another. (Jean has written
-				nothing.) There was <persName key="Mary Wollstonecraft" ref="http://www.wikidata.org/entity/Q101638" role="aut">M-ry Sh-Il-y</persName> who wrote you know what and <persName key="Charlotte Perkins Gilman" ref="http://www.wikidata.org/entity/Q287752" cert="high" role="aut" type="real">Ch-rl-tt- P-rk-ns G-Im-n</persName>, who wrote one superb horror story
-				and lots of sludge (was it sludge?), and <persName key="Phillis Wheatley" ref="http://www.wikidata.org/entity/Q257911" role="aut">Ph-Il-s Wh--tl-y</persName> who was black and wrote eighteenth-century odes (but it was the eighteenth century) and Mrs. <persName key="Ann Radcliffe" ref="http://www.wikidata.org/entity/Q231944" cert="high" role="aut" type="real">-nn R-dcl-ff-</persName> who wrote silly novels and <persName key="Margaret Cavendish, Duchess of Newcastle-upon-Tyne" ref="http://www.wikidata.org/entity/Q242640" role="aut">M-rg-r-t C-v-nd-sh</persName> and <persName key="E. D. E. N. Southworth" ref="http://www.wikidata.org/entity/Q447019">Mrs.-d-n S--thw-rth</persName> and <persName key="Sarah Elizabeth Forbush Downs" ref="http://www.wikidata.org/entity/Q13562984">Mrs. G--rg--Sh-Id-n</persName> and (Miss?) <persName key="Georgette Heyer" ref="http://www.wikidata.org/entity/Q272706" cert="high" role="aut" type="real">G--rg-tt- H-y-r</persName> and <persName key="Barbara Cartland" ref="http://www.wikidata.org/entity/Q235965" role="aut">B-rb-r- C-rtl-nd</persName> and the legion of those who, writing, write not, like the dead Miss B--l-y<note type="annotation">This is Miss Bailey from a short story written by George Colman. Tag could not be found.</note>
+				Finagle's Constant?" I staggered to the bathroom, released floods of tea, and returned to the kitchen to talk. It was professional talk. It left me grey-faced and with such concentration that I began to develop a headache. We talked about <persName key="George Eliot" ref="http://www.wikidata.org/entity/Q131333">
+ Mary Ann Evans's </persName>loss of faith, about <persName key="Emily Brontë" ref="http://www.wikidata.org/entity/Q80137" role="aut">Emily Brontë</persName>'s isolation, about <persName key="Charlotte Brontë" ref="http://www.wikidata.org/entity/Q127332" cert="high" role="aut" type="real">Charlotte Brontë</persName>'s blinding cloud, about the split in <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909" role="aut">Virginia Woolf</persName>'s head and the split in her economic situation. We talked about <persName key="Murasaki Shikibu" ref="http://www.wikidata.org/entity/Q81731" role="aut">Lady Murasaki</persName>, who wrote in a form that no respectable man would touch<note type="researchNote">Murasaki Shikibu is widely considered to be the first female novelist: "<title key="Murasaki Shikibu, 978?- | Genji monogatari" ref="http://viaf.org/viaf/292926747/">The Tale of Genji</title>"</note>, <persName key="Hrotsvitha" ref="http://www.wikidata.org/entity/Q170248" cert="high" role="aut" type="real">Hroswit</persName>, a little name whose plays "may perhaps amuse myself," Miss <persName key="Jane Austen" ref="http://www.wikidata.org/entity/Q36322" role="aut">Austen</persName> who had no more expression in society than a firescreen or a poker. They did not all write letters, write memoirs, or go on the stage. <persName key="Sappho" ref="http://www.wikidata.org/entity/Q17892" cert="high" role="aut" type="real">Sappho</persName>—only an ambiguous,
+				somewhat disagreeable name. <persName key="Corinna" ref="http://www.wikidata.org/entity/Q241132" cert="medium" role="aut">Corinna</persName>? The teacher of <persName key="Pindar" ref="http://www.wikidata.org/entity/Q134929" cert="high" role="aut" type="real">Pindar</persName>. <persName key="Olive Schreiner" ref="http://www.wikidata.org/entity/Q151180" role="aut">Olive Schreiner</persName>, growing up on the veldt, wrote one book, married happily, and never wrote another. <persName key="Kate Chopin" ref="http://www.wikidata.org/entity/Q230476" cert="high" role="aut" type="real">Kate Chopin</persName> wrote a scandalous book and never wrote another. (Jean has written
+				nothing.) There was <persName key="Mary Wollstonecraft" ref="http://www.wikidata.org/entity/Q101638" role="aut">M-ry Sh-Il-y</persName> who wrote <title key="Shelley, Mary Wollstonecraft (1797-1851). | Frankenstein adaptacja)" ref="http://viaf.org/viaf/9954165326399716290005/">you know what</title> and <persName key="Charlotte Perkins Gilman" ref="http://www.wikidata.org/entity/Q287752" cert="high" role="aut" type="real">Ch-rl-tt- P-rk-ns G-Im-n</persName>, who wrote one superb horror story
+				and lots of sludge (was it sludge?), and <persName key="Phillis Wheatley" ref="http://www.wikidata.org/entity/Q257911" role="aut">Ph-Il-s Wh--tl-y</persName> who was black and wrote eighteenth-century odes (but it was the eighteenth century) and Mrs. <persName key="Ann Radcliffe" ref="http://www.wikidata.org/entity/Q231944" cert="high" role="aut" type="real">-nn R-dcl-ff-</persName> who wrote silly novels and <persName key="Margaret Cavendish, Duchess of Newcastle-upon-Tyne" ref="http://www.wikidata.org/entity/Q242640" role="aut">M-rg-r-t C-v-nd-sh</persName> and <persName key="E. D. E. N. Southworth" ref="http://www.wikidata.org/entity/Q447019">Mrs.-d-n S--thw-rth</persName> and <persName key="Sarah Elizabeth Forbush Downs" ref="http://www.wikidata.org/entity/Q13562984">Mrs. G--rg--Sh-Id-n</persName> and (Miss?) <persName key="Georgette Heyer" ref="http://www.wikidata.org/entity/Q272706" cert="high" role="aut" type="real">G--rg-tt- H-y-r</persName> and <persName key="Barbara Cartland" ref="http://www.wikidata.org/entity/Q235965" role="aut">B-rb-r- C-rtl-nd</persName> and the legion of those who, writing, write not, like the dead Miss B--l-y<note type="annotation">Miss Bailey, the title character in a short story written by George Colman.</note>
 				of the poem who was seduced into bad practices (fudging her endings) and hanged herself in her garter. The sun was going down. I was blind and stiff.</p>
 
-				<p>Twenty years ago I went to college and began to recognize the roof; having dressed for a date (dates were absolutely crucial then) in my low heels, my nylons, my garter belt, my horsehair petticoat, my cotton petticoat, my taffeta skirt, my knit jersey blouse, my circle pin, my gold earrings, my charm bracelet, my waist-cincher, my lipstick, my little bit of eye shadow, my heavy faille coat, my nail polish, my mohair scarf, and my gloves, I went into the dormitory garden to wait. The garden was full of late spring flowers. I had already admired myself in the full-length mirror on the back of my closet door, but standing between the stone walls on the stone-flagged walk, watching the flowers grow ever lighter and more disembodied in the blue twilight—and sitting on the stone bench under the Gothic<note type="researchNote">Gothic architecture is an architectural style that was prevalent in Europe from the late 12th to the 16th century, during the High and Late Middle Ages, surviving into the 17th and 18th centuries in some areas. (https://en.wikipedia.org/wiki/Gothic_architecture)</note> arches and all that ivy—and we were supposed to get A’s and use the library—we were supposed to write papers—we were supposed to be scholars—I felt invisible. I felt awful, I wanted to take off all my clothes and step out of my underwear. And then take off my hair and fingernails and my face and my flesh and finally my very bones. Just to step out of it. All the way out of it.</p>
+				<p>Twenty years ago I went to college and began to recognize the roof; having dressed for a date (dates were absolutely crucial then) in my low heels, my nylons, my garter belt, my horsehair petticoat, my cotton petticoat, my taffeta skirt, my knit jersey blouse, my circle pin, my gold earrings, my charm bracelet, my waist-cincher, my lipstick, my little bit of eye shadow, my heavy faille coat, my nail polish, my mohair scarf, and my gloves, I went into the dormitory garden to wait. The garden was full of late spring flowers. I had already admired myself in the full-length mirror on the back of my closet door, but standing between the stone walls on the stone-flagged walk, watching the flowers grow ever lighter and more disembodied in the blue twilight—and sitting on the stone bench under the Gothic arches and all that ivy—and we were supposed to get A’s and use the library—we were supposed to write papers—we were supposed to be scholars—I felt invisible. I felt awful, I wanted to take off all my clothes and step out of my underwear. And then take off my hair and fingernails and my face and my flesh and finally my very bones. Just to step out of it. All the way out of it.</p>
 				<p>My date said,  "There you are!"</p>
          	<pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_018.jpg" n="18" xml:id="img_0018"/>
          <p>I've spent a lot of my time in the library here, picking out obscure references to memoirs written by bad ladies two hundred years ago and novels by worse ladies who, although personally blameless, wrote wicked books: <title key="A Romance of the Pyrenees" ref="https://archive.org/details/romancepyrenees05cuthgoog/page/n3/mode/2up">A Romance of the Pyrenees</title>.
 				<title>Marianna</title> or <title>The Puritan's Daughter</title>. Weird, ghastly stuff. Five romances under the pseudonym <emph><persName key="Jane Austen" ref="http://www.wikidata.org/entity/Q36322" cert="medium" role="aut" type="real">By a Lady</persName></emph>. Domestic sentiment. Gothic castles. Purity. If only I can reduce this pulp to pulp and spread it out into some kind of shape. Dead voices,
 				haunting and terrible: I want, I need, I hope, I believe. What sort of homes did they have? Did they do their own cooking? Did they expect to get pregnant every year? (See Mrs. Defoe's journal.) The awful constriction, the huge skirts. Mrs. Pepys<note type="researchNote">Likely a reference to Elisabeth Pepys, wife of Samuel Pepys and focus of the speculative novel/diaristic synthesis "The Journal of Mrs. Pepys." </note>' dress allowance (''the poor wretch," her husband called her). How are we fall'n, fall'n by mistaken rules!" "Women live like Bats or
 				Owls, labour like Beasts, and die like Worms." "Anyone may blame me who likes." "How good it must be to be a man when
-				you want to travel." "John laughs at me, but one expects that in marriage." "It had all been a therapeutic lie. The mind was powerless to save her. Only a man . . ." "I / Revolve in my / Sheath of impossibles—"  Scholars don’t usually sit gasping and sobbing in corners of the library stacks.
+				you want to travel." "John laughs at me, but one expects that in marriage." "It had all been a therapeutic lie. The mind was powerless to save her. Only a man . . ." "I / Revolve in my / Sheath of impossibles—"  Scholars don’t usually sit gasping and sobbing in corners of the library stacks.
 </p><p>				But they should. They should.</p>
          </div>
+		 </body>
+		 <back>
 
-        <div> 
-           <p>Joanna Russ is the author of a novel published by Dell Books, We Who Are About To, and of the science fiction novel, The Two of Them, to be published by Putnam's. This spring
+        <div cert="high" org="composite" part="Y" sample="initial" type="biography" xml:space="default"> 
+           <p>Joanna Russ is the author of a novel published by Dell Books, <title key="We Who Are About To..." ref="http://www.wikidata.org/entity/Q7977856">We Who Are About To</title>, and of the science fiction novel, <title key="The Two of Them" ref="http://www.wikidata.org/entity/Q7770974">The Two of Them,</title> to be published by Putnam's. This spring
 				Daughters, Inc. will present her fantasy novel, Kit'a Story: A Tale of Magic. She lives in Bellevue, Washington.
 			</p>
         </div>
-      </body>
+      </back>
    </text>
 </TEI>
