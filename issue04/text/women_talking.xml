@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -88,7 +89,8 @@
 					</address>
 				</distributor>
 				<availability>
-					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial
+						4.0 International (CC BY-NC 4.0)</licence>
 					<licence>Heresies journal: © Heresies Collective</licence>
 				</availability>
 			</publicationStmt>
@@ -99,7 +101,8 @@
 					</analytic>
 					<monogr>
 						<imprint>
-							<publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+							<publisher>HERESIES: A Feminist Publication on Art and
+								Politics</publisher>
 							<pubPlace>
 								<address>
 									<name>Heresies</name>
@@ -114,9 +117,20 @@
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
-	<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+				xmlns:as="http://www.w3.org/ns/activitystreams#"
+				xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+				xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+				xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+				xmlns:fabio="https://purl.org/spar/fabio#"
+				xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+				xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+				xmlns:org="http://www.w3.org/ns/org#">
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -192,10 +206,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -270,10 +282,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -349,10 +359,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -427,10 +435,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -505,10 +511,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -584,10 +588,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -662,10 +664,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -741,10 +741,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -820,10 +818,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -899,10 +895,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -977,10 +971,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1056,10 +1048,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1134,10 +1124,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1213,10 +1201,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1291,10 +1277,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1370,10 +1354,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1448,10 +1430,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1526,10 +1506,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1604,10 +1582,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1683,10 +1659,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1761,10 +1735,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1839,10 +1811,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1917,10 +1887,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1995,10 +1963,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2074,10 +2040,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2152,10 +2116,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2230,10 +2192,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2308,10 +2268,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2387,22 +2345,26 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader>
+				</rdf:Description>
+			</rdf:RDF></xenoData>
+	</teiHeader>
 	<text>
-      <body>
-      	<pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_017.jpg" n="17" xml:id="img_0017"/>
-         <div cert="high" org="composite" part="Y" sample="initial" type="essay" xml:space="default">
-            <head xml:id="head_p1c_hn5_31c">Women Talking, Women Thinking</head>
+		<body>
+			<pb
+				facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_017.jpg"
+				n="17" xml:id="img_0017"/>
+			<div cert="high" org="composite" part="Y" sample="initial" type="essay"
+				xml:space="default">
+				<head xml:id="head_p1c_hn5_31c">Women Talking, Women Thinking</head>
 				<byline xml:id="byline_r1c_hn5_31c"><persName key="Joanna Russ"
 						ref="http://www.wikidata.org/entity/Q265270" cert="high" role="aud"
 						type="real" xml:id="persName_x1c_hn5_31c">Joanna Russ</persName></byline>
-			
-         <p xml:id="p_s1c_hn5_31c">What did we talk about? I don't remember. We talked so hard and
-					sat so still that I got cramps in my knees. We had too many cups of tea and then
-					didn't want to leave the table to go to the bathroom because we didn’t want to
-					stop talking. You will think we talked of revolution but we didn't. Nor did we
-					talk of our own souls. Nor of sewing. Nor of babies. Nor of departmental
+
+				<p xml:id="p_s1c_hn5_31c">What did we talk about? I don't remember. We talked so
+					hard and sat so still that I got cramps in my knees. We had too many cups of tea
+					and then didn't want to leave the table to go to the bathroom because we didn’t
+					want to stop talking. You will think we talked of revolution but we didn't. Nor
+					did we talk of our own souls. Nor of sewing. Nor of babies. Nor of departmental
 					intrigue. It was politics if by politics you mean the laboratory talk that
 					characters in bad movies are perpetually trying to convey (unsuccessfully) when
 					they Wrinkle Their Wee Brows and say (valiantly—dutifully—after all, they didn’t
@@ -2485,28 +2447,30 @@
 					endings) and hanged herself in her garter. The sun was going down. I was blind
 					and stiff.</p>
 
-				<p xml:id="p_t1c_hn5_31c">Twenty years ago I went to college and began to recognize the roof;
-					having dressed for a date (dates were absolutely crucial then) in my low heels,
-					my nylons, my garter belt, my horsehair petticoat, my cotton petticoat, my
-					taffeta skirt, my knit jersey blouse, my circle pin, my gold earrings, my charm
-					bracelet, my waist-cincher, my lipstick, my little bit of eye shadow, my heavy
-					faille coat, my nail polish, my mohair scarf, and my gloves, I went into the
-					dormitory garden to wait. The garden was full of late spring flowers. I had
-					already admired myself in the full-length mirror on the back of my closet door,
-					but standing between the stone walls on the stone-flagged walk, watching the
-					flowers grow ever lighter and more disembodied in the blue twilight—and sitting
-					on the stone bench under the Gothic arches and all that ivy—and we were supposed
-					to get A’s and use the library—we were supposed to write papers—we were supposed
-					to be scholars—I felt invisible. I felt awful, I wanted to take off all my
-					clothes and step out of my underwear. And then take off my hair and fingernails
-					and my face and my flesh and finally my very bones. Just to step out of it. All
-					the way out of it.</p>
+				<p xml:id="p_t1c_hn5_31c">Twenty years ago I went to college and began to recognize
+					the roof; having dressed for a date (dates were absolutely crucial then) in my
+					low heels, my nylons, my garter belt, my horsehair petticoat, my cotton
+					petticoat, my taffeta skirt, my knit jersey blouse, my circle pin, my gold
+					earrings, my charm bracelet, my waist-cincher, my lipstick, my little bit of eye
+					shadow, my heavy faille coat, my nail polish, my mohair scarf, and my gloves, I
+					went into the dormitory garden to wait. The garden was full of late spring
+					flowers. I had already admired myself in the full-length mirror on the back of
+					my closet door, but standing between the stone walls on the stone-flagged walk,
+					watching the flowers grow ever lighter and more disembodied in the blue
+					twilight—and sitting on the stone bench under the Gothic arches and all that
+					ivy—and we were supposed to get A’s and use the library—we were supposed to
+					write papers—we were supposed to be scholars—I felt invisible. I felt awful, I
+					wanted to take off all my clothes and step out of my underwear. And then take
+					off my hair and fingernails and my face and my flesh and finally my very bones.
+					Just to step out of it. All the way out of it.</p>
 				<p xml:id="p_u1c_hn5_31c">My date said, "There you are!"</p>
-         	<pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_018.jpg" n="18" xml:id="img_0018"/>
-         <p xml:id="p_v1c_hn5_31c">I've spent a lot of my time in the library here, picking out
-					obscure references to memoirs written by bad ladies two hundred years ago and
-					novels by worse ladies who, although personally blameless, wrote wicked books:
-						<title key="A Romance of the Pyrenees"
+				<pb
+					facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_018.jpg"
+					n="18" xml:id="img_0018"/>
+				<p xml:id="p_v1c_hn5_31c">I've spent a lot of my time in the library here, picking
+					out obscure references to memoirs written by bad ladies two hundred years ago
+					and novels by worse ladies who, although personally blameless, wrote wicked
+					books: <title key="A Romance of the Pyrenees"
 						ref="https://archive.org/details/romancepyrenees05cuthgoog/page/n3/mode/2up"
 						xml:id="title_wbc_hn5_31c">A Romance of the Pyrenees</title>. <title
 						xml:id="title_xbc_hn5_31c">Marianna</title> or <title
@@ -2516,12 +2480,13 @@
 					spread it out into some kind of shape. Dead voices, haunting and terrible: I
 					want, I need, I hope, I believe. What sort of homes did they have? Did they do
 					their own cooking? Did they expect to get pregnant every year? <span
-						ana="reference to Defoe's 'Journal of the Plague Year'" cert="high"
+						ana="reference to Daniel Defoe's 'Journal of the Plague Year'" cert="high"
 						evaluate="all" xml:space="default" type="allusion" xml:id="span_zbc_hn5_31c"
-						>(See Mrs. Defoe's journal.)</span> The awful constriction, the huge skirts.
-         	Mrs. Pepys' dress allowance ("<persName ref="https://www.wikidata.org/wiki/Q1330179">the poor wretch</persName>," <persName key="Samuel Pepys"
-						ref="http://www.wikidata.org/entity/Q106143" xml:id="persName_acc_hn5_31c"
-						>her husband</persName> called her). <span
+						>(See <persName xml:id="mary_tuffley">Mrs. Defoe's</persName> journal.)</span> The awful constriction, the huge skirts.
+					Mrs. Pepys' dress allowance ("<persName
+						ref="https://www.wikidata.org/wiki/Q1330179">the poor wretch</persName>,"
+						<persName key="Samuel Pepys" ref="http://www.wikidata.org/entity/Q106143"
+						xml:id="persName_acc_hn5_31c">her husband</persName> called her). <span
 						ana="'The Introduction' by Anne Finch" cert="high" evaluate="all"
 						xml:space="default" type="allusion" xml:id="span_bcc_hn5_31c">"How are we
 						fall'n, fall'n by mistaken rules!"</span>
@@ -2543,93 +2508,118 @@
 					<span ana="Purdah" cert="high" evaluate="all" xml:space="default"
 						type="allusion" xml:id="span_hcc_hn5_31c">"I / Revolve in my / Sheath of
 						impossibles—"</span> Scholars don’t usually sit gasping and sobbing in
-					corners of the library stacks. </p><p xml:id="p_w1c_hn5_31c"> But they should. They should.</p>
-         </div>
-      	<div type="index">
-      		<list>
-      			<head>People</head>
-      			<item>
-      				<ref>People</ref>
-      				<list>
-      					<item>
-      						<ref target="persName_fbc_hn5_31c">Jane Austen</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_abc_hn5_31c">Charlotte Brontë</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_z1c_hn5_31c">Emily Brontë</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_rbc_hn5_31c">Margaret Cavendish</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_hbc_hn5_31c">Corinna</ref>
-      					</item>
-      					<item>
-      						<ref>Barbara Cortland</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_kbc_hn5_31c">Kate Chopin</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_tbc_hn5_31c">Sarah Elizabeth Forbush Downs</ref>
-      					</item>
-      					<item>
-      						<ref>Anne Finch</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_nbc_hn5_31c">Charlotte Perkins Gilman</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_ubc_hn5_31c">Georgette Heyer</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_ebc_hn5_31c">Hrotsvitha</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_ibc_hn5_31c">Pindar</ref>
-      					</item>
-      					<item>
-      						<ref target="https://www.wikidata.org/wiki/Q1330179">Elisabeth Pepys</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_qbc_hn5_31c">Ann Radcliffe</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_gbc_hn5_31c">Sappho</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_jbc_hn5_31c">Olive Schreiner</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_lbc_hn5_31c">Mary Wollstonecraft Shelley</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_cbc_hn5_31c">Murasaki Shikibu</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_sbc_hn5_31c">E.D.E.N. Southworth</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_pbc_hn5_31c">Phyllis Wheatley</ref>
-      					</item>
-      					<item>
-      						<ref target="persName_bbc_hn5_31c">Virginia Woolf</ref>
-      					</item>  					
-      				</list>
-      				</item>
-      		</list>
-      	</div>
-		 </body>
-		 <back>
+					corners of the library stacks. </p>
+				<p xml:id="p_w1c_hn5_31c"> But they should. They should.</p>
+			</div>
+			<div type="index">
+				<list>
+					<head>People</head>
+					<item>
+						<ref>People</ref>
+						<list xml:id="people">
+							<item xml:id="list_people">
+								<ref
+									target="#persName_fbc_hn5_31c #persName_abc_hn5_31c #persName_z1c_hn5_31c #persName_rbc_hn5_31c #persName_hbc_hn5_31c #persName_kbc_hn5_31c #persName_tbc_hn5_31c #persName_nbc_hn5_31c #persName_ubc_hn5_31c #persName_ebc_hn5_31c #persName_ibc_hn5_31c #persName_qbc_hn5_31c #persName_gbc_hn5_31c #persName_jbc_hn5_31c #persName_lbc_hn5_31c #persName_cbc_hn5_31c #persName_sbc_hn5_31c #persName_pbc_hn5_31c #persName_bbc_hn5_31c #persName_vbc_hn5_31c #finch #epepys #spepys"
+									>People</ref>
+								<list>
+									<item>
+										<ref target="#persName_fbc_hn5_31c">Jane Austen</ref>
+									</item>
+									<item>
+										<ref target="#persName_abc_hn5_31c">Charlotte Brontë</ref>
+									</item>
+									<item>
+										<ref target="#persName_z1c_hn5_31c">Emily Brontë</ref>
+									</item>
+									<item>
+										<ref target="#persName_rbc_hn5_31c">Margaret Cavendish</ref>
+									</item>
+									<item>
+										<ref target="#persName_hbc_hn5_31c">Corinna</ref>
+									</item>
+									<item>
+										<ref target="#persName_vbc_hn5_31c">Barbara Cartland</ref>
+									</item>
+									<item>
+										<ref target="#persName_kbc_hn5_31c">Kate Chopin</ref>
+									</item>
+									<item>
+										<ref target="#defoe">Daniel Defoe</ref>
+									</item>
+									<item>
+										<ref target="#persName_tbc_hn5_31c">Sarah Elizabeth Forbush
+											Downs</ref>
+									</item>
+									<item>
+										<ref target="#finch">Anne Finch</ref>
+									</item>
+									<item>
+										<ref target="#persName_nbc_hn5_31c">Charlotte Perkins
+											Gilman</ref>
+									</item>
+									<item>
+										<ref target="#persName_ubc_hn5_31c">Georgette Heyer</ref>
+									</item>
+									<item>
+										<ref target="#persName_ebc_hn5_31c">Hrotsvitha</ref>
+									</item>
+									<item>
+										<ref target="#persName_ibc_hn5_31c">Pindar</ref>
+									</item>
+									<item>
+										<ref target="#epepys">Elisabeth Pepys</ref>
+									</item>
+									<item>
+										<ref target="#spepys">Samuel Pepys</ref>
+									</item>
+									<item>
+										<ref target="#persName_qbc_hn5_31c">Ann Radcliffe</ref>
+									</item>
+									<item>
+										<ref target="#persName_gbc_hn5_31c">Sappho</ref>
+									</item>
+									<item>
+										<ref target="#persName_jbc_hn5_31c">Olive Schreiner</ref>
+									</item>
+									<item>
+										<ref target="#persName_lbc_hn5_31c">Mary Wollstonecraft
+											Shelley</ref>
+									</item>
+									<item>
+										<ref target="#persName_cbc_hn5_31c">Murasaki Shikibu</ref>
+									</item>
+									<item>
+										<ref target="#persName_sbc_hn5_31c">E.D.E.N. Southworth</ref>
+									</item>
+									<item>
+										<ref target="#mary_tuffley">Mary Tuffley</ref>
+									</item>
+									<item>
+										<ref target="#persName_pbc_hn5_31c">Phyllis Wheatley</ref>
+									</item>
+									<item>
+										<ref target="#persName_bbc_hn5_31c">Virginia Woolf</ref>
+									</item>
+								</list>
+							</item>
+						</list>
+					</item>
+				</list>
+			</div>
+		</body>
+		<back>
 
-        <div cert="high" org="composite" part="Y" sample="initial" type="biography" xml:space="default"> 
-           <head>Author Biography</head>
-           <p>Joanna Russ is the author of a novel published by Dell Books, <title key="We Who Are About To..." ref="http://www.wikidata.org/entity/Q7977856">We Who Are About To</title>, and of the science fiction novel, <title key="The Two of Them" ref="http://www.wikidata.org/entity/Q7770974">The Two of Them,</title> to be published by Putnam's. This spring
-				Daughters, Inc. will present her fantasy novel, Kit'a Story: A Tale of Magic. She lives in Bellevue, Washington.
-			</p>
-        </div>
-      </back>
-   </text>
+			<div cert="high" org="composite" part="Y" sample="initial" type="biography"
+				xml:space="default">
+				<head>Author Biography</head>
+				<p>Joanna Russ is the author of a novel published by Dell Books, <title
+						key="We Who Are About To..." ref="http://www.wikidata.org/entity/Q7977856"
+						>We Who Are About To</title>, and of the science fiction novel, <title
+						key="The Two of Them" ref="http://www.wikidata.org/entity/Q7770974">The Two
+						of Them,</title> to be published by Putnam's. This spring Daughters, Inc.
+					will present her fantasy novel, Kit'a Story: A Tale of Magic. She lives in
+					Bellevue, Washington. </p>
+			</div>
+		</back>
+	</text>
 </TEI>
