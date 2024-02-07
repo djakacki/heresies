@@ -2522,82 +2522,82 @@
 									target="#persName_fbc_hn5_31c #persName_abc_hn5_31c #persName_z1c_hn5_31c #persName_rbc_hn5_31c #persName_hbc_hn5_31c #persName_kbc_hn5_31c #persName_tbc_hn5_31c #persName_nbc_hn5_31c #persName_ubc_hn5_31c #persName_ebc_hn5_31c #persName_ibc_hn5_31c #persName_qbc_hn5_31c #persName_gbc_hn5_31c #persName_jbc_hn5_31c #persName_lbc_hn5_31c #persName_cbc_hn5_31c #persName_sbc_hn5_31c #persName_pbc_hn5_31c #persName_bbc_hn5_31c #persName_vbc_hn5_31c #epepys #persName_acc_hn5_31c #span_bcc_hn5_31c span_zbc_hn5_31c #mary_tuffley"
 									>People</ref>
 								<list>
-									<item>
+									<item xml:id="person01">
 										<ref target="#persName_fbc_hn5_31c">Jane Austen</ref>
 									</item>
-									<item>
+									<item xml:id="person02">
 										<ref target="#persName_abc_hn5_31c">Charlotte Brontë</ref>
 									</item>
-									<item>
+									<item xml:id="person03">
 										<ref target="#persName_z1c_hn5_31c">Emily Brontë</ref>
 									</item>
-									<item>
+									<item xml:id="person04">
 										<ref target="#persName_rbc_hn5_31c">Margaret Cavendish</ref>
 									</item>
-									<item>
+									<item xml:id="person05">
 										<ref target="#persName_hbc_hn5_31c">Corinna</ref>
 									</item>
-									<item>
+									<item xml:id="person06">
 										<ref target="#persName_vbc_hn5_31c">Barbara Cartland</ref>
 									</item>
-									<item>
+									<item xml:id="person07">
 										<ref target="#persName_kbc_hn5_31c">Kate Chopin</ref>
 									</item>
-									<item>
+									<item xml:id="person08">
 										<ref target="#span_zbc_hn5_31c">Daniel Defoe</ref>
 									</item>
-									<item>
+									<item xml:id="person09">
 										<ref target="#persName_tbc_hn5_31c">Sarah Elizabeth Forbush
 											Downs</ref>
 									</item>
-									<item>
+									<item xml:id="person10">
 										<ref target="#span_bcc_hn5_31c">Anne Finch</ref>
 									</item>
-									<item>
+									<item xml:id="person11">
 										<ref target="#persName_nbc_hn5_31c">Charlotte Perkins
 											Gilman</ref>
 									</item>
-									<item>
+									<item xml:id="person12">
 										<ref target="#persName_ubc_hn5_31c">Georgette Heyer</ref>
 									</item>
-									<item>
+									<item xml:id="person13">
 										<ref target="#persName_ebc_hn5_31c">Hrotsvitha</ref>
 									</item>
-									<item>
+									<item xml:id="person14">
 										<ref target="#persName_ibc_hn5_31c">Pindar</ref>
 									</item>
-									<item>
+									<item xml:id="person15">
 										<ref target="#epepys">Elisabeth Pepys</ref>
 									</item>
-									<item>
+									<item xml:id="person16">
 										<ref target="#persName_acc_hn5_31c">Samuel Pepys</ref>
 									</item>
-									<item>
+									<item xml:id="person17">
 										<ref target="#persName_qbc_hn5_31c">Ann Radcliffe</ref>
 									</item>
-									<item>
+									<item xml:id="person18">
 										<ref target="#persName_gbc_hn5_31c">Sappho</ref>
 									</item>
-									<item>
+									<item xml:id="person19">
 										<ref target="#persName_jbc_hn5_31c">Olive Schreiner</ref>
 									</item>
-									<item>
+									<item xml:id="person20">
 										<ref target="#persName_lbc_hn5_31c">Mary Wollstonecraft
 											Shelley</ref>
 									</item>
-									<item>
+									<item xml:id="person21">
 										<ref target="#persName_cbc_hn5_31c">Murasaki Shikibu</ref>
 									</item>
-									<item>
+									<item xml:id="person22">
 										<ref target="#persName_sbc_hn5_31c">E.D.E.N. Southworth</ref>
 									</item>
-									<item>
+									<item xml:id="person23">
 										<ref target="#mary_tuffley">Mary Tuffley</ref>
 									</item>
-									<item>
+									<item xml:id="person24">
 										<ref target="#persName_pbc_hn5_31c">Phyllis Wheatley</ref>
 									</item>
-									<item>
+									<item xml:id="person25">
 										<ref target="#persName_bbc_hn5_31c">Virginia Woolf</ref>
 									</item>
 								</list>
