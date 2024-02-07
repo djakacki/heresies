@@ -2703,10 +2703,10 @@
 				<list>
 					<head>Works Referenced</head>
 					<item xml:id="list_works">
-					<ref>Works Referenced</ref>
+						<ref target="@title_dbc_hn5_31c">Works Referenced</ref>
 						<list>
 							<item>
-								<ref>Shikibu, Mirasaki, <hi rend="italic">The Tale of Genji</hi></ref>
+								<ref target="@title_dbc_hn5_31c">Shikibu, Mirasaki, <hi rend="italic">The Tale of Genji</hi></ref>
 							</item>
 						</list>
 					</item>
