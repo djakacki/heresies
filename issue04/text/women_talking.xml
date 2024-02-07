@@ -2484,7 +2484,7 @@
 						evaluate="all" xml:space="default" type="allusion" xml:id="span_zbc_hn5_31c"
 						>(See <persName xml:id="mary_tuffley">Mrs. Defoe's</persName> journal.)</span> The awful constriction, the huge skirts.
 					Mrs. Pepys' dress allowance ("<persName
-						ref="https://www.wikidata.org/wiki/Q1330179">the poor wretch</persName>,"
+						ref="https://www.wikidata.org/wiki/Q1330179" xml:id="epepys">the poor wretch</persName>,"
 						<persName key="Samuel Pepys" ref="http://www.wikidata.org/entity/Q106143"
 						xml:id="persName_acc_hn5_31c">her husband</persName> called her). <span
 						ana="'The Introduction' by Anne Finch" cert="high" evaluate="all"
@@ -2551,7 +2551,7 @@
 											Downs</ref>
 									</item>
 									<item>
-										<ref target="#finch">Anne Finch</ref>
+										<ref target="span_bcc_hn5_31c">Anne Finch</ref>
 									</item>
 									<item>
 										<ref target="#persName_nbc_hn5_31c">Charlotte Perkins
@@ -2570,7 +2570,7 @@
 										<ref target="#epepys">Elisabeth Pepys</ref>
 									</item>
 									<item>
-										<ref target="#spepys">Samuel Pepys</ref>
+										<ref target="#persName_acc_hn5_31c">Samuel Pepys</ref>
 									</item>
 									<item>
 										<ref target="#persName_qbc_hn5_31c">Ann Radcliffe</ref>
