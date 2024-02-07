@@ -2423,10 +2423,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240207151717534",
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240207151731417",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-02-07T14:17:17.534Z",
-	"dcterms:modified": "2024-02-07T14:17:31.417Z",
+	"dcterms:created": "2024-02-07T14:17:31.417Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2437,7 +2436,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240207151717534#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240207151731417#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
@@ -2451,7 +2450,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240207151717534#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?person_annotation_20240207151731417#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/span/persName"
 		}
@@ -2539,6 +2538,83 @@
 		"@type": "cwrc:NaturalPerson",
 		"@id": "https://www.wikidata.org/wiki/Q1330179",
 		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240207181212011",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-07T17:12:12.011Z",
+	"dcterms:modified": "2024-02-07T17:12:12.011Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240207181212011#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml?title_annotation_20240207181212011#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[4]/title[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2646,22 +2722,7 @@
 				<list>
 					<head>Literary Allusions</head>
 					<item xml:id="list_allusions">
-						<ref target="#span_zbc_hn5_31c  
-							#span_pepys            
-							#span_bcc_hn5_31c           
-							#span_bcc_hn5_31c            
-							#span_bcc_hn5_31c           
-							#span_bcc_hn5_31c           
-							#span_ecc_hn5_31c           
-							#span_fcc_hn5_31c           
-							#span_fcc_hn5_31c           
-							#span_gcc_hn5_31c           
-							#span_gcc_hn5_31c           
-							#span_hcc_hn5_31c
-							#colman01
-							#title_dbc_hn5_31c
-							#title_mbc_hn5_31c
-							#title_obc_hn5_31c">Literary Allusions</ref>
+						<ref target="#span_zbc_hn5_31c          #span_pepys                    #span_bcc_hn5_31c                   #span_bcc_hn5_31c                    #span_bcc_hn5_31c                   #span_bcc_hn5_31c                   #span_ecc_hn5_31c                   #span_fcc_hn5_31c                   #span_fcc_hn5_31c                   #span_gcc_hn5_31c                   #span_gcc_hn5_31c                   #span_hcc_hn5_31c        #colman01">Literary Allusions</ref>
 						<list>
 							<item xml:id="span01">
 								<ref target="#span_zbc_hn5_31c">Reference to Mary Tulley, wife of
@@ -2688,7 +2749,7 @@
 									Stories</hi></ref>
 							</item>
 							<item xml:id="span07">
-								<ref target="#span_fcc_hn5_31c #title_obc_hn5_31c">Charlotte Perkins Gilman, <hi rend="italic">The Yellow Wallpaper</hi></ref>
+								<ref target="#span_fcc_hn5_31c">Charlotte Perkins Gilman, <hi rend="italic">The Yellow Wallpaper</hi></ref>
 							</item>
 							<item xml:id="span08">
 								<ref target="#span_gcc_hn5_31c">Mary McCarthy, "Ghostly Father, In
@@ -2700,11 +2761,16 @@
 							<item>
 								<ref target="#colman01">George Colman the Younger, "Unfortunate Miss Bailey" (song) in the play <hi rend="italic">Love Laughs at Locksmiths.</hi></ref>
 							</item>
+						</list>
+					</item>
+				</list>
+				<list>
+					<head>Works Referenced</head>
+					<item xml:id="list_works">
+					<ref>Works Referenced</ref>
+						<list>
 							<item>
-								<ref target="#title_dbc_hn5_31c">Mirasaki Shikibu, <hi rend="italic">The Tale of Genji</hi>. Mriasaki is considered by some to be the first female novelist.</ref>
-							</item>
-							<item>
-								<ref target="#title_mbc_hn5_31c">Mary Shelley, <hi rend="italic">Frankenstein</hi></ref>
+								<ref>Shikibu, Mirasaki, <hi rend="italic">The Tale of Genji</hi></ref>
 							</item>
 						</list>
 					</item>
