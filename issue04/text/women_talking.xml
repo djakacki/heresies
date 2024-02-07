@@ -2589,7 +2589,7 @@
 						horror story</title> and lots of sludge (was it sludge?), and <persName key="Phillis Wheatley" ref="http://www.wikidata.org/entity/Q257911" role="aut" xml:id="persName_pbc_hn5_31c">Ph-Il-s Wh--tl-y</persName> who was
 					black and wrote eighteenth-century odes (but it was the eighteenth century) and
 					Mrs. <persName key="Ann Radcliffe" ref="http://www.wikidata.org/entity/Q231944" cert="high" role="aut" type="real" xml:id="persName_qbc_hn5_31c">-nn
-						R-dcl-ff-</persName> who wrote silly novels and <persName key="Margaret Cavendish, Duchess of Newcastle-upon-Tyne" ref="http://www.wikidata.org/entity/Q242640" role="aut" xml:id="persName_rbc_hn5_31c">M-rg-r-t C-v-nd-sh</persName> and <persName key="E. D. E. N. Southworth" ref="http://www.wikidata.org/entity/Q447019" xml:id="persName_sbc_hn5_31c">Mrs.-d-n S--thw-rth</persName> and <persName key="Sarah Elizabeth Forbush Downs" ref="http://www.wikidata.org/entity/Q13562984" xml:id="persName_tbc_hn5_31c">Mrs. G--rg--Sh-Id-n</persName> and (Miss?) <persName key="Georgette Heyer" ref="http://www.wikidata.org/entity/Q272706" cert="high" role="aut" type="real" xml:id="persName_ubc_hn5_31c">G--rg-tt- H-y-r</persName> and
+						R-dcl-ff-</persName> who wrote silly novels and <persName key="Margaret Cavendish" ref="http://www.wikidata.org/entity/Q242640" role="aut" xml:id="persName_rbc_hn5_31c">M-rg-r-t C-v-nd-sh</persName> and <persName key="E. D. E. N. Southworth" ref="http://www.wikidata.org/entity/Q447019" xml:id="persName_sbc_hn5_31c">Mrs.-d-n S--thw-rth</persName> and <persName key="Sarah Elizabeth Forbush Downs" ref="http://www.wikidata.org/entity/Q13562984" xml:id="persName_tbc_hn5_31c">Mrs. G--rg--Sh-Id-n</persName> and (Miss?) <persName key="Georgette Heyer" ref="http://www.wikidata.org/entity/Q272706" cert="high" role="aut" type="real" xml:id="persName_ubc_hn5_31c">G--rg-tt- H-y-r</persName> and
 						<persName key="Barbara Cartland" ref="http://www.wikidata.org/entity/Q235965" role="aut" xml:id="persName_vbc_hn5_31c">B-rb-r- C-rtl-nd</persName> and the legion of
 					those who, writing, write not, like the dead Miss B--l-y<note type="annotation" xml:id="colman01">Miss Bailey, the title character in a short story written by George
 						Colman.</note> of the poem who was seduced into bad practices (fudging her
@@ -2696,6 +2696,17 @@
 							</item>
 							<item>
 								<ref target="#colman01">George Colman the Younger, "Unfortunate Miss Bailey" (song) in the play <hi rend="italic">Love Laughs at Locksmiths.</hi></ref>
+							</item>
+						</list>
+					</item>
+				</list>
+				<list>
+					<head>Works Referenced</head>
+					<item xml:id="list_works">
+					<ref>Works Referenced</ref>
+						<list>
+							<item>
+								<ref>Shikibu, Mirasaki, <hi rend="italic">The Tale of Genji</hi></ref>
 							</item>
 						</list>
 					</item>
