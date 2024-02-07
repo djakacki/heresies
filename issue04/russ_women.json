@@ -27,14 +27,6 @@
                 "label": "Brontë, Emily"
             },
             {
-                "xpath": "//persName[@key='Barbara Cartland']",
-                "label": "Cartland, Barbara"
-            },
-            {
-                "xpath": "//persName[@key='Kate Chopin']",
-                "label": "Chopin, Kate"
-            },
-            {
                 "xpath": "//persName[@key='Corinna']",
                 "label": "Corinna"
             },
@@ -43,48 +35,40 @@
                 "label": "Eliot, George"
             },
             {
-                "xpath": "//persName[@key='Charlotte Perkins Gilman']",
-                "label": "Gilman, Charlotte Perkins"
-            },
-            {
                 "xpath": "//persName[@key='Hrotsvitha']",
                 "label": "Hrotsvitha"
-            },
-            {
-                "xpath": "//persName[@key='Pindar']",
-                "label": "Pindar"
-            },
-            {
-                "xpath": "//persName[@key='Ann Radcliffe']",
-                "label": "Radcliffe, Ann"
             },
             {
                 "xpath": "//persName[@key='Sappho']",
                 "label": "Sappho"
             },
             {
+                "xpath": "//persName[@key='Murasaki Shikibu']",
+                "label": "Shikibu, Murasaki"
+            },
+            {
+                "xpath": "//persName[@key='Virginia Woolf']",
+                "label": "Woolf, Virginia"
+            },
+            {
                 "xpath": "//persName[@key='Olive Schreiner']",
                 "label": "Schreiner, Olive"
+                },
+            {
+                "xpath": "//persName[@key='Kate Chopin']",
+                "label": "Chopin, Kate"
             },
             {
                 "xpath": "//persName[@key='Mary Wollstonecraft']",
                 "label": "Shelley, Mary"
             },
             {
-                "xpath": "//persName[@key='Murasaki Shikibu']",
-                "label": "Shikibu, Murasaki"
+                "xpath": "//persName[@key='Charlotte Perkins Gilman']",
+                "label": "Gilman, Charlotte Perkins"
             },
             {
-                "xpath": "//persName[@key='Mary Tuffley']",
-                "label": "Tuffley, Mary"
-            },
-            {
-                "xpath": "//persName[@key='Phillis Wheatley']",
-                "label": "Wheatley, Phillis"
-            },
-            {
-                "xpath": "//persName[@key='Virginia Woolf']",
-                "label": "Woolf, Virginia"
+                "xpath": "//persName[@xml:id='marytuffley']",
+                "label": "Mary Tuffley"
             },
             {
                 "xpath": "//persName",
@@ -93,10 +77,30 @@
             {
                 "xpath": "//title",
                 "label": "works"
+            },
+            {
+                "xpath": "//persName[@key='E. D. E. N. Southworth']",
+                "label": "Southworth, E. D. E. N."
+            },
+            {
+                "xpath": "//persName[@key='Sarah Elizabeth Forbush Downs']",
+                "label": "Downs, Sarah Elizabeth Forbush"
+            },
+            {
+                "xpath" :"//persName[@key='Georgette Heyer']",
+                "label": "Heyer, Georgette"
+            },
+            {
+                "xpath": "//persName[@key='Elisabeth Pepys']",
+                "label": "Pepys, Elisabeth"
+            },
+            {
+                "xpath": "//persName[@key='Samuel Pepys']",
+                "label": "Pepys, Samuel"
             }
         ],
         "toc": [
-            "350545e0e3fb43e6b69f73bd96957e27148cc2007bd7f763d642114857b55603",
+            "b062404e756abb49f87a6b73531e6b477de233ae9f9d2a3693134e2072c9f8b3",
             "3c528a1cf8aca16fe3d7b22f43ed9adc77495e6f8870a78af77dc5367156ab93"
         ]
     }
