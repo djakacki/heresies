@@ -2496,9 +2496,9 @@
 					<span ana="Charlotte Brontë" cert="high" evaluate="all" xml:space="default"
 						type="allusion" xml:id="span_dcc_hn5_31c">"Anyone may blame me who
 						likes."</span>
-					<span cert="high" evaluate="all" type="allusion" xml:space="default"
+					<span cert="high" evaluate="all" type="allusion" xml:space="default" ana="Rebecca Harding Davis, letter to a friend, quoted in Olson"
 						xml:id="span_ecc_hn5_31c">"How good it must be to be a man when you want to
-						travel."</span>
+						travel."</span><!-- wait for this -->
 					<span ana="The Yellow Wallpaper" cert="high" evaluate="all" xml:space="default"
 						type="allusion" xml:id="span_fcc_hn5_31c">"John laughs at me, but one
 						expects that in marriage."</span>
@@ -2514,9 +2514,10 @@
 			<div type="index">
 				<list>
 					<head>Index</head>
-					<item>
+					<item xml:id="list_index">
 						<ref target="#span_zbc_hn5_31c #span_bcc_hn5_31c #span_bcc_hn5_31c #span_bcc_hn5_31c">Literary Allusions</ref>
 						<list>
+							<head>Literary Illusions</head>
 							<item>
 								<ref target="#span_zbc_hn5_31c">Defoe, Journal of the Plague Year</ref>
 							</item>
@@ -2528,6 +2529,21 @@
 							</item>
 							<item>
 								<ref target="#span_bcc_hn5_31c">Cavendish, Female Orations</ref>
+							</item>
+							<item>
+								<ref target="#span_bcc_hn5_31c">Charlotte Brontë, quotation</ref>
+							</item>
+							<item>
+								<ref target="#span_ecc_hn5_31c">Rebecca Harding Davis, letter to Annie Fields, quoted by Tillie Olsen in 'Life in the Iron Mills'</ref>
+							</item>
+							<item>
+								<ref target="#span_fcc_hn5_31c">Gilman, The Yellow Wallpaper</ref>
+							</item>
+							<item>
+								<ref target="#span_gcc_hn5_31c">waiting for Susan</ref>
+							</item>
+							<item>
+								<ref target="#span_hcc_hn5_31c">Plath, Purdah</ref>
 							</item>
 						</list>
 					</item>
