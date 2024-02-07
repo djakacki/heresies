@@ -27,8 +27,8 @@
                 "label": "Brontë, Emily"
             },
             {
-                "xpath": "//persName[@key='Margaret Cavendish']",
-                "label": "Cavendish, Margaret"
+                "xpath": "//persName[@key='Barbara Cartland']",
+                "label": "Cartland, Barbara"
             },
             {
                 "xpath": "//persName[@key='Kate Chopin']",
