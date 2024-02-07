@@ -2519,7 +2519,7 @@
 						<list xml:id="people">
 							<item xml:id="list_people">
 								<ref
-									target="#persName_fbc_hn5_31c #persName_abc_hn5_31c #persName_z1c_hn5_31c #persName_rbc_hn5_31c #persName_hbc_hn5_31c #persName_kbc_hn5_31c #persName_tbc_hn5_31c #persName_nbc_hn5_31c #persName_ubc_hn5_31c #persName_ebc_hn5_31c #persName_ibc_hn5_31c #persName_qbc_hn5_31c #persName_gbc_hn5_31c #persName_jbc_hn5_31c #persName_lbc_hn5_31c #persName_cbc_hn5_31c #persName_sbc_hn5_31c #persName_pbc_hn5_31c #persName_bbc_hn5_31c #persName_vbc_hn5_31c #epepys #persName_acc_hn5_31c #span_bcc_hn5_31c span_zbc_hn5_31c #mary_tuffley"
+									target="#persName_fbc_hn5_31c #persName_abc_hn5_31c #persName_z1c_hn5_31c #persName_rbc_hn5_31c #persName_hbc_hn5_31c #persName_kbc_hn5_31c #persName_tbc_hn5_31c #persName_nbc_hn5_31c #persName_ubc_hn5_31c #persName_ebc_hn5_31c #persName_ibc_hn5_31c #persName_qbc_hn5_31c #persName_gbc_hn5_31c #persName_jbc_hn5_31c #persName_lbc_hn5_31c #persName_cbc_hn5_31c #persName_sbc_hn5_31c #persName_pbc_hn5_31c #persName_bbc_hn5_31c #persName_vbc_hn5_31c #epepys #persName_acc_hn5_31c span_zbc_hn5_31c #mary_tuffley"
 									>People</ref>
 								<list>
 									<item xml:id="person01">
@@ -2543,16 +2543,16 @@
 									<item xml:id="person07">
 										<ref target="#persName_kbc_hn5_31c">Kate Chopin</ref>
 									</item>
-									<item xml:id="person08">
+									<!--<item xml:id="person08">
 										<ref target="#span_zbc_hn5_31c">Daniel Defoe</ref>
-									</item>
+									</item>-->
 									<item xml:id="person09">
 										<ref target="#persName_tbc_hn5_31c">Sarah Elizabeth Forbush
 											Downs</ref>
 									</item>
-									<item xml:id="person10">
+									<!--<item xml:id="person10">
 										<ref target="#span_bcc_hn5_31c">Anne Finch</ref>
-									</item>
+									</item>-->
 									<item xml:id="person11">
 										<ref target="#persName_nbc_hn5_31c">Charlotte Perkins
 											Gilman</ref>
