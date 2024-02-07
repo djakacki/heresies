@@ -2483,10 +2483,10 @@
 						ana="reference to Daniel Defoe's 'Journal of the Plague Year'" cert="high"
 						evaluate="all" xml:space="default" type="allusion" xml:id="span_zbc_hn5_31c"
 						>(See <persName xml:id="marytuffley">Mrs. Defoe's</persName> journal.)</span> The awful constriction, the huge skirts.
-					Mrs. Pepys' dress allowance ("<persName
+					<span xml:id="span_pepys">Mrs. Pepys' dress allowance ("<persName
 						ref="https://www.wikidata.org/wiki/Q1330179" xml:id="epepys">the poor wretch</persName>,"
 						<persName key="Samuel Pepys" ref="http://www.wikidata.org/entity/Q106143"
-						xml:id="persName_acc_hn5_31c">her husband</persName> called her). <span
+						xml:id="persName_acc_hn5_31c">her husband</persName> called her).</span> <span
 						ana="'The Introduction' by Anne Finch" cert="high" evaluate="all"
 						xml:space="default" type="allusion" xml:id="span_bcc_hn5_31c">"How are we
 						fall'n, fall'n by mistaken rules!"</span>
@@ -2513,44 +2513,79 @@
 			</div>
 			<div type="index">
 				<list>
-					<head>Index</head>
+					<head>Index</head>					
 					<item xml:id="list_index">
-						<ref target="#span_zbc_hn5_31c #span_bcc_hn5_31c #span_bcc_hn5_31c #span_bcc_hn5_31c">Literary Allusions</ref>
-						<list>
-							<head>Literary Illusions</head>
+						<ref>All index items to be added here</ref>
+							<list>
+								<head>Literary Allusions</head>
+								<item xml:id="list_allusions">
+									<ref target="#span_zbc_hn5_31c 
+										#span_pepys 
+										#span_bcc_hn5_31c 
+										#span_bcc_hn5_31c 
+										#span_bcc_hn5_31c
+										#span_bcc_hn5_31c
+										#span_ecc_hn5_31c
+										#span_fcc_hn5_31c
+										#span_fcc_hn5_31c
+										#span_gcc_hn5_31c
+										#span_gcc_hn5_31c
+										#span_hcc_hn5_31c
+										">Literary Allusions</ref>
+						<list>							
 							<item>
 								<ref target="#span_zbc_hn5_31c">Reference to Mary Tulley, wife of Daniel Defoe</ref>
 							</item>
 							<item>
-								<ref target="#span_bcc_hn5_31c">Reference to Elisabeth Pepys, wife of Samuel Pepys</ref>
+								<ref target="#span_pepys">Reference to Elisabeth Pepys, wife of Samuel Pepys</ref>
 							</item>
 							<item>
-								<ref target="#span_bcc_hn5_31c">Anne Finch, 'The Introduction'</ref>
+								<ref target="#span_bcc_hn5_31c">Anne Finch, <hi rend="italic">The Introduction</hi></ref>
 							</item>
 							<item>
-								<ref target="#span_bcc_hn5_31c">Margaret Cavendish, 'Female Orations'</ref>
+								<ref target="#span_ccc_hn5_31c">Margaret Cavendish, "Female Orations"</ref>
 							</item>
 							<item>
-								<ref target="#span_bcc_hn5_31c">Charlotte Brontë, quotation</ref>
+								<ref target="#span_bcc_hn5_31c">Charlotte Brontë, <hi rend="italic">Jane Eyre</hi></ref>
 							</item>
 							<item>
-								<ref target="#span_ecc_hn5_31c">Rebecca Harding Davis, letter to Annie Fields, quoted by Tillie Olsen in Olsen's edition of 'Life in the Iron Mills and Other Stories'</ref>
+								<ref target="#span_ecc_hn5_31c">Rebecca Harding Davis, letter to Annie Fields, quoted by Tillie Olsen in Olsen's edition of <hi rend="italic">Life in the Iron Mills and Other Stories</hi></ref>
 							</item>
 							<item>
-								<ref target="#span_fcc_hn5_31c">Charlotte Perkins Gilman, 'The Yellow Wallpaper'</ref>
+								<ref target="#span_fcc_hn5_31c">Charlotte Perkins Gilman, <hi rend="italic">The Yellow Wallpaper</hi></ref>
 							</item>
 							<item>
-								<ref target="#span_gcc_hn5_31c">Mary McCarthy, 'Ghostly Father, In Confession'</ref>
+								<ref target="#span_gcc_hn5_31c">Mary McCarthy, "Ghostly Father, In Confession"</ref>
 							</item>
 							<item>
-								<ref target="#span_hcc_hn5_31c">Sylvia Plath, 'Purdah'</ref>
+								<ref target="#span_hcc_hn5_31c">Sylvia Plath, "Purdah</ref>
 							</item>
 						</list>
+								</item>
+							</list>
 					</item>
-					<item>
+				</list>
+			</div>
+		</body>
+		<back>
+
+			<div cert="high" org="composite" part="Y" sample="initial" type="biography"
+				xml:space="default">
+				<head>Author Biography</head>
+				<p>Joanna Russ is the author of a novel published by Dell Books, <title
+						key="We Who Are About To..." ref="http://www.wikidata.org/entity/Q7977856"
+						>We Who Are About To</title>, and of the science fiction novel, <title
+						key="The Two of Them" ref="http://www.wikidata.org/entity/Q7770974">The Two
+						of Them,</title> to be published by Putnam's. This spring Daughters, Inc.
+					will present her fantasy novel, Kit'a Story: A Tale of Magic. She lives in
+					Bellevue, Washington. </p>
+			</div>
+		</back>
+	</text>
+	<!--<item>
 						<ref>People</ref>
 					</item>
-					<!--<item>
+					<item>
 						<ref>People</ref>
 						<list xml:id="people">
 							<item xml:id="list_people">
@@ -2636,23 +2671,6 @@
 								</list>
 							</item>
 						</list>
-					</item>-->
-				</list>
-			</div>
-		</body>
-		<back>
-
-			<div cert="high" org="composite" part="Y" sample="initial" type="biography"
-				xml:space="default">
-				<head>Author Biography</head>
-				<p>Joanna Russ is the author of a novel published by Dell Books, <title
-						key="We Who Are About To..." ref="http://www.wikidata.org/entity/Q7977856"
-						>We Who Are About To</title>, and of the science fiction novel, <title
-						key="The Two of Them" ref="http://www.wikidata.org/entity/Q7770974">The Two
-						of Them,</title> to be published by Putnam's. This spring Daughters, Inc.
-					will present her fantasy novel, Kit'a Story: A Tale of Magic. She lives in
-					Bellevue, Washington. </p>
-			</div>
-		</back>
-	</text>
+					</item>
+				</list>-->
 </TEI>
