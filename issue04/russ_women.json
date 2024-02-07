@@ -81,7 +81,10 @@
             {
                 "xpath": "//title",
                 "label": "works"
-            }
+            },
+            {
+                "xpath": "//persName[@key='Ann Radcliffe']",
+                "label": "Radcliffe, Ann"
         ],
         "toc": [
             "7c154199a5fb94ee67e58e81ef1afc697f1b4b6d9430d13a624f4674365b6855",
