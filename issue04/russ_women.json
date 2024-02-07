@@ -71,14 +71,6 @@
                 "label": "Mary Tuffley"
             },
             {
-                "xpath": "//persName",
-                "label": "people"
-            },
-            {
-                "xpath": "//title",
-                "label": "works"
-            },
-            {
                 "xpath": "//persName[@key='E. D. E. N. Southworth']",
                 "label": "Southworth, E. D. E. N."
             },
@@ -97,6 +89,14 @@
             {
                 "xpath": "//persName[@key='Samuel Pepys']",
                 "label": "Pepys, Samuel"
+            },
+                        {
+                "xpath": "//persName",
+                "label": "people"
+            },
+            {
+                "xpath": "//title",
+                "label": "works"
             }
         ],
         "toc": [
