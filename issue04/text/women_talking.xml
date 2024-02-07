@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -116,10 +117,21 @@
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
-		
-	<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+				xmlns:as="http://www.w3.org/ns/activitystreams#"
+				xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+				xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+				xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+				xmlns:fabio="https://purl.org/spar/fabio#"
+				xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+				xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+				xmlns:org="http://www.w3.org/ns/org#">
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -195,10 +207,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -273,10 +283,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -352,10 +360,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -430,10 +436,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -508,10 +512,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -587,10 +589,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -665,10 +665,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -744,10 +742,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -823,10 +819,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -902,10 +896,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -980,10 +972,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1059,10 +1049,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1137,10 +1125,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1216,10 +1202,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1294,10 +1278,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1373,10 +1355,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1451,10 +1431,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1529,10 +1507,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1607,10 +1583,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1686,10 +1660,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1764,10 +1736,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1842,10 +1812,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1920,10 +1888,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1998,10 +1964,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2077,10 +2041,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2155,10 +2117,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2233,10 +2193,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2311,10 +2269,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2390,10 +2346,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2469,10 +2423,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2548,14 +2500,20 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader>
+				</rdf:Description>
+			</rdf:RDF></xenoData>
+	</teiHeader>
 	<text>
 		<body>
-			<pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_017.jpg" n="17" xml:id="img_0017"/>
-			<div cert="high" org="composite" part="Y" sample="initial" type="essay" xml:space="default">
+			<pb
+				facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_017.jpg"
+				n="17" xml:id="img_0017"/>
+			<div cert="high" org="composite" part="Y" sample="initial" type="essay"
+				xml:space="default">
 				<head xml:id="head_p1c_hn5_31c">Women Talking, Women Thinking</head>
-				<byline xml:id="byline_r1c_hn5_31c"><persName key="Joanna Russ" ref="http://www.wikidata.org/entity/Q265270" cert="high" role="aud" type="real" xml:id="persName_x1c_hn5_31c">Joanna Russ</persName></byline>
+				<byline xml:id="byline_r1c_hn5_31c"><persName key="Joanna Russ"
+						ref="http://www.wikidata.org/entity/Q265270" cert="high" role="aud"
+						type="real" xml:id="persName_x1c_hn5_31c">Joanna Russ</persName></byline>
 
 				<p xml:id="p_s1c_hn5_31c">What did we talk about? I don't remember. We talked so
 					hard and sat so still that I got cramps in my knees. We had too many cups of tea
@@ -2568,33 +2526,81 @@
 					write it) "But, Doctor, doesn’t that violate Finagle's Constant?" I staggered to
 					the bathroom, released floods of tea, and returned to the kitchen to talk. It
 					was professional talk. It left me grey-faced and with such concentration that I
-					began to develop a headache. We talked about <persName key="George Eliot" ref="http://www.wikidata.org/entity/Q131333" xml:id="persName_y1c_hn5_31c">
-						Mary Ann Evans's </persName>loss of faith, about <persName key="Emily Brontë" ref="http://www.wikidata.org/entity/Q80137" role="aut" xml:id="persName_z1c_hn5_31c">Emily Brontë</persName>'s isolation, about
-						<persName key="Charlotte Brontë" ref="http://www.wikidata.org/entity/Q127332" cert="high" role="aut" type="real" xml:id="persName_abc_hn5_31c">Charlotte Brontë</persName>'s
-					blinding cloud, about the split in <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909" role="aut" xml:id="persName_bbc_hn5_31c">Virginia Woolf</persName>'s head and the split
-					in her economic situation. We talked about <persName key="Murasaki Shikibu" ref="http://www.wikidata.org/entity/Q81731" role="aut" xml:id="persName_cbc_hn5_31c">Lady Murasaki</persName>, who wrote in a form
+					began to develop a headache. We talked about <persName key="George Eliot"
+						ref="http://www.wikidata.org/entity/Q131333" xml:id="persName_y1c_hn5_31c">
+						Mary Ann Evans's </persName>loss of faith, about <persName
+						key="Emily Brontë" ref="http://www.wikidata.org/entity/Q80137" role="aut"
+						xml:id="persName_z1c_hn5_31c">Emily Brontë</persName>'s isolation, about
+						<persName key="Charlotte Brontë"
+						ref="http://www.wikidata.org/entity/Q127332" cert="high" role="aut"
+						type="real" xml:id="persName_abc_hn5_31c">Charlotte Brontë</persName>'s
+					blinding cloud, about the split in <persName key="Virginia Woolf"
+						ref="http://www.wikidata.org/entity/Q40909" role="aut"
+						xml:id="persName_bbc_hn5_31c">Virginia Woolf</persName>'s head and the split
+					in her economic situation. We talked about <persName key="Murasaki Shikibu"
+						ref="http://www.wikidata.org/entity/Q81731" role="aut"
+						xml:id="persName_cbc_hn5_31c">Lady Murasaki</persName>, who wrote in a form
 					that no respectable man would touch<note type="researchNote">Murasaki Shikibu is
-						widely considered to be the first female novelist: "<title key="Murasaki Shikibu, 978?- | Genji monogatari" ref="http://viaf.org/viaf/292926747/" xml:id="title_dbc_hn5_31c">The
-							Tale of Genji</title>"</note>, <persName key="Hrotsvitha" ref="http://www.wikidata.org/entity/Q170248" cert="high" role="aut" type="real" xml:id="persName_ebc_hn5_31c">Hroswit</persName>, a little name
-					whose plays "may perhaps amuse myself," Miss <persName key="Jane Austen" ref="http://www.wikidata.org/entity/Q36322" role="aut" xml:id="persName_fbc_hn5_31c">Austen</persName> who had no more expression
+						widely considered to be the first female novelist: "<title
+							key="Murasaki Shikibu, 978?- | Genji monogatari"
+							ref="http://viaf.org/viaf/292926747/" xml:id="title_dbc_hn5_31c">The
+							Tale of Genji</title>"</note>, <persName key="Hrotsvitha"
+						ref="http://www.wikidata.org/entity/Q170248" cert="high" role="aut"
+						type="real" xml:id="persName_ebc_hn5_31c">Hroswit</persName>, a little name
+					whose plays "may perhaps amuse myself," Miss <persName key="Jane Austen"
+						ref="http://www.wikidata.org/entity/Q36322" role="aut"
+						xml:id="persName_fbc_hn5_31c">Austen</persName> who had no more expression
 					in society than a firescreen or a poker. They did not all write letters, write
-					memoirs, or go on the stage. <persName key="Sappho" ref="http://www.wikidata.org/entity/Q17892" cert="high" role="aut" type="real" xml:id="persName_gbc_hn5_31c">Sappho</persName>—only an
-					ambiguous, somewhat disagreeable name. <persName key="Corinna" ref="http://www.wikidata.org/entity/Q241132" cert="medium" role="aut" xml:id="persName_hbc_hn5_31c">Corinna</persName>? The teacher of <persName key="Pindar" ref="http://www.wikidata.org/entity/Q134929" cert="high" role="aut" type="real" xml:id="persName_ibc_hn5_31c">Pindar</persName>.
-						<persName key="Olive Schreiner" ref="http://www.wikidata.org/entity/Q151180" role="aut" xml:id="persName_jbc_hn5_31c">Olive Schreiner</persName>, growing
+					memoirs, or go on the stage. <persName key="Sappho"
+						ref="http://www.wikidata.org/entity/Q17892" cert="high" role="aut"
+						type="real" xml:id="persName_gbc_hn5_31c">Sappho</persName>—only an
+					ambiguous, somewhat disagreeable name. <persName key="Corinna"
+						ref="http://www.wikidata.org/entity/Q241132" cert="medium" role="aut"
+						xml:id="persName_hbc_hn5_31c">Corinna</persName>? The teacher of <persName
+						key="Pindar" ref="http://www.wikidata.org/entity/Q134929" cert="high"
+						role="aut" type="real" xml:id="persName_ibc_hn5_31c">Pindar</persName>.
+						<persName key="Olive Schreiner" ref="http://www.wikidata.org/entity/Q151180"
+						role="aut" xml:id="persName_jbc_hn5_31c">Olive Schreiner</persName>, growing
 					up on the veldt, wrote one book, married happily, and never wrote another.
-						<persName key="Kate Chopin" ref="http://www.wikidata.org/entity/Q230476" cert="high" role="aut" type="real" xml:id="persName_kbc_hn5_31c">Kate
+						<persName key="Kate Chopin" ref="http://www.wikidata.org/entity/Q230476"
+						cert="high" role="aut" type="real" xml:id="persName_kbc_hn5_31c">Kate
 						Chopin</persName> wrote a scandalous book and never wrote another. (Jean has
-					written nothing.) There was <persName key="Mary Wollstonecraft" ref="http://www.wikidata.org/entity/Q101638" role="aut" xml:id="persName_lbc_hn5_31c">M-ry Sh-Il-y</persName> who wrote <title key="Shelley, Mary Wollstonecraft (1797-1851). | Frankenstein adaptacja)" ref="http://viaf.org/viaf/9954165326399716290005/" xml:id="title_mbc_hn5_31c">you know what</title> and <persName key="Charlotte Perkins Gilman" ref="http://www.wikidata.org/entity/Q287752" cert="high" role="aut" type="real" xml:id="persName_nbc_hn5_31c">Ch-rl-tt-
-						P-rk-ns G-Im-n</persName>, who wrote <title key="Gilman, Charlotte Perkins Stetson (1860-1935). | The yellow wallpaper" ref="http://viaf.org/viaf/176579666/" xml:id="title_obc_hn5_31c">one superb
-						horror story</title> and lots of sludge (was it sludge?), and <persName key="Phillis Wheatley" ref="http://www.wikidata.org/entity/Q257911" role="aut" xml:id="persName_pbc_hn5_31c">Ph-Il-s Wh--tl-y</persName> who was
+					written nothing.) There was <persName key="Mary Wollstonecraft"
+						ref="http://www.wikidata.org/entity/Q101638" role="aut"
+						xml:id="persName_lbc_hn5_31c">M-ry Sh-Il-y</persName> who wrote <title
+						key="Shelley, Mary Wollstonecraft (1797-1851). | Frankenstein adaptacja)"
+						ref="http://viaf.org/viaf/9954165326399716290005/"
+						xml:id="title_mbc_hn5_31c">you know what</title> and <persName
+						key="Charlotte Perkins Gilman" ref="http://www.wikidata.org/entity/Q287752"
+						cert="high" role="aut" type="real" xml:id="persName_nbc_hn5_31c">Ch-rl-tt-
+						P-rk-ns G-Im-n</persName>, who wrote <title
+						key="Gilman, Charlotte Perkins Stetson (1860-1935). | The yellow wallpaper"
+						ref="http://viaf.org/viaf/176579666/" xml:id="title_obc_hn5_31c">one superb
+						horror story</title> and lots of sludge (was it sludge?), and <persName
+						key="Phillis Wheatley" ref="http://www.wikidata.org/entity/Q257911"
+						role="aut" xml:id="persName_pbc_hn5_31c">Ph-Il-s Wh--tl-y</persName> who was
 					black and wrote eighteenth-century odes (but it was the eighteenth century) and
-					Mrs. <persName key="Ann Radcliffe" ref="http://www.wikidata.org/entity/Q231944" cert="high" role="aut" type="real" xml:id="persName_qbc_hn5_31c">-nn
-						R-dcl-ff-</persName> who wrote silly novels and <persName key="Margaret Cavendish" ref="http://www.wikidata.org/entity/Q242640" role="aut" xml:id="persName_rbc_hn5_31c">M-rg-r-t C-v-nd-sh</persName> and <persName key="E. D. E. N. Southworth" ref="http://www.wikidata.org/entity/Q447019" xml:id="persName_sbc_hn5_31c">Mrs.-d-n S--thw-rth</persName> and <persName key="Sarah Elizabeth Forbush Downs" ref="http://www.wikidata.org/entity/Q13562984" xml:id="persName_tbc_hn5_31c">Mrs. G--rg--Sh-Id-n</persName> and (Miss?) <persName key="Georgette Heyer" ref="http://www.wikidata.org/entity/Q272706" cert="high" role="aut" type="real" xml:id="persName_ubc_hn5_31c">G--rg-tt- H-y-r</persName> and
-						<persName key="Barbara Cartland" ref="http://www.wikidata.org/entity/Q235965" role="aut" xml:id="persName_vbc_hn5_31c">B-rb-r- C-rtl-nd</persName> and the legion of
-					those who, writing, write not, like the dead Miss B--l-y<note type="annotation" xml:id="colman01">Miss Bailey, the title character in a short story written by George
-						Colman.</note> of the poem who was seduced into bad practices (fudging her
-					endings) and hanged herself in her garter. The sun was going down. I was blind
-					and stiff.</p>
+					Mrs. <persName key="Ann Radcliffe" ref="http://www.wikidata.org/entity/Q231944"
+						cert="high" role="aut" type="real" xml:id="persName_qbc_hn5_31c">-nn
+						R-dcl-ff-</persName> who wrote silly novels and <persName
+						key="Margaret Cavendish" ref="http://www.wikidata.org/entity/Q242640"
+						role="aut" xml:id="persName_rbc_hn5_31c">M-rg-r-t C-v-nd-sh</persName> and
+						<persName key="E. D. E. N. Southworth"
+						ref="http://www.wikidata.org/entity/Q447019" xml:id="persName_sbc_hn5_31c"
+						>Mrs.-d-n S--thw-rth</persName> and <persName
+						key="Sarah Elizabeth Forbush Downs"
+						ref="http://www.wikidata.org/entity/Q13562984" xml:id="persName_tbc_hn5_31c"
+						>Mrs. G--rg--Sh-Id-n</persName> and (Miss?) <persName key="Georgette Heyer"
+						ref="http://www.wikidata.org/entity/Q272706" cert="high" role="aut"
+						type="real" xml:id="persName_ubc_hn5_31c">G--rg-tt- H-y-r</persName> and
+						<persName key="Barbara Cartland"
+						ref="http://www.wikidata.org/entity/Q235965" role="aut"
+						xml:id="persName_vbc_hn5_31c">B-rb-r- C-rtl-nd</persName> and the legion of
+					those who, writing, write not, like the dead Miss B--l-y<note type="annotation"
+						xml:id="colman01">Miss Bailey, the title character in a short story written
+						by George Colman.</note> of the poem who was seduced into bad practices
+					(fudging her endings) and hanged herself in her garter. The sun was going down.
+					I was blind and stiff.</p>
 
 				<p xml:id="p_t1c_hn5_31c">Twenty years ago I went to college and began to recognize
 					the roof; having dressed for a date (dates were absolutely crucial then) in my
@@ -2613,31 +2619,52 @@
 					off my hair and fingernails and my face and my flesh and finally my very bones.
 					Just to step out of it. All the way out of it.</p>
 				<p xml:id="p_u1c_hn5_31c">My date said, "There you are!"</p>
-				<pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_018.jpg" n="18" xml:id="img_0018"/>
+				<pb
+					facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_018.jpg"
+					n="18" xml:id="img_0018"/>
 				<p xml:id="p_v1c_hn5_31c">I've spent a lot of my time in the library here, picking
 					out obscure references to memoirs written by bad ladies two hundred years ago
 					and novels by worse ladies who, although personally blameless, wrote wicked
-					books: <title key="A Romance of the Pyrenees" ref="https://archive.org/details/romancepyrenees05cuthgoog/page/n3/mode/2up" xml:id="title_wbc_hn5_31c">A Romance of the Pyrenees</title>. <title xml:id="title_xbc_hn5_31c">Marianna</title> or <title xml:id="title_ybc_hn5_31c">The Puritan's Daughter</title>. Weird, ghastly
+					books: <title key="A Romance of the Pyrenees"
+						ref="https://archive.org/details/romancepyrenees05cuthgoog/page/n3/mode/2up"
+						xml:id="title_wbc_hn5_31c">A Romance of the Pyrenees</title>. <title
+						xml:id="title_xbc_hn5_31c">Marianna</title> or <title
+						xml:id="title_ybc_hn5_31c">The Puritan's Daughter</title>. Weird, ghastly
 					stuff. Five romances under the pseudonym <emph>By a Lady</emph>. Domestic
 					sentiment. Gothic castles. Purity. If only I can reduce this pulp to pulp and
 					spread it out into some kind of shape. Dead voices, haunting and terrible: I
 					want, I need, I hope, I believe. What sort of homes did they have? Did they do
-					their own cooking? Did they expect to get pregnant every year? <span ana="reference to Daniel Defoe's 'Journal of the Plague Year'" cert="high" evaluate="all" xml:space="default" type="allusion" xml:id="span_zbc_hn5_31c">(See <persName xml:id="marytuffley" key="Mary Tuffley" ref="http://www.wikidata.org/entity/Q22328736">Mrs. Defoe's</persName>
-						journal.)</span> The awful constriction, the huge skirts. <span xml:id="span_pepys">Mrs. Pepys' dress allowance ("<persName ref="https://www.wikidata.org/wiki/Q1330179" xml:id="epepys">the poor
-							wretch</persName>," <persName key="Samuel Pepys" ref="http://www.wikidata.org/entity/Q106143" xml:id="persName_acc_hn5_31c">her husband</persName> called her).</span>
-					<span ana="'The Introduction' by Anne Finch" cert="high" evaluate="all" xml:space="default" type="allusion" xml:id="span_bcc_hn5_31c">"How are we
-						fall'n, fall'n by mistaken rules!"</span>
-					<span ana="'Female Orations' by Margaret Cavendish" cert="high" evaluate="all" xml:space="default" type="allusion" xml:id="span_ccc_hn5_31c">"Women live
-						like Bats or Owls, labour like Beasts, and die like Worms."</span>
-					<span ana="Charlotte Brontë" cert="high" evaluate="all" xml:space="default" type="allusion" xml:id="span_dcc_hn5_31c">"Anyone may blame me who
-						likes."</span>
-					<span cert="high" evaluate="all" type="allusion" xml:space="default" ana="Rebecca Harding Davis, letter to a friend, quoted in Olson" xml:id="span_ecc_hn5_31c">"How good it must be to be a man when you want to
+					their own cooking? Did they expect to get pregnant every year? <span cert="high"
+						evaluate="all" xml:space="default" type="allusion" xml:id="span_zbc_hn5_31c"
+						>(See <persName xml:id="marytuffley" key="Mary Tuffley"
+							ref="http://www.wikidata.org/entity/Q22328736">Mrs. Defoe's</persName>
+						journal.)</span> The awful constriction, the huge skirts. <span
+						xml:id="span_pepys">Mrs. Pepys' dress allowance ("<persName
+							ref="https://www.wikidata.org/wiki/Q1330179" xml:id="epepys">the poor
+							wretch</persName>," <persName key="Samuel Pepys"
+							ref="http://www.wikidata.org/entity/Q106143"
+							xml:id="persName_acc_hn5_31c">her husband</persName> called her).</span>
+					<span cert="high" evaluate="all" xml:space="default" type="allusion"
+						xml:id="span_bcc_hn5_31c">"How are we fall'n, fall'n by mistaken
+						rules!"</span>
+					<span cert="high" evaluate="all" xml:space="default" type="allusion"
+						xml:id="span_ccc_hn5_31c">"Women live like Bats or Owls, labour like Beasts,
+						and die like Worms."</span>
+					<span cert="high" evaluate="all" xml:space="default" type="allusion"
+						xml:id="span_dcc_hn5_31c">"Anyone may blame me who likes."</span>
+					<span cert="high" evaluate="all" type="allusion" xml:space="default"
+						ana="Rebecca Harding Davis, letter to a friend, quoted in Olson"
+						xml:id="span_ecc_hn5_31c">"How good it must be to be a man when you want to
 						travel."</span><!-- wait for this -->
-					<span ana="The Yellow Wallpaper" cert="high" evaluate="all" xml:space="default" type="allusion" xml:id="span_fcc_hn5_31c">"John laughs at me, but one
-						expects that in marriage."</span>
-					<span cert="high" evaluate="all" type="allusion" xml:space="default" xml:id="span_gcc_hn5_31c" ana="Mary McCarthy Ghostly . Father, In Confess">"It had all been a therapeutic lie. The mind was powerless to save her.
+					<span cert="high" evaluate="all" xml:space="default" type="allusion"
+						xml:id="span_fcc_hn5_31c">"John laughs at me, but one expects that in
+						marriage."</span>
+					<span cert="high" evaluate="all" type="allusion" xml:space="default"
+						xml:id="span_gcc_hn5_31c" ana="Mary McCarthy Ghostly . Father, In Confess"
+						>"It had all been a therapeutic lie. The mind was powerless to save her.
 						Only a man . . ."</span>
-					<span ana="Purdah" cert="high" evaluate="all" xml:space="default" type="allusion" xml:id="span_hcc_hn5_31c">"I / Revolve in my / Sheath of
+					<span cert="high" evaluate="all" xml:space="default" type="allusion"
+						xml:id="span_hcc_hn5_31c">"I / Revolve in my / Sheath of
 						impossibles—"</span> Scholars don’t usually sit gasping and sobbing in
 					corners of the library stacks. </p>
 				<p xml:id="p_w1c_hn5_31c"> But they should. They should.</p>
@@ -2661,7 +2688,10 @@
 							#colman01
 							#title_dbc_hn5_31c
 							#title_mbc_hn5_31c
-							#title_obc_hn5_31c">Literary Allusions</ref>
+							#title_obc_hn5_31c
+							#title_wbc_hn5_31c
+							#title_ybc_hn5_31c
+							#title_xbc_hn5_31c">Literary Allusions</ref>
 						<list>
 							<item xml:id="span01">
 								<ref target="#span_zbc_hn5_31c">Reference to Mary Tulley, wife of
@@ -2680,15 +2710,18 @@
 									Orations"</ref>
 							</item>
 							<item xml:id="span05">
-								<ref target="#span_bcc_hn5_31c">Charlotte Brontë, <hi rend="italic">Jane Eyre</hi></ref>
+								<ref target="#span_bcc_hn5_31c">Charlotte Brontë, <hi rend="italic"
+										>Jane Eyre</hi></ref>
 							</item>
 							<item xml:id="span06">
 								<ref target="#span_ecc_hn5_31c">Rebecca Harding Davis, letter to
-									Annie Fields, quoted by Tillie Olsen in Olsen's edition of <hi rend="italic">Life in the Iron Mills and Other
+									Annie Fields, quoted by Tillie Olsen in Olsen's edition of <hi
+										rend="italic">Life in the Iron Mills and Other
 									Stories</hi></ref>
 							</item>
 							<item xml:id="span07">
-								<ref target="#span_fcc_hn5_31c #title_obc_hn5_31c">Charlotte Perkins Gilman, <hi rend="italic">The Yellow Wallpaper</hi></ref>
+								<ref target="#span_fcc_hn5_31c #title_obc_hn5_31c">Charlotte Perkins
+									Gilman, <hi rend="italic">The Yellow Wallpaper</hi></ref>
 							</item>
 							<item xml:id="span08">
 								<ref target="#span_gcc_hn5_31c">Mary McCarthy, "Ghostly Father, In
@@ -2698,13 +2731,28 @@
 								<ref target="#span_hcc_hn5_31c">Sylvia Plath, "Purdah</ref>
 							</item>
 							<item>
-								<ref target="#colman01">George Colman the Younger, "Unfortunate Miss Bailey" (song) in the play <hi rend="italic">Love Laughs at Locksmiths.</hi></ref>
+								<ref target="#colman01">George Colman the Younger, "Unfortunate Miss
+									Bailey" (song) in the play <hi rend="italic">Love Laughs at
+										Locksmiths.</hi></ref>
 							</item>
 							<item>
-								<ref target="#title_dbc_hn5_31c">Mirasaki Shikibu, <hi rend="italic">The Tale of Genji</hi>. Mriasaki is considered by some to be the first female novelist.</ref>
+								<ref target="#title_dbc_hn5_31c">Mirasaki Shikibu, <hi rend="italic"
+										>The Tale of Genji</hi>. Mriasaki is considered by some to
+									be the first female novelist.</ref>
 							</item>
 							<item>
-								<ref target="#title_mbc_hn5_31c">Mary Shelley, <hi rend="italic">Frankenstein</hi></ref>
+								<ref target="#title_mbc_hn5_31c">Mary Shelley, <hi rend="italic"
+										>Frankenstein</hi></ref>
+							</item>
+							<item>
+								<ref target="#title_wbc_hn5_31c">Catherine Cuthbertson, A Romance of
+									the Pyrenees</ref>
+							</item>
+							<item>
+								<ref target="#title_ybc_hn5_31c">Caroline Alathea Creevey, <hi rend="italic">A Daughter of the Puritans</hi></ref>
+							</item>
+							<item>
+								<ref target="#title_xbc_hn5_31c">George Sands, <hi rend="italic">Marianne</hi></ref>
 							</item>
 						</list>
 					</item>
@@ -2713,9 +2761,13 @@
 		</body>
 		<back>
 
-			<div cert="high" org="composite" part="Y" sample="initial" type="biography" xml:space="default">
+			<div cert="high" org="composite" part="Y" sample="initial" type="biography"
+				xml:space="default">
 				<head>Author Biography</head>
-				<p>Joanna Russ is the author of a novel published by Dell Books, <title key="We Who Are About To..." ref="http://www.wikidata.org/entity/Q7977856">We Who Are About To</title>, and of the science fiction novel, <title key="The Two of Them" ref="http://www.wikidata.org/entity/Q7770974">The Two
+				<p>Joanna Russ is the author of a novel published by Dell Books, <title
+						key="We Who Are About To..." ref="http://www.wikidata.org/entity/Q7977856"
+						>We Who Are About To</title>, and of the science fiction novel, <title
+						key="The Two of Them" ref="http://www.wikidata.org/entity/Q7770974">The Two
 						of Them,</title> to be published by Putnam's. This spring Daughters, Inc.
 					will present her fantasy novel, Kit'a Story: A Tale of Magic. She lives in
 					Bellevue, Washington. </p>
