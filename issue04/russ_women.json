@@ -27,6 +27,10 @@
                 "label": "Brontë, Emily"
             },
             {
+                "xpath": "//persName[@key='Margaret Cavendish']",
+                "label": "Cavendish, Margaret"
+            },
+            {
                 "xpath": "//persName[@key='Kate Chopin']",
                 "label": "Chopin, Kate"
             },
@@ -51,6 +55,10 @@
                 "label": "Pindar"
             },
             {
+                "xpath": "//persName[@key='Ann Radcliffe']",
+                "label": "Radcliffe, Ann"
+            },
+            {
                 "xpath": "//persName[@key='Sappho']",
                 "label": "Sappho"
             },
@@ -67,6 +75,10 @@
                 "label": "Shikibu, Murasaki"
             },
             {
+                "xpath": "//persName[@key='Mary Tuffley']",
+                "label": "Tuffley, Mary"
+            },
+            {
                 "xpath": "//persName[@key='Phillis Wheatley']",
                 "label": "Wheatley, Phillis"
             },
@@ -81,14 +93,10 @@
             {
                 "xpath": "//title",
                 "label": "works"
-            },
-            {
-                "xpath": "//persName[@key='Ann Radcliffe']",
-                "label": "Radcliffe, Ann"
             }
         ],
         "toc": [
-            "7c154199a5fb94ee67e58e81ef1afc697f1b4b6d9430d13a624f4674365b6855",
+            "350545e0e3fb43e6b69f73bd96957e27148cc2007bd7f763d642114857b55603",
             "3c528a1cf8aca16fe3d7b22f43ed9adc77495e6f8870a78af77dc5367156ab93"
         ]
     }
