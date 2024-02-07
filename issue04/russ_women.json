@@ -27,6 +27,10 @@
                 "label": "Brontë, Emily"
             },
             {
+                "xpath": "//persName[@key='Kate Chopin']",
+                "label": "Chopin, Kate"
+            },
+            {
                 "xpath": "//persName[@key='Corinna']",
                 "label": "Corinna"
             },
@@ -35,36 +39,40 @@
                 "label": "Eliot, George"
             },
             {
+                "xpath": "//persName[@key='Charlotte Perkins Gilman']",
+                "label": "Gilman, Charlotte Perkins"
+            },
+            {
                 "xpath": "//persName[@key='Hrotsvitha']",
                 "label": "Hrotsvitha"
+            },
+            {
+                "xpath": "//persName[@key='Pindar']",
+                "label": "Pindar"
             },
             {
                 "xpath": "//persName[@key='Sappho']",
                 "label": "Sappho"
             },
             {
-                "xpath": "//persName[@key='Murasaki Shikibu']",
-                "label": "Shikibu, Murasaki"
-            },
-            {
-                "xpath": "//persName[@key='Virginia Woolf']",
-                "label": "Woolf, Virginia"
-            },
-            {
                 "xpath": "//persName[@key='Olive Schreiner']",
                 "label": "Schreiner, Olive"
-                },
-            {
-                "xpath": "//persName[@key='Kate Chopin']",
-                "label": "Chopin, Kate"
             },
             {
                 "xpath": "//persName[@key='Mary Wollstonecraft']",
                 "label": "Shelley, Mary"
             },
             {
-                "xpath": "//persName[@key='Charlotte Perkins Gilman']",
-                "label": "Gilman, Charlotte Perkins"
+                "xpath": "//persName[@key='Murasaki Shikibu']",
+                "label": "Shikibu, Murasaki"
+            },
+            {
+                "xpath": "//persName[@key='Phillis Wheatley']",
+                "label": "Wheatley, Phillis"
+            },
+            {
+                "xpath": "//persName[@key='Virginia Woolf']",
+                "label": "Woolf, Virginia"
             },
             {
                 "xpath": "//persName",
@@ -76,7 +84,7 @@
             }
         ],
         "toc": [
-            "b062404e756abb49f87a6b73531e6b477de233ae9f9d2a3693134e2072c9f8b3",
+            "7c154199a5fb94ee67e58e81ef1afc697f1b4b6d9430d13a624f4674365b6855",
             "3c528a1cf8aca16fe3d7b22f43ed9adc77495e6f8870a78af77dc5367156ab93"
         ]
     }
