@@ -2482,7 +2482,7 @@
 					their own cooking? Did they expect to get pregnant every year? <span
 						ana="reference to Daniel Defoe's 'Journal of the Plague Year'" cert="high"
 						evaluate="all" xml:space="default" type="allusion" xml:id="span_zbc_hn5_31c"
-						>(See <persName xml:id="mary_tuffley">Mrs. Defoe's</persName> journal.)</span> The awful constriction, the huge skirts.
+						>(See <persName xml:id="marytuffley">Mrs. Defoe's</persName> journal.)</span> The awful constriction, the huge skirts.
 					Mrs. Pepys' dress allowance ("<persName
 						ref="https://www.wikidata.org/wiki/Q1330179" xml:id="epepys">the poor wretch</persName>,"
 						<persName key="Samuel Pepys" ref="http://www.wikidata.org/entity/Q106143"
@@ -2519,7 +2519,7 @@
 						<list xml:id="people">
 							<item xml:id="list_people">
 								<ref
-									target="#persName_fbc_hn5_31c #persName_abc_hn5_31c #persName_z1c_hn5_31c #persName_rbc_hn5_31c #persName_hbc_hn5_31c #persName_kbc_hn5_31c #persName_tbc_hn5_31c #persName_nbc_hn5_31c #persName_ubc_hn5_31c #persName_ebc_hn5_31c #persName_ibc_hn5_31c #persName_qbc_hn5_31c #persName_gbc_hn5_31c #persName_jbc_hn5_31c #persName_lbc_hn5_31c #persName_cbc_hn5_31c #persName_sbc_hn5_31c #persName_pbc_hn5_31c #persName_bbc_hn5_31c #persName_vbc_hn5_31c #epepys #persName_acc_hn5_31c span_zbc_hn5_31c #mary_tuffley"
+									target="#persName_fbc_hn5_31c"
 									>People</ref>
 								<list>
 									<item xml:id="person01">
@@ -2592,7 +2592,7 @@
 										<ref target="#persName_sbc_hn5_31c">E.D.E.N. Southworth</ref>
 									</item>
 									<item xml:id="person23">
-										<ref target="#mary_tuffley">Mary Tuffley</ref>
+										<ref target="#marytuffley">Mary Tuffley</ref>
 									</item>
 									<item xml:id="person24">
 										<ref target="#persName_pbc_hn5_31c">Phyllis Wheatley</ref>
