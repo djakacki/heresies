@@ -93,6 +93,10 @@
             {
                 "xpath": "//title",
                 "label": "works"
+            },
+            {
+                "xpath": "//span",
+                "label": "references"
             }
         ],
         "toc": [
