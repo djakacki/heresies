@@ -1,23 +1,70 @@
 {
-    "editionTitle": "Women Talking, Women Thinking",
-    "editionSubtitle": "",
-    "ignoreNamespace": true,
-    "documents": "//div[@type='essay'or@type='biography']",
-    "documentContent": "",
-    "documentTitle": "head",
-    "documentAuthor": "",
-    "indexDocument": "//div[@type='index']",
-    "documentImages": "",
-    "documentNotes": "",
-    "documentLinks": "",
     "inputs": [
         "https://raw.githubusercontent.com/djakacki/heresies/main/issue04/text/women_talking.xml"
     ],
+    "documents": "//div[@type='essay'or@type='biography']",
+    "ignoreNamespace": true,
+    "documentTitle": "head",
+    "documentAuthor": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "indexDocument": "//div[@type='index']",
+    "editionTitle": "Women Talking, Women Thinking",
+    "editionSubtitle": "",
     "curation": {
         "markup": [
             {
-                "xpath": "//div",
-                "label": "div"
+                "xpath": "//persName[@key='Jane Austen']",
+                "label": "Austen, Jane"
+            },
+            {
+                "xpath": "//persName[@key='Charlotte Brontë']",
+                "label": "Brontë, Charlotte"
+            },
+            {
+                "xpath": "//persName[@key='Emily Brontë']",
+                "label": "Brontë, Emily"
+            },
+            {
+                "xpath": "//persName[@key='Corinna']",
+                "label": "Corinna"
+            },
+            {
+                "xpath": "//persName[@key='George Eliot']",
+                "label": "Eliot, George"
+            },
+            {
+                "xpath": "//persName[@key='Hrotsvitha']",
+                "label": "Hrotsvitha"
+            },
+            {
+                "xpath": "//persName[@key='Sappho']",
+                "label": "Sappho"
+            },
+            {
+                "xpath": "//persName[@key='Murasaki Shikibu']",
+                "label": "Shikibu, Murasaki"
+            },
+            {
+                "xpath": "//persName[@key='Virginia Woolf']",
+                "label": "Woolf, Virginia"
+            },
+            {
+                "xpath": "//persName[@key='Olive Schreiner']",
+                "label": "Schreiner, Olive"
+                },
+            {
+                "xpath": "//persName[@key='Kate Chopin']",
+                "label": "Chopin, Kate"
+            },
+            {
+                "xpath": "//persName[@key='Mary Wollstonecraft']",
+                "label": "Shelley, Mary"
+            },
+            {
+                "xpath": "//persName[@key='Charlotte Perkins Gilman']",
+                "label": "Gilman, Charlotte Perkins"
             },
             {
                 "xpath": "//persName",
@@ -29,7 +76,7 @@
             }
         ],
         "toc": [
-            "8bb7a9a7371e1c529a82bb414b28da1ad19a5a33bb6983d3bbdc6789f9a3d52d",
+            "b062404e756abb49f87a6b73531e6b477de233ae9f9d2a3693134e2072c9f8b3",
             "3c528a1cf8aca16fe3d7b22f43ed9adc77495e6f8870a78af77dc5367156ab93"
         ]
     }
