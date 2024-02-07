@@ -206,7 +206,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -282,7 +283,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -359,7 +361,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -435,7 +438,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -511,7 +515,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -588,7 +593,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -664,7 +670,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -741,7 +748,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -818,7 +826,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -895,7 +904,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -971,7 +981,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1048,7 +1059,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1124,7 +1136,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1201,7 +1214,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1277,7 +1291,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1354,7 +1369,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1430,7 +1446,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1506,7 +1523,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1582,7 +1600,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1659,7 +1678,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1735,7 +1755,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1811,7 +1832,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1887,7 +1909,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -1963,7 +1986,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2040,7 +2064,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2116,7 +2141,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2192,7 +2218,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2268,7 +2295,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
 					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
@@ -2482,12 +2510,14 @@
 					their own cooking? Did they expect to get pregnant every year? <span
 						ana="reference to Daniel Defoe's 'Journal of the Plague Year'" cert="high"
 						evaluate="all" xml:space="default" type="allusion" xml:id="span_zbc_hn5_31c"
-						>(See <persName xml:id="marytuffley">Mrs. Defoe's</persName> journal.)</span> The awful constriction, the huge skirts.
-					<span xml:id="span_pepys">Mrs. Pepys' dress allowance ("<persName
-						ref="https://www.wikidata.org/wiki/Q1330179" xml:id="epepys">the poor wretch</persName>,"
-						<persName key="Samuel Pepys" ref="http://www.wikidata.org/entity/Q106143"
-						xml:id="persName_acc_hn5_31c">her husband</persName> called her).</span> <span
-						ana="'The Introduction' by Anne Finch" cert="high" evaluate="all"
+						>(See <persName xml:id="marytuffley">Mrs. Defoe's</persName>
+						journal.)</span> The awful constriction, the huge skirts. <span
+						xml:id="span_pepys">Mrs. Pepys' dress allowance ("<persName
+							ref="https://www.wikidata.org/wiki/Q1330179" xml:id="epepys">the poor
+							wretch</persName>," <persName key="Samuel Pepys"
+							ref="http://www.wikidata.org/entity/Q106143"
+							xml:id="persName_acc_hn5_31c">her husband</persName> called her).</span>
+					<span ana="'The Introduction' by Anne Finch" cert="high" evaluate="all"
 						xml:space="default" type="allusion" xml:id="span_bcc_hn5_31c">"How are we
 						fall'n, fall'n by mistaken rules!"</span>
 					<span ana="'Female Orations' by Margaret Cavendish" cert="high" evaluate="all"
@@ -2496,15 +2526,17 @@
 					<span ana="Charlotte Brontë" cert="high" evaluate="all" xml:space="default"
 						type="allusion" xml:id="span_dcc_hn5_31c">"Anyone may blame me who
 						likes."</span>
-					<span cert="high" evaluate="all" type="allusion" xml:space="default" ana="Rebecca Harding Davis, letter to a friend, quoted in Olson"
+					<span cert="high" evaluate="all" type="allusion" xml:space="default"
+						ana="Rebecca Harding Davis, letter to a friend, quoted in Olson"
 						xml:id="span_ecc_hn5_31c">"How good it must be to be a man when you want to
 						travel."</span><!-- wait for this -->
 					<span ana="The Yellow Wallpaper" cert="high" evaluate="all" xml:space="default"
 						type="allusion" xml:id="span_fcc_hn5_31c">"John laughs at me, but one
 						expects that in marriage."</span>
 					<span cert="high" evaluate="all" type="allusion" xml:space="default"
-						xml:id="span_gcc_hn5_31c" ana="Mary McCarthy Ghostly . Father, In Confess">"It had all been a therapeutic lie. The mind was
-						powerless to save her. Only a man . . ."</span>
+						xml:id="span_gcc_hn5_31c" ana="Mary McCarthy Ghostly . Father, In Confess"
+						>"It had all been a therapeutic lie. The mind was powerless to save her.
+						Only a man . . ."</span>
 					<span ana="Purdah" cert="high" evaluate="all" xml:space="default"
 						type="allusion" xml:id="span_hcc_hn5_31c">"I / Revolve in my / Sheath of
 						impossibles—"</span> Scholars don’t usually sit gasping and sobbing in
@@ -2513,13 +2545,9 @@
 			</div>
 			<div type="index">
 				<list>
-					<head>Index</head>					
-					<item xml:id="list_index">
-						<ref>All index items to be added here</ref>
-							<list>
-								<head>Literary Allusions</head>
-								<item xml:id="list_allusions">
-									<ref target="#span_zbc_hn5_31c 
+					<head>Literary Allusions</head>
+					<item xml:id="list_allusions">
+						<ref target="#span_zbc_hn5_31c 
 										#span_pepys 
 										#span_bcc_hn5_31c 
 										#span_bcc_hn5_31c 
@@ -2531,37 +2559,45 @@
 										#span_gcc_hn5_31c
 										#span_gcc_hn5_31c
 										#span_hcc_hn5_31c">Literary Allusions</ref>
-						<list>							
+						<list>
 							<item xml:id="span01">
-								<ref target="#span_zbc_hn5_31c">Reference to Mary Tulley, wife of Daniel Defoe</ref>
+								<ref target="#span_zbc_hn5_31c">Reference to Mary Tulley, wife of
+									Daniel Defoe</ref>
 							</item>
 							<item xml:id="span02">
-								<ref target="#span_pepys">Reference to Elisabeth Pepys, wife of Samuel Pepys</ref>
+								<ref target="#span_pepys">Reference to Elisabeth Pepys, wife of
+									Samuel Pepys</ref>
 							</item>
 							<item xml:id="span03">
-								<ref target="#span_bcc_hn5_31c">Anne Finch, <hi rend="italic">The Introduction</hi></ref>
+								<ref target="#span_bcc_hn5_31c">Anne Finch, <hi rend="italic">The
+										Introduction</hi></ref>
 							</item>
 							<item xml:id="span04">
-								<ref target="#span_ccc_hn5_31c">Margaret Cavendish, "Female Orations"</ref>
+								<ref target="#span_ccc_hn5_31c">Margaret Cavendish, "Female
+									Orations"</ref>
 							</item>
 							<item xml:id="span05">
-								<ref target="#span_bcc_hn5_31c">Charlotte Brontë, <hi rend="italic">Jane Eyre</hi></ref>
+								<ref target="#span_bcc_hn5_31c">Charlotte Brontë, <hi rend="italic"
+										>Jane Eyre</hi></ref>
 							</item>
 							<item xml:id="span06">
-								<ref target="#span_ecc_hn5_31c">Rebecca Harding Davis, letter to Annie Fields, quoted by Tillie Olsen in Olsen's edition of <hi rend="italic">Life in the Iron Mills and Other Stories</hi></ref>
+								<ref target="#span_ecc_hn5_31c">Rebecca Harding Davis, letter to
+									Annie Fields, quoted by Tillie Olsen in Olsen's edition of <hi
+										rend="italic">Life in the Iron Mills and Other
+									Stories</hi></ref>
 							</item>
 							<item xml:id="span07">
-								<ref target="#span_fcc_hn5_31c">Charlotte Perkins Gilman, <hi rend="italic">The Yellow Wallpaper</hi></ref>
+								<ref target="#span_fcc_hn5_31c">Charlotte Perkins Gilman, <hi
+										rend="italic">The Yellow Wallpaper</hi></ref>
 							</item>
 							<item xml:id="span08">
-								<ref target="#span_gcc_hn5_31c">Mary McCarthy, "Ghostly Father, In Confession"</ref>
+								<ref target="#span_gcc_hn5_31c">Mary McCarthy, "Ghostly Father, In
+									Confession"</ref>
 							</item>
 							<item xml:id="span09">
 								<ref target="#span_hcc_hn5_31c">Sylvia Plath, "Purdah</ref>
 							</item>
 						</list>
-								</item>
-							</list>
 					</item>
 				</list>
 			</div>
