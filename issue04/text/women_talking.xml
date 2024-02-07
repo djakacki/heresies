@@ -2518,9 +2518,6 @@
 						<ref>People</ref>
 						<list xml:id="people">
 							<item xml:id="list_people">
-								<ref
-									target="#persName_fbc_hn5_31c"
-									>People</ref>
 								<list>
 									<item xml:id="person01">
 										<ref target="#persName_fbc_hn5_31c">Jane Austen</ref>
