@@ -6,7 +6,7 @@
     "documentContent": "",
     "documentTitle": "head",
     "documentAuthor": "",
-    "indexDocument": "",
+    "indexDocument": "//div[@type='index']",
     "documentImages": "",
     "documentNotes": "",
     "documentLinks": "",
@@ -29,8 +29,8 @@
             }
         ],
         "toc": [
-            "9e743f6d02a027199b163cdeec2047b63b6c386cd4c3ddd3242eb1f025ac0820",
-            "05e1f3bb558b3bd1154c449365a90666b4cb72944e9ba9716c7e1170eff047b9"
+            "0c5612d1d7b6bdbfd199279851e86d7babd1e80224b5aaf83a1253a0ed5c7e17",
+            "3c528a1cf8aca16fe3d7b22f43ed9adc77495e6f8870a78af77dc5367156ab93"
         ]
     }
 }
