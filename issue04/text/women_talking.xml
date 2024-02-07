@@ -2530,34 +2530,33 @@
 										#span_fcc_hn5_31c
 										#span_gcc_hn5_31c
 										#span_gcc_hn5_31c
-										#span_hcc_hn5_31c
-										">Literary Allusions</ref>
+										#span_hcc_hn5_31c">Literary Allusions</ref>
 						<list>							
-							<item>
+							<item xml:id="span01">
 								<ref target="#span_zbc_hn5_31c">Reference to Mary Tulley, wife of Daniel Defoe</ref>
 							</item>
-							<item>
+							<item xml:id="span02">
 								<ref target="#span_pepys">Reference to Elisabeth Pepys, wife of Samuel Pepys</ref>
 							</item>
-							<item>
+							<item xml:id="span03">
 								<ref target="#span_bcc_hn5_31c">Anne Finch, <hi rend="italic">The Introduction</hi></ref>
 							</item>
-							<item>
+							<item xml:id="span04">
 								<ref target="#span_ccc_hn5_31c">Margaret Cavendish, "Female Orations"</ref>
 							</item>
-							<item>
+							<item xml:id="span05">
 								<ref target="#span_bcc_hn5_31c">Charlotte Brontë, <hi rend="italic">Jane Eyre</hi></ref>
 							</item>
-							<item>
+							<item xml:id="span06">
 								<ref target="#span_ecc_hn5_31c">Rebecca Harding Davis, letter to Annie Fields, quoted by Tillie Olsen in Olsen's edition of <hi rend="italic">Life in the Iron Mills and Other Stories</hi></ref>
 							</item>
-							<item>
+							<item xml:id="span07">
 								<ref target="#span_fcc_hn5_31c">Charlotte Perkins Gilman, <hi rend="italic">The Yellow Wallpaper</hi></ref>
 							</item>
-							<item>
+							<item xml:id="span08">
 								<ref target="#span_gcc_hn5_31c">Mary McCarthy, "Ghostly Father, In Confession"</ref>
 							</item>
-							<item>
+							<item xml:id="span09">
 								<ref target="#span_hcc_hn5_31c">Sylvia Plath, "Purdah</ref>
 							</item>
 						</list>
