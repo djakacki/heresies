@@ -2503,7 +2503,7 @@
 						type="allusion" xml:id="span_fcc_hn5_31c">"John laughs at me, but one
 						expects that in marriage."</span>
 					<span cert="high" evaluate="all" type="allusion" xml:space="default"
-						xml:id="span_gcc_hn5_31c">"It had all been a therapeutic lie. The mind was
+						xml:id="span_gcc_hn5_31c" ana="Mary McCarthy Ghostly . Father, In Confess">"It had all been a therapeutic lie. The mind was
 						powerless to save her. Only a man . . ."</span>
 					<span ana="Purdah" cert="high" evaluate="all" xml:space="default"
 						type="allusion" xml:id="span_hcc_hn5_31c">"I / Revolve in my / Sheath of
@@ -2519,31 +2519,31 @@
 						<list>
 							<head>Literary Illusions</head>
 							<item>
-								<ref target="#span_zbc_hn5_31c">Defoe, Journal of the Plague Year</ref>
+								<ref target="#span_zbc_hn5_31c">Reference to Mary Tulley, wife of Daniel Defoe</ref>
 							</item>
 							<item>
-								<ref target="#span_bcc_hn5_31c">Pepys, Samuel Pepys' Diaries</ref>
+								<ref target="#span_bcc_hn5_31c">Reference to Elisabeth Pepys, wife of Samuel Pepys</ref>
 							</item>
 							<item>
-								<ref target="#span_bcc_hn5_31c">Finch, The Introduction</ref>
+								<ref target="#span_bcc_hn5_31c">Anne Finch, 'The Introduction'</ref>
 							</item>
 							<item>
-								<ref target="#span_bcc_hn5_31c">Cavendish, Female Orations</ref>
+								<ref target="#span_bcc_hn5_31c">Margaret Cavendish, 'Female Orations'</ref>
 							</item>
 							<item>
 								<ref target="#span_bcc_hn5_31c">Charlotte Brontë, quotation</ref>
 							</item>
 							<item>
-								<ref target="#span_ecc_hn5_31c">Rebecca Harding Davis, letter to Annie Fields, quoted by Tillie Olsen in 'Life in the Iron Mills'</ref>
+								<ref target="#span_ecc_hn5_31c">Rebecca Harding Davis, letter to Annie Fields, quoted by Tillie Olsen in Olsen's edition of 'Life in the Iron Mills and Other Stories'</ref>
 							</item>
 							<item>
-								<ref target="#span_fcc_hn5_31c">Gilman, The Yellow Wallpaper</ref>
+								<ref target="#span_fcc_hn5_31c">Charlotte Perkins Gilman, 'The Yellow Wallpaper'</ref>
 							</item>
 							<item>
-								<ref target="#span_gcc_hn5_31c">waiting for Susan</ref>
+								<ref target="#span_gcc_hn5_31c">Mary McCarthy, 'Ghostly Father, In Confession'</ref>
 							</item>
 							<item>
-								<ref target="#span_hcc_hn5_31c">Plath, Purdah</ref>
+								<ref target="#span_hcc_hn5_31c">Sylvia Plath, 'Purdah'</ref>
 							</item>
 						</list>
 					</item>
