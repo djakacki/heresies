@@ -90,10 +90,6 @@
                 "xpath": "//persName[@key='Samuel Pepys']",
                 "label": "Pepys, Samuel"
             },
-                        {
-                "xpath": "//persName",
-                "label": "people"
-            },
             {
                 "xpath": "//title",
                 "label": "works"
