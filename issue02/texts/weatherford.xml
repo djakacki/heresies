@@ -963,7 +963,7 @@
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
-			<pb n="35"/>
+			<pb cert="high" n="35" xml:space="default"/>
 			<div><head><title>WOMEN'S TRADITIONAL ARCHITECTURE</title></head>
 			<byline><persName key="Elizabeth Weatherford" ref="http://www.wikidata.org/entity/Q106878888">ELIZABETH WEATHERFORD</persName></byline></div>
 
