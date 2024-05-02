@@ -469,7 +469,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue02/texts/weatherford.xml?note_annotation_20240502131854211#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/quote/note"
+			"rdf:value": "TEI/text/body/div[2]/p[8]/note"
 		}
 	},
 	"oa:hasBody": {
@@ -548,7 +548,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue02/texts/weatherford.xml?note_annotation_20240502131901363#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/quote[2]/note"
+			"rdf:value": "TEI/text/body/div[2]/quote/note"
 		}
 	},
 	"oa:hasBody": {
@@ -627,7 +627,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue02/texts/weatherford.xml?note_annotation_20240502131913036#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/quote[3]/note"
+			"rdf:value": "TEI/text/body/div[2]/quote[2]/note"
 		}
 	},
 	"oa:hasBody": {
@@ -706,7 +706,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue02/texts/weatherford.xml?note_annotation_20240502131918482#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/quote[4]/note"
+			"rdf:value": "TEI/text/body/div[2]/quote[3]/note"
 		}
 	},
 	"oa:hasBody": {
@@ -785,7 +785,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue02/texts/weatherford.xml?note_annotation_20240502131923106#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p[19]/note"
+			"rdf:value": "TEI/text/body/div[2]/p[20]/note"
 		}
 	},
 	"oa:hasBody": {
@@ -864,7 +864,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue02/texts/weatherford.xml?note_annotation_20240502131928042#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p[23]/note"
+			"rdf:value": "TEI/text/body/div[2]/p[24]/note"
 		}
 	},
 	"oa:hasBody": {
@@ -943,7 +943,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/heresies/main/issue02/texts/weatherford.xml?note_annotation_20240502131933296#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p[25]/note"
+			"rdf:value": "TEI/text/body/div[2]/p[26]/note"
 		}
 	},
 	"oa:hasBody": {
@@ -1038,7 +1038,7 @@
 				which they may erect collectively. The building activity may be almost ritualized,
 				as the "performer“ sets into motion a body of traditional knowledge shared with
 				other women:</p>
-			<quote>Now she squatted down making her own home, driving the saplings into the ground
+			<p>Now she squatted down making her own home, driving the saplings into the ground
 				with sharp thrusts, each time in exactly the same place, so that they went deeper
 				and deeper. When she had completed a circle she stood up and deftly bent the fito
 				over her head, twisting them together and twining smaller saplings across form- ing
@@ -1047,7 +1047,7 @@
 				had enough she started hanging them on the framework like tiles, overlapping each
 				other and forming a waterproof covering. There were leaves left over when she had
 				finished, so she let other women take them for their houses.<note type="scholarNote">4. Turnbull, pp.
-					59-60.</note></quote>
+					59-60.</note></p>
 			<p>The dwelling in the gathering culture is the focal point of women's creative activi¬
 				ties. Since it is usually constructed from materials that can be replaced from
 				available natural sources, it also binds society to its natural environment.</p>
