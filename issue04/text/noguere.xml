@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sewing With My Great-Aunt Leonie Amestoy</title>
+            <author>Suzanne Noguere</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_073.jpg" n="73" xml:id="img_0073"/>
+         <div>
+            <head><title>Sewing With My Great-Aunt Leonie Amestoy</title></head>
+        <byline> Suzanne Noguere</byline>
+         
+           <lg> 
+            <l>Today you bend over organdy</l>
+            <l>In organic toil, working the small red squares</l>
+            <l>The way in your youth old men bent over earth</l>
+            <l>And still coaxed wheat and corn from the Basque soil.</l>
+            <l>You fold the cloth, then slowly roll the edges</l>
+            <l>Until rose petals bloom in your hands,</l>
+            <l>Vivified by the stitch that shirs them softly</l>
+            <l>The way the skin is shirred around your eyes.</l>
+           </lg>
+            <lg>
+            <l>Crooked like a mitered edge, your index finger</l>
+            <l>At rest stays poised above an unseen needle.</l>
+            <l>Indoors, surrounded by left-over silk</l>
+            <l>And wool, we rearrange the rainbow’s spectrum,</l>
+            <l>Sorting the tools of your trade–bright spools of thread,</l>
+            <l>Small silver thimbles, scissors, and the red</l>
+            <l>Pincushions studded with glass-headed pins-</l>
+            <l>As we need them, laboring in your field.</l>
+            </lg>
+            <lg>
+            <l>We overlap the petals; roses thrive</l>
+            <l>Under the lamplight in your wintry room.</l>
+            <l>Next you teach me the genesis of frogs:</l>
+            <l>We turn the tubing and vivid cloth emerges</l>
+            <l>Out of itself like a snake sloughing its skin;</l>
+            <l>You whorl it tightly and I think this is</l>
+            <l>How your great spirit must exist in you</l>
+            <l>Compactly, coiled like a spring.</l>
+            </lg>
+            <lg>
+            <l>From what misfortune could you not recover</l>
+            <l>Who as a child made the pilgrimage</l>
+            <l>To Lourdes, eastward through the low green mountains</l>
+            <l>Of your own land? You say the Virgin slept</l>
+            <l>And say it lightly as if you had not been</l>
+            <l>Bitterly born to your mother’s shame</l>
+            <l>In an age when no one could tell you of</l>
+            <l>The tiny gland that kept you tiny.</l>
+            </lg>
+            <lg>
+            <l>Self-taught and independent by your own</l>
+            <l>Inventions, you make buttons out of thread,</l>
+            <l>Handbags with pockets hidden within pockets,</l>
+            <l>And dresses that unfold as if corollas</l>
+            <l>With minute parts inside. You instruct me in</l>
+            <l>Techniques as secret as nature’s, my fingers</l>
+            <l>Sure when yours are, atremble when yours falter</l>
+            <l>Those sharp days when you feel more and more mortal.</l>
+            </lg>         
+         </div>                         
+      </body>
+     <back>
+        <p>Suzanne Noguere lives in New York City.</p>
+     </back>
+  </text>
+</TEI>

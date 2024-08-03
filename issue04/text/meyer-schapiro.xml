@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Waste Not Want Not</title>
+            <author>Meyer, Melissa</author>
+            <author>Schapiro, Miriam</author>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021- Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-23)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb
+               facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_069.jpg"
+               n="69" xml:id="img_0069"/>
+
+            <head>Waste Not Want Not</head>
+            <head>An Inquiry into What Women Saved and Assembled</head>
+
+            <byline>Melissa Meyer</byline>
+            <byline>Miriam Schapiro</byline>
+            <div>
+               <head>FEMMAGE</head>
+               <p> Virginia Woolf talks about the loose, drifting material of life, describing how
+                  she would like to see it sorted and coalesced into a mold transparent enough to
+                  reflect the light of our life and yet aloof as a work of art. <note>1. Virginia
+                     Woolf, Self Explorations, Diarists in England and America, Exhibition catalog
+                     (New York: 42nd St. Public Library, May 2-September 15, 1977 (excerpted from "A
+                     Writer’s Diary").</note> She makes us think of the paper lace, quills and
+                  beads, scraps of cloth, photographs, birthday cards, valentines and clippings, all
+                  of which inspired the visual imaginations of the women we write about. In the
+                  eighteenth century, a nun in a German convent cuts delicate lace from thin
+                  parchment and pastes it around minutely detailed paintings of saints. Performing
+                  an act of devotion in the service of her God, she makes what later, in the secular
+                  world, are called the first valentines.</p>
+               <p>An Iroquois woman in 1775 sews five elliptical quillwork designs at the base of a
+                  black buckskin bag, quillwork borders at the top and additional moosehair
+                  embroidery at the bottom and sides. Hannah Stockton, a New Jersey woman, in 1830
+                  dips into her scrap bag in the tradition of waste not want not and finds just the
+                  right pieces with which to appliqué her quilt.</p>
+               <p>In the 1860s, Lady Filmer photographs the Prince of Wales and his shooting party.
+                  Later she cuts up these photos and creates a composition of them in her album,
+                  producing the first photocollage. <note>2. Women of Photography, An Historical
+                     Survey, Catalog (San Francisco: San Francisco Museum of Art, April 18- June 15,
+                     1975).</note></p>
+               <p>Rita Reynolds, resident of Southend, England, keeps a scrapbook during World War
+                  II. In it she glues birthday cards, valentines and clippings from her local
+                  newspaper which record the progress of the war. As the world situation worsens,
+                  the scrapbook reflects its gravity.</p>
+               <p>
+                  <term>Collage</term>: a word invented in the twentieth century to describe an
+                  activity with an ancient history. Here are some associated definitions:<lb/>
+                  <term>Collage</term>: pictures assembled from assorted materials.<lb/>
+                  <term>Collage</term>: a French word after the verb coller which means pasting,
+                  sticking or gluing, as in application of wallpaper.<lb/>
+                  <term>Assemblage</term>: a collection of things, often combined in the round.<lb/>
+                  <term>Assemblage</term>: a specific technical procedure and form used in the
+                  literary and musical, as well as the plastic arts, but also a complex of attitudes
+                  and ideas . . . collage and related modes of construction manifest a
+                  predisposition that is characteristically modern. <note>3. William C. Seitz, The
+                     Art of Assemblage (New York: Museum of Modern Art, 1961), p. 10. </note>
+                  <lb/>
+                  <term>Découpage</term>: (literally, cutting) a mode of decorating painted
+                  furniture with cutouts of flowers, fruit, etc. Also, the ar of decorating surfaces
+                  with applied paper cutouts.<lb/>
+                  <term>Photomontage</term>: the method of making a composite picture by bringing
+                  photographs together in a single composition and arranging them, often by
+                  superimposing one part on another, so that they form a blended whole.</p>
+
+               <div>
+                  <byline>Rita Reynolds</byline>
+                  <head>SCRAPBOOK</head>
+                  <p>This store-bought scrapbook (circa 1940s) was found in a London Flea Market. On
+                     first impression it seems banal, yet there is novelty in its contents:
+                     newspaper clippings, decals, some birthday and holiday cards with portions
+                     silhouetted (some are left whole) and commercially colored animal pictures.</p>
+                  <p> Rita Reynolds, in selecting her pictures, showed what was important to her,
+                     revealing her personal priorities. The seemingly unrelated information adds up
+                     to pre-war and wartime episodes that make "that loose drifting material of
+                     life" in fact coalesce into a work of art. <note>10. Virginia Woolf, 42nd
+                        Street Public Library Exhibition (see #1).</note> This, then, is a visual
+                     artist equivalent of a diary.</p>
+               </div>
+            </div>
+            <pb
+               facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_070.jpg"
+               n="70" xml:id="img_0070"/>
+            <div>
+               <head>FEMMAGE</head>
+               <p>
+                  <term>Femmage</term>: a word invented by us to include all of the above activities
+                  as they were practiced by women using tradi- tional women’s techniques to achieve
+                  their art—sewing, piecing, hooking, cutting, appliquéing, cooking and the like
+                  -activities also engaged in by men but assigned in history to women.</p>
+               <p> Published information about the origins of collage is misleading. Picasso and
+                  Braque are credited with inventing it. Many artists made collage before they did,
+                  Picasso’s father for one and Sonia Delaunay for another. When art his torians
+                  mandate these beginnings at 1912, they exclude artists not in the mainstream. Art
+                  historians do not pay atten tion to the discoveries of non-Western artists, women
+                  artists or anonymous folk artists. All of these people make up the group we call
+                  others. It is exasperating to realize that the rigidities of modern critical
+                  language and thought pre vent a direct response to the eloquence of art when it is
+                  made by <hi rend="italic">others</hi>.</p>
+               <p>Our information on women artist-makers of the past was inspired by the definitive
+                  texts on collage written by critics and art historians Herta Wescher, William
+                  Seitz, Harriet Janis and Rudi Blesh. We did not find our material in the main body
+                  of their works but rather in their introductions and in their notes in the back of
+                  their books, indicating they were unable to relax their modernist theories enough
+                  to appreciate the diversity, beauty and significance of the original makers of
+                  collage. Many of these ancestors were women who were ignored by the politics of
+                  art.</p>
+               <p>Janis and Blesh put it succinctly: "Collage was once only the simple pleasant fold
+                  art or pastime of cutting and pasting bits of paper into pictures or ornamental
+                  designs. It was no concern of serious artists. . . . Its origins began so many
+                  centuries ago. . . . It is only with this century and the advent of modern art
+                  that this quondum delight of schoolgirl and housewife came to the attention of
+                  serious artists grappling with revolutionary ideas . . ." <note>4. Harriet Janis
+                     and Rudi Blesh, Collage Personalities Concepts Techniques (Philadelphia/New
+                     York/London: Chilton Book Co., 1969), p. 3. </note> It is in fact the
+                  "schoolgirl" and "housewife" we must look at more carefully to understand the
+                  aesthetics of our ancestors and their processes.</p>
+               <p>William Seitz includes this information in his work on assemblage: "Valentines,
+                  postcards, and folk art of various kinds incorporating pasted elements as well as
+                  pictures and objects made of butterfly wings, feathers, shells, etc. were common
+                  much earlier. Indeed various stamped letters, passports and official documents can
+                  be looked at as a form of unintentional collage." <note>5 Seitz, p. 150, note 5.
+                  </note></p>
+               <p>Now that we women are beginning to document our culture, redressing our
+                  trivialization and adding our information to the recorded male facts and insights,
+                  it is necessary to point out the extraordinary works of art by women which despite
+                  their beauty are seen as leftovers of history. Aesthetic and technical
+                  contributions have simply been overlooked. Here, for example, we are concerned
+                  with the authenticity and energy in needlework.</p>
+
+               <div>
+                  <byline>Hannah Stockton</byline>
+                  <head>LAND AND SEA</head>
+                  <p>This unusual quilt does not adhere to any formula for quilt- making. It has no
+                     set pattern—block, brick, half drop or dia- mond form; there are no predictable
+                     geometric or imagistic formulas here. It appears to be a crazy quilt with a
+                     theme.</p>
+                  <p>Crazy quilts are made of freely cut pieces of cloth which may seem to be
+                     randomly placed. Here the theme is carried out in motifs of land and sea cut
+                     from imported English chintz of Oriental design (the technique called <hi
+                        rend="italic">broderie perse</hi>).</p>
+                  <p>Holstein says, ". . . so popular was this technique that in the early
+                     nineteenth century, chintzes were printed with patterns especially designed to
+                     be cut out and used for the centers and corners of applique quilts. <note>9.
+                        Jonathan Holstein The Pieced Quilt an American Design Tradition, (Greenwich,
+                        Conn.: New York Graphics Society, Ltd., 1973), p. 21. </note></p>
+                  <p>A 103 inch by 91 inch quilt is a large work. Visual control is as impressive in
+                     this work as it is on the small devotional pieces.</p>
+               </div>
+            </div>
+
+            <pb
+               facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_071.jpg"
+               n="71" xml:id="img_0071"/>
+
+            <div>
+               <head>FEMMAGE</head>
+               <p>When it becomes possible to appreciate a sewn object like a quilt (even though it
+                  was created for utilitarian pur poses) because it employs thirty stitches to the
+                  inch, and uses color which by all standards is rich and evocative, con tains
+                  silhouetted forms which are skillfully drawn and connects perfectly measured
+                  geometrical units of fabric, then it will be clear that woman’s art invites a
+                  methodology of its own.</p>
+               <p>Women have always collected things and saved and recycled them because leftovers
+                  yielded nourishment in new forms. The decorative functional objects women made
+                  often spoke in a secret language, bore a covert imagery. When we read these images
+                  in needlework, in paintings, in quilts, rugs and scrapbooks, we sometimes find a
+                  cry for help. sometimes an allusion to a secret political alignment, sometimes a
+                  moving symbol about the relationships between men and women. We base our
+                  interpretations of the layered meanings in these works on what we know of our own
+                  lives—a sort of archeological reconstruction and deciphering. We ask ourselves,
+                  have we ever used a secret language in our works? Patricia Mainardi, in her essay,
+                  says: "Women not only made beautiful and functional objects but expressed their
+                  own conviction on a wide variety of subjects in a language for the most part
+                  comprehensible only te other women . . . There was more than one man of Tory
+                  persuasion who slept unknowingly under his wife’s " Rose Quilt" . . . women named
+                  quilts for their political belief . . . at a time when they were not allowed to
+                  vote. <note>6. Patricia Mainardi, "Quilts: The Great American Art." Feminist Art
+                     Journal, Winter 1973, p. 19.</note></p>
+               <p>Collected, saved and combined materials represented for such women acts of pride,
+                  desperation and necessity Spiritual survival depended on the harboring of
+                  memories. Each cherished scrap of percale, muslin or chintz, each bead, each
+                  letter, each photograph, was a reminder of its place in a woman’s life, similar to
+                  an entry in a journal or diary. Cynthia Ozick says, . .. a diary is a shoring-up
+                  of the ephemeral, evidence that the writer (we substitute artist-maker takes up
+                  real space in the world." <note>7. Cynthia Ozick, The Loose Drifting Material of
+                     Life," New York Times Book Review, Oct. 2. 1977, p. 41. </note></p>
+               <p>Women’s culture is the framework for femmage, and makes it possible for us to
+                  understand "combining" as th simultaneous reading of moosehair and beads, cut
+                  paper and paint or open-work and stitches. Our female culture also makes it
+                  possible to see these traditional aesthetic elements for what they are—the natural
+                  materials needed for spiritual, and often physical, survival.</p>
+               <p>In the past an important characteristic of femmage was that women worked for an
+                  audience of intimates. A woman artist-maker always had the assurance that her work
+                  was destined to be appreciated and admired. She worked for her relatives and
+                  friends and unless she exhibited in church bazaars and county fairs, her viewers
+                  were almost always people she knew. In their book, Joel and Kate Kopp tell about
+                  Mrs. Eleanor Blackstone of Lacon, Il linois, who in the years between 1880 and
+                  1890 hooked six large rugs, all recording events in the history of her family
+                  These rugs show her six children, their pastimes and their pets including actual
+                  strands of the children’s hair worked into the individual portraits. <note>8. Joel
+                     and Kate Kopp, American Hooked and Sewn Rugs, Folk Art Underfoot, (New York: E.
+                     P. Dutton, 1975), p. 72. </note></p>
+               <div>
+                  <byline>Anonymous Nun</byline>
+                  <head>S. JOANNES EV.</head>
+                  <p>Works like this paper femmage were made to be carried in a prayer book This
+                     devotional work, approximately five inches by two inches, was an homage to a
+                     saint that the artist-maker, a nun, wished to honor. In this case St. John the
+                     Evangelist sits in his oval surrounded by ornate cut paper simulating lace. The
+                     whiteness of the lace is offset by an illusionistic rendering of the saint
+                     himself. The cutting exhibits an astonishing capability in the use of knives
+                     and scissors as tools. The paper lace is pasted around the painting of the
+                     saint and part of it is painted as well.</p>
+                  <p>The appeal of these works is their deli cacy and the tour de force of the cut
+                     ting. The artist’s process echoes her purpose. The love lavished by this nun on
+                     the little object is visible.</p>
+               </div>
+            </div>
+
+            <pb
+               facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_072.jpg"
+               n="72" xml:id="img_0072"/>
+            <div>
+               <head>FEMMAGE</head>
+               <p> We feel that several criteria determine whether a work can be called femmage. Not
+                  all of them appear in a single object. However, the presence of at least half of
+                  them should allow the work to be appreciated as <hi rend="italic"
+                  >femmage</hi>.</p>
+               <p><hi rend="bold">1.</hi> It is a work by a woman. <hi rend="bold">2.</hi> The
+                  activities of saving and collecting are important ingredients. <hi rend="bold"
+                     >3.</hi> Scraps are essential to the process and are recycled in the work. <hi
+                     rend="bold">4.</hi> The theme has a woman-life context. <hi rend="bold">5.</hi>
+                  The work has elements of covert imagery. <hi rend="bold">6.</hi> The theme of the
+                  work addresses itself to an audience of intimates. <hi rend="bold">7.</hi> It
+                  celebrates a private or public event. <hi rend="bold">8.</hi> A diarist's point of
+                  view is reflected in the work. <hi rend="bold">9.</hi> There is drawing and/or
+                  handwriting sewn in the work. <hi rend="bold">10.</hi> It contains silhouetted
+                  images which are fixed on other material. <hi rend="bold">11.</hi> Recognizable
+                  images appear in narrative sequence. <hi rend="bold">12.</hi> Abstract forms
+                  create a pattern. <hi rend="bold">13.</hi> The work contains photographs or other
+                  printed matter <hi rend="bold">14.</hi> The work has a functional as well as an
+                  aesthetic life.</p>
+               <p> These criteria are based on visual observation of many works made by women in the
+                  past. We have already said that this art has been excluded from mainstream, but
+                  why is that so? What is mainstream? How may such an omis sion be corrected?</p>
+               <p>The works themselves were without status because the artists who made them were
+                  considered inferior by the his torians who wrote about art and culture. Since the
+                  works were intimate and had no data or criticism attached to them and were often
+                  anonymous, how could these writers identify them as valid, mainstream history!</p>
+               <p>Mainstream is the codification of ideas for the illumination of history and the
+                  teaching of the young. What a shame that the young remain ignorant of the vitality
+                  of women’s art. Yet the culture of women will remain unrecognized un- til women
+                  themselves regard their own past with fresh insight. To correct this situation,
+                  must we try to insert women’s traditional art into mainstream? How will the
+                  authorities be convinced that what they consider low art is worth representing in
+                  history? The answer does not lie in mainstream at all, but in sharing women’s
+                  information with women.</p>
+               <p>Toward this end we have evaluated a selection of women’s art and looked for
+                  similar elements which appeared most frequently. As we recorded them, we
+                  discovered with pleasure that they presented a form in many guises—a form we call
+                  femmage.</p>
+
+               <div>
+                  <byline>Lady Filmer</byline>
+                  <head>PRINCE OF WALES SHOOTING PARTY</head>
+                  <p>Lady Mary Filmer was an early practitioner of photography, a contemporary of
+                     the more celebrated Julia Margaret Cameron. But Lady Filmer took photography to
+                     another place. She cut, rearranged and pasted her pictures on to album pages,
+                     sometimes adding watercolor. Her work pre-dated the papier collé of Picasso and
+                     Braque and the photomontages of Hannah Hoch and Raoul Hausmann. In Lady Mary’s
+                     circle, most women did fancywork.</p>
+                  <p> Today this term is used disparagingly by cultural historians whose aesthetic
+                     remains uninformed by wom- en’s culture. In their hierarchical sympathies, they
+                     elevate the camera above the crochet needle. Although we believe Lady Filmer’s
+                     photocollages were admirable achievements, the other wom en of her time were
+                     accomplishing equally interesting work.</p>
+               </div>
+
+            </div>
+         </div>
+      </body>
+      <back>
+         <p>Melissa Meyer is a painter living in NeW York</p>
+         <p>Miriam Schapiro is a femmagist from New York.</p>
+      </back>
+   </text>
+</TEI>
