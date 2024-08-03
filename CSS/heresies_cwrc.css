@@ -758,6 +758,11 @@ epigraph > label {
     display: block;
     font-weight: bold;
 }
+/* Adding style for words in languages other than English (italicized in text) */
+lang {
+    font-style: italic;
+}
+
 langUsage {
     display: block;
     margin-bottom: 1em;
