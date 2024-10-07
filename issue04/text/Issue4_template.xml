@@ -7,11 +7,15 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Selections from: Recitation of the Yoruba Bride</title>
-            <author>Ulli Beier</author>
+            <title>TITLE</title>
+            <author>AUTHOR</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
             <respStmt>
                <persName>Haley Beardsley</persName>
-               <resp>Editor (2021- Present)</resp>
+               <resp>Editor (2021-2024)</resp>
             </respStmt>
             <respStmt>
                <persName>Lyndon Beier</persName>
@@ -27,7 +31,7 @@
             </respStmt>
             <respStmt>
                <persName>Margaret Hunter</persName>
-               <resp>Editor (2021-Present)</resp>
+               <resp>Editor (2021-2024)</resp>
             </respStmt>
             <respStmt>
                <persName>Diane Jakacki</persName>
@@ -43,11 +47,11 @@
             </respStmt>
             <respStmt>
                <persName>Zoha Nadeer</persName>
-               <resp>Editor (2022-Present)</resp>
+               <resp>Editor (2022-2023)</resp>
             </respStmt>
             <respStmt>
                <persName>Bri Perea</persName>
-               <resp>Editor (2022-23)</resp>
+               <resp>Editor (2022-2023)</resp>
             </respStmt>
             <respStmt>
                <persName>Carrie Pirmann</persName>
@@ -62,16 +66,24 @@
                <resp>Investigator, editor</resp>
             </respStmt>
             <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
                <persName>Kaitlyn Segreti</persName>
                <resp>Editor (2021-Present)</resp>
             </respStmt>
             <respStmt>
                <persName>Maggie Smith</persName>
-               <resp>Editor (2021-Present)</resp>
+               <resp>Editor (2021-2024)</resp>
             </respStmt>
             <respStmt>
                <persName>Maya Wadhwa</persName>
                <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
             </respStmt>
             <respStmt>
                <persName>Lucy Wadswoth</persName>
@@ -80,6 +92,10 @@
             <respStmt>
                <persName>Anna Marie Wingard</persName>
                <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
             </respStmt>
             <funder>Bucknell University Humanities Center</funder>
             <funder>Bucknell University Office of Undergraduate Research</funder>
@@ -127,176 +143,8 @@
    </teiHeader>
    <text>
       <body>
-         <pb
-            facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_121.jpg"
-            n="118" xml:id="img_0121"/>
-
-         <head>Selections from</head>
-         <head>Recitation of the Yoruba Bride</head>
-         <note>This long recitation by a bride is an example of improvised poetry that is common in
-            Yoruba. The bride is decked out in her finery and, accompanied by drummers and a crowd
-            of relatives, she is led to her husband's house. She is in a state of great excitement
-            and, chanting all the time, she speaks about everything that comes to her mind.</note>
-
-         <lg>
-            <l>Those who stand—let them stand well</l>
-            <l>Those who stoop—let them stoop well.</l>
-            <l>Those who sit on the verandah-</l>
-            <l>let them receive our thanks.</l>
-            <l>You the elders, who have come from far.</l>
-            <l>I thank you for honouring this day.</l>
-            <l>pounded yam softly,</l>
-            <l>I offered it to Eshu the trickster,</l>
-            <l>Eshu refused to eat.</l>
-            <l>I prepared yam flour softly,</l>
-            <l>Eshu refused to eat.</l>
-            <l>Then I asked him:</l>
-            <l>Will you stay indoors or outside?</l>
-            <l>He said: Outside.</l>
-            <l>When the dead come looking for me,</l>
-            <l>they will meet Eshu outside.</l>
-            <l>When disease comes looking for me,</l>
-            <l>it will meet Eshu outside.</l>
-            <l>But if a child comes looking for me,</l>
-            <l>it will meet me in my room.</l>
-            <l>When I left my house</l>
-            <l>my father told me</l>
-            <l>don’t go through the market.</l>
-            <l>I said: But why?</l>
-            <l>Are you in debt?</l>
-            <l>Do you owe the butcher?</l>
-            <l>When I left my home</l>
-            <l>my mother told me:</l>
-            <l>Don’t go through the market.</l>
-            <l>I said: But why?</l>
-            <l>Are you in debt to the salt seller</l>
-            <l>You people of the world,</l>
-            <l>help me to thank my mother,</l>
-            <l>for she decked me out in clothes</l>
-            <l>rich enough</l>
-            <l>to make Olokun jealous,</l>
-            <l>the god of the sea.</l>
-            <l>My mother dressed me</l>
-            <l>in clothes so rich</l>
-            <l>I could confuse a god.</l>
-            <l>I am like a beggar woman</l>
-            <l>turned into a king’s daughter.</l>
-            <l>They wanted to lead me to my husband's house</l>
-            <l>like a sheep to the market.</l>
-            <l>But my mother said, I should be escorted</l>
-            <l>like a free born child.</l>
-            <l>Let everybody thank my mother:</l>
-            <l>she did not allow me to borrow dresses</l>
-            <l>from those who would abuse me later.</l>
-            <l>And you, my friend Ilajue,</l>
-            <l>you my best friend:</l>
-            <l>This sudden marriage has spoiled </l>
-            <l>many things for us.</l>
-            <l>We have been abusing people together,</l>
-            <l>we have been scorning together and laughing,</l>
-            <l>good things and bad, we never did them alone.</l>
-            <l>They say that marriage brings happiness</l>
-            <l>greater than any known before.</l>
-            <l>But were they thinking of you?</l>
-            <l>And you my parents:</l>
-            <l>when you don’t see the river</l>
-            <l>will you forget the waves?</l>
-            <l>When you don’t see the thunder</l>
-            <l>will you forget the rain?</l>
-            <l>When you don’t see me any more</l>
-            <l>will you forget me?</l>
-            <l>Is it not you who decide</l>
-            <l>when a child is old enough to have a quiver?</l>
-            <l>Is it not you who decide</l>
-            <l>when a child is old enough to have an arrow?</l>
-            <l>It was you who decided</l>
-            <l>that 1 was old enough</l>
-            <l>to move into another house.</l>
-            <l>Don’t leave me alone in that place.</l>
-            <l>What I am proposing to do</l>
-            <l>you have done it yourselves with success.</l>
-            <l>Then let me succeed also.</l>
-            <l>If you don’t know an elephant</l>
-            <l>at least you hear his voice.</l>
-            <l>If you don’t know the sea</l>
-            <l>at least you have tasted salt in your soup.</l>
-            <l>If you don’t know me: don’t you hear my voice?</l>
-            <l>I looked right</l>
-            <l>but I saw no tree</l>
-            <l>taller than the silk cotton tree.</l>
-            <l>I looked left</l>
-            <l>but I saw no tree</l>
-            <l>taller than the silk cotton tree.</l>
-            <l>I looked in front of me</l>
-            <l>but I could not see anyone</l>
-            <l>who resembles my father.</l>
-            <l>What kind of god created me</l>
-            <l>in a sickly town</l>
-            <l>to make my relatives die like rotten yams?</l>
-            <l>If luck is not against me</l>
-            <l>I shall have them back</l>
-            <l>where 1 am going.</l>
-            <l>If luck is not against me</l>
-            <l>they shall re-enter the world</l>
-            <l>through me.</l>
-            <l>May luck not turn against the mother.</l>
-            <l>When luck turns against the hunter</l>
-            <l>the animal escapes.</l>
-            <l>When luck turns against the farmer</l>
-            <l>his land does not yield.</l>
-            <l>When luck turns against the mother</l>
-            <l>she will bury her children,</l>
-            <l>as if she were planting yams.</l>
-            <l>It is not my head that is bad</l>
-            <l>only fate.</l>
-            <l>My head—which is wearing a bright scarf today—</l>
-            <l>will surely give me</l>
-            <l>male and female children.</l>
-            <l>By this time last year</l>
-            <l>my husband was writing angry letters.</l>
-            <l>By this time last year</l>
-            <l>he was writing fighting letters.</l>
-            <l>But when this year came</l>
-            <l>he tore up his letters.</l>
-            <l>I am afraid-</l>
-            <l>not because I am a coward.</l>
-            <l>I am afraid-</l>
-            <l>not because I cannot fight.</l>
-            <l>It is this strange house</l>
-            <l>that is upsetting me.</l>
-            <l>Don’t bathe me in medicines.</l>
-            <l>Forget about your charms.</l>
-            <l>My mother’s care is enough for me.</l>
-            <l>I honour the bitter kola nut,</l>
-            <l>for through it I will gain Shango’s favour.</l>
-            <l>I honour the red kola nut,</l>
-            <l>for through it I will gain the favour of the other gods.</l>
-            <l>The melon seed soup only offends the hungry man</l>
-            <l>who was not invited to the feast.</l>
-            <l>he smell of fried bananas only offends the hungry man</l>
-            <l>who was not invited to the feast.</l>
-            <l>I who have come to this world</l>
-            <l>with ripe breasts</l>
-            <l>I have offended my younger sisters.</l>
-            <l>Whom shall I turn to in this new house?</l>
-            <l>In the strange corridors I never walked?</l>
-            <l>In the strange doors I never entered?</l>
-            <l>Whom can 1 turn to in this strange house?</l>
-            <l>Some of them may say:</l>
-            <l>See a loose girl coming.</l>
-            <l>Let them talk today-</l>
-            <l>for tomorrow they shall be silenced.</l>
-            <l>Today is a glorious day.</l>
-
-
-
-         </lg>
+         <pb/>
+         <p></p>
       </body>
-      <back>
-         <div>
-            <p>From Ulli Beier, ed., Yoruba Poetry ©1970 Cambridge University Press. Reprinted by
-               permission.</p>
-         </div>
-      </back>
    </text>
 </TEI>
