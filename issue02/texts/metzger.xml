@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In Her Image</title>
+            <author>Deena Metzgar</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="essay">
+            			<pb n='2'/>
+         	<head>In Her Image*</head>
+         	<byline>Deena Metzger</byline>
+         	<p>* Revised and excerpted from the manuscript of an unpublished book, In Her Image: Woman’s Culture, 1976.</p>
+			<p>
+				Woman has always been associated with the dark, with the
+				unknown. It has been in society’s interest to consider women unknowable; that has been one of the devices to keep us from
+				power. Separated then from the "light" of the dominant society,
+				we women have perpetuated a culture of our own, expressed in
+				our own forms, which has frequently been transmitted, as is the
+				case with other oppressed cultures, in subtle, uncodified ways.
+				Not taught in schools, it is communicated in the home, through
+				kinship lines, laterally through sisters, grandmothers, friends. Influenced and affected by the dominant cultures within or against
+				which it must exist, this culture nevertheless seems to incorporate
+				certain universal elements which may in part be due to the fact
+				that women everywhere are socialized into similar roles and oppressions. Ironically, despite our universal oppression, women
+				seem to have survived as the guardians of certain human values
+				necessary to the survival of humanity. At the same time, these
+				values undermine the anti-human thrust of contemporary industrial and technological life. In bourgeois society, this contradiction is solved through the relegation of women to the home, and
+				our isolation from public life, which prevents those values from
+				entering the public sphere. Similarly, these contributions are further devalued through their association with women and they
+				consequently lose their power to influence the direction of the
+				dominant culture. Certain survival values then persist in isolation
+				within the circumscribed female domain.
+			</p>
+			<p>
+				Woman’s culture is the complex expression of a woman’s sensibility, the interaction of knowledge, values, rituals, organizations
+				and attitudes resulting from the interaction of role, biology, historical conditions and memory. It has developed forms which
+				deny aggression, competition, rank and power—essentially nonhierarchical, intimate and cooperative forms. The tone with
+				which women address each other when we are alone, calling each
+				other immediately by our first names, the conversations women
+				have with other women are, in themselves, models of the entire
+				culture. Woman’s conversation is a particular form of communication in which seemingly simple interchanges, as well as sophisticated theoretical and analytical discussions, incorporate a complex of other activities. When women speak to each other, the
+				sentence functions both to communicate information and to establish intimate connection between women. Woman’s conversa
+				tion is often confined to intuition, accompanied by non-verbal
+				interaction, touch, eye contact, which enhance the intensity of
+				the interchange.
+			</p>
+			<p>
+				Women tend, when possible, to search for the common denominator, for the area of common and meaningful experience.
+				Women so often talk about “women’s things" because they are
+				more interested in the feeling of community than in an abstract
+				interchange, and what are commonly deprecated as "women's
+				things" are in fact those events of daily life common to everyone’s
+				experience. For example, when we introduce ourselves to each
+				other, we tend to avoid professional definitions, offering general
+				statements about our lives, some bit of information which can
+				create an intimate experience. Particularly since consciousness
+				raising, we introduce ourselves in terms of personal struggle,
+				openly communicating the current internal dilemma or problem:
+				"T’ve just divorced" or "T’m trying to get my life together."
+				Women are willing to reveal the raw materials in order to
+				explore together. Women’s conversations may have a more "unfinished" quality because we begin at the unknown rather than
+				the known. If men’s conversations reveal, women’s conversations
+				explore.
+			</p>
+			<p>
+				I wish to create here a form appropriate to the subject of
+				woman’s culture which reflects those attitudes and values integral
+				to that culture. I think of this article as a conversation rather than
+				a monologue and have tried to create spaces that elicit response.
+				Rather than embody material, information, illustration in
+				footnotes that indicate a secondary status or a formal acknowledgment of authority, I prefer to provide complementary space
+				for the other voices which inform this article. A form that more
+				honestly acknowledges the informal and constant exchange of
+				ideas. I see these pages as places reserved for other women writers
+				and artists to participate as partners. I invite the reader to use
+				them to respond, think, make notes and add to what I have written according to her own insights and imagination.
+			</p>
+			<p>
+				<quote>
+				"And so our mothers and grandmothers have, more often
+				than not anonymously, handed on the creative spark, the seed of
+				the flower they themselves never hoped to see: or like a sealed
+				letter they could not plainly read."</quote> <ref>(Alice Walker, "In Search of
+				Our Mothers Gardens," Ms. Magazine, May 1974.)</ref>
+			</p>
+			<p>
+				So we begin again here to negotiate a form as if this were a
+				conversation between us which contained references to other conversations, to our work, to those asides wherein we discover how
+				we come to know this, reminding each other of previous discussions, those stolen moments in the kitchen, carpooling, when we
+				meet in the supermarket, in the offices, the TV stations, the lecture rooms, those moments when we emphasize an idea by extending our hands to each other, the pressure of fingers on the
+				upper arm, speaking a sentence of verbs, nouns, prepositions,
+				affection, solidarity and acknowledgment. This does not come
+				from me alone; I learned it from you; we have been passing it
+				through our minds and bodies and conversations for years now.
+				Virginia gave it word-flesh when she asked us to create the woman’s sentence. Well, we have made it, we are making it. The
+				woman’s sentence, the woman’s paragraph, the woman’s build
+				ing, the woman’s design, the woman’s portrait. ..forms as complex as their forms, but our forms, different forms, responsive to
+				our own values, experiences, priorities. Each one of us knows one
+				form. I will tell one, you another, then Barbara, Jane, Sheila, all
+				the women I know.</p>
+				<p>"Give an example," Martha says.</p>
+				<p>"Okay, Martha. Thank you." Your urging helped me to
+				come to this form which is our form, a conversation not a dissertation. Between sentences, I am listening for your comments,
+				incorporating them, answering them, and listening for them once
+				more. That listening, asking, incorporating, is characteristic of
+				us, we who are attentive. But now we bring that form into the
+				public domain as one of the new ways.
+			</p>
+			<pb n='3'/>
+
+			<p>
+				"Since childhood, women have always been bricoleurs,
+				creating structures by means of events, making-do, constructing
+				whole lives out of leftovers, devising entire, though miniature
+				worlds out of their peripheral status and tasks. Such worlds
+				rivaled the male spheres in complexity, interest and involvement.
+				They were worlds made of smaller and homelier materials but
+				built in proportion, involving the entire range of social processes, as full-bodied as the external, male-dominated realm. In her
+				own miniature world, the woman was in charge, using time and
+				energy according to her own lights. Within the structured points
+				of her day in the household, she did a great many highly diverse
+				tasks, all at the same time, always expecting to be interrupted,
+				never expecting full closure, bustling from one activity to the
+				next, watching her work come undone as soon as completed.
+				(Barbara G. Myerhoff, from an unpublished paper “The Older
+				Woman as Androgyne: Sexual Stereotypes and Innovations.")
+			</p>
+			<p>
+				Women tend to focus on the person being spoken to. What
+				do you want to know? What do you need from me? Women do
+				not commonly tell each other jokes or puns, preferring more responsive forms. "You know how it is" invites identification and
+				laughter, often bitter. The tendency of some women to raise rather than lower their voices at the end of sentences does not imply
+				uncertainty so much as invitation, willingness to negotiate and
+				desire for response and interaction.</p>
+				<p>One of the basic functions of women’s conversations is nurturance. When women talk to each other, we simultaneously take
+				care of each other, provide comfort, communicate information
+				and verify a common reality through the discovery of basic common experience. It is not enough to find "common interests” but
+				to discover those that are essential to, not oblique to, existence.</p>
+				<p>The anxiety aroused because women talk about the essentials allows for our conversation to be characterized as gossip, trivial,
+				materialistic. Women, in fact, talk about others, about children,
+				clothes, cooking, the "stuff of life," because these are the universals, the common essential ingredients of existence.</p>
+				<p>Women who wish to participate in the public sphere as women rather than to conform to male standards as a condition of
+				both entry and survival need to examine our own forms and their
+				sources in order to integrate these forms into public institutions
+				and behaviors.</p>
+				<p>How does one communicate this information? The language
+				appropriate to formal presentation is heavy and abstract. Each
+				idea is confined within a noun and those are arranged in order.
+				One says "immediate," "integrated," "continuous," "collective,"
+				"personal"... But when we speak about it together, we create
+				another tone and style...</p>
+				<p>When Sheila is invited to enter a design competition on the
+				subject of color, she asks women friends and associates of various
+				ages, including young girls, to respond to the color pink on small
+				squares. These are organized into a grid in which no piece is more
+				important than another. The poster permits women to respond to
+				a color which has been socially devaluated. Pink is assigned to
+				women; baby pink, thrust upon us during infancy, remains our
+				color through old age. Its associations are with infantilism, indulgence, frivolity. How, then, can we claim it? Yet the responses on
+				the pink cards indicate strength, assurance, energy. They contradict the preconceptions. When the piece is finished, the color has
+				new associations representing a wide range of responses. The individual statements become a collective self-portrait, a self-exami
+				nation, facilitating the reevaluation of pink and of ourselves. The
+				poster is responsive. It is a non-hierarchical structure. It is a communal effort. It evokes a variety of responses. It is complex. It
+				provides for reevaluation. It makes a feminist statement in form
+				as well as in content.</p>
+				<p>Why do I begin with Sheila? Because we came to this at the
+				same time although quite independently. Sheila was the organizer
+				of the first Feminist Design Program at Cal Arts. She is also one
+				of the organizers of the Feminist Studio Workshop and of the
+				Woman’s Building. She was teaching design and I was teaching
+				literature. We were both pursuing our private design and writing.
+				Looking at women’s work from historical and critical perspectives, we discovered that it exhibited basic affinities despite his
+				torical and national barriers. This work does not yield easily to
+				analysis with ordinary critical tools, as it departs from the
+				dominant modes, goals and value systems. As we attempted to
+				weave an appropriate feminist critical perspective, we realized
+				that woman’s work corresponds to a particular organization of
+				time and space and to a frequent reference to the immediate and
+				the everyday.
+			</p>
+			<pb n='4'/>
+			<p>
+				Perhaps we should pause here, creating an interruption corresponding to the interruptions that women expect and incorporate into our own work, the spaces that permit permeation and
+				invite response. We are not concerned here with the transfer of
+				information so much as a simulation of the experience in which
+				we come to know things; we are concerned with the context of
+				information, how it comes from us and from our lives. No matter
+				hów abstract, no matter how formal, women’s work is connected
+				at one point at least to the fundamental realities, to our bodies, to
+				our everydays, to our dreams. When our work is our work, it is
+				always also of ourselves.
+			</p>
+			<p>
+				It is said that woman is nature and man is culture.... It is
+				true that woman, for a variety of reasons, is more sensitive to
+				natural forces, cycles, rhythms, as role and biology always thrust
+				her into the immediate and domestic existence. If this sensitivity
+				is expressed in behaviors that are responsive rather than closed, it
+				is mistaken to assume that response is negative or imposed. Response requires openness, willingness, action, and like withdraw
+				al, implies choice.</p>
+				<p>It has been woman’s habit to create structures and behaviors
+				that are both systematic and responsive. Women create culture as
+				men do, but not having created a dominant culture, we act privately within forms that remain largely invisible to the public
+				scrutiny although they are sufficiently forceful and intense to be
+				communicated laterally and historically.</p>
+				<p>When we hear the words "immediate" and "everyday," we
+				associate them with values ascribed to the woman’s sector. They
+				are the mundane, unimportant, banal, and we feel the anxiety
+				which Western civilization terms "imprisonment in the here and
+				now." "Imprisonment" itself refers to forms of closure that threaten male separateness and disengagement, such as possessiveness,
+				enchantment, the vagina dentata. Similarly, "flux" stimulates cultural anxieties associated with chaos, death, unpredictability, sexuality, male anxieties regarding mortality, against which are op
+				posed principles of permanence, eternity and transcendence.</p>
+				<p>The male-dominated movie screen informs us that modern
+				"life" is a series of boring episodes which can only be interrupted
+				by violent explosions. But the ordinary, from a woman’s view, is
+				hardly ordinary. It is repetitive, it is full of trivia, it is necessary,
+				maddening, contingent, it is never-ending, but it is also, as in
+				Papilla Estelar, wonder-full or awe-full. And women’s art reflects
+				this power of the immediate.</p>
+				<p>Gertrude, for example, predicates a style upon the immediate
+				or the "continuous present," as she calls it, "using everything and
+				beginning again." And beginning again. A cycle of repetition, of
+				rhythm, everything told so completely and so simply that existence emerges as a fact and language becomes “an entire space
+				always moving not something moving through a space."</p>
+				<p>Men are associated with behaviors that strive toward permanence as opposed to continuousness. That men legislate and
+				women gossip may be a reflection of men’s interest in autonomous social control as opposed to personal interaction. An organized and ordered society emerges. Facts of nature become
+				anomalies, violations. Economic cycles, plagues, age, rain, children, sun, disease, menstruation, fatigue, fiesta, are all disturbances of the perfect unchanging order, inconveniences rather
+				than essential conditions, factors to be mitigated or eliminated.
+			</p>
+			<p>
+				Interruption is a basic condition of a mother’s life. One of the
+				reasons for the segregation of the work world from the home is in
+				order to avoid the interruptions of the daily life. In the home, one
+				is constantly interrupted by need and continuous time is not
+				available. Home is not the place where one can establish a hierarchy of priorities. It may be more "important” to write an
+				address to the United Nations, but the crying baby takes precedence nevertheless. Women know that life has the terrible habit
+				of asserting itself. The woman writing her doctoral thesis, the
+				judge presiding at a trial, is also, simultaneously, thinking about
+				the broccoli for dinner, the child’s dentist appointment, the death
+				of a friend. Women’s art forms reflect the condition of interruption and simultaneity in a variety of ways.
+				Scars on the Body Politic, a novel I completed in 1975, is
+				actually interrupted several times by actual events, equivalents of
+				the “crying child." They imposed “non-negotiable demands"
+				upon the material; they had to be heeded and incorporated in the
+				framework of the book. In one section I actually say, “This is the
+				place where the book was interrupted."</p>
+				<p>Similarly, women’s works often have an unfinished quality
+				— are anti-art art pieces, more faithful to the reality corresponding to the idea that only art, not life, can ever be finished. A journal, for example, which women are coming to recognize as a
+				work in itself, and not the source for the work, is often a collection of thoughts, fragments, ideas, perceptions, descriptions,
+				dreams, conversations, jotted down at odd moments, in sentences
+				or codes, according to time and mood. In a class taught on
+				“Autobiography, Journals and Life Histories,” the students wrote
+				more fluently when they were freed from the tyranny of the complete sentence. Given permission to write in fragments and notes,
+				they could record their lives in a way they felt was more appropriate to their experience. The women more than the men responded to the more open form.
+			</p>
+			<pb n='5'/>
+			<p>
+				Integration is a significant characteristic of woman’s work
+				Many parts tend to be represented in a single work. Into the daily
+				life come the essential realities of existence, biology and death.
+				The universal weds the specific; the ordinary and extraordinary
+				dance; the wonderful refuses to be separated from the mundane.
+				Remedios Varo captures this integration in Papilla Estelar
+				(1958). The painting shows a woman dressed in black, seated in a
+				poor, cramped and barren house set within the heavens. She is
+				grinding the stars through a kitchen meat grinder and feeding this
+				stellar mixture to a domesticated moon confined within a bird
+				cage. The eternal and the contingent, the metaphysical and the
+				mundane coexist. This is one of several paintings by Remedios
+				Varo that capture the forms of woman’s culture. It is ironic that
+				Remedios is categorized by art critics as a surrealist. Extraordinary as her vision may appear to the dominant culture, it is for us
+				simply the complex accurate image of a female world view.
+			</p>
+			<p>
+				Woman is more sensitive to flux, cycle, to the transitory as
+				the basis of experience. Change is part of her daily life while permanence, fixity are eccentric events. The cycle is a concept which
+				coordinates repetition and change. Completeness has a satisfying
+				resonance and is a reasonable female goal. Intensity rather than
+				eternity. That work and art which reflect these female concerns do
+				not always look like "work" because they are organized differently
+				is another reflection of the simplifying tendencies of the dominant
+				culture.</p>
+				<p>Sheila observes: “The organization of material in fragments,
+				multiple peaks rather than single climactic moment, has a quality
+				and rhythm which may parallel woman’s ontological experience,
+				particularly her experience of time. .. There are several genres of
+				women’s work, quilts and blankets, for example, which are as
+				semblages of fragments generated whenever there is time, which
+				are in their method of creation as well as in their aesthetic form,
+				visually organized into many centers. The quilting bee, as well as
+				the quilt itself, is an example of an essentially non-hierarchal
+				organization."</p>
+				<p>Not exactly the lady one associates with quilting bees and
+				other domestic tasks, the monumental Gertrude Stein nevertheless
+				knit from one soldier’s hospital bed to another during World War
+				I, providing cheer, socks and letter-writing services. In this behavior we can see the patterns which she also translated into literary
+				form. "You see," she says, "Itried to convey the idea of each part of
+				a composition being as important as the whole... After all, to me
+				one human being is as important as another being, and you might
+				say that the landscape has the same values, a blade of grass has the
+				same value as a tree."</p>
+				<p>An assemblage of fragments free of hierarchy. “Certainly,"
+				Sheila continues, "the quality of time in a woman’s life, particularly if she is not involved in the career thrust toward fame and
+				fortune, is distinct from the quality of time experienced by men
+				and women who are caught up in the progress of a career. The
+				linearity of time is foreign to the actual structure of a day as well as
+				to the rhythm of women’s monthly biological time. .. The assemblage of fragments, the organization of forms in a complex matrix,
+				projects this experience of time, suggests depth and intensity as an
+				alternative to progress."</p>
+				<p>Our different organization of time and space requires that we
+				react differently to phenomena. We do not know things in isolation or in a continuum so much as we know everything at once.
+				The cycle is the long whole moment. (The implications of a different thought process ought to be considered seriously by psychologists and educators.) To know everything at once requires
+				that we utilize every sense.</p>
+				<p>Woman's intuition," then, is the direct result of holding oneself completely open to the entire experience in its immediacy and
+				completeness. Intuition is simply knowing at the moment and
+				knowing entirely with one’s intellect, memory, body, emotions; it
+				is knowing caringly, evoking information and ordering it through
+				the personal context.</p>
+				<p>Intuition is simply testament to a context; it is knowledge
+				which exists in a complete relationship. To the extent that men isolate experience in order to know, they separate it from themselves
+				in the belief that emotion contaminates information. The subjective, the personal, the immediate, the evocative are seen as screens
+				preventing the analytical mind from knowing things in themselves, out of flux, out of the conditional.
+				But much of what we know, we know exactly in the condition, in the daily life, the actual, the flux, the contingent and with
+				emotion...
+			</p>
+			<pb n='6'/>
+			<p>
+				“The materials I use in my work are found objects, discards
+				and natural objects. ..shells, feathers, etc. I merely recycle them.
+				A particular object may suggest a piece. Maybe a feeling about a
+				color or certain image or symbol will conjure a piece...</p>
+				<p>"I may work on several pieces at once, going from one to
+				another, selecting, rejecting objects, images, symbols, as if in a
+				trance. But it works. The fragments fit, the message is revealed
+				and again the magic happens. Dat Ol' Black Magicl" Bettye Saar,
+				in Art: A Woman’s Sensibility, California Institute of the Arts,
+				1975.)
+			</p>
+			<p>
+				"... what might have gone on last night while four women taled
+				about a quilt:
+				<quote>how it grows rather than being planned. aletheia’s hair
+				piled on her head—the hair works loose through the
+				evening—one long strand of it falls on her neck. they see
+				it grow longer and longer until it’s the longest strand of
+				hair in the world. it reaches the floor, then through the
+				house, out of the back door, around the neighborhood
+				—playing with children, talking hopefully to old people
+				and censes—moving on, still attaches to aletheia’s head.
+				the hair</quote>
+				and the quilt as the time that moves in front of us. streets and
+				stores and traffic lights and the strangers that repeat every day,
+				always and never the same. (Holly Prado, Feasts, Momentum
+				Press, Los Angeles, 1976.)
+			</p>
+			<p>
+				The quilt has come to be symbolic because it is an assemblage of odd bits, organized in a non-hierarchical order, and
+				because the quilting bee itself, the circle of women, remains to us
+				as a form of non-hierarchical collective labor.</p>
+				<p>"In the Smithsonian Institution in Washington, D.C. there
+				hangs a quilt unlike any other in the world. In fanciful, inspired,
+				and yet simple and identifiable figures, it portrays the story of the
+				Crucifixion. It is considered rare, beyond price. Though it follows no known pattern of quilt-making, and though it is made of
+				bits and pieces of worthless rags, it is obviously the work of a
+				person of imagination and deep spiritual feeling. Below this quilt
+				I saw a note that says it was made by ’an anonymous Black
+				woman in Alabama, a hundred years ago.'
+				"If we could locate this ’anonymous’ Black woman from Alabama, she would turn out to be one of our grandmothers — an
+				artist who left her mark in the only materials she could afford,
+				and in the only medium her position in society allowed her to
+				use." (Alice Walker, "In Search of Our Mothers’ Gardens," Ms.
+				Magazine, May 1974.)
+			</p>
+			<pb n='7'/>
+			<p>
+				The leaderless group, the circular form, the non-hierarchical
+				structure are perhaps the most socially significant contributions
+				of the women’s movement.</p>
+				<p>Classrooms, organizing meetings, work sessions are physically organized to diminish the distance between individuals. In
+				contrast to seating arrangements in the male-dominated society,
+				where desks, stages, lecterns, daises both separate and indicate
+				rank and authority, physical position does not create hierarchical
+				structure. Women tend to sit close to each other in formations
+				which allow for the mingling of work, play, intellectual activity,
+				emotional nurturance.</p>
+				<p>In this meeting of the Feminist Studio Workshop, one cannot
+				distinguish the leaders from the participants, professors from students. Likewise, there is mingling of ages, both children and older
+				people are present. A number of activities are occurring simultaneously...
+			</p>
+			<p>
+				The first extant autobiography was written in English by a
+				woman. The Book of Margery Kempe is the first extant woman’s
+				book. Today it seems that all of us are keeping journals, recording our own lives passionately. We use these forms for documentation and disclosure. The last few years have shown an undress
+				ing of woman’s experience which seems in inverse proportion to
+				the intensity of the taboo against woman’s nakedness. We are
+				becoming more and more naked. And then we peel away the
+				skin. Relentlessly naked. It is difficult to look. But we persist.
+				Sometimes the images are so strong we look away. The vulval
+				ecstasy of Monique Wittig’s Les Guërillères has that character,
+				or the overwhelming honesty of Kate Millett’s Flying, or the
+				fecund kitchen dissections of Sylvia Plath and Gilah Hirsch, or
+				the psychological exploration in the art of Frida Kahlo which is
+				unprecedented in self-portraiture. In The Two Fridas she is herself one of the fates, holding the scissors which sever the lifeline -
+				her own artery. The portrait examines the complexity, duality
+				and contradiction of the personality.
+			</p>
+			<p>
+				As I read these words, I want to tell you everything I know
+				at once and everything in at least three voices. Just as our days
+				are layered (I used to say "laminated" but Barbara said that was
+				too rigid, too hard, so I suggested "days like strudel" and she
+				agreed), so our experiences are strudeled and we want to bite into
+				them at once.</p>
+				<p>The cyclical form results in a literature and art that is dense,
+				consisting of many coexisting layers. It creates a book that is
+				neither journal nor novel, but what Kate Millett refers to as a new
+				form of literature, the experiential book. The new critical standard in literature seems to de-emphasize plot, aesthetic beauty and
+				form for a concern with the depth and intensity of the reality
+				presented. Once the relationship between plot and form is seen,
+				the arbitrary nature of plot is revealed. Plot, after all, is a pattern,
+				familiar and reproducible, which can be repeated, albeit with variation, in novel after novel. Plot may be convenient for the
+				writer, but it does not necessarily correspond to the way things
+				are. Plot demands abstraction, elimination, selection, editing. It
+				is a diminution of experience according to literary preconceptions. It removes the novel from the buzz.
+				As Doris Lessing asks in The Golden Notebook, “Why a
+				story at all... why not simply the truth?"
+			</p>
+			<p>
+				The daily and essential realities are the focus of women's
+				lives and work. “Do I repeat myself? Well, then, I repeat myself.
+				The statement is Whitman’s. Perhaps it is not ironic that Whitman is a poet of power whose masculinity is always questioned.
+				Is it because of his repetitions that we recognize the female sensibility, or is it because he never forgot how close grass ought to be
+				to the skin? Life and work—how did they become separated, is
+				perhaps a more sensible question than why we are so intent on
+				integrating them.</p>
+				<p>Even the popular media are occasionally sensitive to the narrow focus on work which is characteristic of the male dominant
+				society and which is always puzzling to women. It is the male
+				who creates industries, commercial centers, educational institutions that exclude children and other life forces from their boun
+				daries. And it is women who have demanded that the doors be
+				opened, to day-care centers, older children, the elderly, to greenery and the humanities of home.
+				Each day is a tapestry, threads of broccoli, promotion,
+				couches, children, politics, shopping, building, planting, thinking
+				interweave in intimate connection with the insistent cycles of
+				birth, existence and death.</p>
+				<p>Women are aware of their bodies very early and very completely although this awareness has not been shared until now.
+				Menstruation, lactation, pregnancy, menopause are long-term
+				conditions of physical reorganization. When the blood comes at
+				thirteen, we are always astonished even if we are well prepared.
+				My mother slapped my face in the Jewish tradition "to bring the
+				blood to my cheeks" and to punctuate the moment. The menstrual cycle is a repeated cycle of astonishments, physical disturbance
+				and enlightenment forming a bond of intimacy between women
+				based upon this shared experience. For years we have confessed
+				that we are irritable at such times, but now we also need to admit
+				that this is the time it seems to us we see most clearly. Perhaps
+				this clarity comes from the regular cyclical connection with life
+				and death symbolized by blood. Life is both prepared for and
+				shed every month.</p>
+				<p>Is this the reason why women do not make war?
+			</p>
+			<pb n='8'/>
+			<p>
+				The body, as one’s own, and as a woman’s body, is the first
+				force that prevents women from becoming distracted by abstract
+				intellectual behaviors, providing the immediate and intense private experience which simultaneously connects us with others.
+				This dynamic is evident in the journal and the autobiography,
+				which are particularly female forms. Personal revelation is one
+				foundation of feminism and the new women’s consciousness. The
+				journal, as significant as consciousness raising, is a serious activity which cannot be pursued at proscribed times.</p>
+				<p>Recently I conducted a class in Secrets at Chino State Prison
+				for Women. While it was relatively easy to deal with some of the
+				consequences of search, seizure, scrutiny by wardens and guards,
+				it was more difficult to evaluate the risk of revelation to one's
+				fellow prisoners. It was relatively easy to understand that the
+				prison authorities were simply the active instruments of social
+				oppression and that acts of solidarity and revelation between
+				women inevitably undermined the oppressive forces. However, it
+				was more difficult to gauge the trust that was possible between
+				women living under these conditions, whose lives were often
+				regulated through the subtle manipulation of one woman against
+				another. How much could they reveal to each other? How carefully would they honor each other’s secrets?</p>
+				<p>As an act of faith, I first read a "secret" from my novel.
+			</p>
+			<p>
+				Then each woman wrote a "secret" to another woman in the
+				room, with whom she could but was not obliged to share her
+				writing. One woman decided to share her secret with the entire
+				group, confiding in us that this was the first time she had revealed
+				the event to anyone, despite three years of psychoanalysis. This
+				was perhaps the first moment of social trust she had experienced.
+				The secret, read in a trembling voice, was an agonized memory of
+				sadistic and sexual cruelty perpetrated upon her, pregnant at fifteen, by someone she trusted and loved. Reading her own words,
+				she now knew that she had not been responsible for provoking
+				this incident. Fifteen years of guilt laid aside. Yet, listening to her
+				revelation in the hushed silence of the prison classroom, I wondered if the support and love which allowed her to speak these
+				words were temporary. Would she be betrayed later? And how?
+				In any form, the guilt and pain had been a worm far more raven
+				ous and lethal than any revelation could be now. Nevertheless, I
+				hoped she would not pay the penalty that is often exacted by such
+				nakedness.
+			</p>
+			<p>
+				Skin: Shadows
+				From SILENCE : A Love Letter in the Form of the Novel,
+				West Coast Poetry Review, Reno, Nevada, 1976.
+				It is afternoon. You’ve heard this story before. This is the
+				story I will tell twice and then again. It does not empty easily
+				This story has left a scar and the scar needs to be cut out. This
+				story will be told again.
+				It is afternoon. I am alone. In an office. It is afternoon. I am
+				alone. In an office. It is afternoon. I am alone.
+				There is a knock at the door. Or the sound of the door open
+				ing in the outer office. Or a knock and the sound of a door open
+				ing in the outer office this afternoon. I am alone. Thinking of
+				things one thinks when one is alone in the afternoon. Almost a
+				daydream. Allowed to think. Why should I be startled by a
+				knock at my door or the sound of another door opening. Why
+				should I hear the door or even interrupt my thoughts which are so
+				pleasant this quiet afternoon. All the work is done.
+				Why bother to turn my head when I hear the floor creak?
+				My thoughts are so pleasant, nothing can interrupt them. This is
+				my time to muse. A rare afternoon alone. All the work is done.
+				Probably it is not a knock at the door that I hear and do not
+				respond to. Probably it is the sound of a door opening quietly
+				and of soft footprints across the floor. Or maybe it is the sound of
+				a knock, a tentative tap to see if l am in. But it is a quiet afternoon
+				and all the work is done and I am in to no one but myself, so I do
+				not answer the door. Probably there is no sound. It is not that I
+				refuse to be interrupted but that my dreams are so intense that I
+				hear nothing, not the initial knock on the outer door, (if indeed
+				there was a knock — probably there was no knock) nor the sound
+				of the lock turning, nor the cautious feet across the floor, nor the
+				cautious turning of the lock to my inner office and the stealthy
+				opening of the door, nor the hand raised against me. Nothing. It
+				is afternoon and I hear nothing, suspect nothing, till the gun is
+				pressed against my head and the hand muzzles my mouth.
+				Say nothing," he whispers.
+				It is a gun which is against my head. There is a man holding
+				it. I cannot see him. But I do not think I know him. He ties an
+				unclean and wrinkled handkerchief across my mouth. I close my
+				eyes because I am afraid to know him. Simultaneously I keep
+				them open in order to see this man. But I think I can see nothing.
+				“Take your clothes off," he says. Everything he says is in a
+				strained and I assume disguised voice. Perhaps he is someone I
+				know. Which is more awful—an anonymous assault by a stran-
+				ger or by a friend?
+			</p>
+			<pb n='9'/>
+			<p>
+				n struggling to
+				My hands are shaking and he i
+				obey. My feet are shaking also.
+				I can only see his feet. I have told you before about his
+				scuffed black shoes which look like those with steel linings in the
+				toes. They are laced with frayed black laces. His socks are white.
+				Dirty white. His feet are wide. I suspect his legs are hairy and that
+				the hairs are damp.
+				It is afternoon. A quiet afternoon. No one is about.
+				No one is knocking at the door. “Take off your clothes,
+				says. My body is shaking. The dress peels from me like skin, a
+				heap of feathers disordered, plucked live from the skin, a mound
+				of fresh leather in a corner. And the animal is still alivel And the
+				deer stretches denuded flanks, twitching. I can see the blood rur
+				across the hooves.
+				I am naked. He is wearing clothes. I do not wish to see his
+				legs hairy at the ankle bone. I cannot bear to see his clothes
+				against my skin. I am naked. He is fully clothed
+				I remember nothing. I will remember nothing. I tell you this
+				without hearing my own voice. I tell you this again and again so I
+				will never remember it. I remember how naked I am next to his
+				clothed legs in order to forget everything.
+				Handprints on my back. Indelible markings. In later mirrors
+				it seems my back grows away from his hands. An announcement
+				in reversal. In recoil.
+				An invasion. A tree opening to fire. And a black hollow
+				from which no twig can emerge again. Perhaps it is a gun pene
+				trating me and orgasm will be a round of bullets. Pain is a relief. I
+				cherish it as a distraction from knowing. I am an enemy country.
+				Destroy me with fire. But there is no distraction. The cloth rubs
+				against my legs. There is a gun resting on my shoulder. I do not
+				forget that death is the voyeur at this encounter.
+				Turning. Turning. The flesh of the spitted deer crackles
+				against the fire. I want to reach for a knife to carve myself into
+				morsels, to divide into portions, to carve a slit downwards from
+				my navel to my spine.
+				There is a circle of steel against my ear.
+				I have told this before. It is afternoon, a quiet afternoon, and
+				the taste of my own meat smeared on unknown flesh is in my
+				mouth. I choke upon it. It is afternoon. I do not know what is
+				thrust in my mouth. What banquet is this? What severed legi
+				What joint? What goat, deer, bone? I wish blood were dripping
+				down my throat now. How long can I hold his sperm in my
+				mouth without swallowing?
+				It is afternoon. I have told you this before. It is a quiet after
+				noon. I do not hear the sound of someone knocking at my door
+				I try to say, “Come in." I would like someone to help me
+				from the floor. I need a pillow under my head. Wrap me in a
+				blanket. Turn the lights out.
+				It is early evening. It is night. It is tomorrow. I would like
+				someone to help me up from the floor. I cannot say, “Come in.
+				to the knock on the door. I cannot yell for help. I need to be
+				wrapped in a blanket. I need a pillow under my head. And a
+				nightdress. And a cover of white cloth.
+				Everything is quiet. My body is numb. I feel nothing. My
+				body is dumb. It is early evening.
+				There is a knock on the door. I cannot hear the knock at the
+				door. I cannot say, “Come in." I need..
+				There is a knock at the door. I cannot say... I...
+				There is a knock... I can not... I..
+				I can not...
+			</p>
+			<p>
+				Honor Moore’s Mourning Pictures, an eloquent play about
+				the death of the playwright's mother, closed after its first day on
+				Broadway because, according to Clive Barnes, it did not tran
+				scend the experience of personal loss. Women are choosing to
+				achieve "universality” through the exposure and identification of
+				the personal moment rather than through its transcendence. The
+				most powerful lines in the play are also the simplest: “Ladies and
+				Gentlemen, my mother is dying.
+				Women are the Fourth World say the women of North Viet-
+				nam. We read each other’s autobiographies as if they were our
+				own lives. Nakedness is an ambivalent state implying weakness
+				and power simultaneously. The naked person is an image of help
+				lessness and yet nudity is terrifying to the observer. There has
+				been much critical distaste expressed for the confessional mode of
+				woman’s art, which has been considered blatant, vulnerable, self
+				pitying, raw, untransformed. Not often admitted is the puritani
+				cal base for the anxiety felt before work which, as an editor told
+				me about my own, is produced by "unrelieved personal dis
+				closure."
+			</p>
+			<p>
+				This common interest in our history and experience is not
+				only the response to historic anonymity, it is not merely a first
+				step toward liberation, but the revitalization and making public
+				of an honored female form which integrates the private and the
+				public worlds, the individual and the collective sensibilities.
+				"I am not completely satisfied," Martha Lifson says, "by the
+				autobiographies of Gertrude Stein as they emphasize the public
+				world and the people she meets. I prefer the diaries of Dorothy
+				Wordsworth where the work and the ideas, commentary and
+				portraits are braided through the gardening, reading, cooking
+				and conversation. I am interested in the entire life and the whole
+				day.
+				Intense revelation, but not confession. Because we are so
+				accustomed to confining intimacy to the private sector, the form
+				disconcerts us when it is present in the public world. Women
+				break down the wooden house and the anonymity and objectivi
+				ty of the psychiatric privacy. We do not wish to speak alone. We
+				demand that the listener be a participant. We tell our secrets
+				openly and publicly without erasing them. We say, “These are
+				our lives." We insist on telling these secrets to each other because
+				we know it makes a difference. That is intimacy—the insistence
+				upon response and equality. We want our talk to make a differ
+				ence to ourselves and to others. We create open forms so that
+				someone can answer us.
+			</p>
+			<pb n='10'/>
+			<p>
+				What word can we interject to convey our meaning of tan
+				gible and certain? In lieu of concrete can we say braided, be
+				fabric, be cloth?
+				"All mother goddesses spin and weave. In their concealed
+				workshops they weave veins, fibers and nerve strands into the
+				miraculous substance of the live body. Everything that is comes
+				out of them: they weave the world tapestry out of genesis and
+				demise, threads appearing and disappearing rhythmically.
+				I wonder how to credit Helen Diner for the above quote.
+				Everything in me rebels against the learned footnote which does
+				not provide a space for the essential information—the thrill of
+				recognition which occurs when it is read. In graduate school I
+				vowed to avoid all the Latin forms, the op. cits., loc. cits., ibids.,
+				which represented distant authority. But now it is possible to use
+				footnotes again and even to peruse them eagerly before one reads
+				the papers they are included in. Women’s footnotes are of another
+				form. They are not authoritarian, they do not necessarily refer to
+				texts, to abstract tomes, to objective external sources. Often emo
+				tional statements or conversational asides, they serve to enrich
+				the material by bringing in the strands, the choruses, the associa
+				tions. They are informal, spontaneous interjections permeating
+				more formal, carefully constructed works.
+				There are times when I do not know at all which ideas were
+				mine, which Barbara’s, Jane’s, Sheila’s. The ideas pass back and
+				forth between us, and our shared experience and communication
+				is their real source. The ivory tower shatters as an image for those
+				of us who cannot and will not segregate our creativity, finding it
+				as often as not in the kitchen as in the study. Footnotes no longer
+				function only to identify a single authority, but can also challenge
+				the concept in order to acknowledge and record collective efforts.
+			</p>
+			<p>
+				It is important to realize that for women the process of per
+				sonal confession implies collective revelation. This is the recur
+				ring experience of journal classes, women’s writing groups and
+				consciousness raising.
+				One of the projects of the Feminist Design Program at Cali
+				fornia Institute of the Arts, directed by Sheila de Bretteville, was
+				a series of videotapes about menstruation. The groups consisted
+				of older women, young women, teenagers and mixed groups of
+				boys and girls exchanging information, personal experience. This
+				was one of the first attempts to eliminate the body of misinforma
+				tion, prejudice, fear, and often self-hate which arises from the
+				combination of silence and social anxiety. The anxiety is easily
+				detected in the language which surrounds menstruation: “the
+				curse," "falling off the roof," “on the rag," "unwell," etc.
+				Menstruation has indeed been a “red flag" (to borrow the
+				title of Judy Chicago’s well-known lithograph) for those who
+				accepted the taboo regarding the discussion of menstruation or
+				the use of female imagery in art. This visual confrontation with
+				the female reality is part of women’s contemporary insistence
+				upon being naked, breaking the silence that has surrounded us
+				and particularly our bodies. Looking at female biology is one part
+				of telling the story of our lives and breaking the mystery that is a
+				patriarchal prison, helping to create the mythos, the mystique of
+				woman.
+				Often revelation has political consequences beyond con
+				sciousness, as did the public acknowledgment by hundreds of
+				French women that they had had abortions, in order to achieve
+				liberalization of abortion laws. Other times the revelation breaks
+				a taboo or allows others to claim and understand their own
+				experiences which have often been deadened by seeming unique
+				or eccentric.
+			</p>
+			<p>
+				"When a woman artist positively identifies herself to us
+				through her work, she commits a courageous and daring act of
+				self-exposure, because her contribution has neither spoken to nor
+				been understood by the mainstream of the culture, and the con
+				tent of her art has been bypassed by interpretations which could
+				reveal it. Thus a woman’s saying, Tam, I know myself, and I feel
+				a fundamental optimism —a grasp upon my own survival as a
+				model for human survival, is saying something which challenges
+				the prevailing worldview. If consciousness is the content of femi
+				nist art, this level of human responsibility and hope is the content
+				of consciousness." (Arlene Raven, feminist art historian, one of
+				the organizers of the Feminist Studio Workshop and the Woman's
+				Building.)
+			</p>
+			<pb n='11'/>
+			<p>
+				Performance is a natural form of expression for women
+				whose history has been limited primarily to oral forms. Perfor
+				mance like conversation is flexible, often without script, respon
+				sive, and invites participation. It is not meant primarily for pub
+				lication or to have a long run, but is often conceived for a par
+				ticular moment. Like gossip, performance can be seen as a form
+				of social regulation which depends upon intimacy and associatior
+				with the subject. Like journals, performances allow for the collec
+				tive and public scrutiny of women’s past and-contemporary roles
+				in order to create attitudinal and behavioral change. Perfor
+				mances therefore often have a personal as well as a social, didac
+				tic function. Performance is also a way of modeling, providing
+				not only a critique of the past but alternatives for the future. Now
+				that the journal is becoming a public document, and we are re
+				véaled in each other’s books, the journal also may be a new
+				benign and creative moral imperative.
+			</p>
+			<p>
+				The woman’s form is connective. It is a tapestry or a quilt, a
+				weaving or collage, an interlacing of all the diverse parts which
+				are obsessively differentiated in the dominant culture. For women
+				to come into the public world we must be cognizant of our his
+				toric and contemporary forms of organization and expression in
+				order to survive. At the least we must struggle like Penelope,
+				weaving half the day, unraveling half the night.
+				Within woman’s culture, because of its plurality and toler
+				ance, man can exist; within man’s culture woman is destroyed by
+				individualism and abstraction. Woman is an appropriate word
+				for Man. She is an appropriate substitute for He/She because he
+				is contained in she—orthographically, physiologically, but more
+				significantly, ontologically. One culture encloses within; the
+				other segregates out.
+				Despite the frequent critical stance that female imagery,
+				woman’s art, female sensibility is a limitation imposed upon cul
+				ture, a narrowing of vision, it should by now be abundantly clear
+				that woman’s culture, being primarily integrative rather than
+				analytical, offers as rich and deep a universe as that which has
+				been the basis of “civilization" until now. To define a woman's
+				culture is not to delimit or to create orthodoxy, but rather to
+				expand current cultural horizons and to provide the opportunity
+				to explore experience in new areas through the validation of
+				hitherto unrecognized and devalued expression.
+				Woman’s culture is not a set of rules or restrictions, rather it
+				is a direction, an eye, a broad intellectual framework for dis
+				covering form and meaning. In its underground forms it is avail
+				able to a few women and fewer men; named and public it is avail
+				able to everyone. Now when we come into the world, it is in our
+				image—as Eve—the image of integration and relationship. In that
+				act woman challenges the dominant world culture.
+			</p>
+			<p>
+				Deena Metzger is a feminist writer, poet and lecturer who is direc
+				tor of the Writing Program at the Feminist Studio Workshop at
+				the Woman’s Building in Los Angeles. She is the author of a novel,
+				Skin. Shadows (West Coast Poetry Review, 1976) and a radio play,
+				SILENCE
+				The Book of Hags.
+			</p>
+         </div>
+      </body>
+   </text>
+</TEI>

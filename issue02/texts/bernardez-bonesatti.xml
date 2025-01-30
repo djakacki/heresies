@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Feminists and Non-Feminists in Psychotherapy</title>
+				<author>Teresa Bernardez-Bonesatti</author>
+				<respStmt>
+					<persName>Eowyn Andres</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Haley Beardsley</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lyndon Beier</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Erica Delsandro</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mia DeRoco</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Margaret Hunter</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Invesigator, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sophie McQuaide</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Martin</persName>
+					<resp>Editor, encoder (2021)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zoha Nadeer</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bri Perea</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Carrie Pirmann</persName>
+					<resp>Editor, encoder (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Ricky Rodriguez</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Roger Rothman</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kaitlyn Segreti</persName>
+					<resp>Editor (2021-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maggie Smith</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maya Wadhwa</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kelly Troop</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lucy Wadswoth</persName>
+					<resp>Editor (2022-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anna Marie Wingard</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Wychock</persName>
+					<resp>Graduate Editor (2024-Present)</resp>
+				</respStmt>
+				<funder>Bucknell University Humanities Center</funder>
+				<funder>Bucknell University Office of Undergraduate Research</funder>
+				<funder>The Mellon Foundation</funder>
+				<funder>National Endowment for the Humanities</funder>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>
+					<name>Bucknell University</name>
+					<address>
+						<street>One Dent Drive</street>
+						<settlement>Lewisburg</settlement>
+						<region>Pennsylvania</region>
+						<postCode>17837</postCode>
+					</address>
+				</distributor>
+				<availability>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial
+						4.0 International (CC BY-NC 4.0)</licence>
+					<licence>Heresies journal: © Heresies Collective</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title>Patterns of Communicating and Space Among Women</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<publisher>HERESIES: A Feminist Publication on Art and
+								Politics</publisher>
+							<pubPlace>
+								<address>
+									<name>Heresies</name>
+									<postBox>P.O. Boxx 766, Canal Street Station</postBox>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<postCode>10013</postCode>
+								</address>
+							</pubPlace>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb/>
+			<div>
+				<pb n="16"/>
+				<head>Feminists and Non-Feminists in Psychotherapy</head>
+				<byline>Teresa Bernardez-Bonesatti</byline>
+				<p> As a therapist I have seen feminists and non-feminists in treatment. The women I
+					refer to as non-feminists did not initially mention women’s rights, nor did they
+					claim participation of any kind in the Women’s Liberation Movement. When we
+					later discussed this issue, their reactions ranged from indifference, to
+					sympathy for some (usually less radical) as pects of the movement, to open
+					hostility In contrast, the women I call feminists referred to themselves as such
+					and explicitly supported various aspects of the women's movement. All of them
+					believed that women as a group are oppressed, handicapped or otherwise impeded
+					in their full development by external forces, whether social institutions,
+					cultural mores or men. While they varied in the degree of their actual
+					participation in the move ment, all of them had experience in
+					consciousness-raising groups. Most of them chose to see me primarily because I
+					am a woman, being fairly convinced that a woman would view their concerns with
+					more understanding, that she would be less biased than a man, or simply that
+					they could talk more freely with a female.</p>
+				<p> I have been struck by the differences be tween these two groups in their views
+					of their problems, their behavior in our sessions, and their relation to the
+					therapist. And perhaps even more important, I have found that feminists appear
+					to have resolved successfully developmental stages that non-feminists have
+					avoided. Let me briefly explain. Since feminists seek changes in others as well
+					as in themselves, they develop more interpersonal skills and an ever-increasing
+					sense of self. They are less afraid of their aggressive impulses — in
+					particular, anger. They question the requests and expectations of others.
+					Feminists do not dislike their sex and have discovered bonds with other women.
+					They have achieved separation from important others, whether parents, husbands
+					or children. They have asserted their autonomy by defining, protecting and
+					defending their own needs, establishing their own goals and directions, with
+					increasing trust in their own perceptions, judgment and experience. All of these
+					are characteristics of the healthy adult, although feminists are outside the
+					culturally defined "norm" for female behavior.</p>
+				<p> My observations are based on a study of 60 women — 32 non-feminists and 28
+					feminists, ranging in age from 18 to 45, from varied racial and educational back
+					grounds, including single, divorced and married women in both groups. The
+					feminist group was younger on the average, the oldest woman being 35. My
+					descriptions of the behaviors encountered are based on the first two or three
+					interviews with these women, although my hypotheses are based on longer
+					observation peri ods during which I intervened as a therapist.</p>
+				<p> The non-feminists sought psychiatric help for complaints ranging from vague,
+					chronic feelings of dissatisfaction, alienation or depression to marital
+					conflicts, in ability to be creative, inhibitions in sexual functioning, phobias
+					or problems with their children. All of these women, with out exception,
+					presented their problems as signs of personal inadequacy. Frequently, they were
+					baffled by their discontent, simultaneously pointing out all the advantages of
+					their daily lives. As one of the patients put it, “I have a kind husband, three
+					healthy children, no financial problems, freedom to study and l’m not happy —
+					what’s wrong with me?" This last question was implicit in the statements of most
+					of the non-feminists who expressed their malaise in terms of symptoms, had no
+					coherent way to explain them, and saw these symptoms as something in them selves
+					that needed correction or change. A few stated their wish for understanding, but
+					on further inquiry it became clear that for them "understanding" was something
+					that would automatically "dissolve" their discomfort. Others who wished to know
+					themselves saw a successful outcome as contingent on their ability to correct
+					"whatever I am doing wrong.</p>
+				<p> If one couples these statements with the behavior of the non-feminist patients
+					in the office, one finds a remarkable congruence: these women were not
+					assertive, they behaved in a compliant and submissive manner, and they never
+					questioned the examiner. They found it hard to be critical of others, while they
+					downgraded their own perceptions and feelings, as if they doubted their
+					validity. Their emotional responses tended to be limited to the expression of
+					sadness, desolation, pain, very frequently accompanied by crying.</p>
+				<p> Passive self-references predominated. The non-feminist often responded to
+					questions by repeating observations others had made of her behavior, her needs
+					or the purposes of her acts. The absence of an active self-referent was so
+					striking, that I began to pay attention to how often and in which context the
+					personal pronoun I was used. Comments like "it feels better," “my mother says,
+					"friends don’t like me to" or “my husband gets irritated at me if" were
+					frequent. My impression was that of a woman accustomed to relying on others’
+					understanding or reactions to her and unable or unwilling to attempt a more
+					active and self- directed search for definition. This characteristic of defining
+					the self via others was found among the non-feminists regardless of their
+					education, intelligence, age, race and marital status. It was even present in
+					those “active" women who demonstrated competence, at home or at work, in areas
+					requiring a certain level of decisiveness and organization.</p>
+				<p> In contrast, the feminist patients' complaints were largely related to a set of
+					already established ideas or goals. They were dissatisfied at finding remnants
+					of old behaviors that contradicted their present goals, at their self-defeat in
+					attempting to defy the old order, at the failure of their behaviors to elicit
+					the desired good feeling about themselves, at their excessive sensitivity to
+					criticism or conflicts originating in their attempts to alter their heterosexual
+					behavior and relationships. Some of the most militant were attempting to
+					introduce changes in traditional organizations or institutions, or worked in pre
+					dominantly masculine occupations and were faced with tremendous pressure to
+					conform to mores at variance with their own. Their discouragement and distress
+					at the frequently negative responses they encountered led them to reexamine
+					their goals and their behavior in order to find a <pb n="17"/> compromise that
+					would permit them to continue their own development or interest at less cost to
+					the self. If they had "symptoms" such as anxiety, depression, periods of low
+					self-esteem, sexual inhibitions or guilt feelings, it was not the symptoms they
+					focused on but the behaviors, interactions and conflicts that in their opinion
+					resulted in those symptoms. These women appeared to have already made a fairly
+					exhaustive analysis of the cause-effect relations between their behaviors and
+					experiences and the symp toms they generated. They were explicit about their
+					goals and aware of both intrapsychic and interpersonal conflicts.</p>
+				<p> In this regard, the feminists’ awareness of external sources of pain and
+					confusion, for which they did not feel responsible, seemed to help them make
+					more and more discriminating judgments between their problems and those of
+					others. Their conscious and purposeful engagement in altering the social context
+					in which they lived or the persons to whom they related did not hinder their
+					examination of their own motives, needs or inadequacies. This capacity was
+					largely responsible for these feminists' positive attitude toward their
+					"problems." For although they saw them selves as not quite equal to their
+					expectations, they also saw their attempts as a desire to grow, to become more
+					capable, more self-reliant and more flexible.</p>
+				<p> Awareness of their inadequacy to reach desired goals did not lead these
+					feminists to question their sanity or their intrinsic neuroticism. Since for the
+					most part they believed that the traditional labels ’ill" or neurotic" had been
+					incorrectly attached to the victims of oppression whenever they gave signs of
+					their pain, their whole view of "treatment" and the psychiatrist’s role in it
+					was very different from that of the non-feminists. The feminists were more
+					selective in their choice of therapist, more critical of his/her views, more
+					knowledgeable of and attentive to therapists' tactics or ideologies that smacked
+					of disguised oppression. While the feminist patients sought alleviation of their
+					pain and discomfort, they rejected symptomatic treatments. Drugs and biological
+					treatments were suspect as repressive tools. Their active, inquisitive and
+					critical attitude toward the therapist contrasted with the pliable, unassuming,
+					dependent stance the non-feminists took in the beginning of therapy.</p>
+				<p> The non-feminists often portrayed the behavior of others in a way that left the
+					listener with no doubt that the behavior was destructive, hostile or decidedly
+					unjust. Yet they voiced no criticism, nor did they react with open anger. When
+					questioned about their feelings, they seemed to have great difficulty voicing
+					their anger, particularly toward those upon whom they were dependent financially
+					or other wise; more often than not, their quick acknowledgment of anger was
+					followed by guilt, self-incrimination and doubts about their femininity. These
+					women appeared to dread becoming the stereotype of the "bitchy," “castrating” or
+					otherwise aggressively destructive female. Anger toward men, in particular
+					intimate male partners, was frequently subdued, avoided or quickly turned into
+					aware ness" of their own “demandingness" or unreasonable dissatisfaction. The
+					listener was, however, simultaneously briefed about these men’s demanding
+					attitude, their insensitivity, exploitation and other blatantly hostile
+					behaviors, as if the patient needed outward sanction of these feelings by having
+					the therapist voice them first.</p>
+				<p> Anger was more freely expressed toward other women. The non-feminists tended to
+					see other women as shallow, empty-headed, jealous and untrustworthy. Aside from
+					one or two exceptional" female friends, these women seem ed to believe that
+					women (themselves included) were justifiable targets of contempt, tending toward
+					envy, selfishness and manipulativeness. They thus found themselves isolated from
+					other women and considered their company uninteresting and unsatisfactory. While
+					they did not voice such feeling in relation to me, when questioned they did
+					state that they were concerned about having a female therapist or that I might
+					be one of the exceptions" they could trust. On further exploration, it became
+					clear that they had mixed feelings. They felt freer speaking to a woman, but
+					this was partly due to their low esteem for women. They clearly felt that the
+					important judges of their worth and attractiveness were men and that it mattered
+					much less whether a woman found them satisfactory. My status as a psychiatrist
+					did, however, tip the scales to the other side. Their tendency to respect my
+					role as an "expert" and to trust my opinion somewhat uncritically was in line
+					with their tendency to respect "authority (particularly malelike authority) and
+					their compliance with it.</p>
+				<p> The feminists, on the other hand, displayed a greater capacity for critical
+					judgment—of the therapist as well as of their cultural milieu—which was in
+					direct relation to their tolerance of and ability to voice angry feelings.
+					Although at times the intensity of their anger had a disorganizing and even
+					paralyzing effect on them, the freedom to express anger verbally and the ability
+					to channel some of it into groups or personal goals (fighting school boards, the
+					political system, legislation or simply husbands and bosses), plus the sense of
+					inner rightness about their claims, clearly differentiated them from the
+					non-feminists.</p>
+				<p> Anger was sanctioned and indeed encouraged in groups in which these feminists
+					found validation and support for their perception of what made them angry.
+					Although they had been or still were fighting the image of the “castrating"
+					female, they believed that this specter had been raised to dissuade them from
+					openness about their dislikes, or from confronting people with their
+					contradictions and put-downs. “C-R groups" gave them an additional chance to
+					contradict such stereotypes, for these groups provided a great deal of
+					nurturance and mutual support.</p>
+				<p> In this regard, an important difference between the two groups was found. The
+					feminists were able to feel a bond of loyalty and a common source of concern
+					with all women—an important developmental stage for females. Their newly found
+					"sisterhood"—based on attempting honest friendship, support without moralistic
+					judgment, openness and trust, and on the sharing of deep feelings and
+					experiences—was of extraordinary import in their ability to channel, utilize and
+					tolerate angry and destructive feelings. Although aware that most women would
+					part company with them on sticky issues, they envisioned a potential union with
+					them and were sympathetic to the plight of women in general. They explained
+					other women’s hostilities as the result of their fear of awareness, their
+					indoctrination to see women as enemies, their competitive strivings around men
+					and the utterly dependent state of most women.</p>
+				<p> The non-feminists were isolated from this realm of female experience, having had
+					perhaps a few close women friends, but neither knowing nor believing in women’s
+					capacity to help one another and to join in creative action. Being alone, and
+					usually able to communicate their deepest worries only to the psychiatrist or
+					minister, they had no way of realizing how common their concerns were to those
+					of other women, or of discovering their own potential capacity to understand,
+					help and decide about their own lives. The feminist women had already tested
+					this ground in “rap groups" where they had validated their own perceptions,
+					gained confidence in their own experiences, <pb n="18"/> achieved a new sense of
+					self-enhancement and the ability to assert the self (yet not at the expense of
+					others). Although the feminists felt alienated from much of conventional society
+					and had to bear consider able stress, they were not alienated from their own
+					sex, and they believed that not knowing who they were or what they wanted was
+					more insidiously destructive by far than a rude awakening.</p>
+				<p> My underlying contention is that feminists have advanced further on the
+					developmental ladder and are at a psychological advantage compared to
+					non-feminists. I regard as crucial the role the liberation of aggressive impulse
+					plays in regain ing self-esteem, achieving separation-individuation and making
+					discriminating critical judgment possible. The freedom to tolerate anger, to
+					voice it and to channel it into meaningful activity is a prerequisite for
+					further change. The pervasive inhibition of aggressive impulses in non-feminists
+					drains them of energy; those impulses tend to be directed against the self,
+					result ing in self-depreciation, depression and feelings of worthlessness. This
+					state of affairs prevents moves toward self assertion since these moves are
+					perceived as threatening the precarious balance of dependency on others. In
+					contrast, feminists' attitude of defiance is an affirmative stance that provides
+					the ability to weather disapproval and criticism from others. Independence and
+					autonomy are achieved by struggling against confining expectations at variance
+					with those of the self. This posture of feminists forces active interaction with
+					others and opens the way for individuation and self-control. It seems important
+					to conduct a further study of feminists and non-feminists who do not seek
+					treatment. The findings discussed here are relevant only to those women who have
+					actively sought help.</p>
+			</div>
+		</body>
+		<back>
+			<p> Teresa Bernardez-Bonesatti is a feminist psychiatrist whose special research
+				interest is women and mental health. She is an associate professor of psychiatry at
+				the College of Human Medicine, Michigan State University, and chair person of their
+				Affirmative Action Committee. </p>
+		</back>
+	</text>
+</TEI>

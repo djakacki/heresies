@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='120'/>
+			<p>
+				<lb facs='#facs_120_r_1_1_tl_1' n='N001'/>THE
+				<lb facs='#facs_120_r_1_1_tl_2' n='N002'/>&quot;I AM HEATHCLIFFE,
+				<lb facs='#facs_120_r_1_1_tl_3' n='N003'/>SAYS CATHERINE&quot;
+				<lb facs='#facs_120_r_1_1_tl_4' n='N004'/>SYNDROME
+			</p>
+			<p>
+				<lb facs='#facs_120_r_2_1_tl_1' n='N001'/>IDA APPLEBROOG
+			</p>
+			<p>
+				<lb facs='#facs_120_r_3_1_tl_1' n='N001'/>That thing he wrote, the time the sparrow died
+				<lb facs='#facs_120_r_3_1_tl_2' n='N002'/>(Oh, most unpleasant—gloomy, tedious words!)
+				<lb facs='#facs_120_r_3_1_tl_3' n='N003'/>I called it sweet, and made believe I cried;
+				<lb facs='#facs_120_r_3_1_tl_4' n='N004'/>The stupid fooll l’ve always hated birds.
+				<lb facs='#facs_120_r_3_1_tl_5' n='N005'/>-Dorothy Parker
+				<lb facs='#facs_120_r_3_1_tl_6' n='N006'/>(From a Letter from Lesbia)
+				<lb facs='#facs_120_r_3_1_tl_7' n='N007'/>I had intended to bring together material here from the past
+				<lb facs='#facs_120_r_3_1_tl_8' n='N008'/>and present and systematically summarize and explain the con
+				<lb facs='#facs_120_r_3_1_tl_9' n='N009'/>cepts and theories that characterize women’s humor. Presumably
+				<lb facs='#facs_120_r_3_1_tl_10' n='N010'/>this would be be fairly simple; a good deal of data and some
+				<lb facs='#facs_120_r_3_1_tl_11' n='N011'/>relatively predictable themes would emerge, with which one
+				<lb facs='#facs_120_r_3_1_tl_12' n='N012'/>could then wrestle. Yet although the past few years have witness
+				<lb facs='#facs_120_r_3_1_tl_13' n='N013'/>ed a resurgence of interest in humor, I found material on women&apos;s
+				<lb facs='#facs_120_r_3_1_tl_14' n='N014'/>humor sparse—to say the least. There was one article in Ms.
+				<lb facs='#facs_120_r_3_1_tl_15' n='N015'/>Magazine in 19731 and, more recently, one unmentionable publi
+				<lb facs='#facs_120_r_3_1_tl_16' n='N016'/>cation of sophomoric inanity; in over 5,000 entries in the New
+				<lb facs='#facs_120_r_3_1_tl_17' n='N017'/>York Public Library’s card catalogue under the heading “Wit and
+				<lb facs='#facs_120_r_3_1_tl_18' n='N018'/>Humor, only four deal with women.2 An annotated biblio
+			</p>
+			<p>
+				<lb facs='#facs_120_r_6_1_tl_1' n='N001'/>Go into the kitchen
+				<lb facs='#facs_120_r_6_1_tl_2' n='N002'/>with defiant joyful anger...
+				<lb facs='#facs_120_r_6_1_tl_3' n='N003'/>Put on your apron and...
+				<lb facs='#facs_120_r_6_1_tl_4' n='N004'/>You are in this kitchen
+				<lb facs='#facs_120_r_6_1_tl_5' n='N005'/>because you do not have a penis.
+				<lb facs='#facs_120_r_6_1_tl_6' n='N006'/>Keep this in mind
+				<lb facs='#facs_120_r_6_1_tl_7' n='N007'/>as you crush the garlic
+				<lb facs='#facs_120_r_6_1_tl_8' n='N008'/>with the heel of your shoe....
+				<lb facs='#facs_120_r_6_1_tl_9' n='N009'/>o.
+				<lb facs='#facs_120_r_6_1_tl_10' n='N010'/>You will be
+				<lb facs='#facs_120_r_6_1_tl_11' n='N011'/>The Best Woman In The World.
+				<lb facs='#facs_120_r_6_1_tl_12' n='N012'/>AMERICAN
+				<lb facs='#facs_120_r_6_1_tl_13' n='N013'/>AS APPLE PIE. JUST LIKE MUMS.
+				<lb facs='#facs_120_r_6_1_tl_14' n='N014'/>Remember: The oven is your womb!
+				<lb facs='#facs_120_r_6_1_tl_15' n='N015'/>Let&apos;s do it right!
+			</p>
+			<pb n='121'/>
+			<p>
+				<lb facs='#facs_121_r_1_1_tl_1' n='N001'/>graphy of “all published papers on humor available in the English
+				<lb facs='#facs_121_r_1_1_tl_2' n='N002'/>language in the research literature” (1900-1971)* contains approx
+				<lb facs='#facs_121_r_1_1_tl_3' n='N003'/>imately 400 items, of which not one relates to women’s humor.
+				<lb facs='#facs_121_r_1_1_tl_4' n='N004'/>Humor itself is difficult to define. In this article, I will con
+				<lb facs='#facs_121_r_1_1_tl_5' n='N005'/>sider it generically as any form of communication which is per
+				<lb facs='#facs_121_r_1_1_tl_6' n='N006'/>ceived as humorous by any of the interacting parties. “Women’s
+				<lb facs='#facs_121_r_1_1_tl_7' n='N007'/>humor&quot; is used to connote humor created by women and dealing
+				<lb facs='#facs_121_r_1_1_tl_8' n='N008'/>in some way with woman’s role in the human condition. Of the
+				<lb facs='#facs_121_r_1_1_tl_9' n='N009'/>various theories, the psycho-sociological approach, stressing the
+				<lb facs='#facs_121_r_1_1_tl_10' n='N010'/>notion of humor as social interchange, may be most fruitful for
+				<lb facs='#facs_121_r_1_1_tl_11' n='N011'/>our purposes. Humor is potentially part of every social structure
+				<lb facs='#facs_121_r_1_1_tl_12' n='N012'/>and affects all social systems. When the subject is relationships
+				<lb facs='#facs_121_r_1_1_tl_13' n='N013'/>between women and men, men are traditionally permitted to
+				<lb facs='#facs_121_r_1_1_tl_14' n='N014'/>tease or make fun of women, who in turn are required to take no
+				<lb facs='#facs_121_r_1_1_tl_15' n='N015'/>offense; in fact, we are frequently expected to join in the &quot;fun,
+				<lb facs='#facs_121_r_1_1_tl_16' n='N016'/>even though it is at our own expense. This context is similar to
+				<lb facs='#facs_121_r_1_1_tl_17' n='N017'/>that of racist humor—gratifying one group at the expense of the
+				<lb facs='#facs_121_r_1_1_tl_18' n='N018'/>underdog; its purpose is to throw blame on some group and to
+				<lb facs='#facs_121_r_1_1_tl_19' n='N019'/>reinforce its inferior position. In this process the role of the
+			</p>
+			<p>
+				<lb facs='#facs_121_r_2_1_tl_1' n='N001'/>scapegoat itself is vital. Generally, as O. E. Klapp points out, the
+				<lb facs='#facs_121_r_2_1_tl_2' n='N002'/>scapegoat has a specific socially defined role and position. To the
+				<lb facs='#facs_121_r_2_1_tl_3' n='N003'/>dominant group, &quot;the fool represents values which are rejected by
+				<lb facs='#facs_121_r_2_1_tl_4' n='N004'/>the group, causes that are lost, incompetence, failure, and fi
+				<lb facs='#facs_121_r_2_1_tl_5' n='N005'/>asco.&quot;“ The fool’s position is degraded, but simultaneously val
+				<lb facs='#facs_121_r_2_1_tl_6' n='N006'/>ued—s/he serves as the scapegoat, the butt of humor, the cathar
+				<lb facs='#facs_121_r_2_1_tl_7' n='N007'/>tic symbol of aggression. But even beyond that, Klapp suggests
+				<lb facs='#facs_121_r_2_1_tl_8' n='N008'/>that there is an underlying, continuous, collective process that
+				<lb facs='#facs_121_r_2_1_tl_9' n='N009'/>ascribes this fool’s role to a group of people as a means of
+				<lb facs='#facs_121_r_2_1_tl_10' n='N010'/>enforcing conformity, maintaining the status quo, pressuring for
+				<lb facs='#facs_121_r_2_1_tl_11' n='N011'/>status adjustments, or simply eliminating an undesired form of
+				<lb facs='#facs_121_r_2_1_tl_12' n='N012'/>deviance. In fact, this has been one of the components of every
+				<lb facs='#facs_121_r_2_1_tl_13' n='N013'/>form of racism. Blacks, Chicanos, Jews, or any other minority
+				<lb facs='#facs_121_r_2_1_tl_14' n='N014'/>group as the butt of humor is too well known to require descrip
+				<lb facs='#facs_121_r_2_1_tl_15' n='N015'/>tion here.
+				<lb facs='#facs_121_r_2_1_tl_16' n='N016'/>What is the usual reaction of the scapegoat group? How does
+				<lb facs='#facs_121_r_2_1_tl_17' n='N017'/>it use humor—as a defense, or even as a weapon in its struggle to
+				<lb facs='#facs_121_r_2_1_tl_18' n='N018'/>survive? Historian Joseph Boskin, writing about the social func
+				<lb facs='#facs_121_r_2_1_tl_19' n='N019'/>tions of black humor (black ethnic humor, not &quot;gallows humor”),
+			</p>
+			<p>
+				<lb facs='#facs_121_r_8_1_tl_1' n='N001'/>This content downloaded from
+				<lb facs='#facs_121_r_8_1_tl_2' n='N002'/>134.82.103.33 on Fri, 15 Sep 2023 15:38:40 +00:00
+				<lb facs='#facs_121_r_8_1_tl_3' n='N003'/>bject to
+				<lb facs='#facs_121_r_8_1_tl_4' n='N004'/>about.
+				<lb facs='#facs_121_r_8_1_tl_5' n='N005'/>g/term.
+			</p>
+			<pb n='122'/>
+			<p>
+				<lb facs='#facs_122_r_1_1_tl_1' n='N001'/>suggests that there are two varieties.° External humor is present
+				<lb facs='#facs_122_r_1_1_tl_2' n='N002'/>ed to the dominant culture as an accommodation to white soci
+				<lb facs='#facs_122_r_1_1_tl_3' n='N003'/>ety, a means of survival. Totally different, however, is internal
+				<lb facs='#facs_122_r_1_1_tl_4' n='N004'/>humor, which reinforces the ingroup’s behaviors or values, and
+				<lb facs='#facs_122_r_1_1_tl_5' n='N005'/>in which one of its members usually triumphs over representa
+				<lb facs='#facs_122_r_1_1_tl_6' n='N006'/>tives of the dominant group. Some jokes may also poke fun at the
+				<lb facs='#facs_122_r_1_1_tl_7' n='N007'/>ingroup itself, but that’s all right; it&apos;s &quot;within the family.&quot; This
+				<lb facs='#facs_122_r_1_1_tl_8' n='N008'/>same analysis holds in regard to any other ingroup/outgroup or
+				<lb facs='#facs_122_r_1_1_tl_9' n='N009'/>dominant/scapegoat relationship—except in the case of women.
+				<lb facs='#facs_122_r_1_1_tl_10' n='N010'/>A fascinating phenomenon takes place in women’s humor,
+				<lb facs='#facs_122_r_1_1_tl_11' n='N011'/>different from what is found in black, Jewish, or any other
+				<lb facs='#facs_122_r_1_1_tl_12' n='N012'/>scapegoat humor; namely, the absence of internal humor. Obvi
+				<lb facs='#facs_122_r_1_1_tl_13' n='N013'/>ously, much humor has been directed at women by men, but l
+				<lb facs='#facs_122_r_1_1_tl_14' n='N014'/>have no intention of going into those jokes. There has also been a
+				<lb facs='#facs_122_r_1_1_tl_15' n='N015'/>good deal of women’s external humor—the face we have present
+				<lb facs='#facs_122_r_1_1_tl_16' n='N016'/>ed to the male-dominated society as a means of survival: yes, we
+				<lb facs='#facs_122_r_1_1_tl_17' n='N017'/>are silly, mindless playthings; aren’t we fun(ny)? But where is our
+				<lb facs='#facs_122_r_1_1_tl_18' n='N018'/>internal humor? Where are the jokes, the anecdotes, the cartoons
+				<lb facs='#facs_122_r_1_1_tl_19' n='N019'/>that would positively reinforce our existing or changing behav-
+			</p>
+			<p>
+				<lb facs='#facs_122_r_2_1_tl_1' n='N001'/>ioral patterns? And where are the “in-jokes,
+				<lb facs='#facs_122_r_2_1_tl_2' n='N002'/>poke a
+				<lb facs='#facs_122_r_2_1_tl_3' n='N003'/>bit of good-natured fun at ourselves, and which simultaneously
+				<lb facs='#facs_122_r_2_1_tl_4' n='N004'/>serve to solidify the group—the type of humor with which Dick
+				<lb facs='#facs_122_r_2_1_tl_5' n='N005'/>Gregory, for example, helped to create a new image for blacks, a
+				<lb facs='#facs_122_r_2_1_tl_6' n='N006'/>consciousness of their past and their identity? Most important,
+				<lb facs='#facs_122_r_2_1_tl_7' n='N007'/>where is the humor directed at the common oppressor? Where are
+				<lb facs='#facs_122_r_2_1_tl_8' n='N008'/>the anecdotes in which we come out ahead; the jokes in which the
+				<lb facs='#facs_122_r_2_1_tl_9' n='N009'/>men fall on their asses while we stand there and laugh? The
+				<lb facs='#facs_122_r_2_1_tl_10' n='N010'/>answer is that for the most part, there weren’t any. Yes, there
+				<lb facs='#facs_122_r_2_1_tl_11' n='N011'/>were stories told by Dorothy Parker, Ruth Draper, and maybe
+				<lb facs='#facs_122_r_2_1_tl_12' n='N012'/>one or two others, but generally there has been no women’s
+				<lb facs='#facs_122_r_2_1_tl_13' n='N013'/>ingroup humor until very recently.
+				<lb facs='#facs_122_r_2_1_tl_14' n='N014'/>Why not? Women have been identifiable as a group in every
+				<lb facs='#facs_122_r_2_1_tl_15' n='N015'/>culture since time began. Yet the jokes or stories that women tell
+				<lb facs='#facs_122_r_2_1_tl_16' n='N016'/>each other when they are together are the same jokes that men
+				<lb facs='#facs_122_r_2_1_tl_17' n='N017'/>tell, sometimes slightly cleaned up. In other words, for the most
+				<lb facs='#facs_122_r_2_1_tl_18' n='N018'/>part we have accepted the outgroup’s humor. We have even
+				<lb facs='#facs_122_r_2_1_tl_19' n='N019'/>emulated it and its values, making the same kind of disparaging
+				<lb facs='#facs_122_r_2_1_tl_20' n='N020'/>remarks about ourselves that men do.
+			</p>
+			<p>
+				<lb facs='#facs_122_r_6_1_tl_1' n='N001'/>POLITICAL CONSCIOUSNESS (A DIALOGUE)
+				<lb facs='#facs_122_r_6_1_tl_2' n='N002'/>&quot;Ever since I saw photographs of those poor women in
+				<lb facs='#facs_122_r_6_1_tl_3' n='N003'/>sweat shops, I refuse to buy anything readymade.&apos;
+				<lb facs='#facs_122_r_6_1_tl_4' n='N004'/>&quot;What a wonderful thing to do. It’s like a one-woman
+				<lb facs='#facs_122_r_6_1_tl_5' n='N005'/>boycott—like the grape boycott. You know, I still can’t
+				<lb facs='#facs_122_r_6_1_tl_6' n='N006'/>bear to eat grapes?
+				<lb facs='#facs_122_r_6_1_tl_7' n='N007'/>&quot;There was one on lettuce, too.
+				<lb facs='#facs_122_r_6_1_tl_8' n='N008'/>&quot;I didn’t hear about that one. And I just ordered salad! I
+				<lb facs='#facs_122_r_6_1_tl_9' n='N009'/>feel so badly.
+				<lb facs='#facs_122_r_6_1_tl_10' n='N010'/>&quot;It’s all right, dear. It’s over now and the workers are
+				<lb facs='#facs_122_r_6_1_tl_11' n='N011'/>happy again. Yours was endive, anyway.&quot;
+				<lb facs='#facs_122_r_6_1_tl_12' n='N012'/>&quot;But I do think you’re right about mass-produced clothing.
+				<lb facs='#facs_122_r_6_1_tl_13' n='N013'/>If women didn’t buy those cheap copies of designer dresses,
+				<lb facs='#facs_122_r_6_1_tl_14' n='N014'/>it would protect the designers&apos; incomes, too.&quot;
+				<lb facs='#facs_122_r_6_1_tl_15' n='N015'/>Nancy Kitchel. 1976.
+			</p>
+			<pb n='123'/>
+			<p>
+				<lb facs='#facs_123_r_1_1_tl_1' n='N001'/>This has been the pattern for a long time. In the eighteenth
+				<lb facs='#facs_123_r_1_1_tl_2' n='N002'/>century, one of Lady Mary Wortley Montagu’s bon mots was, &quot;It
+				<lb facs='#facs_123_r_1_1_tl_3' n='N003'/>goes far towards reconciling me to being a woman, when I reflect
+				<lb facs='#facs_123_r_1_1_tl_4' n='N004'/>that I am thus in no danger of marrying one.&quot; Hannah Cowley
+				<lb facs='#facs_123_r_1_1_tl_5' n='N005'/>extended this further when she said, “What is a woman? Only
+				<lb facs='#facs_123_r_1_1_tl_6' n='N006'/>one of nature’s agreeable blunders.&quot; But even in more recent
+				<lb facs='#facs_123_r_1_1_tl_7' n='N007'/>years, we find Lady Astor stating, &quot;My vigour, vitality and cheek
+				<lb facs='#facs_123_r_1_1_tl_8' n='N008'/>repel me; I am the kind of woman I would run away from.
+				<lb facs='#facs_123_r_1_1_tl_9' n='N009'/>Women are inherently inferior and therefore, according to Mar-
+				<lb facs='#facs_123_r_1_1_tl_10' n='N010'/>got Naylor, have great difficulties achieving success: &quot;If every
+				<lb facs='#facs_123_r_1_1_tl_11' n='N011'/>successful man needs a woman behind him, every successful
+				<lb facs='#facs_123_r_1_1_tl_12' n='N012'/>woman needs at least three men.&quot; But who really wants to be a
+				<lb facs='#facs_123_r_1_1_tl_13' n='N013'/>success anyway, when Elizabeth Marbury assures us that, &quot;A
+				<lb facs='#facs_123_r_1_1_tl_14' n='N014'/>caress is better than a career”? Ilka Chase agreed; she knew how
+				<lb facs='#facs_123_r_1_1_tl_15' n='N015'/>to invest her money: “America’s best buy for a nickel is a tele
+				<lb facs='#facs_123_r_1_1_tl_16' n='N016'/>phone call to the right man.&quot; What we really ought to do is follow
+				<lb facs='#facs_123_r_1_1_tl_17' n='N017'/>the advice of Anita Loos: &quot;A girl with brains ought to do some
+				<lb facs='#facs_123_r_1_1_tl_18' n='N018'/>thing else with them besides think,&quot; because, as Sophie Tucker
+				<lb facs='#facs_123_r_1_1_tl_19' n='N019'/>so aptly concluded, &quot;No man ever put up with a successful
+			</p>
+			<p>
+				<lb facs='#facs_123_r_2_1_tl_1' n='N001'/>woman, and he’s right!&quot; Yes, folks, those were the jokes. That
+				<lb facs='#facs_123_r_2_1_tl_2' n='N002'/>was women’s humor. And things haven’t changed too much. As
+				<lb facs='#facs_123_r_2_1_tl_3' n='N003'/>recently as March 11, 1977, in reviewing an all-female amateur
+				<lb facs='#facs_123_r_2_1_tl_4' n='N004'/>comedy revue at Once Upon a Stove, Anna Quindlan noted:
+				<lb facs='#facs_123_r_2_1_tl_5' n='N005'/>Certainly making jokes about the female condition is a
+				<lb facs='#facs_123_r_2_1_tl_6' n='N006'/>comic tradition—male comics have been doing it for
+				<lb facs='#facs_123_r_2_1_tl_7' n='N007'/>years. But why no turnabout? Why are mothers still the
+				<lb facs='#facs_123_r_2_1_tl_8' n='N008'/>butt of jokes? Why does Farah Fawcett Majors get
+				<lb facs='#facs_123_r_2_1_tl_9' n='N009'/>savaged for her looks three times in one evening? Why
+				<lb facs='#facs_123_r_2_1_tl_10' n='N010'/>doesn’t one voice cry out in the wilderness: “Take my
+				<lb facs='#facs_123_r_2_1_tl_11' n='N011'/>husband—please&quot;?6
+				<lb facs='#facs_123_r_2_1_tl_12' n='N012'/>Why not, indeed?
+				<lb facs='#facs_123_r_2_1_tl_13' n='N013'/>When we encounter such a bizarre situation, we have to try
+				<lb facs='#facs_123_r_2_1_tl_14' n='N014'/>to explain it. The psychoanalytic concept of &quot;identification with
+				<lb facs='#facs_123_r_2_1_tl_15' n='N015'/>the aggressor” may be the “defense mechanism&quot; which explains
+				<lb facs='#facs_123_r_2_1_tl_16' n='N016'/>this particular &quot;feminine dilemma.&quot; Anna Freud mentions the
+				<lb facs='#facs_123_r_2_1_tl_17' n='N017'/>case of a little girl who was afraid to cross the hall in the dark be
+			</p>
+			<p>
+				<lb facs='#facs_123_r_6_1_tl_1' n='N001'/>Negating the Negative&quot;
+				<lb facs='#facs_123_r_6_1_tl_2' n='N002'/>anti-pure, anti-purist, anti-puritanical, anti-
+				<lb facs='#facs_123_r_6_1_tl_3' n='N003'/>minimalist, anti-post minimalist, anti-reducti-
+				<lb facs='#facs_123_r_6_1_tl_4' n='N004'/>vist, anti-formalist, anti-pristine, anti-austere,
+				<lb facs='#facs_123_r_6_1_tl_5' n='N005'/>anti-bare, anti-blank, anti-bland, anti-boring,
+				<lb facs='#facs_123_r_6_1_tl_6' n='N006'/>...anti-universal, anti-internationalist, anti-
+				<lb facs='#facs_123_r_6_1_tl_7' n='N007'/>imperialist, anti-bauhausist, anti-dominant,
+				<lb facs='#facs_123_r_6_1_tl_8' n='N008'/>anti-authoritarian, anti-mandarinist, anti-
+				<lb facs='#facs_123_r_6_1_tl_9' n='N009'/>mainstreamist,. ..anti-black, anti-white, anti-
+				<lb facs='#facs_123_r_6_1_tl_10' n='N010'/>gray, anti-grid, anti-god,...anti-logic, anti
+				<lb facs='#facs_123_r_6_1_tl_11' n='N011'/>conceptual, anti-male-dominated, anti-virile,
+				<lb facs='#facs_123_r_6_1_tl_12' n='N012'/>anti-tough, anti-cool, anti-cruel,...anti-con
+				<lb facs='#facs_123_r_6_1_tl_13' n='N013'/>trolled, anti-controlling, anti-arrogant, anti
+				<lb facs='#facs_123_r_6_1_tl_14' n='N014'/>sublime, anti-grandiose, anti-pedantic, anti
+				<lb facs='#facs_123_r_6_1_tl_15' n='N015'/>patriarchal, anti-heroic, anti-genius, anti
+				<lb facs='#facs_123_r_6_1_tl_16' n='N016'/>master.
+				<lb facs='#facs_123_r_6_1_tl_17' n='N017'/>&quot;On Affirmation&quot;
+				<lb facs='#facs_123_r_6_1_tl_18' n='N018'/>fussy, funny, funky, perverse, mannerist,
+				<lb facs='#facs_123_r_6_1_tl_19' n='N019'/>tribal, rococco, tactile, self-referring, sumptu
+				<lb facs='#facs_123_r_6_1_tl_20' n='N020'/>ous, sensuous, salacious, eclectic, exotic,
+				<lb facs='#facs_123_r_6_1_tl_21' n='N021'/>messy, monstrous, complex, ornamented..
+				<lb facs='#facs_123_r_6_1_tl_22' n='N022'/>Excerpt from Joyce Kozloff. Negating the Negative
+				<lb facs='#facs_123_r_6_1_tl_23' n='N023'/>(an answer to Ad Reinhardt’s “On Negation”). 1976.
+			</p>
+			<pb n='124'/>
+			<p>
+				<lb facs='#facs_124_r_1_1_tl_1' n='N001'/>cause she dreaded ghosts. Finally, she hit upon the device of
+				<lb facs='#facs_124_r_1_1_tl_2' n='N002'/>making all kinds of peculiar gestures and noises as she crossed the
+				<lb facs='#facs_124_r_1_1_tl_3' n='N003'/>hall, because “There’s no need to be afraid in the hall; you just
+				<lb facs='#facs_124_r_1_1_tl_4' n='N004'/>have to pretend that youre the ghost who might meet you.&quot;
+				<lb facs='#facs_124_r_1_1_tl_5' n='N005'/>Anna Freud goes on to point out that this is a normal defense
+				<lb facs='#facs_124_r_1_1_tl_6' n='N006'/>mechanism of the ego when confronted by authority and/or when
+				<lb facs='#facs_124_r_1_1_tl_7' n='N007'/>dealing with anxiety. She also states that such identification may
+				<lb facs='#facs_124_r_1_1_tl_8' n='N008'/>at times represent an intermediate stage in the development of
+				<lb facs='#facs_124_r_1_1_tl_9' n='N009'/>paranoia.? (We had better watch out for that one!)
+				<lb facs='#facs_124_r_1_1_tl_10' n='N010'/>There is little doubt in my mind that in order to survive, we
+				<lb facs='#facs_124_r_1_1_tl_11' n='N011'/>have for thousands of years identified with the aggressor. Judy
+				<lb facs='#facs_124_r_1_1_tl_12' n='N012'/>Chicago has said about women&apos;s art:
+				<lb facs='#facs_124_r_1_1_tl_13' n='N013'/>If you are invested in the structure and values that male
+				<lb facs='#facs_124_r_1_1_tl_14' n='N014'/>dominance has provided ... or if you want validation
+				<lb facs='#facs_124_r_1_1_tl_15' n='N015'/>from those institutions that have grown out of that
+				<lb facs='#facs_124_r_1_1_tl_16' n='N016'/>structure, then you don’t want to recognize that women
+				<lb facs='#facs_124_r_1_1_tl_17' n='N017'/>exist separately from men. ... what subject matter and
+				<lb facs='#facs_124_r_1_1_tl_18' n='N018'/>what forms are important, and what the nature of art is
+				<lb facs='#facs_124_r_1_1_tl_19' n='N019'/>and who defines it and who makes it, and how much it
+			</p>
+			<p>
+				<lb facs='#facs_124_r_2_1_tl_1' n='N001'/>costs, are simply projections of the male value
+				<lb facs='#facs_124_r_2_1_tl_2' n='N002'/>structure.9
+			</p>
+			<p>
+				<lb facs='#facs_124_r_3_1_tl_1' n='N001'/>It is my contention, then, that as a partial consequence of
+				<lb facs='#facs_124_r_3_1_tl_2' n='N002'/>women’s identification with the aggressor, we have until recently
+				<lb facs='#facs_124_r_3_1_tl_3' n='N003'/>accepted the aggressor’s humor, in which we are the scapegoat.
+				<lb facs='#facs_124_r_3_1_tl_4' n='N004'/>This same identification has also prevented the development of
+				<lb facs='#facs_124_r_3_1_tl_5' n='N005'/>any humor directed against the oppressor. Even in love, it has
+				<lb facs='#facs_124_r_3_1_tl_6' n='N006'/>been expected that the woman identify totally with the man.
+				<lb facs='#facs_124_r_3_1_tl_7' n='N007'/>Simone de Beauvoir states:
+				<lb facs='#facs_124_r_3_1_tl_8' n='N008'/>... it is not enough to serve him. The woman in love
+				<lb facs='#facs_124_r_3_1_tl_9' n='N009'/>tries to see with his eyes... she adopts his friendships,
+				<lb facs='#facs_124_r_3_1_tl_10' n='N010'/>his enmities, his opinions. .. She uses his words, mimics
+				<lb facs='#facs_124_r_3_1_tl_11' n='N011'/>his gestures, acquires his eccentricities and his tics. &quot;Iam
+				<lb facs='#facs_124_r_3_1_tl_12' n='N012'/>Heathcliffe,&quot; says Catherine in Wuthering Heights; that
+				<lb facs='#facs_124_r_3_1_tl_13' n='N013'/>is the cry of every woman in love; she is another incar
+				<lb facs='#facs_124_r_3_1_tl_14' n='N014'/>nation of her loved one, his reflection, his double: she is
+				<lb facs='#facs_124_r_3_1_tl_15' n='N015'/>he.10
+			</p>
+			<pb n='125'/>
+			<p>
+				<lb facs='#facs_125_r_1_1_tl_1' n='N001'/>If love is &quot;every girl’s dream,&quot; and if one-sided over-identifi
+				<lb facs='#facs_125_r_1_1_tl_2' n='N002'/>cation is part of love, then it is not surprising to find that it has
+				<lb facs='#facs_125_r_1_1_tl_3' n='N003'/>been an integral element of all of woman’s history. When you’re
+				<lb facs='#facs_125_r_1_1_tl_4' n='N004'/>identified with the aggressor, clearly you don’t make fun of him,
+				<lb facs='#facs_125_r_1_1_tl_5' n='N005'/>and you don’t make fun of yourself for being identified with him.
+				<lb facs='#facs_125_r_1_1_tl_6' n='N006'/>Today, however, we are in the midst of an evolutionary
+				<lb facs='#facs_125_r_1_1_tl_7' n='N007'/>process which is beginning to have some impact on women&apos;s
+				<lb facs='#facs_125_r_1_1_tl_8' n='N008'/>humor. For many of us, our previous conventional roles are no
+				<lb facs='#facs_125_r_1_1_tl_9' n='N009'/>longer tenable ways to deal with the world and with ourselves.
+				<lb facs='#facs_125_r_1_1_tl_10' n='N010'/>We are reevaluating our sexual identities, and we are beginning to
+				<lb facs='#facs_125_r_1_1_tl_11' n='N011'/>create the missing link in women’s humor, as illustrated by the
+				<lb facs='#facs_125_r_1_1_tl_12' n='N012'/>works following this article.
+				<lb facs='#facs_125_r_1_1_tl_13' n='N013'/>These works were produced by a particular group of women
+				<lb facs='#facs_125_r_1_1_tl_14' n='N014'/>—artists whose frame of reference is essentially the art world.
+				<lb facs='#facs_125_r_1_1_tl_15' n='N015'/>Nevertheless, they provide some insight into an emerging ingroup
+				<lb facs='#facs_125_r_1_1_tl_16' n='N016'/>humor. Some of these works represent a satirical view of pre
+				<lb facs='#facs_125_r_1_1_tl_17' n='N017'/>viously accepted male stereotypes and values; others are con
+				<lb facs='#facs_125_r_1_1_tl_18' n='N018'/>cerned with our new identities, as illustrated by some pieces that
+				<lb facs='#facs_125_r_1_1_tl_19' n='N019'/>deal with our own anatomies. Women’s bodies always have been
+				<lb facs='#facs_125_r_1_1_tl_20' n='N020'/>sensuously exploited as outrageous cheesecake images. While
+			</p>
+			<p>
+				<lb facs='#facs_125_r_5_1_tl_1' n='N001'/>some artists parody this male viewpoint, others, like Annette
+				<lb facs='#facs_125_r_5_1_tl_2' n='N002'/>Messager, Ulrike Rosenbach, and Eleanor Antin, pleasurably
+				<lb facs='#facs_125_r_5_1_tl_3' n='N003'/>explore their own anatomy to produce comic illusions in which
+				<lb facs='#facs_125_r_5_1_tl_4' n='N004'/>sexual exploitation is not paramount. At other times, women&apos;s
+				<lb facs='#facs_125_r_5_1_tl_5' n='N005'/>humor in art is primarily concerned with the general human
+				<lb facs='#facs_125_r_5_1_tl_6' n='N006'/>condition. In the introduction to Louise Bourgeois’ book of en
+				<lb facs='#facs_125_r_5_1_tl_7' n='N007'/>gravings, He Disappeared into Complete Silence (1947), Marius
+				<lb facs='#facs_125_r_5_1_tl_8' n='N008'/>Bewley wrote:
+				<lb facs='#facs_125_r_5_1_tl_9' n='N009'/>They are tiny tragedies of human frustration.... The
+				<lb facs='#facs_125_r_5_1_tl_10' n='N010'/>protagonists are miserable because they can neither es
+				<lb facs='#facs_125_r_5_1_tl_11' n='N011'/>cape the isolation which has become a condition of their
+				<lb facs='#facs_125_r_5_1_tl_12' n='N012'/>own identities, nor yet accept it as wholly natural. Their
+				<lb facs='#facs_125_r_5_1_tl_13' n='N013'/>attempts to free themselves, or accept their situation
+				<lb facs='#facs_125_r_5_1_tl_14' n='N014'/>invariably end in disaster. 1l
+				<lb facs='#facs_125_r_5_1_tl_15' n='N015'/>In a lighter vein, Laurie Anderson writes, “On Church Street, I
+				<lb facs='#facs_125_r_5_1_tl_16' n='N016'/>decide to name my daughters Luncheonette and Delicatesse ... at
+				<lb facs='#facs_125_r_5_1_tl_17' n='N017'/>the fruitstand, the owner’s son yells at me Hey cereal Lady!&apos;; I
+				<lb facs='#facs_125_r_5_1_tl_18' n='N018'/>don’t know why and try to look as neurotic as possible.&quot;
+			</p>
+			<p>
+				<lb facs='#facs_125_r_2_1_tl_1' n='N001'/>ERON PHOIGOPIE ANO OMER 600O DENGNS&apos;
+				<lb facs='#facs_125_r_2_1_tl_2' n='N002'/>DARUN,ISTNMED MT VOUR PCACE WHEN YOU UEMT TO CALIFORVAA
+				<lb facs='#facs_125_r_2_1_tl_3' n='N003'/>ANO I SU AU TOIE PHODGRAPHS OF HER SMILING FACE
+				<lb facs='#facs_125_r_2_1_tl_4' n='N004'/>THERES A BIG ONE IN ME HEAEN, MES SMIUNG ON TE BEACH
+				<lb facs='#facs_125_r_2_1_tl_5' n='N005'/>THEREY A SMAL ONE IN ME GATROOM, SHES LOOEING OUT ANO IMIUNG.
+				<lb facs='#facs_125_r_2_1_tl_6' n='N006'/>WEll ITHOUCHT HOU CERE JUIT FEIENOS, TE IFOUNO ALETEE
+				<lb facs='#facs_125_r_2_1_tl_7' n='N007'/>SAIO, DARUNG, LOUE YOU, RUT YOV LOUE ME BETE.
+				<lb facs='#facs_125_r_2_1_tl_8' n='N008'/>RERO, DRA,I REQU LOUEY BOT VO LOVE ME BERER,
+				<lb facs='#facs_125_r_2_1_tl_9' n='N009'/>WAL I MAY NAUE BEEN BUINO, BUT NOU /CAN XE
+				<lb facs='#facs_125_r_2_1_tl_10' n='N010'/>PAPUNG, MA DARLA, VOU MERE TO TMING ME.
+				<lb facs='#facs_125_r_2_1_tl_11' n='N011'/>LOLED ATOLE PHOIOGRAPIS, DAY ANO NIGA
+				<lb facs='#facs_125_r_2_1_tl_12' n='N012'/>HER EVES WERE A DAZAUNG BCUE. EVEN IN BAOE ANO UNIEE
+				<lb facs='#facs_125_r_2_1_tl_13' n='N013'/>TIED T OICHEE ME UA ME TUEO,Ho SHE moveb
+				<lb facs='#facs_125_r_2_1_tl_14' n='N014'/>UHAT SAE MOOGHT ACOOT ORIVING ON THE ROAO ACONE
+				<lb facs='#facs_125_r_2_1_tl_15' n='N015'/>E UAS SO SRANE ANO BEAOFUL, 50 cooC,0 AeM
+				<lb facs='#facs_125_r_2_1_tl_16' n='N016'/>ANO ME DIO SMIE ALO
+				<lb facs='#facs_125_r_2_1_tl_17' n='N017'/>AFRO A MAICE, NETWAS I DDE WITN NEP.
+				<lb facs='#facs_125_r_2_1_tl_18' n='N018'/>ONT Hee FA   w
+				<lb facs='#facs_125_r_2_1_tl_19' n='N019'/>HAO A DOEAN TAT SHE ANO IUERE lOUS,
+				<lb facs='#facs_125_r_2_1_tl_20' n='N020'/>We MADE WUE AE DAY UNDERAAN VOUE COUERS
+				<lb facs='#facs_125_r_2_1_tl_21' n='N021'/>Ue AVOe fols  bae HOLES  Ve KNee
+				<lb facs='#facs_125_r_2_1_tl_22' n='N022'/>en We y Tn e Ay-
+				<lb facs='#facs_125_r_2_1_tl_23' n='N023'/>WAS AGRAT COOE TO- coto cUs.
+				<lb facs='#facs_125_r_2_1_tl_24' n='N024'/>LULO NER 50 MUCH, ANO IWUL NEVER FORGA HEA
+				<lb facs='#facs_125_r_2_1_tl_25' n='N025'/>DAA ME SIED M ME ANO SAIO,&quot;ORRLIG ILOVE VO,
+				<lb facs='#facs_125_r_2_1_tl_26' n='N026'/>BUT GOU LOVE ME BETER.
+				<lb facs='#facs_125_r_2_1_tl_27' n='N027'/>TE DAV ME DHISPERED “OARLING. TREAUy (UE 700,
+				<lb facs='#facs_125_r_2_1_tl_28' n='N028'/>80f 400 LOUE ME BETER.
+				<lb facs='#facs_125_r_2_1_tl_29' n='N029'/>C7
+				<lb facs='#facs_125_r_2_1_tl_30' n='N030'/>LAURIE ANOEEON
+			</p>
+			<p>
+				<lb facs='#facs_125_r_7_1_tl_1' n='N001'/>Louise Bourgeois. From He Disappeared
+				<lb facs='#facs_125_r_7_1_tl_2' n='N002'/>Once a man was angry at his
+				<lb facs='#facs_125_r_7_1_tl_3' n='N003'/>into Complete Silence. 1946. Engraving.
+				<lb facs='#facs_125_r_7_1_tl_4' n='N004'/>wife, he cut her in small pieces,
+				<lb facs='#facs_125_r_7_1_tl_5' n='N005'/>5”x7”.
+				<lb facs='#facs_125_r_7_1_tl_6' n='N006'/>made a stew of her.
+				<lb facs='#facs_125_r_7_1_tl_7' n='N007'/>Then he telephoned to his
+				<lb facs='#facs_125_r_7_1_tl_8' n='N008'/>friends and asked them for a
+				<lb facs='#facs_125_r_7_1_tl_9' n='N009'/>cocktail-and-stew party.
+				<lb facs='#facs_125_r_7_1_tl_10' n='N010'/>Then all came and had a good
+				<lb facs='#facs_125_r_7_1_tl_11' n='N011'/>time.
+			</p>
+			<pb n='126'/>
+			<p>
+				<lb facs='#facs_126_r_1_1_tl_1' n='N001'/>In my own work, as part of a series of &quot;puppet plays,” I use
+				<lb facs='#facs_126_r_1_1_tl_2' n='N002'/>humor to communicate what would otherwise be difficult to say,
+				<lb facs='#facs_126_r_1_1_tl_3' n='N003'/>to make constantly problematical human contacts less threaten
+				<lb facs='#facs_126_r_1_1_tl_4' n='N004'/>ing. Carol Conde, entering the traditional male arena of politics,
+				<lb facs='#facs_126_r_1_1_tl_5' n='N005'/>presents women wondering whether to join the class struggle, or
+				<lb facs='#facs_126_r_1_1_tl_6' n='N006'/>to submit to the seductions of the capitalist.
+				<lb facs='#facs_126_r_1_1_tl_7' n='N007'/>All of these types of humor are still comparatively rare. It is
+				<lb facs='#facs_126_r_1_1_tl_8' n='N008'/>probably too early in our identification process to expect them to
+				<lb facs='#facs_126_r_1_1_tl_9' n='N009'/>appear frequently. And we are still at a stage where some of us
+				<lb facs='#facs_126_r_1_1_tl_10' n='N010'/>see anything that isn’t female-self-congratulatory as &quot;anti
+				<lb facs='#facs_126_r_1_1_tl_11' n='N011'/>feminist.&quot; It takes time, and it&apos;s difficult. One of the signs of real
+				<lb facs='#facs_126_r_1_1_tl_12' n='N012'/>social change will be when we can invent jokes about ourselves,
+				<lb facs='#facs_126_r_1_1_tl_13' n='N013'/>as well as about &quot;them,&quot; and laugh freely.
+				<lb facs='#facs_126_r_1_1_tl_14' n='N014'/>&quot;Freedom produces jokes and jokes produce freedom&apos;
+				<lb facs='#facs_126_r_1_1_tl_15' n='N015'/>-Jean Paul (Richter), 1804.
+				<lb facs='#facs_126_r_1_1_tl_16' n='N016'/>1. Naomi Weisstein, “Why We Aren’t Laughing ... Any More,” Ms.
+				<lb facs='#facs_126_r_1_1_tl_17' n='N017'/>Magazine (Nov. 1973), p. 49ff.
+				<lb facs='#facs_126_r_1_1_tl_18' n='N018'/>2. Kate Sanborn, The Wit of Women (New York: Funk and Wagnalls,
+				<lb facs='#facs_126_r_1_1_tl_19' n='N019'/>1886); Martha Bensley Bruere, Laughing Their Way: Women’s Humor
+				<lb facs='#facs_126_r_1_1_tl_20' n='N020'/>in America (New York: Macmillan, 1934); Bernard Hollowood, ed.,
+				<lb facs='#facs_126_r_1_1_tl_21' n='N021'/>The Women of Punch (London: Barker, 1961); Lore and Maurice
+				<lb facs='#facs_126_r_1_1_tl_22' n='N022'/>Cowan, The Wit of Women (London: Leslie Freewin, 1969).
+				<lb facs='#facs_126_r_1_1_tl_23' n='N023'/>3. Jeffrey H. Goldstein and Paul E. McGhee, “An Annotated Bibliogra
+				<lb facs='#facs_126_r_1_1_tl_24' n='N024'/>phy of Published Papers on Humor in the Research Literature and an
+				<lb facs='#facs_126_r_1_1_tl_25' n='N025'/>Analysis of Trends: 1900-1971,” in The Psychology of Humor, ed.
+				<lb facs='#facs_126_r_1_1_tl_26' n='N026'/>Jeffrey H. Goldstein and Paul E. McGhee (New York: Academic Press,
+				<lb facs='#facs_126_r_1_1_tl_27' n='N027'/>1972), pp. 263-283.
+				<lb facs='#facs_126_r_1_1_tl_28' n='N028'/>4. O.E. Klapp, Heroes, Villains and Fools: The Changing American
+				<lb facs='#facs_126_r_1_1_tl_29' n='N029'/>Character (New York: Prentice-Hall, 1962).
+				<lb facs='#facs_126_r_1_1_tl_30' n='N030'/>5. Goldstein and McGhee, “Annotated Bibliography,” p. 112ff.
+				<lb facs='#facs_126_r_1_1_tl_31' n='N031'/>6. Anna Quindlan, “Women Comics Get the Last Laugh,” The New York
+				<lb facs='#facs_126_r_1_1_tl_32' n='N032'/>Times (March 11, 1977).
+				<lb facs='#facs_126_r_1_1_tl_33' n='N033'/>7. Anna Freud, The Ego and the Mechanisms of Defence (New York:
+				<lb facs='#facs_126_r_1_1_tl_34' n='N034'/>International Universities Press, 1961), p. 118f.
+				<lb facs='#facs_126_r_1_1_tl_35' n='N035'/>8. Ibid., p. 129.
+				<lb facs='#facs_126_r_1_1_tl_36' n='N036'/>9. Lucy R. Lippard, From the Center (New York: Dutton, 1976), p. 228.
+				<lb facs='#facs_126_r_1_1_tl_37' n='N037'/>10. Simone de Beauvoir, The Second Sex (New York: Knopf, 1953),
+				<lb facs='#facs_126_r_1_1_tl_38' n='N038'/>p. 613f.
+				<lb facs='#facs_126_r_1_1_tl_39' n='N039'/>11. Louise Bourgeois, He Disappeared into Complete Silence (New York:
+				<lb facs='#facs_126_r_1_1_tl_40' n='N040'/>Gemor Press, 1947).
+			</p>
+			<p>
+				<lb facs='#facs_126_r_2_1_tl_1' n='N001'/>Laurie Anderson, born in Chicago and living in New York, is a per
+				<lb facs='#facs_126_r_2_1_tl_2' n='N002'/>formance artist working with sound, film, and spoken words.
+				<lb facs='#facs_126_r_2_1_tl_3' n='N003'/>Eleanor Antin is a “post-conceptual” and performance artist living in Del
+				<lb facs='#facs_126_r_2_1_tl_4' n='N004'/>Mar, California. Her work absorbs her other identities—the King, the
+				<lb facs='#facs_126_r_2_1_tl_5' n='N005'/>Ballerina, the Black Movie Star and the Nurse.
+				<lb facs='#facs_126_r_2_1_tl_6' n='N006'/>Louise Bourgeois is a sculptor, a symbolist and intimist, who describes the
+				<lb facs='#facs_126_r_2_1_tl_7' n='N007'/>piece reproduced here as “an attempt at the sublimation of pain.
+				<lb facs='#facs_126_r_2_1_tl_8' n='N008'/>Carol Conde, a Canadian artist living and working in New York, is an
+				<lb facs='#facs_126_r_2_1_tl_9' n='N009'/>editor of Red-Herring and a member of Artists Meeting for Cultural
+				<lb facs='#facs_126_r_2_1_tl_10' n='N010'/>Change.
+				<lb facs='#facs_126_r_2_1_tl_11' n='N011'/>Nancy Kitchel is a New York artist whose work deals with identity,
+				<lb facs='#facs_126_r_2_1_tl_12' n='N012'/>exorcism and political awareness.
+				<lb facs='#facs_126_r_2_1_tl_13' n='N013'/>Joyce Kozloff is a painter who lives in New York, teaches and has been
+				<lb facs='#facs_126_r_2_1_tl_14' n='N014'/>active in the women’s movement on both coasts.
+				<lb facs='#facs_126_r_2_1_tl_15' n='N015'/>Sandra Matthews is a photographer who was born in Chicago and attended
+				<lb facs='#facs_126_r_2_1_tl_16' n='N016'/>Radcliffe and the State University of New York at Buffalo, where she lives.
+				<lb facs='#facs_126_r_2_1_tl_17' n='N017'/>Annette Messager has two identities—the “collector” and the “artist.”
+				<lb facs='#facs_126_r_2_1_tl_18' n='N018'/>Both live in Paris and both make “art” primarily from found materials
+				<lb facs='#facs_126_r_2_1_tl_19' n='N019'/>obsessively reassembled.
+				<lb facs='#facs_126_r_2_1_tl_20' n='N020'/>Ulrike Rosenbach is a feminist performance and video artist living in
+				<lb facs='#facs_126_r_2_1_tl_21' n='N021'/>Cologne. Her work is primarily concerned with ritual, magic, eroticism and
+				<lb facs='#facs_126_r_2_1_tl_22' n='N022'/>the female image.
+				<lb facs='#facs_126_r_2_1_tl_23' n='N023'/>Carolee Schneemann, the first painter to choreograph environmental thea
+				<lb facs='#facs_126_r_2_1_tl_24' n='N024'/>ter (for the Judson Dance Theater), created Kinetic Theater in 1962.
+				<lb facs='#facs_126_r_2_1_tl_25' n='N025'/>Karen Shaw is an artist dealing with language and has been published
+				<lb facs='#facs_126_r_2_1_tl_26' n='N026'/>occasionally. She is the mother of two boys.
+				<lb facs='#facs_126_r_2_1_tl_27' n='N027'/>Eve Sonneman, born in Chicago and living in New York, works with photo
+				<lb facs='#facs_126_r_2_1_tl_28' n='N028'/>graphy and teaches at Cooper Union and the School of Visual Arts.
+				<lb facs='#facs_126_r_2_1_tl_29' n='N029'/>Mierle Laderman Ukeles conceived Maintenance Art Works in 1969. She
+				<lb facs='#facs_126_r_2_1_tl_30' n='N030'/>has been maintaining it ever since and vice versa.
+			</p>
+			<p>
+				<lb facs='#facs_126_r_3_1_tl_1' n='N001'/>Ida Applebroog is making art and living in New York. Before that she was
+				<lb facs='#facs_126_r_3_1_tl_2' n='N002'/>making art, teaching, and living in San Diego.
+			</p>
+         </div>
+      </body>
+   </text>
+</TEI>

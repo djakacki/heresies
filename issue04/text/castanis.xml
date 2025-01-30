@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Contributors</title>
-            <author>Collective</author>
+            <title>Closet Collector</title>
+            <author>Muriel Castanis</author>
             <respStmt>
                <persName>Eowyn Andres</persName>
                <resp>Editor (2024-Present)</resp>
@@ -144,77 +144,33 @@
    <text>
       <body>
          <pb/>
-         <div type="backmatter">
-            <p>
-            <list>The following people made contributions to HERESIES ranging from §1 to $200. We thank them very much.
-            Susan Abbott
-            Pamela Daniels
-            Jean Heilbrunn
-            Dorothy McCormack
-            Adrienne Anderson
-            Mary Kent Schardt
-            Barbara Deming
-            Catherine Hillenbrand
-            Jeanette Wong King
-            Carl Andre
-            Kendall Shaw
-            Mary Jane Dougherty
-            Rolaine A. Hochstein
-            Paula Nordwind
-            joyce Aiken
-            Catherine M. Stifter
-            C. Christopher Drake
-            Henry and Sarahanne Hope
-            Daisy Paradis
-            Zeldy Appel
-            joyce Timpanelli
-            Lilly Engler
-            Suzanne Irwin-Wells
-            Toby Reifman
-            Art Programs, Inc.
-            Henry Torczyner
-            S.R. Field
-            T. Kaori Kitao
-            Ellen Rothenberg
-            Lisa M. Berk
-            Lane R. Trippe
-            Carole Fischer
-            Betty Klavun
-            Joan Rosenbaum
-            Ruth Bocour
-            Barry Warshaw
-            Audrey Flack
-            Sylvia F. Kleinman
-            Amalie Rothschild
-            Ruth Bowman
-            Joan Watts
-            Mary D. Gatzert
-            Alexandra Kochman
-            Sara Ruddick
-            Sheila de Bretteville
-            Janet and Albert Nebster
-            Moira Geoffrion
-            Janet Koenig/Allan Wallach Alix Kates Shulman
-            Serry Brody
-            Annette Weintraub
-            Florence and Marvin Gerstin Harriet Korman
-            Elna Shulof
-            Noma Copley
-            Angela Westwater
-            Sylvia Greenfield
-            Alice Lauffer
-            Elli M. Siskind
-            Susan W. Cutter
-            Kari Wren
-            Susan Hall
-            Margaret I. Lippard
-            Susan Sollins
-            Eugenia Zuckerman
-            Carey Marvins
-            Benjamin Spock Mary Morgan</list>
-            HERESIES thanks everyone who made our benefits so successful. Special thanks to Leslie Cohen at the Sahara Club and Patricia Hamilton
-            Gallery for the use of their spaces and to Rita Mac Brown, Sheila Jordan, Eve Merriam and Adrienne Rich for donating their time and talent.
-         </p></div>
+         <div type="essay">
+            <pb n="61" facs="https://raw.githubusercontent.com/BucknellDSC/heresies/refs/heads/main/issue04/images/Heresies_04_064.jpg"/>
+            <head>Are You a Closet Collector?</head>
+            <p>I am a compulsive collector. Having just concluded a small survey, I now know that
+               this is true of other women artists as well. These list were made by people who don’t
+               admit to “collecting” as much as they do to saving&quot; or not throwing anything
+               away.</p>
+            <p>I asked a number of women to let us in on their secrets. The letter of enquiry was
+               sent—xeroxed copies were made by the women who (in the tradition of the chain stitch
+               xxx letter) reached other women. When the replies came in I realized that people save
+               things that &quot;touch&quot; them rather than things which display the “proper
+               touch”.</p>
+            <p>The survey showed that savers are not comfortable about their hoards and that artists
+               provide the highest rationale for not throwing anything away; they save so that they
+               can incorporate their &quot;junk&quot; in to their art. No one can fault a moral
+               glutton.</p>
+            <p>Underneath all of this collecting there is a strong emotional tie to a specific
+               experience. A physical diary in a sense. A woman’s personal history, her humanity,
+               her old postcards, succulents, charms for bracelets, ticket stubs, anything free...
+               life itself has to be saved.</p>
+            <byline>Muriel Castanis</byline>
+         </div>
       </body>
+      <back>
+         <p>Muriel Castanis is a woman, a wife, a mother and a sculptor, soon to change the order to
+            a woman, a wife, a sculptor and a mother.</p>
+      </back>
+
    </text>
 </TEI>

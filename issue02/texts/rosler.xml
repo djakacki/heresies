@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='92'/>
+			<p>
+				<lb facs='#facs_92_r_1_1_tl_1' n='N001'/>SHE SEES IN HERSELF
+				<lb facs='#facs_92_r_1_1_tl_2' n='N002'/>A NEW WOMAN
+				<lb facs='#facs_92_r_1_1_tl_3' n='N003'/>EVERYDAY
+				<lb facs='#facs_92_l' n='N004'/>MARTHA
+				<lb facs='#facs_92_l_1687' n='N005'/>ROSLER
+			</p>
+			<p>
+				<lb facs='#facs_92_r_3_1_tl_1' n='N001'/>I called you today, we spoke a long
+				<lb facs='#facs_92_r_3_1_tl_2' n='N002'/>time, you and I. You were in a good
+				<lb facs='#facs_92_r_3_1_tl_3' n='N003'/>mood, a mellow one. You&apos;d just seen youi
+				<lb facs='#facs_92_r_3_1_tl_4' n='N004'/>sister, your brother-in-law was having his
+				<lb facs='#facs_92_r_3_1_tl_5' n='N005'/>eighty-first birthday. Your sister was mar
+				<lb facs='#facs_92_r_3_1_tl_6' n='N006'/>ried to him for 49 years this January. You
+				<lb facs='#facs_92_r_3_1_tl_7' n='N007'/>asked me how my new house was, how
+				<lb facs='#facs_92_r_3_1_tl_8' n='N008'/>my job was, did I have enough money
+				<lb facs='#facs_92_r_3_1_tl_9' n='N009'/>Somewhere in the conversation you said,
+				<lb facs='#facs_92_r_3_1_tl_10' n='N010'/>&quot;After all, you’re standing on your own
+				<lb facs='#facs_92_r_3_1_tl_11' n='N011'/>two feet now.... You said it, you said
+				<lb facs='#facs_92_r_3_1_tl_12' n='N012'/>I’m standing on my own two feet.... 1
+				<lb facs='#facs_92_r_3_1_tl_13' n='N013'/>remember when I was little, l&apos;d want to
+				<lb facs='#facs_92_r_3_1_tl_14' n='N014'/>stay home from school—I hated the
+				<lb facs='#facs_92_r_3_1_tl_15' n='N015'/>yeshiva, I hated it for eight years, in the
+				<lb facs='#facs_92_r_3_1_tl_16' n='N016'/>fourth grade I said, thank you God, thank
+				<lb facs='#facs_92_r_3_1_tl_17' n='N017'/>you God, only four more years of this
+				<lb facs='#facs_92_r_3_1_tl_18' n='N018'/>I used to want to stay home but you
+				<lb facs='#facs_92_r_3_1_tl_19' n='N019'/>wouldn’t let me. Daddy would let me stay
+				<lb facs='#facs_92_r_3_1_tl_20' n='N020'/>home... but he would never want to tell
+				<lb facs='#facs_92_r_3_1_tl_21' n='N021'/>you. He would tell me, &quot;A lie of omission
+				<lb facs='#facs_92_r_3_1_tl_22' n='N022'/>is not the same as a lie of commission.
+				<lb facs='#facs_92_r_3_1_tl_23' n='N023'/>You used to come home from teaching
+				<lb facs='#facs_92_r_3_1_tl_24' n='N024'/>school at three o’clock in the afternoon,
+				<lb facs='#facs_92_r_3_1_tl_25' n='N025'/>but the yeshiva didn’t let out until 4:30.
+				<lb facs='#facs_92_r_3_1_tl_26' n='N026'/>You used to come in and go out again be
+				<lb facs='#facs_92_r_3_1_tl_27' n='N027'/>cause you were very busy —you were a
+				<lb facs='#facs_92_r_3_1_tl_28' n='N028'/>very busy woman —you had a lot to do.
+				<lb facs='#facs_92_r_3_1_tl_29' n='N029'/>So—Daddy had a very simple solution.
+				<lb facs='#facs_92_r_3_1_tl_30' n='N030'/>At five to three I would hide in the closet
+				<lb facs='#facs_92_r_3_1_tl_31' n='N031'/>in my bedroom. He would hide me in the
+			</p>
+			<p>
+				<lb facs='#facs_92_r_4_1_tl_1' n='N001'/>closet. I would hide there until almost
+				<lb facs='#facs_92_r_4_1_tl_2' n='N002'/>four o’clock. I would hide in the closet so
+				<lb facs='#facs_92_r_4_1_tl_3' n='N003'/>you wouldn’t know I wasn’t in school.
+				<lb facs='#facs_92_r_4_1_tl_4' n='N004'/>The closet had a closet inside it —I know
+				<lb facs='#facs_92_r_4_1_tl_5' n='N005'/>this is very peculiar now, but I didn&apos;t
+				<lb facs='#facs_92_r_4_1_tl_6' n='N006'/>know it then. In the front part of the
+				<lb facs='#facs_92_r_4_1_tl_7' n='N007'/>closet were a lot of clothes, and my fath
+				<lb facs='#facs_92_r_4_1_tl_8' n='N008'/>er’s graduation picture, his graduation
+				<lb facs='#facs_92_r_4_1_tl_9' n='N009'/>from law school: St. Lawrence Univer
+				<lb facs='#facs_92_r_4_1_tl_10' n='N010'/>sity, Brooklyn Law School, 1932. That
+				<lb facs='#facs_92_r_4_1_tl_11' n='N011'/>meant he went to law school at night. I
+				<lb facs='#facs_92_r_4_1_tl_12' n='N012'/>used to look at his picture in the closet
+				<lb facs='#facs_92_r_4_1_tl_13' n='N013'/>his diploma too — and wonder why it was
+				<lb facs='#facs_92_r_4_1_tl_14' n='N014'/>there. In the front part of the closet with
+				<lb facs='#facs_92_r_4_1_tl_15' n='N015'/>his picture were a lot of clothes. And in
+				<lb facs='#facs_92_r_4_1_tl_16' n='N016'/>the back, past the first clothes rack, was a
+				<lb facs='#facs_92_r_4_1_tl_17' n='N017'/>smaller closet, a creep-in closet. And in
+				<lb facs='#facs_92_r_4_1_tl_18' n='N018'/>between the two, on a kind of sill, were a
+				<lb facs='#facs_92_r_4_1_tl_19' n='N019'/>lot of shoes, old shoes. Your old shoes.
+				<lb facs='#facs_92_r_4_1_tl_20' n='N020'/>You used to wear really serviceable,
+				<lb facs='#facs_92_r_4_1_tl_21' n='N021'/>cheap shoes when you taught. Every day
+				<lb facs='#facs_92_r_4_1_tl_22' n='N022'/>you wore sensible, cheap, serviceable and
+				<lb facs='#facs_92_r_4_1_tl_23' n='N023'/>sturdy shoes but in the closet there were
+				<lb facs='#facs_92_r_4_1_tl_24' n='N024'/>wonderful shoes —silver dancing shoes
+				<lb facs='#facs_92_r_4_1_tl_25' n='N025'/>with high heels and buckles, silver danc
+				<lb facs='#facs_92_r_4_1_tl_26' n='N026'/>ing shoes from the 1920s or 30s, laced
+				<lb facs='#facs_92_r_4_1_tl_27' n='N027'/>with thin silver laces. I used to wonder
+				<lb facs='#facs_92_r_4_1_tl_28' n='N028'/>what they’d be like on your feet —you
+				<lb facs='#facs_92_r_4_1_tl_29' n='N029'/>had such sturdy legs, sturdy, serviceable
+				<lb facs='#facs_92_r_4_1_tl_30' n='N030'/>sensible legs.... l’d hide in the closet, and
+				<lb facs='#facs_92_r_4_1_tl_31' n='N031'/>l’d look at your shoes, and l’d sit down
+			</p>
+			<p>
+				<lb facs='#facs_92_r_5_1_tl_1' n='N001'/>among them and wait for you to walk out
+				<lb facs='#facs_92_r_5_1_tl_2' n='N002'/>the door.
+				<lb facs='#facs_92_r_5_1_tl_3' n='N003'/>You always thought that dressing up
+				<lb facs='#facs_92_r_5_1_tl_4' n='N004'/>was very important. l’m sure you believe
+				<lb facs='#facs_92_r_5_1_tl_5' n='N005'/>that clothes make the man—and the
+				<lb facs='#facs_92_r_5_1_tl_6' n='N006'/>woman—but I always felt that shoes
+				<lb facs='#facs_92_r_5_1_tl_7' n='N007'/>made the woman. You’d always dress me
+				<lb facs='#facs_92_r_5_1_tl_8' n='N008'/>up for photos, in costumes that other
+				<lb facs='#facs_92_r_5_1_tl_9' n='N009'/>people gave you. I always wore everyone
+				<lb facs='#facs_92_r_5_1_tl_10' n='N010'/>else’s hand-me-downs, it was such a sensi
+				<lb facs='#facs_92_r_5_1_tl_11' n='N011'/>ble thing to do. You&apos;d dress me up for
+				<lb facs='#facs_92_r_5_1_tl_12' n='N012'/>photos, I remember. I remember one I
+				<lb facs='#facs_92_r_5_1_tl_13' n='N013'/>still have it, or you do I was wearing a
+				<lb facs='#facs_92_r_5_1_tl_14' n='N014'/>scotch plaid dress, a little blonde jewish
+				<lb facs='#facs_92_r_5_1_tl_15' n='N015'/>girl with a dutch haircut in a scotch plaid
+				<lb facs='#facs_92_r_5_1_tl_16' n='N016'/>dress —you made me hold it out in a
+				<lb facs='#facs_92_r_5_1_tl_17' n='N017'/>semicircle as though I were squaredancing
+				<lb facs='#facs_92_r_5_1_tl_18' n='N018'/>- and on my head was a little scotch cap.
+				<lb facs='#facs_92_r_5_1_tl_19' n='N019'/>I was smiling, Ihad a tooth missing. I was
+				<lb facs='#facs_92_r_5_1_tl_20' n='N020'/>wearing plain brown shoes, laced oxfords.
+				<lb facs='#facs_92_r_5_1_tl_21' n='N021'/>You were not very interested in the shoes!
+				<lb facs='#facs_92_r_5_1_tl_22' n='N022'/>wore for these photos. You always in
+				<lb facs='#facs_92_r_5_1_tl_23' n='N023'/>sisted I had to get sensible ones, so my feet
+				<lb facs='#facs_92_r_5_1_tl_24' n='N024'/>would grow right, and I always wore
+				<lb facs='#facs_92_r_5_1_tl_25' n='N025'/>Stride Rite shoes. But once you took me,
+				<lb facs='#facs_92_r_5_1_tl_26' n='N026'/>when I was five or six, to get a pair of
+				<lb facs='#facs_92_r_5_1_tl_27' n='N027'/>mary-janes that had—a buckle. Two
+				<lb facs='#facs_92_r_5_1_tl_28' n='N028'/>buckles —that’s it, they had two straps
+				<lb facs='#facs_92_r_5_1_tl_29' n='N029'/>and two buckles. And the two straps lay
+				<lb facs='#facs_92_r_5_1_tl_30' n='N030'/>across my feet like two hard fingers grip
+			</p>
+			<pb n='93'/>
+			<p>
+				<lb facs='#facs_93_r_1_1_tl_1' n='N001'/>ping them, in such a way that the bone be
+				<lb facs='#facs_93_r_1_1_tl_2' n='N002'/>tween them was pressed upward. They
+				<lb facs='#facs_93_r_1_1_tl_3' n='N003'/>pressed on this bone in the most peculiar
+				<lb facs='#facs_93_r_1_1_tl_4' n='N004'/>way and l’d say, &quot;mommy, mommy,
+				<lb facs='#facs_93_r_1_1_tl_5' n='N005'/>mommy —these’re, these’re pressing on
+				<lb facs='#facs_93_r_1_1_tl_6' n='N006'/>my feet, they’re pressing on my feet and
+				<lb facs='#facs_93_r_1_1_tl_7' n='N007'/>my feet are getting to be shaped funny.
+				<lb facs='#facs_93_r_1_1_tl_8' n='N008'/>You said, &quot;No, these shoes are good.
+				<lb facs='#facs_93_r_1_1_tl_9' n='N009'/>They’re expensive shoes. These are good
+				<lb facs='#facs_93_r_1_1_tl_10' n='N010'/>shoes. These shoes are good for you.
+				<lb facs='#facs_93_r_1_1_tl_11' n='N011'/>And so I have, on each foot, a bone that
+				<lb facs='#facs_93_r_1_1_tl_12' n='N012'/>protrudes on the top, because of these
+				<lb facs='#facs_93_r_1_1_tl_13' n='N013'/>shoes that pressed my feet into a funny
+				<lb facs='#facs_93_r_1_1_tl_14' n='N014'/>shape.
+				<lb facs='#facs_93_r_1_1_tl_15' n='N015'/>I remember once, the teacher called you
+				<lb facs='#facs_93_r_1_1_tl_16' n='N016'/>from school and said, “Her boots don&apos;t
+				<lb facs='#facs_93_r_1_1_tl_17' n='N017'/>fit. And you said, “But they’re new
+				<lb facs='#facs_93_r_1_1_tl_18' n='N018'/>boots.&quot; But those boots —those boots
+				<lb facs='#facs_93_r_1_1_tl_19' n='N019'/>were someone else’s boots, they were
+				<lb facs='#facs_93_r_1_1_tl_20' n='N020'/>hand-me-down boots. I think they were
+				<lb facs='#facs_93_r_1_1_tl_21' n='N021'/>hand-me-down boots, or maybe they
+				<lb facs='#facs_93_r_1_1_tl_22' n='N022'/>were new boots. They were size 8. You
+				<lb facs='#facs_93_r_1_1_tl_23' n='N023'/>always bought me things very large, so l
+				<lb facs='#facs_93_r_1_1_tl_24' n='N024'/>would grow into them. Now you want me
+				<lb facs='#facs_93_r_1_1_tl_25' n='N025'/>to dress my child in enormous clothing, so
+				<lb facs='#facs_93_r_1_1_tl_26' n='N026'/>he’Il grow into it. These boots were size 8.
+				<lb facs='#facs_93_r_1_1_tl_27' n='N027'/>I wore size 4. “Never mind,&quot; you said,
+				<lb facs='#facs_93_r_1_1_tl_28' n='N028'/>&quot;you’ll grow into them.&quot; I wear size 6
+				<lb facs='#facs_93_r_1_1_tl_29' n='N029'/>today. But you were sure l’d grow into
+				<lb facs='#facs_93_r_1_1_tl_30' n='N030'/>those size 8 red rain boots. The teacher
+				<lb facs='#facs_93_r_1_1_tl_31' n='N031'/>called to say, &quot;She can’t walk in her
+				<lb facs='#facs_93_r_1_1_tl_32' n='N032'/>boots, they keep doubling up under her
+				<lb facs='#facs_93_r_1_1_tl_33' n='N033'/>feet every time she takes a step; maybe
+				<lb facs='#facs_93_r_1_1_tl_34' n='N034'/>she’s got the wrong boots. You&apos;d better
+				<lb facs='#facs_93_r_1_1_tl_35' n='N035'/>come get her, it’s raining out and she
+				<lb facs='#facs_93_r_1_1_tl_36' n='N036'/>needs her boots.
+				<lb facs='#facs_93_r_1_1_tl_37' n='N037'/>There were times that I recall being at
+				<lb facs='#facs_93_r_1_1_tl_38' n='N038'/>your feet, on my hands and knees. From
+				<lb facs='#facs_93_r_1_1_tl_39' n='N039'/>the time I was about 10, you and I used to
+				<lb facs='#facs_93_r_1_1_tl_40' n='N040'/>be alone all week in the country house
+				<lb facs='#facs_93_r_1_1_tl_41' n='N041'/>together, in your sister’s country house,
+				<lb facs='#facs_93_r_1_1_tl_42' n='N042'/>while Dad worked in the city. l’d always
+				<lb facs='#facs_93_r_1_1_tl_43' n='N043'/>want to stay up at night and read. I read a
+				<lb facs='#facs_93_r_1_1_tl_44' n='N044'/>lot, I loved to read. It was my one chance
+				<lb facs='#facs_93_r_1_1_tl_45' n='N045'/>for privacy. All day I was away, swim-
+				<lb facs='#facs_93_r_1_1_tl_46' n='N046'/>ming. l’d swim in the lake from early
+				<lb facs='#facs_93_r_1_1_tl_47' n='N047'/>morning till lunch, hop out, climb up the
+				<lb facs='#facs_93_r_1_1_tl_48' n='N048'/>bank, eat some lunch, and hop back in.
+				<lb facs='#facs_93_r_1_1_tl_49' n='N049'/>Creeping, as it were, past you, doing the
+				<lb facs='#facs_93_r_1_1_tl_50' n='N050'/>crawl. But l’d have to come out at dinner
+				<lb facs='#facs_93_r_1_1_tl_51' n='N051'/>time and endure all through dinner. In the
+				<lb facs='#facs_93_r_1_1_tl_52' n='N052'/>evening I just wanted to read. But you al
+				<lb facs='#facs_93_r_1_1_tl_53' n='N053'/>ways wanted to go to bed early. There
+				<lb facs='#facs_93_r_1_1_tl_54' n='N054'/>were four bedrooms in the house, but you
+				<lb facs='#facs_93_r_1_1_tl_55' n='N055'/>always insisted that we sleep in the same
+				<lb facs='#facs_93_r_1_1_tl_56' n='N056'/>one, so as not to get the others dirty. You
+				<lb facs='#facs_93_r_1_1_tl_57' n='N057'/>always reminded me that it wasn’t our
+				<lb facs='#facs_93_r_1_1_tl_58' n='N058'/>house. So, at about 9:30 or 10 we’d have
+				<lb facs='#facs_93_r_1_1_tl_59' n='N059'/>to get into bed, you into yours and I into
+				<lb facs='#facs_93_r_1_1_tl_60' n='N060'/>mine, and turn out the light and go to
+				<lb facs='#facs_93_r_1_1_tl_61' n='N061'/>sleep. But l’d never be tired. So l’d lie
+				<lb facs='#facs_93_r_1_1_tl_62' n='N062'/>there, and count your breaths: Listen,
+				<lb facs='#facs_93_r_1_1_tl_63' n='N063'/>and listen, and listen and... l’d sli-i-ide
+				<lb facs='#facs_93_r_1_1_tl_64' n='N064'/>down the side of my bed, cre-e-ep on my
+			</p>
+			<p>
+				<lb facs='#facs_93_r_2_1_tl_1' n='N001'/>hands and knees —holding the book, try
+				<lb facs='#facs_93_r_2_1_tl_2' n='N002'/>ing to get out the door and into the bath
+				<lb facs='#facs_93_r_2_1_tl_3' n='N003'/>room, where I would read by the night
+				<lb facs='#facs_93_r_2_1_tl_4' n='N004'/>light you always left burning. MOST of
+				<lb facs='#facs_93_r_2_1_tl_5' n='N005'/>the time, though, you&apos;d give a start and:
+				<lb facs='#facs_93_r_2_1_tl_6' n='N006'/>what’s that, what&apos;s that?&quot; You’d get up.
+				<lb facs='#facs_93_r_2_1_tl_7' n='N007'/>see me, grab me, and knock me around.
+				<lb facs='#facs_93_r_2_1_tl_8' n='N008'/>You used to threaten to get your shoe, but
+				<lb facs='#facs_93_r_2_1_tl_9' n='N009'/>you always made do with your fist, some
+				<lb facs='#facs_93_r_2_1_tl_10' n='N010'/>times you’d choke me a bit. When I got a
+				<lb facs='#facs_93_r_2_1_tl_11' n='N011'/>little older I wasn’t so interested in read
+				<lb facs='#facs_93_r_2_1_tl_12' n='N012'/>ing; l’d set my hair every night with
+				<lb facs='#facs_93_r_2_1_tl_13' n='N013'/>bobby pins and little rollers, the way my
+				<lb facs='#facs_93_r_2_1_tl_14' n='N014'/>girlfriend Rosemarie taught me. On warm
+				<lb facs='#facs_93_r_2_1_tl_15' n='N015'/>evenings we’d pretend to take a walk
+				<lb facs='#facs_93_r_2_1_tl_16' n='N016'/>together but really we’d stand by the side
+				<lb facs='#facs_93_r_2_1_tl_17' n='N017'/>of the road, in the driveway, with our
+				<lb facs='#facs_93_r_2_1_tl_18' n='N018'/>chests puffed out and our bellies sucked
+				<lb facs='#facs_93_r_2_1_tl_19' n='N019'/>in, in short shorts and little clingy jerseys,
+				<lb facs='#facs_93_r_2_1_tl_20' n='N020'/>barefoot or in sandals. We’d strike bath
+				<lb facs='#facs_93_r_2_1_tl_21' n='N021'/>ing-beauty poses and stand stock-still,
+				<lb facs='#facs_93_r_2_1_tl_22' n='N022'/>waiting for the boys in their low-slung
+				<lb facs='#facs_93_r_2_1_tl_23' n='N023'/>souped-up cars to drive by and whistle
+				<lb facs='#facs_93_r_2_1_tl_24' n='N024'/>and leer and make the sound of kisses.
+			</p>
+			<p>
+				<lb facs='#facs_93_r_3_1_tl_1' n='N001'/>Iremember once seeing your shoe, as it
+				<lb facs='#facs_93_r_3_1_tl_2' n='N002'/>came up to hit me in the ear. I was about
+				<lb facs='#facs_93_r_3_1_tl_3' n='N003'/>17, and I thought you were out of the
+				<lb facs='#facs_93_r_3_1_tl_4' n='N004'/>house. I was on the telephone to my girl
+				<lb facs='#facs_93_r_3_1_tl_5' n='N005'/>friend. She was somebody I liked a lot but
+				<lb facs='#facs_93_r_3_1_tl_6' n='N006'/>I was kind of afraid of her because she
+				<lb facs='#facs_93_r_3_1_tl_7' n='N007'/>went to the High School of Music and Art
+				<lb facs='#facs_93_r_3_1_tl_8' n='N008'/>where l’d wanted to go but you wouldn’t
+				<lb facs='#facs_93_r_3_1_tl_9' n='N009'/>let me because it was too far away —and
+				<lb facs='#facs_93_r_3_1_tl_10' n='N010'/>you were probably right — it was too far
+				<lb facs='#facs_93_r_3_1_tl_11' n='N011'/>away — to travel from Brooklyn almost to
+				<lb facs='#facs_93_r_3_1_tl_12' n='N012'/>the Bronx —or so it seemed, that it was
+				<lb facs='#facs_93_r_3_1_tl_13' n='N013'/>too far —anyway, I was on the phone,
+				<lb facs='#facs_93_r_3_1_tl_14' n='N014'/>and I thought you had stepped out, and I
+				<lb facs='#facs_93_r_3_1_tl_15' n='N015'/>was lying on the floor in my room, talk
+				<lb facs='#facs_93_r_3_1_tl_16' n='N016'/>ing on my phone. It was my phone be
+				<lb facs='#facs_93_r_3_1_tl_17' n='N017'/>cause once my brother called up to speak
+				<lb facs='#facs_93_r_3_1_tl_18' n='N018'/>to me and Daddy answered the phone and
+				<lb facs='#facs_93_r_3_1_tl_19' n='N019'/>he didn’t know who it was, and he said,
+				<lb facs='#facs_93_r_3_1_tl_20' n='N020'/>&quot;Who is this?&quot; and Larry, realizing that he
+				<lb facs='#facs_93_r_3_1_tl_21' n='N021'/>didn’t know it was his own son, said,
+				<lb facs='#facs_93_r_3_1_tl_22' n='N022'/>Martha home?&quot; And Dad said, &quot;WHO IS
+				<lb facs='#facs_93_r_3_1_tl_23' n='N023'/>THIS?? WHY DO YOU WANT TO
+				<lb facs='#facs_93_r_3_1_tl_24' n='N024'/>SPEAK TO HER? WHADDOYOU,
+				<lb facs='#facs_93_r_3_1_tl_25' n='N025'/>WHADDOYOU WANT WITH HER?
+				<lb facs='#facs_93_r_3_1_tl_26' n='N026'/>...And so Larry got me a phone; he was
+				<lb facs='#facs_93_r_3_1_tl_27' n='N027'/>upset by that kind of behavior. He
+				<lb facs='#facs_93_r_3_1_tl_28' n='N028'/>thought it was an invasion of privacy.
+				<lb facs='#facs_93_r_3_1_tl_29' n='N029'/>thought it was normal. Anyway...so
+				<lb facs='#facs_93_r_3_1_tl_30' n='N030'/>there I was, on my phone, on my floor,
+				<lb facs='#facs_93_r_3_1_tl_31' n='N031'/>smoking a cigarette. See, that was the
+				<lb facs='#facs_93_r_3_1_tl_32' n='N032'/>kicker —I was smoking a cigarette. I was
+				<lb facs='#facs_93_r_3_1_tl_33' n='N033'/>forbidden to smoke. I can understand, l&apos;m
+				<lb facs='#facs_93_r_3_1_tl_34' n='N034'/>a mother too, that you were protecting
+				<lb facs='#facs_93_r_3_1_tl_35' n='N035'/>my health. Anyway, you came in and you
+				<lb facs='#facs_93_r_3_1_tl_36' n='N036'/>saw me lying on the floor and you kicked
+				<lb facs='#facs_93_r_3_1_tl_37' n='N037'/>me in the head. l’m sure you were aiming
+				<lb facs='#facs_93_r_3_1_tl_38' n='N038'/>at the cigarette, but you got me right in
+				<lb facs='#facs_93_r_3_1_tl_39' n='N039'/>the ear. Luckily, I wasn’t deafened. How-
+			</p>
+			<p>
+				<lb facs='#facs_93_r_4_1_tl_1' n='N001'/>never
+				<lb facs='#facs_93_r_4_1_tl_2' n='N002'/>spoke to that...friend
+				<lb facs='#facs_93_r_4_1_tl_3' n='N003'/>ever,
+				<lb facs='#facs_93_r_4_1_tl_4' n='N004'/>again.
+				<lb facs='#facs_93_r_4_1_tl_5' n='N005'/>I used to really believe that shoes made
+				<lb facs='#facs_93_r_4_1_tl_6' n='N006'/>the woman. I would buy a new pair of
+				<lb facs='#facs_93_r_4_1_tl_7' n='N007'/>high-heeled shoes, you know the kind
+				<lb facs='#facs_93_r_4_1_tl_8' n='N008'/>that people —that women — wore when I
+				<lb facs='#facs_93_r_4_1_tl_9' n='N009'/>was growing up, do you remember those?
+				<lb facs='#facs_93_r_4_1_tl_10' n='N010'/>Very high, very high pointy spike heels
+				<lb facs='#facs_93_r_4_1_tl_11' n='N011'/>with pointy toes? And l’d buy ’em and l’d
+				<lb facs='#facs_93_r_4_1_tl_12' n='N012'/>think, “Tonight’s the night...a date...
+				<lb facs='#facs_93_r_4_1_tl_13' n='N013'/>romance...dance... and l’d go out.
+				<lb facs='#facs_93_r_4_1_tl_14' n='N014'/>And they’d be fine. They&apos;d be fine for a
+				<lb facs='#facs_93_r_4_1_tl_15' n='N015'/>while and then l’d realize they were press
+				<lb facs='#facs_93_r_4_1_tl_16' n='N016'/>ing on a nerve; they always pressed on a
+				<lb facs='#facs_93_r_4_1_tl_17' n='N017'/>nerve. They were fine in the shoe store,
+				<lb facs='#facs_93_r_4_1_tl_18' n='N018'/>and I always thought, “These are better,
+				<lb facs='#facs_93_r_4_1_tl_19' n='N019'/>these are different, these really feel fine,
+				<lb facs='#facs_93_r_4_1_tl_20' n='N020'/>and l’d make it about, oh, a quarter of the
+				<lb facs='#facs_93_r_4_1_tl_21' n='N021'/>way through the evening and l’d have to
+				<lb facs='#facs_93_r_4_1_tl_22' n='N022'/>take my shoes off. Now, if there’s one
+				<lb facs='#facs_93_r_4_1_tl_23' n='N023'/>thing that a woman wasn’t supposed to
+				<lb facs='#facs_93_r_4_1_tl_24' n='N024'/>be, it was flat-footed on her own two
+				<lb facs='#facs_93_r_4_1_tl_25' n='N025'/>feet; I mean, flats were for lower-class
+				<lb facs='#facs_93_r_4_1_tl_26' n='N026'/>girls; nobody wore flats. And nobody
+				<lb facs='#facs_93_r_4_1_tl_27' n='N027'/>walked around without their shoes, not if
+				<lb facs='#facs_93_r_4_1_tl_28' n='N028'/>you wanted to keep your reputation. So
+				<lb facs='#facs_93_r_4_1_tl_29' n='N029'/>there I was, spending the evening at a
+				<lb facs='#facs_93_r_4_1_tl_30' n='N030'/>dance without my shoes and having to go
+				<lb facs='#facs_93_r_4_1_tl_31' n='N031'/>home, through the streets of New York
+				<lb facs='#facs_93_r_4_1_tl_32' n='N032'/>City, freezing cold in tattered stockings
+				<lb facs='#facs_93_r_4_1_tl_33' n='N033'/>and l&apos;d say...&quot;I made that mistake
+				<lb facs='#facs_93_r_4_1_tl_34' n='N034'/>again
+				<lb facs='#facs_93_r_4_1_tl_35' n='N035'/>Cinderella was oppressed; she was
+				<lb facs='#facs_93_r_4_1_tl_36' n='N036'/>treated badly. She was given only crusts
+				<lb facs='#facs_93_r_4_1_tl_37' n='N037'/>and scraps to eat and old cast-offs to
+				<lb facs='#facs_93_r_4_1_tl_38' n='N038'/>wear. Often she had to go without shoes.
+				<lb facs='#facs_93_r_4_1_tl_39' n='N039'/>She had to perform endless household
+				<lb facs='#facs_93_r_4_1_tl_40' n='N040'/>chores. The chill and the lack of food
+				<lb facs='#facs_93_r_4_1_tl_41' n='N041'/>made her light-headed. She was very un
+				<lb facs='#facs_93_r_4_1_tl_42' n='N042'/>happy and could only escape through
+				<lb facs='#facs_93_r_4_1_tl_43' n='N043'/>daydreams. Nobody thought of training
+				<lb facs='#facs_93_r_4_1_tl_44' n='N044'/>her to be a lady.
+				<lb facs='#facs_93_r_4_1_tl_45' n='N045'/>Her stepsisters were given all the ad
+				<lb facs='#facs_93_r_4_1_tl_46' n='N046'/>vantages; their every move was scruti
+				<lb facs='#facs_93_r_4_1_tl_47' n='N047'/>nized and corrected, their diets were
+				<lb facs='#facs_93_r_4_1_tl_48' n='N048'/>watched. They had the fanciest clothes,
+				<lb facs='#facs_93_r_4_1_tl_49' n='N049'/>the most fashionable little slippers and
+				<lb facs='#facs_93_r_4_1_tl_50' n='N050'/>boots. Their mother planned to make
+				<lb facs='#facs_93_r_4_1_tl_51' n='N051'/>them ladies who would rise above her
+				<lb facs='#facs_93_r_4_1_tl_52' n='N052'/>own station. When the prince’s emissary
+				<lb facs='#facs_93_r_4_1_tl_53' n='N053'/>brought around the mysterious lost slip
+				<lb facs='#facs_93_r_4_1_tl_54' n='N054'/>per, Cinderellas stepmother made her
+				<lb facs='#facs_93_r_4_1_tl_55' n='N055'/>older daughter cut off her heel and her
+				<lb facs='#facs_93_r_4_1_tl_56' n='N056'/>younger daughter cut off her big toe to try
+				<lb facs='#facs_93_r_4_1_tl_57' n='N057'/>to fit the test.
+				<lb facs='#facs_93_r_4_1_tl_58' n='N058'/>This piece was originally presented as a per
+				<lb facs='#facs_93_r_4_1_tl_59' n='N059'/>formance.
+				<lb facs='#facs_93_r_4_1_tl_60' n='N060'/>Martha Rosler is an artist living in Encinitas,
+				<lb facs='#facs_93_r_4_1_tl_61' n='N061'/>California, who works with photography, video,
+				<lb facs='#facs_93_r_4_1_tl_62' n='N062'/>texts and postcards. Her book, Service: A trilogy
+				<lb facs='#facs_93_r_4_1_tl_63' n='N063'/>on colonization, is being published by Printed
+				<lb facs='#facs_93_r_4_1_tl_64' n='N064'/>Matter Inc.
+			</p>
+         </div>
+      </body>
+   </text>
+</TEI>

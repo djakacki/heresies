@@ -144,77 +144,81 @@
    <text>
       <body>
          <pb/>
-         <div type="backmatter">
-            <p>
-            <list>The following people made contributions to HERESIES ranging from §1 to $200. We thank them very much.
-            Susan Abbott
-            Pamela Daniels
-            Jean Heilbrunn
-            Dorothy McCormack
-            Adrienne Anderson
-            Mary Kent Schardt
-            Barbara Deming
-            Catherine Hillenbrand
-            Jeanette Wong King
-            Carl Andre
-            Kendall Shaw
-            Mary Jane Dougherty
-            Rolaine A. Hochstein
-            Paula Nordwind
-            joyce Aiken
-            Catherine M. Stifter
-            C. Christopher Drake
-            Henry and Sarahanne Hope
-            Daisy Paradis
-            Zeldy Appel
-            joyce Timpanelli
-            Lilly Engler
-            Suzanne Irwin-Wells
-            Toby Reifman
-            Art Programs, Inc.
-            Henry Torczyner
-            S.R. Field
-            T. Kaori Kitao
-            Ellen Rothenberg
-            Lisa M. Berk
-            Lane R. Trippe
-            Carole Fischer
-            Betty Klavun
-            Joan Rosenbaum
-            Ruth Bocour
-            Barry Warshaw
-            Audrey Flack
-            Sylvia F. Kleinman
-            Amalie Rothschild
-            Ruth Bowman
-            Joan Watts
-            Mary D. Gatzert
-            Alexandra Kochman
-            Sara Ruddick
-            Sheila de Bretteville
-            Janet and Albert Nebster
-            Moira Geoffrion
-            Janet Koenig/Allan Wallach Alix Kates Shulman
-            Serry Brody
-            Annette Weintraub
-            Florence and Marvin Gerstin Harriet Korman
-            Elna Shulof
-            Noma Copley
-            Angela Westwater
-            Sylvia Greenfield
-            Alice Lauffer
-            Elli M. Siskind
-            Susan W. Cutter
-            Kari Wren
-            Susan Hall
-            Margaret I. Lippard
-            Susan Sollins
-            Eugenia Zuckerman
-            Carey Marvins
-            Benjamin Spock Mary Morgan</list>
-            HERESIES thanks everyone who made our benefits so successful. Special thanks to Leslie Cohen at the Sahara Club and Patricia Hamilton
-            Gallery for the use of their spaces and to Rita Mac Brown, Sheila Jordan, Eve Merriam and Adrienne Rich for donating their time and talent.
-         </p></div>
+         <div type="editorial">
+            <p>The following people made contributions to HERESIES ranging from §1 to $200. We thank
+               them very much.</p>
+            <list>
+               <item>Susan Abbott </item>
+               <item>Pamela Daniels </item>
+               <item>Jean Heilbrunn </item>
+               <item>Dorothy McCormack </item>
+               <item>Adrienne Anderson </item>
+               <item>Mary Kent Schardt </item>
+               <item>Barbara Deming </item>
+               <item>Catherine Hillenbrand </item>
+               <item>Jeanette Wong King </item>
+               <item>Carl Andre </item>
+               <item>Kendall Shaw </item>
+               <item>Mary Jane Dougherty </item>
+               <item>Rolaine A. Hochstein </item>
+               <item>Paula Nordwind </item>
+               <item>joyce Aiken </item>
+               <item>Catherine M. Stifter </item>
+               <item>C. Christopher Drake </item>
+               <item>Henry and Sarahanne Hope </item>
+               <item>Daisy Paradis </item>
+               <item>Zeldy Appel </item>
+               <item>joyce Timpanelli </item>
+               <item>Lilly Engler </item>
+               <item>Suzanne Irwin-Wells </item>
+               <item>Toby Reifman </item>
+               <item>Art Programs, Inc. </item>
+               <item>Henry Torczyner </item>
+               <item>S.R. Field </item>
+               <item>T. Kaori Kitao </item>
+               <item>Ellen Rothenberg </item>
+               <item>Lisa M. Berk </item>
+               <item>Lane R. Trippe </item>
+               <item>Carole Fischer </item>
+               <item>Betty Klavun </item>
+               <item>Joan Rosenbaum </item>
+               <item>Ruth Bocour </item>
+               <item>Barry Warshaw </item>
+               <item>Audrey Flack </item>
+               <item>Sylvia F. Kleinman </item>
+               <item>Amalie Rothschild </item>
+               <item>Ruth Bowman </item>
+               <item>Joan Watts </item>
+               <item>Mary D. Gatzert </item>
+               <item>Alexandra Kochman </item>
+               <item>Sara Ruddick </item>
+               <item>Sheila de Bretteville </item>
+               <item>Janet and Albert Nebster </item>
+               <item>Moira Geoffrion </item>
+               <item>Janet Koenig/Allan Wallach Alix Kates Shulman </item>
+               <item>Serry Brody </item>
+               <item>Annette Weintraub </item>
+               <item>Florence and Marvin Gerstin Harriet Korman </item>
+               <item>Elna Shulof </item>
+               <item>Noma Copley </item>
+               <item>Angela Westwater </item>
+               <item>Sylvia Greenfield </item>
+               <item>Alice Lauffer </item>
+               <item>Elli M. Siskind </item>
+               <item>Susan W. Cutter </item>
+               <item>Kari Wren </item>
+               <item>Susan Hall </item>
+               <item>Margaret I. Lippard </item>
+               <item>Susan Sollins </item>
+               <item>Eugenia Zuckerman </item>
+               <item>Carey Marvins </item>
+               <item>Benjamin Spock Mary Morgan</item>
+            </list>
+            <p>HERESIES thanks everyone who made our benefits so successful. Special thanks to
+               Leslie Cohen at the Sahara Club and Patricia Hamilton Gallery for the use of their
+               spaces and to Rita Mac Brown, Sheila Jordan, Eve Merriam and Adrienne Rich for
+               donating their time and talent. </p>
+         </div>
       </body>
    </text>
 </TEI>

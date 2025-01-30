@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='50'/>
+            <p>
+               <lb facs='#facs_50_region_1695842299618_6_tl_1' n='N001'/>Prologue
+               <lb facs='#facs_50_region_1695842299618_6_tl_2' n='N002'/>the woman who emerges from the fatherless child
+               <lb facs='#facs_50_region_1695842299618_6_tl_3' n='N003'/>is like a May fly still wet from an evening hatch
+               <lb facs='#facs_50_region_1695842299618_6_tl_4' n='N004'/>if the sun is not unnaturally warm
+               <lb facs='#facs_50_region_1695842299618_6_tl_5' n='N005'/>her wines will not dry in time to escape the trouts
+               <lb facs='#facs_50_region_1695842299618_6_tl_6' n='N006'/>dinner hour
+               <lb facs='#facs_50_region_1695842299618_6_tl_7' n='N007'/>Dialogue (or, perhaps, Monologue)
+               <lb facs='#facs_50_region_1695842299618_6_tl_8' n='N008'/>Hold up her shoulders and she will be able to see.
+               <lb facs='#facs_50_region_1695842299618_6_tl_9' n='N009'/>wet hair matted to small large head
+               <lb facs='#facs_50_region_1695842299618_6_tl_10' n='N010'/>phleem sucked in squishing sounds from unborn torso
+               <lb facs='#facs_50_region_1695842299618_6_tl_11' n='N011'/>body working intuitively in waves of painless pain
+               <lb facs='#facs_50_region_1695842299618_6_tl_12' n='N012'/>shoulders belly knees enter exit in bursts and slithers
+               <lb facs='#facs_50_region_1695842299618_6_tl_13' n='N013'/>You have a girl this time, Katherine.
+               <lb facs='#facs_50_region_1695842299618_6_tl_14' n='N014'/>throwing self back into scrambling hands of husband and nurse
+               <lb facs='#facs_50_region_1695842299618_6_tl_15' n='N015'/>a daughter
+               <lb facs='#facs_50_region_1695842299618_6_tl_16' n='N016'/>ihave a daughter
+               <lb facs='#facs_50_region_1695842299618_6_tl_17' n='N017'/>How frequent is this violent vomiting?
+               <lb facs='#facs_50_region_1695842299618_6_tl_18' n='N018'/>everv six months for the last thre vears
+               <lb facs='#facs_50_region_1695842299618_6_tl_19' n='N019'/>Vomiting is indicative of emotions being unacknowledged.
+               <lb facs='#facs_50_region_1695842299618_6_tl_20' n='N020'/>Are vou angry?
+               <lb facs='#facs_50_region_1695842299618_6_tl_21' n='N021'/>no. i never fel anger
+               <lb facs='#facs_50_region_1695842299618_6_tl_22' n='N022'/>Are vou unhappy?
+               <lb facs='#facs_50_region_1695842299618_6_tl_23' n='N023'/>no. i have three lovelv children and a responsible husband
+               <lb facs='#facs_50_region_1695842299618_6_tl_24' n='N024'/>Are vou lonely?
+               <lb facs='#facs_50_region_1695842299618_6_tl_25' n='N025'/>no. i have my work
+               <lb facs='#facs_50_region_1695842299618_6_tl_26' n='N026'/>Vomiting is indicative of emotions being unacknowledged.
+               <lb facs='#facs_50_region_1695842299618_6_tl_27' n='N027'/>Until vou recognize vour feelings vour body willhave to rid
+               <lb facs='#facs_50_region_1695842299618_6_tl_28' n='N028'/>itself of them physically.
+               <lb facs='#facs_50_region_1695842299618_6_tl_29' n='N029'/>are vou angry?
+               <lb facs='#facs_50_region_1695842299618_6_tl_30' n='N030'/>no. i never feel anger
+               <lb facs='#facs_50_region_1695842299618_6_tl_31' n='N031'/>are vou unhappy
+               <lb facs='#facs_50_region_1695842299618_6_tl_32' n='N032'/>anger swooped down like the Wicked Witch of the West
+               <lb facs='#facs_50_region_1695842299618_6_tl_33' n='N033'/>i. like Dorothv, smiled and skipped
+               <lb facs='#facs_50_region_1695842299618_6_tl_34' n='N034'/>but it didn&apos;t help (and Wizards are out of style)
+               <lb facs='#facs_50_region_1695842299618_6_tl_35' n='N035'/>metamorphism (noun) a change effected by pressure...
+               <lb facs='#facs_50_region_1695842299618_6_tl_36' n='N036'/>that results in a more compact and more highly
+               <lb facs='#facs_50_region_1695842299618_6_tl_37' n='N037'/>crystalline condition
+               <lb facs='#facs_50_region_1695842299618_6_tl_38' n='N038'/>highly crystalline conditions may be hazardous
+               <lb facs='#facs_50_region_1695842299618_6_tl_39' n='N039'/>to vour health
+               <lb facs='#facs_50_region_1695842299618_6_tl_40' n='N040'/>facing one another across antique Oriental carpets
+               <lb facs='#facs_50_region_1695842299618_6_tl_41' n='N041'/>murky shadows hover in the spaces between us dimming
+               <lb facs='#facs_50_region_1695842299618_6_tl_42' n='N042'/>perception
+               <lb facs='#facs_50_region_1695842299618_6_tl_43' n='N043'/>I don’t know how vou do it, Katherine.
+               <lb facs='#facs_50_region_1695842299618_6_tl_44' n='N044'/>Ihave listened for hours and I don&apos;t understand
+               <lb facs='#facs_50_region_1695842299618_6_tl_45' n='N045'/>a goddamned word vou ve said.
+            </p>
+            <p>
+               <lb facs='#facs_50_r_1_1_tl_1' n='N001'/>CONTRACTIONS
+               <lb facs='#facs_50_r_1_1_tl_2' n='N002'/>KATHERINE BATEMAN
+            </p>
+            <p>
+               <lb facs='#facs_50_region_1695842303696_9_tl_1' n='N001'/>our marriage stands now before us
+               <lb facs='#facs_50_region_1695842303696_9_tl_2' n='N002'/>like a teenage child who can
+               <lb facs='#facs_50_region_1695842303696_9_tl_3' n='N003'/>no longer be dominated
+               <lb facs='#facs_50_region_1695842303696_9_tl_4' n='N004'/>Thus spake the high energy physicist:
+               <lb facs='#facs_50_region_1695842303696_9_tl_5' n='N005'/>How can I respect vou when vou are sick and spoiled.
+               <lb facs='#facs_50_region_1695842303696_9_tl_6' n='N006'/>sick and spoiled
+               <lb facs='#facs_50_region_1695842303696_9_tl_7' n='N007'/>spoiled and self-centered
+               <lb facs='#facs_50_region_1695842303696_9_tl_8' n='N008'/>self-centered and selfish
+               <lb facs='#facs_50_region_1695842303696_9_tl_9' n='N009'/>selfish and insecure
+               <lb facs='#facs_50_region_1695842303696_9_tl_10' n='N010'/>insecure andillogical
+               <lb facs='#facs_50_region_1695842303696_9_tl_11' n='N011'/>illogical and insane
+               <lb facs='#facs_50_region_1695842303696_9_tl_12' n='N012'/>words constantly turning on themselves
+               <lb facs='#facs_50_region_1695842303696_9_tl_13' n='N013'/>like an Escher spiral
+               <lb facs='#facs_50_region_1695842303696_9_tl_14' n='N014'/>a high energy physicist does not know that
+               <lb facs='#facs_50_region_1695842303696_9_tl_15' n='N015'/>Eschers logic is sometimes fallacious
+               <lb facs='#facs_50_region_1695842303696_9_tl_16' n='N016'/>i can&apos;t leave the children
+               <lb facs='#facs_50_region_1695842303696_9_tl_17' n='N017'/>vet i am not here now
+               <lb facs='#facs_50_region_1695842303696_9_tl_18' n='N018'/>my inner spaces have contracted
+               <lb facs='#facs_50_region_1695842303696_9_tl_19' n='N019'/>like a uterus which afterthe fullness of birth
+               <lb facs='#facs_50_region_1695842303696_9_tl_20' n='N020'/>tightens into a clenched fist
+               <lb facs='#facs_50_region_1695842303696_9_tl_21' n='N021'/>the sperm child can no longer penetrate my gates
+               <lb facs='#facs_50_region_1695842303696_9_tl_22' n='N022'/>how can i help them understand
+               <lb facs='#facs_50_region_1695842303696_9_tl_23' n='N023'/>that if my spiritual contractions continue
+               <lb facs='#facs_50_region_1695842303696_9_tl_24' n='N024'/>i willabort my sel
+               <lb facs='#facs_50_region_1695842303696_9_tl_25' n='N025'/>are such abortions classified
+               <lb facs='#facs_50_region_1695842303696_9_tl_26' n='N026'/>illegal
+               <lb facs='#facs_50_region_1695842303696_9_tl_27' n='N027'/>therapeutic?
+               <lb facs='#facs_50_region_1695842303696_9_tl_28' n='N028'/>waking each morning
+               <lb facs='#facs_50_region_1695842303696_9_tl_29' n='N029'/>to see the sun
+               <lb facs='#facs_50_region_1695842303696_9_tl_30' n='N030'/>stream through the amber decanter
+               <lb facs='#facs_50_region_1695842303696_9_tl_31' n='N031'/>then the realization
+               <lb facs='#facs_50_region_1695842303696_9_tl_32' n='N032'/>that no decision is made
+               <lb facs='#facs_50_region_1695842303696_9_tl_33' n='N033'/>and the instant illness
+               <lb facs='#facs_50_region_1695842303696_9_tl_34' n='N034'/>stomach a fist
+               <lb facs='#facs_50_region_1695842303696_9_tl_35' n='N035'/>gripping my windpipe
+               <lb facs='#facs_50_region_1695842303696_9_tl_36' n='N036'/>and plunging a knuckle into my diaphragm
+               <lb facs='#facs_50_region_1695842303696_9_tl_37' n='N037'/>Take two before meals and at bedtime.
+               <lb facs='#facs_50_region_1695842303696_9_tl_38' n='N038'/>You made a contract with me.
+               <lb facs='#facs_50_region_1695842303696_9_tl_39' n='N039'/>It must be honored.
+               <lb facs='#facs_50_region_1695842303696_9_tl_40' n='N040'/>a contract
+               <lb facs='#facs_50_region_1695842303696_9_tl_41' n='N041'/>requests made
+               <lb facs='#facs_50_region_1695842303696_9_tl_42' n='N042'/>the child accepted
+               <lb facs='#facs_50_region_1695842303696_9_tl_43' n='N043'/>the woman rebels
+            </p>
+            <pb n='51'/>
+            <p>
+               <lb facs='#facs_51_r_1_1_tl_1' n='N001'/>contrahere ME, fr L to draw together
+               <lb facs='#facs_51_r_1_1_tl_2' n='N002'/>contract (noun) a binding agreement between two
+               <lb facs='#facs_51_r_1_1_tl_3' n='N003'/>or more persons or parties
+               <lb facs='#facs_51_r_1_1_tl_4' n='N004'/>marriage is a rootless noun
+               <lb facs='#facs_51_r_1_1_tl_5' n='N005'/>when the germination period is over
+               <lb facs='#facs_51_r_1_1_tl_6' n='N006'/>and summer finally comes
+               <lb facs='#facs_51_r_1_1_tl_7' n='N007'/>the new growth may not portray the stem
+               <lb facs='#facs_51_r_1_1_tl_8' n='N008'/>like contracts
+               <lb facs='#facs_51_r_1_1_tl_9' n='N009'/>the birthday of my first born
+               <lb facs='#facs_51_r_1_1_tl_10' n='N010'/>eight boys of ten romping
+               <lb facs='#facs_51_r_1_1_tl_11' n='N011'/>crepe paper looped in circus tent colors
+               <lb facs='#facs_51_r_1_1_tl_12' n='N012'/>orange and red cups encircle the clown candle king
+               <lb facs='#facs_51_r_1_1_tl_13' n='N013'/>who tells in shrinking size
+               <lb facs='#facs_51_r_1_1_tl_14' n='N014'/>that the march from chocolate smeared high chairs
+               <lb facs='#facs_51_r_1_1_tl_15' n='N015'/>to cheese cake and football
+               <lb facs='#facs_51_r_1_1_tl_16' n='N016'/>has been a steady one
+               <lb facs='#facs_51_r_1_1_tl_17' n='N017'/>Thank you, Mrs. Roy. That sure was good. My mom never
+               <lb facs='#facs_51_r_1_1_tl_18' n='N018'/>fixes cheese cake.
+               <lb facs='#facs_51_r_1_1_tl_19' n='N019'/>birthday pictures of my tall blond son
+               <lb facs='#facs_51_r_1_1_tl_20' n='N020'/>You and Daddy get in this one, Mom.
+               <lb facs='#facs_51_r_1_1_tl_21' n='N021'/>Iwant one of us all.
+            </p>
+            <p>
+               <lb facs='#facs_51_r_2_1_tl_1' n='N001'/>Lindsey my son
+               <lb facs='#facs_51_r_2_1_tl_2' n='N002'/>with your Byronic look
+               <lb facs='#facs_51_r_2_1_tl_3' n='N003'/>a child who soars in the sunlight
+               <lb facs='#facs_51_r_2_1_tl_4' n='N004'/>and crawls on caterpillar legs over creviced bark
+               <lb facs='#facs_51_r_2_1_tl_5' n='N005'/>you of all will someday understand
+               <lb facs='#facs_51_r_2_1_tl_6' n='N006'/>that i was losing my ability to soar
+               <lb facs='#facs_51_r_2_1_tl_7' n='N007'/>and that without the sun
+               <lb facs='#facs_51_r_2_1_tl_8' n='N008'/>i could not be
+               <lb facs='#facs_51_r_2_1_tl_9' n='N009'/>the mother
+               <lb facs='#facs_51_r_2_1_tl_10' n='N010'/>you knew
+               <lb facs='#facs_51_r_2_1_tl_11' n='N011'/>Epilogue
+               <lb facs='#facs_51_r_2_1_tl_12' n='N012'/>the protective mountain lake is behind me now
+               <lb facs='#facs_51_r_2_1_tl_13' n='N013'/>i knew its terrain and seasons well
+               <lb facs='#facs_51_r_2_1_tl_14' n='N014'/>yet security is a Pandora’s box
+               <lb facs='#facs_51_r_2_1_tl_15' n='N015'/>on opening more springs out than bargained for
+               <lb facs='#facs_51_r_2_1_tl_16' n='N016'/>now riffles and deep holes are my domain
+               <lb facs='#facs_51_r_2_1_tl_17' n='N017'/>and the linearity of my new world
+               <lb facs='#facs_51_r_2_1_tl_18' n='N018'/>thrusts me onward
+               <lb facs='#facs_51_r_2_1_tl_19' n='N019'/>Katherine Bateman is an art historian and medieval scholar who teaches
+               <lb facs='#facs_51_r_2_1_tl_20' n='N020'/>both medieval and feminist art history at The School of The Art Institute of
+               <lb facs='#facs_51_r_2_1_tl_21' n='N021'/>Chicago.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

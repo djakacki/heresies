@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='98'/>
+            <p>
+               <lb facs='#facs_98_r_1_1_tl_1' n='N001'/>TWO FROM SHORT STORIES AND LOVE SONGS
+               <lb facs='#facs_98_r_1_1_tl_2' n='N002'/>Pat Steir
+            </p>
+            <p>
+               <lb facs='#facs_98_r_2_1_tl_1' n='N001'/>KITCHENS 1970
+               <lb facs='#facs_98_r_2_1_tl_2' n='N002'/>My Aunt Beverly came to visit me
+               <lb facs='#facs_98_r_2_1_tl_3' n='N003'/>I last saw her twenty-two years ago when I was twelve
+               <lb facs='#facs_98_r_2_1_tl_4' n='N004'/>This time she had freshly dyed and set hair
+               <lb facs='#facs_98_r_2_1_tl_5' n='N005'/>It was glossy red . short . and neatly curled
+               <lb facs='#facs_98_r_2_1_tl_6' n='N006'/>her friend&apos;s hair was dyed blond
+               <lb facs='#facs_98_r_2_1_tl_7' n='N007'/>A friend was with her
+               <lb facs='#facs_98_r_2_1_tl_8' n='N008'/>She was tired looking . and not as neat as Beverly
+               <lb facs='#facs_98_r_2_1_tl_9' n='N009'/>Aunt Beverly said &quot;this is fran ... do you remember her
+               <lb facs='#facs_98_r_2_1_tl_10' n='N010'/>I know her since before you were born&apos;
+               <lb facs='#facs_98_r_2_1_tl_11' n='N011'/>They were boyish sixty-year-old women
+               <lb facs='#facs_98_r_2_1_tl_12' n='N012'/>Reminding me of the working women Isee
+               <lb facs='#facs_98_r_2_1_tl_13' n='N013'/>leaving their offices and factories at 5 on winter afternoons
+               <lb facs='#facs_98_r_2_1_tl_14' n='N014'/>I suppose it is a hard lonely life they have
+               <lb facs='#facs_98_r_2_1_tl_15' n='N015'/>&quot;Thave traveled a lot since len died&quot; she said
+               <lb facs='#facs_98_r_2_1_tl_16' n='N016'/>&quot;Itook a cross-country bus trip
+               <lb facs='#facs_98_r_2_1_tl_17' n='N017'/>Funny . she always called him leonard . when I was a child
+               <lb facs='#facs_98_r_2_1_tl_18' n='N018'/>when he was alive
+               <lb facs='#facs_98_r_2_1_tl_19' n='N019'/>from the old days
+               <lb facs='#facs_98_r_2_1_tl_20' n='N020'/>Iremember her well
+               <lb facs='#facs_98_r_2_1_tl_21' n='N021'/>The years when the children were growing up
+               <lb facs='#facs_98_r_2_1_tl_22' n='N022'/>Her hair was longer then . and darker
+               <lb facs='#facs_98_r_2_1_tl_23' n='N023'/>she was thin
+               <lb facs='#facs_98_r_2_1_tl_24' n='N024'/>Iremember she thought herself a cross between
+               <lb facs='#facs_98_r_2_1_tl_25' n='N025'/>katharine hepburn and ingrid bergman
+               <lb facs='#facs_98_r_2_1_tl_26' n='N026'/>We were all poor
+               <lb facs='#facs_98_r_2_1_tl_27' n='N027'/>We lived in four-family wooden-frame buildings
+               <lb facs='#facs_98_r_2_1_tl_28' n='N028'/>Railroad flats
+               <lb facs='#facs_98_r_2_1_tl_29' n='N029'/>Beverly’s daughters abby and marta were smart — and beautiful
+               <lb facs='#facs_98_r_2_1_tl_30' n='N030'/>Her son jeffrey was retarded
+               <lb facs='#facs_98_r_2_1_tl_31' n='N031'/>Each summer uncle leonard tried to teach jeffrey to count
+               <lb facs='#facs_98_r_2_1_tl_32' n='N032'/>years of summers
+               <lb facs='#facs_98_r_2_1_tl_33' n='N033'/>They spent years in the front bedroom
+               <lb facs='#facs_98_r_2_1_tl_34' n='N034'/>Counting and trying
+               <lb facs='#facs_98_r_2_1_tl_35' n='N035'/>I feel those summers often
+               <lb facs='#facs_98_r_2_1_tl_36' n='N036'/>aflavor . ataste . a just missed time
+               <lb facs='#facs_98_r_2_1_tl_37' n='N037'/>Some days seem pregnant with them
+               <lb facs='#facs_98_r_2_1_tl_38' n='N038'/>It is as though a day from long ago
+               <lb facs='#facs_98_r_2_1_tl_39' n='N039'/>is about to arrive in the midst of a new summer
+               <lb facs='#facs_98_r_2_1_tl_40' n='N040'/>Once I was sunbathing on a foreign beach
+               <lb facs='#facs_98_r_2_1_tl_41' n='N041'/>and the heat — the sun —the loneliness of a distant
+               <lb facs='#facs_98_r_2_1_tl_42' n='N042'/>voice brought them back to me
+               <lb facs='#facs_98_r_2_1_tl_43' n='N043'/>Aunt Beverly and my mother in the kitchen
+               <lb facs='#facs_98_r_2_1_tl_44' n='N044'/>Iremember myself a fat child
+               <lb facs='#facs_98_r_2_1_tl_45' n='N045'/>Sitting in the shade —at the side of the house
+               <lb facs='#facs_98_r_2_1_tl_46' n='N046'/>&quot;The oldest&quot;— keeping an eye on the smaller children
+               <lb facs='#facs_98_r_2_1_tl_47' n='N047'/>My mother&apos;s and Beverly&apos;s voices
+               <lb facs='#facs_98_r_2_1_tl_48' n='N048'/>coming through the open kitchen window
+               <lb facs='#facs_98_r_2_1_tl_49' n='N049'/>a hum and a whisper
+               <lb facs='#facs_98_r_2_1_tl_50' n='N050'/>Their voices became part of the air
+               <lb facs='#facs_98_r_2_1_tl_51' n='N051'/>words barely audible . the clink of ice
+               <lb facs='#facs_98_r_2_1_tl_52' n='N052'/>All summer they drank iced coffee with milk in it
+               <lb facs='#facs_98_r_2_1_tl_53' n='N053'/>they sat in their flower-print housedresses
+               <lb facs='#facs_98_r_2_1_tl_54' n='N054'/>near the window
+               <lb facs='#facs_98_r_2_1_tl_55' n='N055'/>at the white enamel kitchen table
+               <lb facs='#facs_98_r_2_1_tl_56' n='N056'/>sometimes — but rarely laughing
+               <lb facs='#facs_98_r_2_1_tl_57' n='N057'/>endlessly talking about childhood friends . operations
+               <lb facs='#facs_98_r_2_1_tl_58' n='N058'/>and abortions . deaths . and money
+               <lb facs='#facs_98_r_2_1_tl_59' n='N059'/>Iwatched a red ant
+               <lb facs='#facs_98_r_2_1_tl_60' n='N060'/>while in the hot mud driveway
+               <lb facs='#facs_98_r_2_1_tl_61' n='N061'/>across the Australian Plains
+               <lb facs='#facs_98_r_2_1_tl_62' n='N062'/>crawl from shadow to shadow
+            </p>
+            <p>
+               <lb facs='#facs_98_r_3_1_tl_1' n='N001'/>CONVERSATION 1969
+               <lb facs='#facs_98_r_3_1_tl_2' n='N002'/>Imourn mortality
+               <lb facs='#facs_98_r_3_1_tl_3' n='N003'/>my friend came to visit
+               <lb facs='#facs_98_r_3_1_tl_4' n='N004'/>the evening passed
+               <lb facs='#facs_98_r_3_1_tl_5' n='N005'/>time wove back and forward again
+               <lb facs='#facs_98_r_3_1_tl_6' n='N006'/>we spoke about places
+               <lb facs='#facs_98_r_3_1_tl_7' n='N007'/>the room seemed to become other rooms
+               <lb facs='#facs_98_r_3_1_tl_8' n='N008'/>i described aroom . aroom inever remember
+               <lb facs='#facs_98_r_3_1_tl_9' n='N009'/>except when i am in it
+               <lb facs='#facs_98_r_3_1_tl_10' n='N010'/>she described a room
+               <lb facs='#facs_98_r_3_1_tl_11' n='N011'/>a gift for a gift
+               <lb facs='#facs_98_r_3_1_tl_12' n='N012'/>the conversation became a gigantic sculpture
+               <lb facs='#facs_98_r_3_1_tl_13' n='N013'/>a transcontinental journey on the queen mary
+               <lb facs='#facs_98_r_3_1_tl_14' n='N014'/>something rare
+               <lb facs='#facs_98_r_3_1_tl_15' n='N015'/>in a novel
+               <lb facs='#facs_98_r_3_1_tl_16' n='N016'/>the event
+               <lb facs='#facs_98_r_3_1_tl_17' n='N017'/>we wanted to capture it
+               <lb facs='#facs_98_r_3_1_tl_18' n='N018'/>filming it
+               <lb facs='#facs_98_r_3_1_tl_19' n='N019'/>writing on six pages at once
+               <lb facs='#facs_98_r_3_1_tl_20' n='N020'/>writing poetry of poetry on the walls of it
+               <lb facs='#facs_98_r_3_1_tl_21' n='N021'/>painting pictures in non-existent colors
+               <lb facs='#facs_98_r_3_1_tl_22' n='N022'/>the memories and the memories of them
+               <lb facs='#facs_98_r_3_1_tl_23' n='N023'/>in the morning she told me of a road sprayed with sunshine
+               <lb facs='#facs_98_r_3_1_tl_24' n='N024'/>he lived inside a fence
+               <lb facs='#facs_98_r_3_1_tl_25' n='N025'/>i told about a little horse in mexico.
+               <lb facs='#facs_98_r_3_1_tl_26' n='N026'/>8 feet in diameter . beneath a bananatree
+               <lb facs='#facs_98_r_3_1_tl_27' n='N027'/>the girls in the house hung their petticoats
+               <lb facs='#facs_98_r_3_1_tl_28' n='N028'/>on a line that passed above him
+               <lb facs='#facs_98_r_3_1_tl_29' n='N029'/>all the days i was there . i could see him standing
+               <lb facs='#facs_98_r_3_1_tl_30' n='N030'/>inside his fence . beside the banana tree
+               <lb facs='#facs_98_r_3_1_tl_31' n='N031'/>under the petticoats . with a huge erection
+               <lb facs='#facs_98_r_3_1_tl_32' n='N032'/>just beyond him
+               <lb facs='#facs_98_r_3_1_tl_33' n='N033'/>cows grazed on water lilies in the pond.
+               <lb facs='#facs_98_r_3_1_tl_34' n='N034'/>only their heads showed . the horse was black
+               <lb facs='#facs_98_r_3_1_tl_35' n='N035'/>she said write it
+               <lb facs='#facs_98_r_3_1_tl_36' n='N036'/>then we ate lunch
+               <lb facs='#facs_98_r_3_1_tl_37' n='N037'/>when my friend got ready to leave i followed her
+               <lb facs='#facs_98_r_3_1_tl_38' n='N038'/>through the house
+               <lb facs='#facs_98_r_3_1_tl_39' n='N039'/>i watched her go down the stairs
+               <lb facs='#facs_98_r_3_1_tl_40' n='N040'/>iran inside to the window
+               <lb facs='#facs_98_r_3_1_tl_41' n='N041'/>i wanted to call to her . but by the time i got the window open .
+               <lb facs='#facs_98_r_3_1_tl_42' n='N042'/>she was already down the street
+               <lb facs='#facs_98_r_3_1_tl_43' n='N043'/>then i phoned another friend
+               <lb facs='#facs_98_r_3_1_tl_44' n='N044'/>and ate half a box of Famous Cookie Assortment&quot; cookies
+               <lb facs='#facs_98_r_3_1_tl_45' n='N045'/>in this way i mourned the nature of time . all partings
+               <lb facs='#facs_98_r_3_1_tl_46' n='N046'/>and the frail thing that each day is
+               <lb facs='#facs_98_r_3_1_tl_47' n='N047'/>I wonder what it will be like when i get home. she had said
+            </p>
+            <p>
+               <lb facs='#facs_98_r_4_1_tl_1' n='N001'/>Pat Steir lives in New York and makes art and poetry. She is involved with
+               <lb facs='#facs_98_r_4_1_tl_2' n='N002'/>two alternative publishing ventures as well as being a member of the Here-
+               <lb facs='#facs_98_r_4_1_tl_3' n='N003'/>sies Collective.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

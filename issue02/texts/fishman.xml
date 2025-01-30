@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='101'/>
+			<p>
+				<lb facs='#facs_101_r_4_1_tl_1' n='N001'/>INTERACTIONAL SHITWORK
+				<lb facs='#facs_101_r_4_1_tl_2' n='N002'/>PAMELA M. FISHMAN
+			</p>
+			<p>
+				<lb facs='#facs_101_r_1_1_tl_1' n='N001'/>A rallying cry of the early women&apos;s
+				<lb facs='#facs_101_r_1_1_tl_2' n='N002'/>movement was “The personal is politi
+				<lb facs='#facs_101_r_1_1_tl_3' n='N003'/>cal.&quot; This was not only a slogan, but a
+				<lb facs='#facs_101_r_1_1_tl_4' n='N004'/>directive for analysis that would be a
+				<lb facs='#facs_101_r_1_1_tl_5' n='N005'/>means for understanding and reinterpret
+				<lb facs='#facs_101_r_1_1_tl_6' n='N006'/>ing our private lives. I was a first year
+				<lb facs='#facs_101_r_1_1_tl_7' n='N007'/>graduate student in sociology when I join
+				<lb facs='#facs_101_r_1_1_tl_8' n='N008'/>ed the women’s movement. My specialty
+				<lb facs='#facs_101_r_1_1_tl_9' n='N009'/>ethnomethodology, had already shown
+				<lb facs='#facs_101_r_1_1_tl_10' n='N010'/>me the importance of everyday interac
+				<lb facs='#facs_101_r_1_1_tl_11' n='N011'/>tions, that they are not simply a reflection
+				<lb facs='#facs_101_r_1_1_tl_12' n='N012'/>of reality but the means by which people
+				<lb facs='#facs_101_r_1_1_tl_13' n='N013'/>construct and maintain their understand
+				<lb facs='#facs_101_r_1_1_tl_14' n='N014'/>ing of the world and of themselves.
+				<lb facs='#facs_101_r_1_1_tl_15' n='N015'/>Through interactions, we constantly de
+				<lb facs='#facs_101_r_1_1_tl_16' n='N016'/>fine reality, as well as the form and sub
+				<lb facs='#facs_101_r_1_1_tl_17' n='N017'/>stance of our social relationships.
+				<lb facs='#facs_101_r_1_1_tl_18' n='N018'/>However, this approach did not deal
+				<lb facs='#facs_101_r_1_1_tl_19' n='N019'/>with power, which, as a feminist, I found
+				<lb facs='#facs_101_r_1_1_tl_20' n='N020'/>was a central concern in everyday inter
+				<lb facs='#facs_101_r_1_1_tl_21' n='N021'/>actions. I wanted to know the ways in
+				<lb facs='#facs_101_r_1_1_tl_22' n='N022'/>which interactions between men and
+				<lb facs='#facs_101_r_1_1_tl_23' n='N023'/>women express power relations; I wanted
+				<lb facs='#facs_101_r_1_1_tl_24' n='N024'/>to see exactly how our personal interac
+				<lb facs='#facs_101_r_1_1_tl_25' n='N025'/>tions are political.
+				<lb facs='#facs_101_r_1_1_tl_26' n='N026'/>We know much more now about the
+				<lb facs='#facs_101_r_1_1_tl_27' n='N027'/>social sources of our oppression than we
+				<lb facs='#facs_101_r_1_1_tl_28' n='N028'/>did a few years ago. The relative positions
+				<lb facs='#facs_101_r_1_1_tl_29' n='N029'/>of the sexes in the economy have been
+			</p>
+			<p>
+				<lb facs='#facs_101_r_5_1_tl_1' n='N001'/>well documented. Analysis has shown the
+				<lb facs='#facs_101_r_5_1_tl_2' n='N002'/>ways in which women’s unpaid domestic
+				<lb facs='#facs_101_r_5_1_tl_3' n='N003'/>labor contributes to our position of pow
+				<lb facs='#facs_101_r_5_1_tl_4' n='N004'/>erlessness. Still, we feel this powerlessness
+				<lb facs='#facs_101_r_5_1_tl_5' n='N005'/>individually, and it is maintained con
+				<lb facs='#facs_101_r_5_1_tl_6' n='N006'/>cretely on an everyday basis.
+				<lb facs='#facs_101_r_5_1_tl_7' n='N007'/>I began to research the ways in which
+				<lb facs='#facs_101_r_5_1_tl_8' n='N008'/>the general social organization of male
+				<lb facs='#facs_101_r_5_1_tl_9' n='N009'/>female hierarchy exists in our daily activi
+				<lb facs='#facs_101_r_5_1_tl_10' n='N010'/>ties. Specifically, I have analyzed male
+				<lb facs='#facs_101_r_5_1_tl_11' n='N011'/>female conversations between intimates in
+				<lb facs='#facs_101_r_5_1_tl_12' n='N012'/>their homes.
+				<lb facs='#facs_101_r_5_1_tl_13' n='N013'/>Initially, I hoped to tape record argu
+				<lb facs='#facs_101_r_5_1_tl_14' n='N014'/>ments, since these would be conversa
+				<lb facs='#facs_101_r_5_1_tl_15' n='N015'/>tional power struggles. But as it turned
+				<lb facs='#facs_101_r_5_1_tl_16' n='N016'/>out, I didn’t get any arguments. Instead, I
+				<lb facs='#facs_101_r_5_1_tl_17' n='N017'/>discovered that such overt power strug
+				<lb facs='#facs_101_r_5_1_tl_18' n='N018'/>gles were not necessary to illuminate
+				<lb facs='#facs_101_r_5_1_tl_19' n='N019'/>women’s oppression in everyday conver
+				<lb facs='#facs_101_r_5_1_tl_20' n='N020'/>sation. Rather, supposedly trivial daily
+				<lb facs='#facs_101_r_5_1_tl_21' n='N021'/>talk reveals a division of labor between
+				<lb facs='#facs_101_r_5_1_tl_22' n='N022'/>men and women in conversation which
+				<lb facs='#facs_101_r_5_1_tl_23' n='N023'/>supports our more general positions ol
+				<lb facs='#facs_101_r_5_1_tl_24' n='N024'/>power and powerlessness.
+				<lb facs='#facs_101_r_5_1_tl_25' n='N025'/>It is not simply two people talking that
+				<lb facs='#facs_101_r_5_1_tl_26' n='N026'/>produces conversation, but their active
+				<lb facs='#facs_101_r_5_1_tl_27' n='N027'/>agreement to mutually cooperate in talk.
+				<lb facs='#facs_101_r_5_1_tl_28' n='N028'/>Interactions are always potentially prob
+				<lb facs='#facs_101_r_5_1_tl_29' n='N029'/>lematic and are sustained only by the
+			</p>
+			<p>
+				<lb facs='#facs_101_r_2_1_tl_1' n='N001'/>participants&apos; continuing efforts, turn by
+				<lb facs='#facs_101_r_2_1_tl_2' n='N002'/>turn. They must be begun, developed and
+				<lb facs='#facs_101_r_2_1_tl_3' n='N003'/>ended jointly.* Every remark or turn at
+				<lb facs='#facs_101_r_2_1_tl_4' n='N004'/>speaking is an attempt at producing con
+				<lb facs='#facs_101_r_2_1_tl_5' n='N005'/>versation. The question of whether the
+				<lb facs='#facs_101_r_2_1_tl_6' n='N006'/>attempt is successful or not depends on
+				<lb facs='#facs_101_r_2_1_tl_7' n='N007'/>the participants&apos; willingness to do inter
+				<lb facs='#facs_101_r_2_1_tl_8' n='N008'/>actional work. When one person makes
+				<lb facs='#facs_101_r_2_1_tl_9' n='N009'/>an attempt, the other participant has the
+				<lb facs='#facs_101_r_2_1_tl_10' n='N010'/>power to turn it into a conversation or to
+				<lb facs='#facs_101_r_2_1_tl_11' n='N011'/>stop it right there
+				<lb facs='#facs_101_r_2_1_tl_12' n='N012'/>How, then, is the work of interaction
+				<lb facs='#facs_101_r_2_1_tl_13' n='N013'/>accomplished in conversations between
+				<lb facs='#facs_101_r_2_1_tl_14' n='N014'/>male and female intimates? Who does
+				<lb facs='#facs_101_r_2_1_tl_15' n='N015'/>what kind of work? To find out, I listened
+				<lb facs='#facs_101_r_2_1_tl_16' n='N016'/>to 52 hours of tape-recorded conversation
+				<lb facs='#facs_101_r_2_1_tl_17' n='N017'/>between three couples who had agreed to
+				<lb facs='#facs_101_r_2_1_tl_18' n='N018'/>have a Uher 4000 tape recorder set up in
+				<lb facs='#facs_101_r_2_1_tl_19' n='N019'/>their apartments. The apartments were
+				<lb facs='#facs_101_r_2_1_tl_20' n='N020'/>small enough for the recorder to pick up
+				<lb facs='#facs_101_r_2_1_tl_21' n='N021'/>all conversation from the kitchen and
+				<lb facs='#facs_101_r_2_1_tl_22' n='N022'/>living room as well as louder talk from the
+				<lb facs='#facs_101_r_2_1_tl_23' n='N023'/>bedroom and bath. The tape recorder was
+				<lb facs='#facs_101_r_2_1_tl_24' n='N024'/>in place from four to 14 days. The tapes
+				<lb facs='#facs_101_r_2_1_tl_25' n='N025'/>could run for four hours without interrup
+				<lb facs='#facs_101_r_2_1_tl_26' n='N026'/>tion. Though automatic timers could
+				<lb facs='#facs_101_r_2_1_tl_27' n='N027'/>switch the tapes on and off, all three
+				<lb facs='#facs_101_r_2_1_tl_28' n='N028'/>couples insisted on doing the switching
+				<lb facs='#facs_101_r_2_1_tl_29' n='N029'/>manually. Uninterrupted recording varies
+			</p>
+			<p>
+				<lb facs='#facs_101_r_6_1_tl_1' n='N001'/>from one to four hours. The talk did not
+				<lb facs='#facs_101_r_6_1_tl_2' n='N002'/>seem self-conscious because of the record
+				<lb facs='#facs_101_r_6_1_tl_3' n='N003'/>er’s presence and conversations seemed
+				<lb facs='#facs_101_r_6_1_tl_4' n='N004'/>natural.
+				<lb facs='#facs_101_r_6_1_tl_5' n='N005'/>The couples had lived together for var
+				<lb facs='#facs_101_r_6_1_tl_6' n='N006'/>ying amounts of time—from three months
+				<lb facs='#facs_101_r_6_1_tl_7' n='N007'/>to two years. All were white and profes
+				<lb facs='#facs_101_r_6_1_tl_8' n='N008'/>sionally oriented, and all but one woman
+				<lb facs='#facs_101_r_6_1_tl_9' n='N009'/>(a social worker) were in graduate school
+				<lb facs='#facs_101_r_6_1_tl_10' n='N010'/>They were between the ages of 25 and 35.
+				<lb facs='#facs_101_r_6_1_tl_11' n='N011'/>Two women were declared feminists and
+				<lb facs='#facs_101_r_6_1_tl_12' n='N012'/>all three men as well as the third woman
+				<lb facs='#facs_101_r_6_1_tl_13' n='N013'/>described themselves as &quot;sympathetic&quot; to
+				<lb facs='#facs_101_r_6_1_tl_14' n='N014'/>the women’s movement.
+				<lb facs='#facs_101_r_6_1_tl_15' n='N015'/>The Preliminaries
+				<lb facs='#facs_101_r_6_1_tl_16' n='N016'/>I made some interesting discoveries
+				<lb facs='#facs_101_r_6_1_tl_17' n='N017'/>even before I began my analysis, through
+				<lb facs='#facs_101_r_6_1_tl_18' n='N018'/>casual conversations with the people in
+				<lb facs='#facs_101_r_6_1_tl_19' n='N019'/>volved in the taping. First, in all three
+				<lb facs='#facs_101_r_6_1_tl_20' n='N020'/>cases, the men set up the tape recorders
+				<lb facs='#facs_101_r_6_1_tl_21' n='N021'/>and nearly always turned them on and
+				<lb facs='#facs_101_r_6_1_tl_22' n='N022'/>off, sometimes without letting the women
+				<lb facs='#facs_101_r_6_1_tl_23' n='N023'/>know. The reverse never occurred. Now,
+				<lb facs='#facs_101_r_6_1_tl_24' n='N024'/>controlling a conversation is more than
+				<lb facs='#facs_101_r_6_1_tl_25' n='N025'/>controlling the topic; it is controlling the
+				<lb facs='#facs_101_r_6_1_tl_26' n='N026'/>situation in general—not only what wil
+				<lb facs='#facs_101_r_6_1_tl_27' n='N027'/>be talked about, but whether there will be
+			</p>
+			<p>
+				<lb facs='#facs_101_r_3_1_tl_1' n='N001'/>conversation, and under what terms it
+				<lb facs='#facs_101_r_3_1_tl_2' n='N002'/>will occur. The tape recorder introduced a
+				<lb facs='#facs_101_r_3_1_tl_3' n='N003'/>new element into the routine home situa
+				<lb facs='#facs_101_r_3_1_tl_4' n='N004'/>tion. Controlling the tape recorder meant
+				<lb facs='#facs_101_r_3_1_tl_5' n='N005'/>controlling part of the situation in which
+				<lb facs='#facs_101_r_3_1_tl_6' n='N006'/>conversation took place.
+				<lb facs='#facs_101_r_3_1_tl_7' n='N007'/>Second, there was the issue of normally
+				<lb facs='#facs_101_r_3_1_tl_8' n='N008'/>private interactions being available to a
+				<lb facs='#facs_101_r_3_1_tl_9' n='N009'/>third party, the researcher. In addition to
+				<lb facs='#facs_101_r_3_1_tl_10' n='N010'/>the men doing most of the censoring of
+				<lb facs='#facs_101_r_3_1_tl_11' n='N011'/>the tapes, they made other attempts to
+				<lb facs='#facs_101_r_3_1_tl_12' n='N012'/>control what I heard. For instance, the
+				<lb facs='#facs_101_r_3_1_tl_13' n='N013'/>clicks that are recorded when the machine
+				<lb facs='#facs_101_r_3_1_tl_14' n='N014'/>is turned off (and my own sense of the
+				<lb facs='#facs_101_r_3_1_tl_15' n='N015'/>conversations) helped me to separate time
+				<lb facs='#facs_101_r_3_1_tl_16' n='N016'/>segments. One man carefully erased all
+				<lb facs='#facs_101_r_3_1_tl_17' n='N017'/>clicks on his and his partner&apos;s tapes, con
+				<lb facs='#facs_101_r_3_1_tl_18' n='N018'/>fusing my attempts to identify different
+				<lb facs='#facs_101_r_3_1_tl_19' n='N019'/>time segments.
+				<lb facs='#facs_101_r_3_1_tl_20' n='N020'/>The second case was worse. I had made
+				<lb facs='#facs_101_r_3_1_tl_21' n='N021'/>the mistake of asking one couple to heli
+				<lb facs='#facs_101_r_3_1_tl_22' n='N022'/>me transcribe a particularly difficult tape
+				<lb facs='#facs_101_r_3_1_tl_23' n='N023'/>of theirs—a conversation about a book
+				<lb facs='#facs_101_r_3_1_tl_24' n='N024'/>club selection. In fact, they couldn’t hear
+				<lb facs='#facs_101_r_3_1_tl_25' n='N025'/>themselves any better than I could, and
+				<lb facs='#facs_101_r_3_1_tl_26' n='N026'/>the man wanted to know why I was
+				<lb facs='#facs_101_r_3_1_tl_27' n='N027'/>interested in the conversation. He kept
+				<lb facs='#facs_101_r_3_1_tl_28' n='N028'/>guessing what I was looking for, was
+				<lb facs='#facs_101_r_3_1_tl_29' n='N029'/>annoyed that I wanted a literal transcrip
+			</p>
+			<p>
+				<lb facs='#facs_101_r_8_1_tl_1' n='N001'/>tion, kept saying that only the gist of the
+				<lb facs='#facs_101_r_8_1_tl_2' n='N002'/>conversation (which he could tell me) was
+				<lb facs='#facs_101_r_8_1_tl_3' n='N003'/>important, and repeatedly tried to tell me
+				<lb facs='#facs_101_r_8_1_tl_4' n='N004'/>the meaning of the conversation, explain
+				<lb facs='#facs_101_r_8_1_tl_5' n='N005'/>ing his motivations for saying things.
+				<lb facs='#facs_101_r_8_1_tl_6' n='N006'/>These preliminaries already suggested
+				<lb facs='#facs_101_r_8_1_tl_7' n='N007'/>that men are more likely than women to
+				<lb facs='#facs_101_r_8_1_tl_8' n='N008'/>control conversation. The men made sure
+				<lb facs='#facs_101_r_8_1_tl_9' n='N009'/>that they always knew when their interac-
+				<lb facs='#facs_101_r_8_1_tl_10' n='N010'/>tions were available to me by their contro
+				<lb facs='#facs_101_r_8_1_tl_11' n='N011'/>of the recorder, but they were unconcern
+				<lb facs='#facs_101_r_8_1_tl_12' n='N012'/>ed, if not sneaky, about letting the women
+				<lb facs='#facs_101_r_8_1_tl_13' n='N013'/>know this. When they had the chance,
+				<lb facs='#facs_101_r_8_1_tl_14' n='N014'/>they attempted to control my interpreta
+				<lb facs='#facs_101_r_8_1_tl_15' n='N015'/>tions of the conversations.
+				<lb facs='#facs_101_r_8_1_tl_16' n='N016'/>Conversational Work
+				<lb facs='#facs_101_r_8_1_tl_17' n='N017'/>I listened to all 52 hours of tape and
+				<lb facs='#facs_101_r_8_1_tl_18' n='N018'/>transcribed five hours of it for close anal
+				<lb facs='#facs_101_r_8_1_tl_19' n='N019'/>ysis. Given the small amount of conver
+				<lb facs='#facs_101_r_8_1_tl_20' n='N020'/>sation analyzed, my findings from the
+				<lb facs='#facs_101_r_8_1_tl_21' n='N021'/>transcripts are provisional. But the impli
+				<lb facs='#facs_101_r_8_1_tl_22' n='N022'/>cations from such a small amount of
+				<lb facs='#facs_101_r_8_1_tl_23' n='N023'/>material suggest this is only the tip of the
+				<lb facs='#facs_101_r_8_1_tl_24' n='N024'/>iceberg. From listening to all the tapes, it
+				<lb facs='#facs_101_r_8_1_tl_25' n='N025'/>appeared to me that the men controlled
+				<lb facs='#facs_101_r_8_1_tl_26' n='N026'/>the subject much more than the women
+				<lb facs='#facs_101_r_8_1_tl_27' n='N027'/>did and that the men were consistently
+			</p>
+			<pb n='102'/>
+			<p>
+				<lb facs='#facs_102_r_1_1_tl_1' n='N001'/>successful in initiating interactions, while
+				<lb facs='#facs_102_r_1_1_tl_2' n='N002'/>the women’s attempts often failed. They
+				<lb facs='#facs_102_r_1_1_tl_3' n='N003'/>did not fail because of anything inherent
+				<lb facs='#facs_102_r_1_1_tl_4' n='N004'/>in their talk, but because the men did not
+				<lb facs='#facs_102_r_1_1_tl_5' n='N005'/>respond, did not do any interactional
+				<lb facs='#facs_102_r_1_1_tl_6' n='N006'/>work. The men’s remarks succeeded be
+				<lb facs='#facs_102_r_1_1_tl_7' n='N007'/>cause of interactional work done by the
+				<lb facs='#facs_102_r_1_1_tl_8' n='N008'/>women in response to them.
+				<lb facs='#facs_102_r_1_1_tl_9' n='N009'/>When I analyzed specific transcripts, it
+				<lb facs='#facs_102_r_1_1_tl_10' n='N010'/>appeared that the men did very little to
+				<lb facs='#facs_102_r_1_1_tl_11' n='N011'/>gain such control, and by doing very
+				<lb facs='#facs_102_r_1_1_tl_12' n='N012'/>little, they displayed power without spe-
+				<lb facs='#facs_102_r_1_1_tl_13' n='N013'/>cifically exercising it. A turn-by-turn
+				<lb facs='#facs_102_r_1_1_tl_14' n='N014'/>analysis revealed the women&apos;s constant
+				<lb facs='#facs_102_r_1_1_tl_15' n='N015'/>conversational work. They struggled to
+				<lb facs='#facs_102_r_1_1_tl_16' n='N016'/>get responses to their own remarks or
+				<lb facs='#facs_102_r_1_1_tl_17' n='N017'/>were busy responding to the men’s re
+				<lb facs='#facs_102_r_1_1_tl_18' n='N018'/>marks. In my analysis, I identified a num
+				<lb facs='#facs_102_r_1_1_tl_19' n='N019'/>ber of strategies used in conversational
+				<lb facs='#facs_102_r_1_1_tl_20' n='N020'/>work. These strategies reveal the differ
+				<lb facs='#facs_102_r_1_1_tl_21' n='N021'/>ential work men and women do.
+				<lb facs='#facs_102_r_1_1_tl_22' n='N022'/>Asking Questions
+				<lb facs='#facs_102_r_1_1_tl_23' n='N023'/>Questions are a powerful kind of utter
+				<lb facs='#facs_102_r_1_1_tl_24' n='N024'/>ance. They are half of a paired relation,
+				<lb facs='#facs_102_r_1_1_tl_25' n='N025'/>with answers the second half. That is,
+				<lb facs='#facs_102_r_1_1_tl_26' n='N026'/>Q-A is a unit, not two separate things.
+				<lb facs='#facs_102_r_1_1_tl_27' n='N027'/>Questions demand answers, while state
+				<lb facs='#facs_102_r_1_1_tl_28' n='N028'/>ments do not demand other statements. If
+				<lb facs='#facs_102_r_1_1_tl_29' n='N029'/>no answer is given, its absence is notice
+				<lb facs='#facs_102_r_1_1_tl_30' n='N030'/>able and can be complained about. A
+				<lb facs='#facs_102_r_1_1_tl_31' n='N031'/>question in conversation works by begin
+				<lb facs='#facs_102_r_1_1_tl_32' n='N032'/>ning a two-part sequence; it ensures an
+				<lb facs='#facs_102_r_1_1_tl_33' n='N033'/>interaction of at least one utterance by
+				<lb facs='#facs_102_r_1_1_tl_34' n='N034'/>each of two participants.
+				<lb facs='#facs_102_r_1_1_tl_35' n='N035'/>Counting the questions in about seven
+				<lb facs='#facs_102_r_1_1_tl_36' n='N036'/>hours of tape, I found that the women
+				<lb facs='#facs_102_r_1_1_tl_37' n='N037'/>asked two and a half times more questions
+				<lb facs='#facs_102_r_1_1_tl_38' n='N038'/>than the men did—150 to 59. At times, it
+				<lb facs='#facs_102_r_1_1_tl_39' n='N039'/>seemed that all the women did was ask
+				<lb facs='#facs_102_r_1_1_tl_40' n='N040'/>questions. Then I began noticing my own
+				<lb facs='#facs_102_r_1_1_tl_41' n='N041'/>speech and discovered the same pattern. I
+				<lb facs='#facs_102_r_1_1_tl_42' n='N042'/>often made questions out of remarks that
+				<lb facs='#facs_102_r_1_1_tl_43' n='N043'/>could have been statements: &quot;Isn&apos;t it a
+				<lb facs='#facs_102_r_1_1_tl_44' n='N044'/>lovely day?&quot;, &quot;Shouldn’t we go grocery
+				<lb facs='#facs_102_r_1_1_tl_45' n='N045'/>shopping?&quot; I then tried to break myself of
+				<lb facs='#facs_102_r_1_1_tl_46' n='N046'/>the &quot;habit&quot; and found it was difficult.
+				<lb facs='#facs_102_r_1_1_tl_47' n='N047'/>Many remarks came out as questions be
+				<lb facs='#facs_102_r_1_1_tl_48' n='N048'/>fore I noticed. When I did succeed in
+				<lb facs='#facs_102_r_1_1_tl_49' n='N049'/>making a statement, I usually did not ge
+				<lb facs='#facs_102_r_1_1_tl_50' n='N050'/>a response. It became clear that I wasn&apos;
+				<lb facs='#facs_102_r_1_1_tl_51' n='N051'/>asking so many questions out of habit,
+				<lb facs='#facs_102_r_1_1_tl_52' n='N052'/>but because unless I did, my attempts at
+				<lb facs='#facs_102_r_1_1_tl_53' n='N053'/>interaction would fail.
+				<lb facs='#facs_102_r_1_1_tl_54' n='N054'/>Attention-Getting Devices
+				<lb facs='#facs_102_r_1_1_tl_55' n='N055'/>Attention-getting devices are remarks
+				<lb facs='#facs_102_r_1_1_tl_56' n='N056'/>that, whether they give information or
+				<lb facs='#facs_102_r_1_1_tl_57' n='N057'/>not, attempt to get the attention necessary
+				<lb facs='#facs_102_r_1_1_tl_58' n='N058'/>to begin conversation. The women used
+				<lb facs='#facs_102_r_1_1_tl_59' n='N059'/>these devices consistently while the men
+				<lb facs='#facs_102_r_1_1_tl_60' n='N060'/>did not, indicating the women’s difficulty
+				<lb facs='#facs_102_r_1_1_tl_61' n='N061'/>in assuming that what they said would be
+			</p>
+			<p>
+				<lb facs='#facs_102_r_5_1_tl_1' n='N001'/>treated seriously and would generate a
+				<lb facs='#facs_102_r_5_1_tl_2' n='N002'/>response. l&apos;ve identified three types of
+				<lb facs='#facs_102_r_5_1_tl_3' n='N003'/>attention-getting devices.
+				<lb facs='#facs_102_r_5_1_tl_4' n='N004'/>The first was originally discussed by
+				<lb facs='#facs_102_r_5_1_tl_5' n='N005'/>Harvey Sacks when he explored children&apos;s
+				<lb facs='#facs_102_r_5_1_tl_6' n='N006'/>restricted rights to speak in the presence
+				<lb facs='#facs_102_r_5_1_tl_7' n='N007'/>of adults.” Sacks noticed one type of
+				<lb facs='#facs_102_r_5_1_tl_8' n='N008'/>question used extensively by children as a
+				<lb facs='#facs_102_r_5_1_tl_9' n='N009'/>conversational opening:
+				<lb facs='#facs_102_r_5_1_tl_10' n='N010'/>D’ya know
+				<lb facs='#facs_102_r_5_1_tl_11' n='N011'/>what?&quot; This type of question is answered
+				<lb facs='#facs_102_r_5_1_tl_12' n='N012'/>by another question: &quot;What?&quot; The first
+				<lb facs='#facs_102_r_5_1_tl_13' n='N013'/>speaker is then in the position of having
+				<lb facs='#facs_102_r_5_1_tl_14' n='N014'/>obtained the attention needed to say what
+				<lb facs='#facs_102_r_5_1_tl_15' n='N015'/>he or she wanted to say in the first place.
+				<lb facs='#facs_102_r_5_1_tl_16' n='N016'/>This is a Q-Q-A sequence, setting off a
+				<lb facs='#facs_102_r_5_1_tl_17' n='N017'/>three-part exchange. Sacks further point
+				<lb facs='#facs_102_r_5_1_tl_18' n='N018'/>ed out that while the use of this device
+				<lb facs='#facs_102_r_5_1_tl_19' n='N019'/>ensures children&apos;s rights to speak, at the
+				<lb facs='#facs_102_r_5_1_tl_20' n='N020'/>same time it acknowledges their restricted
+				<lb facs='#facs_102_r_5_1_tl_21' n='N021'/>rights. These three-part sequences in con
+				<lb facs='#facs_102_r_5_1_tl_22' n='N022'/>versations tell us about the work of guar
+				<lb facs='#facs_102_r_5_1_tl_23' n='N023'/>anteeing conversation as well as identify
+				<lb facs='#facs_102_r_5_1_tl_24' n='N024'/>ing differential rights of the participants.
+				<lb facs='#facs_102_r_5_1_tl_25' n='N025'/>In the five hours of my transcripts, the
+				<lb facs='#facs_102_r_5_1_tl_26' n='N026'/>women used this device twice as often as
+				<lb facs='#facs_102_r_5_1_tl_27' n='N027'/>the men.
+				<lb facs='#facs_102_r_5_1_tl_28' n='N028'/>Second, there were many instances of
+				<lb facs='#facs_102_r_5_1_tl_29' n='N029'/>y know&quot; in the transcripts. This phrase is
+				<lb facs='#facs_102_r_5_1_tl_30' n='N030'/>an attempt to see if the other person is
+				<lb facs='#facs_102_r_5_1_tl_31' n='N031'/>paying attention. It was used 34 times by
+				<lb facs='#facs_102_r_5_1_tl_32' n='N032'/>the women and three times by the men.
+			</p>
+			<p>
+				<lb facs='#facs_102_r_6_1_tl_1' n='N001'/>The use of the phrase increased as the
+				<lb facs='#facs_102_r_6_1_tl_2' n='N002'/>men’s responses decreased.
+				<lb facs='#facs_102_r_6_1_tl_3' n='N003'/>Third, &quot;This is interesting,&quot; or a varia
+				<lb facs='#facs_102_r_6_1_tl_4' n='N004'/>tion, was used throughout the tapes. By
+				<lb facs='#facs_102_r_6_1_tl_5' n='N005'/>engaging in conversation people indicate
+				<lb facs='#facs_102_r_6_1_tl_6' n='N006'/>that there is a mutual interest in what is
+				<lb facs='#facs_102_r_6_1_tl_7' n='N007'/>being said. When one uses “This is inter
+				<lb facs='#facs_102_r_6_1_tl_8' n='N008'/>esting&quot; as an introduction, it signals that
+				<lb facs='#facs_102_r_6_1_tl_9' n='N009'/>the remark itself may not be seen as
+				<lb facs='#facs_102_r_6_1_tl_10' n='N010'/>worthy of attention. The speaker is work-
+				<lb facs='#facs_102_r_6_1_tl_11' n='N011'/>ing to establish the interest of the remark.
+				<lb facs='#facs_102_r_6_1_tl_12' n='N012'/>In the five hours of transcribed material,
+				<lb facs='#facs_102_r_6_1_tl_13' n='N013'/>the women used this device ten times, the
+				<lb facs='#facs_102_r_6_1_tl_14' n='N014'/>men seven.3 When interest is not in ques
+				<lb facs='#facs_102_r_6_1_tl_15' n='N015'/>tion, that work is done by both inter
+				<lb facs='#facs_102_r_6_1_tl_16' n='N016'/>actants. The first person makes a remark,
+				<lb facs='#facs_102_r_6_1_tl_17' n='N017'/>the second person responds to it, and
+				<lb facs='#facs_102_r_6_1_tl_18' n='N018'/>together they establish its joint interest.
+				<lb facs='#facs_102_r_6_1_tl_19' n='N019'/>Minimal Response
+				<lb facs='#facs_102_r_6_1_tl_20' n='N020'/>A minimal response refers to a speaker
+				<lb facs='#facs_102_r_6_1_tl_21' n='N021'/>saying &quot;yeah,&quot; “umm,&quot; &quot;huh,&quot; and little
+				<lb facs='#facs_102_r_6_1_tl_22' n='N022'/>more. Both men and women used this
+				<lb facs='#facs_102_r_6_1_tl_23' n='N023'/>but often in different ways. The men used
+				<lb facs='#facs_102_r_6_1_tl_24' n='N024'/>the monosyllabic response as one step
+				<lb facs='#facs_102_r_6_1_tl_25' n='N025'/>short of not responding at all. For exam
+				<lb facs='#facs_102_r_6_1_tl_26' n='N026'/>ple, the woman made a long remark, and
+				<lb facs='#facs_102_r_6_1_tl_27' n='N027'/>the man responded with &quot;yeah,&quot; which
+				<lb facs='#facs_102_r_6_1_tl_28' n='N028'/>neither encouraged her to continue nor
+				<lb facs='#facs_102_r_6_1_tl_29' n='N029'/>elaborated the topic. Minimal responses
+			</p>
+			<pb n='103'/>
+			<p>
+				<lb facs='#facs_103_r_1_1_tl_1' n='N001'/>used in this way display lack of interest
+				<lb facs='#facs_103_r_1_1_tl_2' n='N002'/>and attempt to discourage further inter
+				<lb facs='#facs_103_r_1_1_tl_3' n='N003'/>action.
+				<lb facs='#facs_103_r_1_1_tl_4' n='N004'/>The women also used this kind of min
+				<lb facs='#facs_103_r_1_1_tl_5' n='N005'/>imal response at times, but mostly in a
+				<lb facs='#facs_103_r_1_1_tl_6' n='N006'/>way that is best termed &quot;support work.
+				<lb facs='#facs_103_r_1_1_tl_7' n='N007'/>While the man talks, the woman skillfully
+				<lb facs='#facs_103_r_1_1_tl_8' n='N008'/>inserts &quot;mmm, &quot;yeah, oh,&quot; throughout
+				<lb facs='#facs_103_r_1_1_tl_9' n='N009'/>the stream of talk. By doing this, the
+				<lb facs='#facs_103_r_1_1_tl_10' n='N010'/>woman signals that she is paying atten
+				<lb facs='#facs_103_r_1_1_tl_11' n='N011'/>tion to what is being said, that she is fully
+				<lb facs='#facs_103_r_1_1_tl_12' n='N012'/>participating, that she has a continuing
+				<lb facs='#facs_103_r_1_1_tl_13' n='N013'/>interest in both interaction and interact
+				<lb facs='#facs_103_r_1_1_tl_14' n='N014'/>ant. This is done with agility during the
+				<lb facs='#facs_103_r_1_1_tl_15' n='N015'/>speaker’s pauses, seldom causing even
+				<lb facs='#facs_103_r_1_1_tl_16' n='N016'/>slight overlaps. Nothing in either tone or
+				<lb facs='#facs_103_r_1_1_tl_17' n='N017'/>structure suggests that the woman is try
+				<lb facs='#facs_103_r_1_1_tl_18' n='N018'/>ing to take over the talk.
+				<lb facs='#facs_103_r_1_1_tl_19' n='N019'/>Making Statements
+				<lb facs='#facs_103_r_1_1_tl_20' n='N020'/>Finally, there are statements that do no
+				<lb facs='#facs_103_r_1_1_tl_21' n='N021'/>specific conversational work. Of course,
+				<lb facs='#facs_103_r_1_1_tl_22' n='N022'/>by its mere existence, a statement pro
+				<lb facs='#facs_103_r_1_1_tl_23' n='N023'/>vides for a response, and thereby does
+				<lb facs='#facs_103_r_1_1_tl_24' n='N024'/>some minimal work. However, it also
+				<lb facs='#facs_103_r_1_1_tl_25' n='N025'/>shows the speaker’s assumption that any
+				<lb facs='#facs_103_r_1_1_tl_26' n='N026'/>attempt will be successful and interesting,
+				<lb facs='#facs_103_r_1_1_tl_27' n='N027'/>that he or she will be responded to. It is as
+				<lb facs='#facs_103_r_1_1_tl_28' n='N028'/>if the speaker assumes there are no prob
+				<lb facs='#facs_103_r_1_1_tl_29' n='N029'/>lems, that success is naturally his or hers.
+				<lb facs='#facs_103_r_1_1_tl_30' n='N030'/>In the transcribed material, the men made
+				<lb facs='#facs_103_r_1_1_tl_31' n='N031'/>this kind of statement more than twice as
+				<lb facs='#facs_103_r_1_1_tl_32' n='N032'/>many times as the women. The substance
+				<lb facs='#facs_103_r_1_1_tl_33' n='N033'/>of their remarks was not more interesting
+				<lb facs='#facs_103_r_1_1_tl_34' n='N034'/>than the women’s, but took on that char
+				<lb facs='#facs_103_r_1_1_tl_35' n='N035'/>acter because they generated interaction.
+				<lb facs='#facs_103_r_1_1_tl_36' n='N036'/>An Example
+				<lb facs='#facs_103_r_1_1_tl_37' n='N037'/>One segment of conversation from my
+				<lb facs='#facs_103_r_1_1_tl_38' n='N038'/>transcripts is the beginning of an interac
+				<lb facs='#facs_103_r_1_1_tl_39' n='N039'/>tion. The woman is reading a book in her
+				<lb facs='#facs_103_r_1_1_tl_40' n='N040'/>academic specialty and the man is making
+				<lb facs='#facs_103_r_1_1_tl_41' n='N041'/>a salad. I originally transcribed it for
+				<lb facs='#facs_103_r_1_1_tl_42' n='N042'/>analysis because conversation seemed dif
+				<lb facs='#facs_103_r_1_1_tl_43' n='N043'/>ficult for the woman, and she used stra
+				<lb facs='#facs_103_r_1_1_tl_44' n='N044'/>tegies to ensure some response. I suggest
+				<lb facs='#facs_103_r_1_1_tl_45' n='N045'/>reading the transcript before continuing
+				<lb facs='#facs_103_r_1_1_tl_46' n='N046'/>with the text.)
+				<lb facs='#facs_103_r_1_1_tl_47' n='N047'/>The woman (F) starts off in Set I with
+				<lb facs='#facs_103_r_1_1_tl_48' n='N048'/>two &quot;d’ya know&quot; question sequences, sig
+				<lb facs='#facs_103_r_1_1_tl_49' n='N049'/>naling that she is not sure she can get the
+				<lb facs='#facs_103_r_1_1_tl_50' n='N050'/>man’s (M’s) attention. It seems to be the
+				<lb facs='#facs_103_r_1_1_tl_51' n='N051'/>right assumption, since M’s response in
+				<lb facs='#facs_103_r_1_1_tl_52' n='N052'/>Set 3 is minimal and both fall silent. Fs
+				<lb facs='#facs_103_r_1_1_tl_53' n='N053'/>next attempt, in Sets 5-6, uses more atten
+				<lb facs='#facs_103_r_1_1_tl_54' n='N054'/>tion-getting devices. This time, F prefaces
+				<lb facs='#facs_103_r_1_1_tl_55' n='N055'/>her remarks both with a “That’s very
+				<lb facs='#facs_103_r_1_1_tl_56' n='N056'/>interesting&quot; and “Did you know ...?
+				<lb facs='#facs_103_r_1_1_tl_57' n='N057'/>The double-barreled attempt is more suc
+				<lb facs='#facs_103_r_1_1_tl_58' n='N058'/>cessful and generates two exchanges, Sets
+				<lb facs='#facs_103_r_1_1_tl_59' n='N059'/>7-8. Fs success is short-lived, however; M
+				<lb facs='#facs_103_r_1_1_tl_60' n='N060'/>fails to respond to her last contribution
+				<lb facs='#facs_103_r_1_1_tl_61' n='N061'/>and thus ends the exchange.
+				<lb facs='#facs_103_r_1_1_tl_62' n='N062'/>Fs third attempt begins in Set 10 with
+			</p>
+			<p>
+				<lb facs='#facs_103_r_2_1_tl_1' n='N001'/>“That’s really interesting.&quot; As M makes
+				<lb facs='#facs_103_r_2_1_tl_2' n='N002'/>no attempt to follow up on any of her
+				<lb facs='#facs_103_r_2_1_tl_3' n='N003'/>statements, F continues talking for 30
+				<lb facs='#facs_103_r_2_1_tl_4' n='N004'/>seconds, using two &quot;y’knows&quot; and a ques
+				<lb facs='#facs_103_r_2_1_tl_5' n='N005'/>tion intonation. M finally responds with a
+				<lb facs='#facs_103_r_2_1_tl_6' n='N006'/>&quot;Yeah&quot; after F repeats herself and says
+				<lb facs='#facs_103_r_2_1_tl_7' n='N007'/>yknow&quot; a third time. Though there are
+				<lb facs='#facs_103_r_2_1_tl_8' n='N008'/>further attempts made by F later in the
+				<lb facs='#facs_103_r_2_1_tl_9' n='N009'/>interaction, a conversation on this topio
+				<lb facs='#facs_103_r_2_1_tl_10' n='N010'/>never develops.
+				<lb facs='#facs_103_r_2_1_tl_11' n='N011'/>The transcript shows some ways the
+				<lb facs='#facs_103_r_2_1_tl_12' n='N012'/>strategies described earlier are used in
+				<lb facs='#facs_103_r_2_1_tl_13' n='N013'/>actual conversation. It shows the woman
+				<lb facs='#facs_103_r_2_1_tl_14' n='N014'/>working at interaction and the man exer
+				<lb facs='#facs_103_r_2_1_tl_15' n='N015'/>cising his power by refusing to participate
+				<lb facs='#facs_103_r_2_1_tl_16' n='N016'/>fully. As the interaction develops and F
+				<lb facs='#facs_103_r_2_1_tl_17' n='N017'/>becomes more aware of her difficulties, F
+				<lb facs='#facs_103_r_2_1_tl_18' n='N018'/>brings more pressure on M by increasing
+				<lb facs='#facs_103_r_2_1_tl_19' n='N019'/>her use of strategies. Even so, she only
+				<lb facs='#facs_103_r_2_1_tl_20' n='N020'/>ensures immediate, localized responses,
+				<lb facs='#facs_103_r_2_1_tl_21' n='N021'/>not a full conversational exchange.
+				<lb facs='#facs_103_r_2_1_tl_22' n='N022'/>Immediately following this transcribed
+				<lb facs='#facs_103_r_2_1_tl_23' n='N023'/>material, M begins and continues a con
+				<lb facs='#facs_103_r_2_1_tl_24' n='N024'/>versation about a soft drink and Richard
+				<lb facs='#facs_103_r_2_1_tl_25' n='N025'/>Nixon being a former lawyer for Pepsi
+				<lb facs='#facs_103_r_2_1_tl_26' n='N026'/>Cola. F gives elaborating responses, with
+				<lb facs='#facs_103_r_2_1_tl_27' n='N027'/>a series of exchanges between them that
+				<lb facs='#facs_103_r_2_1_tl_28' n='N028'/>end when M opts not to continue. This
+				<lb facs='#facs_103_r_2_1_tl_29' n='N029'/>Pepsi-Cola/Nixon exchange shows that
+				<lb facs='#facs_103_r_2_1_tl_30' n='N030'/>the man was willing to engage in discus
+				<lb facs='#facs_103_r_2_1_tl_31' n='N031'/>sion, but apparently only on his own
+				<lb facs='#facs_103_r_2_1_tl_32' n='N032'/>terms.
+			</p>
+			<p>
+				<lb facs='#facs_103_r_3_1_tl_1' n='N001'/>Conclusions
+				<lb facs='#facs_103_r_3_1_tl_2' n='N002'/>There is a division of labor in conversa
+				<lb facs='#facs_103_r_3_1_tl_3' n='N003'/>tion. Though the women generally do
+				<lb facs='#facs_103_r_3_1_tl_4' n='N004'/>more work, the men usually control the
+				<lb facs='#facs_103_r_3_1_tl_5' n='N005'/>conversations couples have. Since the
+				<lb facs='#facs_103_r_3_1_tl_6' n='N006'/>men s remarks develop into conversation
+				<lb facs='#facs_103_r_3_1_tl_7' n='N007'/>more often than the women s, men end up
+				<lb facs='#facs_103_r_3_1_tl_8' n='N008'/>defining what will be talked about and
+				<lb facs='#facs_103_r_3_1_tl_9' n='N009'/>which aspects of reality are the most
+				<lb facs='#facs_103_r_3_1_tl_10' n='N010'/>important.
+				<lb facs='#facs_103_r_3_1_tl_11' n='N011'/>Women are required to do specific
+				<lb facs='#facs_103_r_3_1_tl_12' n='N012'/>kinds of interactional work in conversa
+				<lb facs='#facs_103_r_3_1_tl_13' n='N013'/>tions with men. More than that, we are
+				<lb facs='#facs_103_r_3_1_tl_14' n='N014'/>generally required to be available. The
+				<lb facs='#facs_103_r_3_1_tl_15' n='N015'/>conversational work expected of women
+				<lb facs='#facs_103_r_3_1_tl_16' n='N016'/>differs according to the situation; some
+				<lb facs='#facs_103_r_3_1_tl_17' n='N017'/>times we are supposed to be an audience,
+				<lb facs='#facs_103_r_3_1_tl_18' n='N018'/>&quot;good listeners, because we are not
+				<lb facs='#facs_103_r_3_1_tl_19' n='N019'/>otherwise needed. We may have to fill
+				<lb facs='#facs_103_r_3_1_tl_20' n='N020'/>silences and keep conversations moving.
+				<lb facs='#facs_103_r_3_1_tl_21' n='N021'/>Sometimes we are supposed to develop
+				<lb facs='#facs_103_r_3_1_tl_22' n='N022'/>other people’s topics and other times to
+				<lb facs='#facs_103_r_3_1_tl_23' n='N023'/>present and develop topics of our own.
+				<lb facs='#facs_103_r_3_1_tl_24' n='N024'/>There are subtle demands on women to
+				<lb facs='#facs_103_r_3_1_tl_25' n='N025'/>be available for interaction. If women do
+				<lb facs='#facs_103_r_3_1_tl_26' n='N026'/>not answer these demands—if we are not
+				<lb facs='#facs_103_r_3_1_tl_27' n='N027'/>naturally” available, we get in trouble.
+				<lb facs='#facs_103_r_3_1_tl_28' n='N028'/>Women who sit silently while a conversa-
+				<lb facs='#facs_103_r_3_1_tl_29' n='N029'/>tion flounders are seen as hostile or inept.
+				<lb facs='#facs_103_r_3_1_tl_30' n='N030'/>Women who consistently and successfully
+				<lb facs='#facs_103_r_3_1_tl_31' n='N031'/>control interactions are criticized, particu
+				<lb facs='#facs_103_r_3_1_tl_32' n='N032'/>larly by men who question the female’s
+			</p>
+			<p>
+				<lb facs='#facs_103_r_5_1_tl_1' n='N001'/>status as a woman. They are likely to be
+				<lb facs='#facs_103_r_5_1_tl_2' n='N002'/>called “bitchy, &quot;domineering, or ag
+				<lb facs='#facs_103_r_5_1_tl_3' n='N003'/>gressive. When women attempt even
+				<lb facs='#facs_103_r_5_1_tl_4' n='N004'/>temporarily to control conversation with
+				<lb facs='#facs_103_r_5_1_tl_5' n='N005'/>men, it often starts an argument.
+				<lb facs='#facs_103_r_5_1_tl_6' n='N006'/>Women who do not behave interac-
+				<lb facs='#facs_103_r_5_1_tl_7' n='N007'/>tionally are punished; often it is implied
+				<lb facs='#facs_103_r_5_1_tl_8' n='N008'/>that they are not “real women. One&apos;s
+				<lb facs='#facs_103_r_5_1_tl_9' n='N009'/>sexual identity is crucial. It is the most
+				<lb facs='#facs_103_r_5_1_tl_10' n='N010'/>natural&quot; differentiating characteristic
+				<lb facs='#facs_103_r_5_1_tl_11' n='N011'/>there is. But it is not simply our bodies
+				<lb facs='#facs_103_r_5_1_tl_12' n='N012'/>that define gender. We must constantly
+				<lb facs='#facs_103_r_5_1_tl_13' n='N013'/>behave as male or female in order for our
+				<lb facs='#facs_103_r_5_1_tl_14' n='N014'/>gender to be taken for granted in interac
+				<lb facs='#facs_103_r_5_1_tl_15' n='N015'/>tion. We must prove our gender con
+				<lb facs='#facs_103_r_5_1_tl_16' n='N016'/>tinually.
+				<lb facs='#facs_103_r_5_1_tl_17' n='N017'/>The active maintenance of gender re
+				<lb facs='#facs_103_r_5_1_tl_18' n='N018'/>quires women to be available to do what
+				<lb facs='#facs_103_r_5_1_tl_19' n='N019'/>ever needs to be done in interactions.
+				<lb facs='#facs_103_r_5_1_tl_20' n='N020'/>Since interactional work is tied up with
+				<lb facs='#facs_103_r_5_1_tl_21' n='N021'/>female identity, with what a woman is,
+				<lb facs='#facs_103_r_5_1_tl_22' n='N022'/>the fact that it is work is obscured. It is
+				<lb facs='#facs_103_r_5_1_tl_23' n='N023'/>not seen as something we do, but as part
+				<lb facs='#facs_103_r_5_1_tl_24' n='N024'/>of what we are, similar to caring for the
+				<lb facs='#facs_103_r_5_1_tl_25' n='N025'/>house and children, which have also been
+				<lb facs='#facs_103_r_5_1_tl_26' n='N026'/>seen as part and parcel of what women
+				<lb facs='#facs_103_r_5_1_tl_27' n='N027'/>are. In both cases, the value and necessity
+				<lb facs='#facs_103_r_5_1_tl_28' n='N028'/>of the work are hidden behind the screen
+				<lb facs='#facs_103_r_5_1_tl_29' n='N029'/>of the sexual division of labor.
+				<lb facs='#facs_103_r_5_1_tl_30' n='N030'/>This view is influenced by the work in con
+				<lb facs='#facs_103_r_5_1_tl_31' n='N031'/>versational analysis done by Sacks, Scheg
+				<lb facs='#facs_103_r_5_1_tl_32' n='N032'/>loff, Jefferson and others. See Harvey Sacks,
+				<lb facs='#facs_103_r_5_1_tl_33' n='N033'/>Emmanuel A. Schegloff and Gail Jefferson,
+				<lb facs='#facs_103_r_5_1_tl_34' n='N034'/>“A Simplest Systematics for the Organiza
+				<lb facs='#facs_103_r_5_1_tl_35' n='N035'/>tion of Turn Taking for Conversation,
+				<lb facs='#facs_103_r_5_1_tl_36' n='N036'/>Language (Sept. 1974), pp. 696-735.
+				<lb facs='#facs_103_r_5_1_tl_37' n='N037'/>2. Harvey Sacks, “On the Analyzability of
+				<lb facs='#facs_103_r_5_1_tl_38' n='N038'/>Stories by Children,” in Directions in Socio
+				<lb facs='#facs_103_r_5_1_tl_39' n='N039'/>linguistics: The Ethnography of Communi
+				<lb facs='#facs_103_r_5_1_tl_40' n='N040'/>cation, ed. John J. Gumperz and Dell Hymes
+				<lb facs='#facs_103_r_5_1_tl_41' n='N041'/>(New York: Holt, Rinehart and Winston,
+				<lb facs='#facs_103_r_5_1_tl_42' n='N042'/>1972), pp. 325-425.
+				<lb facs='#facs_103_r_5_1_tl_43' n='N043'/>3. Six of the seven male usages occurred dur
+				<lb facs='#facs_103_r_5_1_tl_44' n='N044'/>ing one lengthy interaction, while the usages
+				<lb facs='#facs_103_r_5_1_tl_45' n='N045'/>of other strategies discussed were randomly
+				<lb facs='#facs_103_r_5_1_tl_46' n='N046'/>scattered throughout the transcripts. This
+				<lb facs='#facs_103_r_5_1_tl_47' n='N047'/>long conversation was transcribed because it
+				<lb facs='#facs_103_r_5_1_tl_48' n='N048'/>was one of the few where the man had trou
+				<lb facs='#facs_103_r_5_1_tl_49' n='N049'/>ble maintaining the conversation. As it be
+				<lb facs='#facs_103_r_5_1_tl_50' n='N050'/>came more difficult for him, he used more
+				<lb facs='#facs_103_r_5_1_tl_51' n='N051'/>attention-getting devices. In contrast, four
+				<lb facs='#facs_103_r_5_1_tl_52' n='N052'/>of the female uses were from one transcript,
+				<lb facs='#facs_103_r_5_1_tl_53' n='N053'/>the other six scattered. My impression from
+				<lb facs='#facs_103_r_5_1_tl_54' n='N054'/>listening to all 52 hours of the tapes was that
+				<lb facs='#facs_103_r_5_1_tl_55' n='N055'/>a complete count would show a much larger
+				<lb facs='#facs_103_r_5_1_tl_56' n='N056'/>proportion of female to male usage than the
+				<lb facs='#facs_103_r_5_1_tl_57' n='N057'/>ten to seven ratio indicates.
+				<lb facs='#facs_103_r_5_1_tl_58' n='N058'/>I am grateful to Harvey Molotch, with whose
+				<lb facs='#facs_103_r_5_1_tl_59' n='N059'/>guidance I began this research, and to Myrtha
+				<lb facs='#facs_103_r_5_1_tl_60' n='N060'/>Chabran, Mark Fishman, Drew Humphries,
+				<lb facs='#facs_103_r_5_1_tl_61' n='N061'/>Linda Marks, Morgan Sanders and Susan Wolf
+				<lb facs='#facs_103_r_5_1_tl_62' n='N062'/>for their help or ideas and criticism on this and
+				<lb facs='#facs_103_r_5_1_tl_63' n='N063'/>earlier drafts.
+				<lb facs='#facs_103_r_5_1_tl_64' n='N064'/>Pam Fishman is 32, grew up in Arizona and
+				<lb facs='#facs_103_r_5_1_tl_65' n='N065'/>lives in Brooklyn. Her Ph.D. thesis, from the
+				<lb facs='#facs_103_r_5_1_tl_66' n='N066'/>University of California at Santa Barbara, is on
+				<lb facs='#facs_103_r_5_1_tl_67' n='N067'/>power in everyday conversation. She and Linda
+				<lb facs='#facs_103_r_5_1_tl_68' n='N068'/>Marks are writing up what they and their friends
+				<lb facs='#facs_103_r_5_1_tl_69' n='N069'/>often talk about—using their daily experience to
+				<lb facs='#facs_103_r_5_1_tl_70' n='N070'/>do feminist social analysis.
+			</p>
+         </div>
+      </body>
+   </text>
+</TEI>

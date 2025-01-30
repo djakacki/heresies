@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='52'/>
+            <p>
+               <lb facs='#facs_52_r_1_1_tl_1' n='N001'/>PATTERNS OF HEALING AND REBIRTH
+               <lb facs='#facs_52_r_1_1_tl_3' n='N002'/>Claudia Orenstein and Anais Nin
+               <lb facs='#facs_52_r_1_1_tl_2' n='N003'/>A Postscript by Gloria Orenstein
+            </p>
+            <p>
+               <lb facs='#facs_52_r_2_1_tl_1' n='N001'/>Introduction
+               <lb facs='#facs_52_r_2_1_tl_3' n='N002'/>You are about to see hear the life of a lady whose whole
+               <lb facs='#facs_52_r_2_1_tl_4' n='N003'/>career started when her father left her. She is a famous
+               <lb facs='#facs_52_r_2_1_tl_6' n='N004'/>writer and her name 
+               <lb facs='#facs_52_r_2_1_tl_7' n='N005'/>is Anais Nin.
+            </p>
+            <p>
+               <lb facs='#facs_52_l_1689' n='N001'/>Anais Nin is a writer. She was born in
+               <lb facs='#facs_52_r_3_1_tl_1' n='N002'/>1920 in Neuilly near Paris. When she was
+               <lb facs='#facs_52_r_3_1_tl_2' n='N003'/>eleven her father left her. He was a Span
+               <lb facs='#facs_52_r_3_1_tl_3' n='N004'/>ish pianist. Her mother, a Spanish dancer,
+               <lb facs='#facs_52_r_3_1_tl_4' n='N005'/>lived with her and her brother. When her
+               <lb facs='#facs_52_r_3_1_tl_5' n='N006'/>father left her she started writing a diary.
+               <lb facs='#facs_52_r_3_1_tl_6' n='N007'/>It was really a letter to her father to try to
+               <lb facs='#facs_52_r_3_1_tl_7' n='N008'/>get him to come back to her.
+               <lb facs='#facs_52_r_3_1_tl_8' n='N009'/>The family was living in Richmond Hill
+               <lb facs='#facs_52_r_3_1_tl_9' n='N010'/>in Queens and her father went to Paris to
+               <lb facs='#facs_52_r_3_1_tl_10' n='N011'/>become a famous pianist. She had even
+               <lb facs='#facs_52_r_3_1_tl_11' n='N012'/>actually sent him a letter, only her mother
+               <lb facs='#facs_52_r_3_1_tl_12' n='N013'/>didn’t mail it and said it had gotten lost in
+               <lb facs='#facs_52_r_3_1_tl_13' n='N014'/>the mail. When she was about 24 years
+               <lb facs='#facs_52_r_3_1_tl_14' n='N015'/>old she wrote some very beautiful poems
+               <lb facs='#facs_52_r_3_1_tl_15' n='N016'/>and stories but since she was a woman
+               <lb facs='#facs_52_r_3_1_tl_16' n='N017'/>(and there weren’t many women writers)
+               <lb facs='#facs_52_r_3_1_tl_17' n='N018'/>no one would publish her works. But
+               <lb facs='#facs_52_r_3_1_tl_18' n='N019'/>Anais Nin thought that they were good
+               <lb facs='#facs_52_r_3_1_tl_19' n='N020'/>enough to be published; so she set up a
+               <lb facs='#facs_52_r_3_1_tl_20' n='N021'/>printing press and she published all her
+               <lb facs='#facs_52_r_3_1_tl_21' n='N022'/>works herself. Since then they have be
+               <lb facs='#facs_52_r_3_1_tl_22' n='N023'/>come very famous.
+               <lb facs='#facs_52_r_3_1_tl_23' n='N024'/>Anais Nin’s career started very late
+               <lb facs='#facs_52_r_3_1_tl_24' n='N025'/>and, still today, she is writing some of her
+               <lb facs='#facs_52_r_3_1_tl_25' n='N026'/>best novels and stories.
+               <lb facs='#facs_52_r_3_1_tl_26' n='N027'/>Anais Nin is unlike most people. When
+               <lb facs='#facs_52_r_3_1_tl_27' n='N028'/>she dreams she wants these dreams to
+               <lb facs='#facs_52_r_3_1_tl_28' n='N029'/>come true. She says that dreams won&apos;t
+               <lb facs='#facs_52_r_3_1_tl_29' n='N030'/>come to you. You have to make them
+               <lb facs='#facs_52_r_3_1_tl_30' n='N031'/>come true. Once she dreamed about a nice
+               <lb facs='#facs_52_r_3_1_tl_31' n='N032'/>big houseboat. Then she saw an ad for a
+               <lb facs='#facs_52_r_3_1_tl_32' n='N033'/>houseboat on the Seine in the newspaper.
+               <lb facs='#facs_52_r_3_1_tl_33' n='N034'/>She bought the houseboat and moved into
+            </p>
+            <p>
+               <lb facs='#facs_52_r_6_1_tl_1' n='N001'/>it with all her friends. They were very
+               <lb facs='#facs_52_r_6_1_tl_2' n='N002'/>happy living out her dream together.
+               <lb facs='#facs_52_r_6_1_tl_3' n='N003'/>Anais Nin has written many books. Her
+               <lb facs='#facs_52_r_6_1_tl_4' n='N004'/>Diaries, of which there are now six pub
+               <lb facs='#facs_52_r_6_1_tl_5' n='N005'/>lished volumes, and
+               <lb facs='#facs_52_r_6_1_tl_6' n='N006'/>Children of the Albatross
+               <lb facs='#facs_52_r_6_1_tl_7' n='N007'/>A Spy in the House of Love
+               <lb facs='#facs_52_r_6_1_tl_8' n='N008'/>Solar Barque
+            </p>
+            <p>
+               <lb facs='#facs_52_r_8_1_tl_1' n='N001'/>Cities of the Interior
+               <lb facs='#facs_52_r_8_1_tl_2' n='N002'/>Ladders to Fire
+               <lb facs='#facs_52_r_8_1_tl_3' n='N003'/>D.H. Lawrence —An Unprofessional
+               <lb facs='#facs_52_r_8_1_tl_4' n='N004'/>Study
+               <lb facs='#facs_52_r_8_1_tl_5' n='N005'/>House of Incest
+               <lb facs='#facs_52_r_8_1_tl_6' n='N006'/>On Writing
+               <lb facs='#facs_52_r_8_1_tl_7' n='N007'/>Realism and Reality
+               <lb facs='#facs_52_r_8_1_tl_8' n='N008'/>The Four-Chambered Heart
+               <lb facs='#facs_52_r_8_1_tl_9' n='N009'/>And, many others. She is a great writer.
+               <lb facs='#facs_52_r_8_1_tl_10' n='N010'/>When Anais Nin’s father left her she
+               <lb facs='#facs_52_r_8_1_tl_11' n='N011'/>wanted him to come back so much that
+               <lb facs='#facs_52_r_8_1_tl_12' n='N012'/>she became a Spanish dancer. (Since he
+               <lb facs='#facs_52_r_8_1_tl_13' n='N013'/>was a Spanish pianist she figured he could
+               <lb facs='#facs_52_r_8_1_tl_14' n='N014'/>play and she could dance.) She performed
+               <lb facs='#facs_52_r_8_1_tl_15' n='N015'/>in Paris under the name Anita Aguilera
+               <lb facs='#facs_52_r_8_1_tl_16' n='N016'/>and even though she was a writer and was
+               <lb facs='#facs_52_r_8_1_tl_17' n='N017'/>doing it for her father, she was a very
+               <lb facs='#facs_52_r_8_1_tl_18' n='N018'/>good dancer.
+               <lb facs='#facs_52_r_8_1_tl_19' n='N019'/>Anais Nin has been interviewed in
+               <lb facs='#facs_52_r_8_1_tl_20' n='N020'/>many magazines like Ms. and The Femi
+               <lb facs='#facs_52_r_8_1_tl_21' n='N021'/>nist Art Journal and many more. She is
+               <lb facs='#facs_52_r_8_1_tl_22' n='N022'/>very famous.
+               <lb facs='#facs_52_r_8_1_tl_23' n='N023'/>Anais Nin has a policy about answering
+               <lb facs='#facs_52_r_8_1_tl_24' n='N024'/>her mail. When she was young she wrote
+               <lb facs='#facs_52_r_8_1_tl_25' n='N025'/>to Djuna Barnes and she never received an
+               <lb facs='#facs_52_r_8_1_tl_26' n='N026'/>answer, so she decided to answer all her
+               <lb facs='#facs_52_r_8_1_tl_27' n='N027'/>mail if she ever became famous. Even
+               <lb facs='#facs_52_r_8_1_tl_28' n='N028'/>though she gets many letters each day
+               <lb facs='#facs_52_r_8_1_tl_29' n='N029'/>sooner or later no matter what else may
+               <lb facs='#facs_52_r_8_1_tl_30' n='N030'/>stand in the way, she will always answer
+               <lb facs='#facs_52_r_8_1_tl_31' n='N031'/>them.
+               <lb facs='#facs_52_r_8_1_tl_32' n='N032'/>Anais Nin, whose diaries have made
+               <lb facs='#facs_52_r_8_1_tl_33' n='N033'/>her famous, is a great writer thanks to her
+               <lb facs='#facs_52_r_8_1_tl_34' n='N034'/>father.
+               <lb facs='#facs_52_r_8_1_tl_35' n='N035'/>Claudia Danielle Orenstein is a seventh grader
+               <lb facs='#facs_52_r_8_1_tl_36' n='N036'/>at the Fleming School in New York City. She
+               <lb facs='#facs_52_r_8_1_tl_37' n='N037'/>has acted in several Off-Broadway plays.
+            </p>
+            <pb n='53'/>
+            <p>
+               <lb facs='#facs_53_r_23_1_tl_1' n='N001'/>A friend once told me about a feminist workshop in which each woman was asked to acknowledge her matrilineal ancestry by
+               <lb facs='#facs_53_r_23_1_tl_2' n='N002'/>repeating the phrase: &quot;I am the daughter of ...&quot; and then naming her mother. To everyone’s amazement, many of the women in that
+               <lb facs='#facs_53_r_23_1_tl_3' n='N003'/>small, randomly selected group spontaneously responded: “T am the daughter of Anais Nin.
+               <lb facs='#facs_53_r_23_1_tl_4' n='N004'/>A major theme of the women’s movement has been that biology is not destiny. Therefore a doctor’s words to the youthful Anais are
+               <lb facs='#facs_53_r_23_1_tl_5' n='N005'/>ironic: “You were not built for maternity.&quot; Instead of becoming a biological mother, Anais Nin was the spiritual mother to an entire
+               <lb facs='#facs_53_r_23_1_tl_6' n='N006'/>generation of women writers. As a biological mother and a feminist, I can think of no greater gift to my own children than a spiritual
+               <lb facs='#facs_53_r_23_1_tl_7' n='N007'/>parent. It was with this in mind that in 1974 I suggested that my ten-year-old, Claudia, contact Anais Nin.
+               <lb facs='#facs_53_r_23_1_tl_8' n='N008'/>One of Anais’ recurring motifs has been the transcendence of loss through artistic creation. I wanted to share this motif with my
+               <lb facs='#facs_53_r_23_1_tl_9' n='N009'/>daughter. My husband and I had recently separated. I was teaching a college course on Anais Nin’s Diaries. I began to realize how very
+               <lb facs='#facs_53_r_23_1_tl_10' n='N010'/>much like my own children Anais had felt when her father left her at approximately the same age. Claudia’s English class project was to
+               <lb facs='#facs_53_r_23_1_tl_11' n='N011'/>write the biography of a famous person. She had chosen Shakespeare, but was making little progress. It occurred to me that the painful
+               <lb facs='#facs_53_r_23_1_tl_12' n='N012'/>after-effects of her parents’ separation might be connected to this “writing block.&quot; But I found myself in the position of being unable to
+               <lb facs='#facs_53_r_23_1_tl_13' n='N013'/>help her at the time she needed me precisely because I was her mother. The person my children missed most in the world was the person
+               <lb facs='#facs_53_r_23_1_tl_14' n='N014'/>against whom I harbored extremely bitter sentiments. I felt torn between my own anger and my children’s need for me to understand that
+               <lb facs='#facs_53_r_23_1_tl_15' n='N015'/>they still loved their father. I knew instinctively that Anais Nin, through the Diaries, could do the spiritual mothering I found impossible,
+               <lb facs='#facs_53_r_23_1_tl_16' n='N016'/>that reading about how she had used her own pain as a source óf creative energy might give Claudia confidence that childhood wounds
+               <lb facs='#facs_53_r_23_1_tl_17' n='N017'/>could be overcome.
+               <lb facs='#facs_53_r_23_1_tl_18' n='N018'/>When I spoke to Claudia about Anais, she perked up and instantly switched her topic from Shakespeare to Nin. Then she wrote to
+               <lb facs='#facs_53_r_23_1_tl_19' n='N019'/>Anais, telling her about the project and asking if there were any possibility of obtaining the childhood journal, written, as Anais tells us
+               <lb facs='#facs_53_r_23_1_tl_20' n='N020'/>&quot;as a diary of a journey to record everything for my father. It was written for him and I had really intended to send it to him. It was really
+               <lb facs='#facs_53_r_23_1_tl_21' n='N021'/>a letter so he could follow us into a strange land, know about us.&quot; Claudia included some of her own poetry with her letter and soon
+               <lb facs='#facs_53_r_23_1_tl_22' n='N022'/>received an enthusiastic response.
+               <lb facs='#facs_53_r_23_1_tl_23' n='N023'/>If Anais Nin’s Diaries can speak personally to a child of ten, it is because Nin herself has never lost sight of the child she was. It is this
+               <lb facs='#facs_53_r_23_1_tl_24' n='N024'/>intermingling of past, present and future that gives the Diaries their universal and timeless ap peal for the young and old alike. She says in
+               <lb facs='#facs_53_r_23_1_tl_25' n='N025'/>the fourth Diary: “We live back and forth in the past or in the present or in the future. With the young one lives in the future. I prefer
+               <lb facs='#facs_53_r_23_1_tl_26' n='N026'/>that. Changes occur constantly according to the vision, image or myth that possesses one..... We never discard our childhood. We
+               <lb facs='#facs_53_r_23_1_tl_27' n='N027'/>never escape it completely ... The young’s attraction for the old is the protection of their future. The need of faith and the elder’s vision
+               <lb facs='#facs_53_r_23_1_tl_28' n='N028'/>into the future.&quot; If, as Anais states, “changes occur according to the myth we are possessed by,” it is no wonder that those who read the
+               <lb facs='#facs_53_r_23_1_tl_29' n='N029'/>Diaries and become possessed by the myth of transcendence through creation undergo the therapeutic effects of a transpersonal healing. It
+               <lb facs='#facs_53_r_23_1_tl_30' n='N030'/>was precisely this faith in the future and the elder’s vision that I wanted to pass on to my daughter and that caused just such a psychic
+               <lb facs='#facs_53_r_23_1_tl_31' n='N031'/>healing to take place.
+               <lb facs='#facs_53_r_23_1_tl_32' n='N032'/>I think Claudia was helped most in handling that difficult period in her life by the knowledge she gained from Anaïs that reality need
+               <lb facs='#facs_53_r_23_1_tl_33' n='N033'/>not only be composed of what you live, but more importantly of what you dream, and that the creation of the Marvelous in life is no
+               <lb facs='#facs_53_r_23_1_tl_34' n='N034'/>denied those who experience loss or pain, as long as the creative will prevails and transforms that suffering. Of all the papers I have reac
+               <lb facs='#facs_53_r_23_1_tl_35' n='N035'/>on Ai.aïs Nin, none has moved me more than the very simple project written by my own daughter.
+               <lb facs='#facs_53_r_23_1_tl_36' n='N036'/>Gloria Feman Orenstein is an assistant professor and acting chairperson of Women’s Studies at Douglass College.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

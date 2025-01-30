@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='118'/>
+            <p>
+               <lb facs='#facs_118_r_1_1_tl_1' n='N001'/>WOMEN&apos;S
+               <lb facs='#facs_118_r_1_1_tl_2' n='N002'/>FANTASY ENVIRONMENTS
+               <lb facs='#facs_118_r_1_1_tl_3' n='N003'/>NOTES ON A PROJECT
+               <lb facs='#facs_118_r_1_1_tl_4' n='N004'/>IN PROCESS
+            </p>
+            <p>
+               <lb facs='#facs_118_l' n='N001'/>NOEL PHYLLIS BIRKBY
+               <lb facs='#facs_118_l_2284' n='N002'/>LESLIE KANES WEISMAN
+            </p>
+            <p>
+               <lb facs='#facs_118_r_2_1_tl_2' n='N001'/>This project is about the process of women giving birth to a new
+               <lb facs='#facs_118_r_2_1_tl_3' n='N002'/>architecture. It emerged in 1973 as part of my search for a femi
+               <lb facs='#facs_118_r_2_1_tl_4' n='N003'/>nist consciousness and process of woman-identification. I had
+               <lb facs='#facs_118_r_2_1_tl_5' n='N004'/>come to realize my own male-identification and conditioning —
+               <lb facs='#facs_118_r_2_1_tl_6' n='N005'/>especially as an architect (registered, licensed, numbered, legiti
+               <lb facs='#facs_118_r_2_1_tl_7' n='N006'/>matized by the patriarchy). What would a truly supportive
+               <lb facs='#facs_118_r_2_1_tl_8' n='N007'/>environment be if women had their way? Would women design
+               <lb facs='#facs_118_r_2_1_tl_9' n='N008'/>the world differently than men? I purposely began workshops
+               <lb facs='#facs_118_r_2_1_tl_10' n='N009'/>with women not professionally involved with architecture to
+               <lb facs='#facs_118_r_2_1_tl_11' n='N010'/>avoid the machismo conditioning the professional is subjected to.
+               <lb facs='#facs_118_r_2_1_tl_12' n='N011'/>To some extent all women are conditioned by the dominant cul
+               <lb facs='#facs_118_r_2_1_tl_13' n='N012'/>ture, but they usually do not see themselves as creators of the
+               <lb facs='#facs_118_r_2_1_tl_14' n='N013'/>built environment. However, all women experience it, react to it,
+               <lb facs='#facs_118_r_2_1_tl_15' n='N014'/>live and work in it, and are affected by it, consciously or not. I
+               <lb facs='#facs_118_r_2_1_tl_16' n='N015'/>wanted to help lay a foundation for a new architecture based on
+               <lb facs='#facs_118_r_2_1_tl_17' n='N016'/>the experience, consciousness and creative imagination of women
+               <lb facs='#facs_118_r_2_1_tl_18' n='N017'/>in the process of self-definition. — NPB
+            </p>
+            <p>
+               <lb facs='#facs_118_r_3_1_tl_2' n='N001'/>In 1968 I began teaching architecture, including design &quot;method
+               <lb facs='#facs_118_r_3_1_tl_3' n='N002'/>ology,&quot; the process by which subjective experience and intuition
+               <lb facs='#facs_118_r_3_1_tl_4' n='N003'/>are systematically objectified and rationalized. I was unaware oj
+               <lb facs='#facs_118_r_3_1_tl_5' n='N004'/>how one-dimensional this approach is and how it isolates mind
+               <lb facs='#facs_118_r_3_1_tl_6' n='N005'/>from body, feeling from action, and divides people into male
+               <lb facs='#facs_118_r_3_1_tl_7' n='N006'/>female, white/non-white, rich/poor, old/young. While objective
+               <lb facs='#facs_118_r_3_1_tl_8' n='N007'/>description is important, it is incomplete. As I became involved in
+               <lb facs='#facs_118_r_3_1_tl_9' n='N008'/>the women’s movement, I recognized the importance of listening
+               <lb facs='#facs_118_r_3_1_tl_10' n='N009'/>to myself, of trusting my own experience. By 1974 I had taught
+               <lb facs='#facs_118_r_3_1_tl_11' n='N010'/>hundreds of students, less than one percent of them women, and
+               <lb facs='#facs_118_r_3_1_tl_12' n='N011'/>was still the only woman faculty member in the University of
+               <lb facs='#facs_118_r_3_1_tl_13' n='N012'/>Detroit School of Architecture. Despite my strong connection to
+               <lb facs='#facs_118_r_3_1_tl_14' n='N013'/>other feminists, I felt painfully fragmented and isolated. I urgent
+               <lb facs='#facs_118_r_3_1_tl_15' n='N014'/>ly needed to explore many conflicts between my woman-identity,
+               <lb facs='#facs_118_r_3_1_tl_16' n='N015'/>my teaching and the man-made environment, to discover and
+               <lb facs='#facs_118_r_3_1_tl_17' n='N016'/>embrace the environmental sensibilities of other women. —LKW
+            </p>
+            <p>
+               <lb facs='#facs_118_r_4_1_tl_1' n='N001'/>We began collaborating in 1974, collecting women&apos;s drawings of their environmental fantasies in workshops conducted across the
+               <lb facs='#facs_118_r_4_1_tl_2' n='N002'/>country, literally &quot;from Maine to California.&quot; The women constituted a wide cultural cross-section — diverse in life style, age, experience
+               <lb facs='#facs_118_r_4_1_tl_3' n='N003'/>and education.
+               <lb facs='#facs_118_r_4_1_tl_4' n='N004'/>A workshop participant notes, &quot;Underlying the fantasies is a common kind of understanding. I know the sources from which thes
+               <lb facs='#facs_118_r_4_1_tl_5' n='N005'/>needs arise. I feel them too.... I can relate to the messages in these drawings because l’ve experienced so many of the same frustrations,
+               <lb facs='#facs_118_r_4_1_tl_6' n='N006'/>needs and daydreams. They seem to reflect me in them too. It makes me feel really connected to other women.
+               <lb facs='#facs_118_r_4_1_tl_7' n='N007'/>Readily apparent is the intense hunger for a truly supportive environment. Although many drawings reveal humor, whimsy,
+               <lb facs='#facs_118_r_4_1_tl_8' n='N008'/>imagination and complexities, there are frequently signs of neglected and unfulfilled needs. There are expressions of anger and rage, often
+               <lb facs='#facs_118_r_4_1_tl_9' n='N009'/>convoluted into a light-hearted joke, a defense mechanism familiar to many women. The range of vision is characterized by women&apos;s
+               <lb facs='#facs_118_r_4_1_tl_10' n='N010'/>multiple rhythms and experiences. There is no one dominant statement. Nevertheless, we have noticed patterns that speak of shared
+               <lb facs='#facs_118_r_4_1_tl_11' n='N011'/>experiences and common aspirations.
+               <lb facs='#facs_118_r_4_1_tl_12' n='N012'/>AUTONOMY, CHOICE AND CONTROL. We see networks of accessibility, intricate support systems, a desire for greater mobility
+               <lb facs='#facs_118_r_4_1_tl_13' n='N013'/>in limitless landscapes, a tremendous openness usually qualified by a definite need for protection, through either distance or symbolic,
+               <lb facs='#facs_118_r_4_1_tl_14' n='N014'/>metaphysical barriers. Many women depict retreats, but most often with some connection to the public domain.
+               <lb facs='#facs_118_r_4_1_tl_15' n='N015'/>FLEXIBILITY, ADAPTABILITY AND CHANGE. The drawings relate the shifting of human mood to the shifting of environmental
+               <lb facs='#facs_118_r_4_1_tl_16' n='N016'/>form over time. Architecture is not static and monolithic, but manipulable, expanding and contracting, organically evolving —stretcha
+               <lb facs='#facs_118_r_4_1_tl_17' n='N017'/>ble nets, systems of attachment and separation, multiple purposes, recycleable forms.
+               <lb facs='#facs_118_r_4_1_tl_18' n='N018'/>LIFE AS A MOSAIC OF CONTINUOUS EXPERIENCE. Many drawings show a spatial organization that is multicentered, fluid,
+               <lb facs='#facs_118_r_4_1_tl_19' n='N019'/>informal and non-linear. Time is perceived as a continuum, often embodied in swirling movement and spiraling forms.
+               <lb facs='#facs_118_r_4_1_tl_20' n='N020'/>INCLUSION OF THE HUMAN DIMENSION. The expression of physical and emotional intimacy is consistent. Although there are
+               <lb facs='#facs_118_r_4_1_tl_21' n='N021'/>vast spaces and vertical forms, there is little abstraction or monumentality. Spaces are described directly in terms of human activity
+               <lb facs='#facs_118_r_4_1_tl_22' n='N022'/>relaxing, dancing, working, screaming, lovemaking, eating.
+               <lb facs='#facs_118_r_4_1_tl_23' n='N023'/>INTEGRATION OF BODY/SENSUALITY AND MIND/ORDER. Sensory stimulation plays an important role — temperature and
+               <lb facs='#facs_118_r_4_1_tl_24' n='N024'/>climate, surface textures, sounds, smells, the softening of hard-edged shapes into more fluid architectural forms. At the same time, work,
+               <lb facs='#facs_118_r_4_1_tl_25' n='N025'/>technology, order, thought and access to information are included within these spaces. Water, plants, colored prisms, soft pillows and
+               <lb facs='#facs_118_r_4_1_tl_26' n='N026'/>saunas coexist with libraries, toolshops, financial institutions and computers.
+               <lb facs='#facs_118_r_4_1_tl_27' n='N027'/>RECOGNITION OF LIFE’S COMPLEXITY AND AMBIGUITY. Forms are often open-ended and inclusive — tapestries of complica
+               <lb facs='#facs_118_r_4_1_tl_28' n='N028'/>tion and detail, wheels within wheels of wavelike organization, inclusiveness within a private space that shows an awareness of multiple
+               <lb facs='#facs_118_r_4_1_tl_29' n='N029'/>scales of experience and relations.
+            </p>
+            <pb n='119'/>
+            <p>
+               <lb facs='#facs_119_r_2_1_tl_1' n='N001'/>The physical world constitutes a necessary component in this pro
+               <lb facs='#facs_119_r_2_1_tl_2' n='N002'/>gram for change as women continue to sort out what they want
+               <lb facs='#facs_119_r_2_1_tl_3' n='N003'/>and need for a new society. We know that through our condition
+               <lb facs='#facs_119_r_2_1_tl_4' n='N004'/>ing we can adapt to all kinds of spaces, but we also know that
+               <lb facs='#facs_119_r_2_1_tl_5' n='N005'/>space can dominate, inhibit, reinforce role patterns. It can remind
+               <lb facs='#facs_119_r_2_1_tl_6' n='N006'/>us we are small or large, with or without will. Space itself can be
+               <lb facs='#facs_119_r_2_1_tl_7' n='N007'/>receptive and intrusive, expansive and restrictive. In short, it can
+               <lb facs='#facs_119_r_2_1_tl_8' n='N008'/>be a form of either social control or support. A supportive
+               <lb facs='#facs_119_r_2_1_tl_9' n='N009'/>environment may be many things to different people. Its physical
+               <lb facs='#facs_119_r_2_1_tl_10' n='N010'/>element is but one aspect of what women conceive of as a context
+               <lb facs='#facs_119_r_2_1_tl_11' n='N011'/>in which self-actualization can be achieved. A truly supportive
+               <lb facs='#facs_119_r_2_1_tl_12' n='N012'/>environment would consist of cooperative, non-competitive,
+               <lb facs='#facs_119_r_2_1_tl_13' n='N013'/>dynamic, in/out interactions with each other, a lack of power
+               <lb facs='#facs_119_r_2_1_tl_14' n='N014'/>over relationships and an economic system and atmosphere that
+               <lb facs='#facs_119_r_2_1_tl_15' n='N015'/>encourage the development of feminist institutions housed in
+               <lb facs='#facs_119_r_2_1_tl_16' n='N016'/>appropriate forms and spaces of our own making. Since this
+               <lb facs='#facs_119_r_2_1_tl_17' n='N017'/>project began, there has been increasingly visible evidence of a
+               <lb facs='#facs_119_r_2_1_tl_18' n='N018'/>new women’s culture. We are reclaiming language, poetry
+               <lb facs='#facs_119_r_2_1_tl_19' n='N019'/>music, art, ritual, religion. Architecture, curiously referred to by
+               <lb facs='#facs_119_r_2_1_tl_20' n='N020'/>our culture as the “mother of the arts,&quot; can be reclaimed too. We
+               <lb facs='#facs_119_r_2_1_tl_21' n='N021'/>can learn much from our past, but there is an urgent need to listen
+               <lb facs='#facs_119_r_2_1_tl_22' n='N022'/>to our own experience as women if we are to create the morphol
+               <lb facs='#facs_119_r_2_1_tl_23' n='N023'/>ogy of the future. —NPB
+            </p>
+            <p>
+               <lb facs='#facs_119_r_4_1_tl_1' n='N001'/>Architecture is rarely created in isolation. It must be evaluated
+               <lb facs='#facs_119_r_4_1_tl_2' n='N002'/>and criticized within the semiological framework of history and
+               <lb facs='#facs_119_r_4_1_tl_3' n='N003'/>culture. A closer look at the man-made environment from a femi
+               <lb facs='#facs_119_r_4_1_tl_4' n='N004'/>nist perspective reveals the iconography of the patriarchal cul
+               <lb facs='#facs_119_r_4_1_tl_5' n='N005'/>ture in spatial metaphors. One of the most obvious is the ex
+               <lb facs='#facs_119_r_4_1_tl_6' n='N006'/>treme bifurcation between public and domestic environments.
+               <lb facs='#facs_119_r_4_1_tl_7' n='N007'/>The public world of events, man&apos;s world, is associated with
+               <lb facs='#facs_119_r_4_1_tl_8' n='N008'/>objectivity, individuality and rational functionalism. The pri-
+               <lb facs='#facs_119_r_4_1_tl_9' n='N009'/>vate domain, the single-family detached house, &quot;women&apos;s world,
+               <lb facs='#facs_119_r_4_1_tl_10' n='N010'/>is associated with subjectivity, cooperation and nurturance.
+               <lb facs='#facs_119_r_4_1_tl_11' n='N011'/>One of the most important responsibilities of architectural fem
+               <lb facs='#facs_119_r_4_1_tl_12' n='N012'/>inism is to heal this artificial spatial schism. We need to find a
+               <lb facs='#facs_119_r_4_1_tl_13' n='N013'/>new morphology, a new architectural language in which the
+               <lb facs='#facs_119_r_4_1_tl_14' n='N014'/>words, grammar and syntax synthesize work and play, intellect
+               <lb facs='#facs_119_r_4_1_tl_15' n='N015'/>and feeling, action and compassion. This is not a particularly new
+               <lb facs='#facs_119_r_4_1_tl_16' n='N016'/>insight, but I reiterate it here because so many women expressed
+               <lb facs='#facs_119_r_4_1_tl_17' n='N017'/>the same vision in their environmental fantasy drawings. A femi
+               <lb facs='#facs_119_r_4_1_tl_18' n='N018'/>nist architecture will emerge only from a social and ecological
+               <lb facs='#facs_119_r_4_1_tl_19' n='N019'/>evolution embodying feminist sensibilities and ideology. Archi
+               <lb facs='#facs_119_r_4_1_tl_20' n='N020'/>tectural form making is a political act. We will not create a new
+               <lb facs='#facs_119_r_4_1_tl_21' n='N021'/>and integrated environment until our society values those aspects
+               <lb facs='#facs_119_r_4_1_tl_22' n='N022'/>of human experience that have been devalued through the
+               <lb facs='#facs_119_r_4_1_tl_23' n='N023'/>oppression of women. And no one will ever convince me that we
+               <lb facs='#facs_119_r_4_1_tl_24' n='N024'/>have a &quot;revolution until I see feminism institutionalized in the
+               <lb facs='#facs_119_r_4_1_tl_25' n='N025'/>nature and quality of the environments we build. — LKW
+               <lb facs='#facs_119_r_4_1_tl_26' n='N026'/>the Women’s School of Planning and Architecture. They have written for
+               <lb facs='#facs_119_r_4_1_tl_27' n='N027'/>many feminist and professional journals and hope to share their collection
+               <lb facs='#facs_119_r_4_1_tl_28' n='N028'/>of drawings in book form.
+            </p>
+            <p>
+               <lb facs='#facs_119_r_3_1_tl_1' n='N001'/>Noel Phyllis Birkby is a registered architect in New York and teaches archi
+               <lb facs='#facs_119_r_3_1_tl_2' n='N002'/>tectural design at Pratt Institute. Leslie Kanes Weisman is a professor of
+               <lb facs='#facs_119_r_3_1_tl_3' n='N003'/>Architecture and Environmental Design at New Jersey Institute of Tech
+               <lb facs='#facs_119_r_3_1_tl_4' n='N004'/>nology. Both are long-time feminist activists and among the co-founders of
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

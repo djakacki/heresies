@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='95'/>
+			<p>
+				<lb facs='#facs_95_l' n='N001'/>FROM THE
+				<lb facs='#facs_95_l_2984' n='N002'/>PINK AND YELLOW
+				<lb facs='#facs_95_l_2988' n='N003'/>BOOKS
+				<lb facs='#facs_95_l_2992' n='N004'/>POPPY JOHNSON
+			</p>
+			<p>
+				<lb facs='#facs_95_r_1_1_tl_1' n='N001'/>The context of my writing is the performance situation which
+				<lb facs='#facs_95_r_1_1_tl_2' n='N002'/>I set up at Artists’ Space, the Leo Castelli Gallery, and the
+				<lb facs='#facs_95_r_1_1_tl_3' n='N003'/>Whitney Downtown, where a video camera on a tripod behind
+				<lb facs='#facs_95_r_1_1_tl_4' n='N004'/>me instantaneously transmitted the image of the letters, words,
+				<lb facs='#facs_95_r_1_1_tl_5' n='N005'/>sentences as they were written to a video monitor across the
+				<lb facs='#facs_95_r_1_1_tl_6' n='N006'/>room. The pink book was written in anticipation of performing,
+				<lb facs='#facs_95_r_1_1_tl_7' n='N007'/>the yellow book is one-third performance and the blue and sub
+				<lb facs='#facs_95_r_1_1_tl_8' n='N008'/>sequent books consist only and totally of material written in
+				<lb facs='#facs_95_r_1_1_tl_9' n='N009'/>performance.
+				<lb facs='#facs_95_r_1_1_tl_10' n='N010'/>Pink Book
+				<lb facs='#facs_95_r_1_1_tl_11' n='N011'/>Beginning at the beginning. Which is rock bottom. To be an
+				<lb facs='#facs_95_r_1_1_tl_12' n='N012'/>artist who has not made any art for two years is very depressing.
+				<lb facs='#facs_95_r_1_1_tl_13' n='N013'/>I have been very happy and absorbed. I had two perfect little
+				<lb facs='#facs_95_r_1_1_tl_14' n='N014'/>bodies come out of my body. My body was huge and soft and
+				<lb facs='#facs_95_r_1_1_tl_15' n='N015'/>full of milk. I held and nursed and fondled and fed and dressed
+				<lb facs='#facs_95_r_1_1_tl_16' n='N016'/>and undressed and talked to and listened to my babies in an
+				<lb facs='#facs_95_r_1_1_tl_17' n='N017'/>unending orgy of interdependence. Since Mira and Bran were
+				<lb facs='#facs_95_r_1_1_tl_18' n='N018'/>born I have had no time to myself except sleep. But now I have
+				<lb facs='#facs_95_r_1_1_tl_19' n='N019'/>been hired by Carl Andre to do this job of sitting for three hours
+				<lb facs='#facs_95_r_1_1_tl_20' n='N020'/>a day in an old green space with a sign eight feet from my right
+				<lb facs='#facs_95_r_1_1_tl_21' n='N021'/>eye about possibilities for art production.... So Carl is
+				<lb facs='#facs_95_r_1_1_tl_22' n='N022'/>unwittingly my first patron (this work), my inspiration and
+				<lb facs='#facs_95_r_1_1_tl_23' n='N023'/>my competition. My materials were paper and pen, now I have
+				<lb facs='#facs_95_r_1_1_tl_24' n='N024'/>a typewriter here so that what I am doing now is part typing what
+				<lb facs='#facs_95_r_1_1_tl_25' n='N025'/>I have already written and part writing now and it all has to do
+				<lb facs='#facs_95_r_1_1_tl_26' n='N026'/>with the future. My economic resources are not vast, but neither
+				<lb facs='#facs_95_r_1_1_tl_27' n='N027'/>are my needs. I figure I need 5500 a month to support myself and
+				<lb facs='#facs_95_r_1_1_tl_28' n='N028'/>half of two children which works out to 58.20 an hour if I work
+				<lb facs='#facs_95_r_1_1_tl_29' n='N029'/>three hours a day five days a week which is all I want to spare
+				<lb facs='#facs_95_r_1_1_tl_30' n='N030'/>right now from my children. The economic resource I have right
+				<lb facs='#facs_95_r_1_1_tl_31' n='N031'/>now from this job is really time. The rest is all my subjective
+				<lb facs='#facs_95_r_1_1_tl_32' n='N032'/>characteristics which will be manifest in the work which is to
+				<lb facs='#facs_95_r_1_1_tl_33' n='N033'/>write whatever I am thinking publicly so that it can be simul
+				<lb facs='#facs_95_r_1_1_tl_34' n='N034'/>taneously read. I am not being particularly clear, but this is the
+				<lb facs='#facs_95_r_1_1_tl_35' n='N035'/>boring part where I am trying to elicit interest and support and
+				<lb facs='#facs_95_r_1_1_tl_36' n='N036'/>collaboration or patronage or whatever. Already I feel a need to
+				<lb facs='#facs_95_r_1_1_tl_37' n='N037'/>rewrite the beginning. This work is writing about this work.
+				<lb facs='#facs_95_r_1_1_tl_38' n='N038'/>Writing about this work is this work. I am keeping my private
+				<lb facs='#facs_95_r_1_1_tl_39' n='N039'/>journal publicly. I am the Delphic oracle. I am studying to be a
+				<lb facs='#facs_95_r_1_1_tl_40' n='N040'/>shopping-bag lady. I am redefining art. I want to be in a public
+				<lb facs='#facs_95_r_1_1_tl_41' n='N041'/>room with a typewriter and some machinery, maybe video, that
+				<lb facs='#facs_95_r_1_1_tl_42' n='N042'/>could shoot a written page of 8½ by 11” paper and project the
+				<lb facs='#facs_95_r_1_1_tl_43' n='N043'/>image of it on a wall or screen, but so it is easily legible. The room
+				<lb facs='#facs_95_r_1_1_tl_44' n='N044'/>is somewhat dark except for a good light on my typewriter. I am
+				<lb facs='#facs_95_r_1_1_tl_45' n='N045'/>writing down whatever I am thinking as fast and completely and
+				<lb facs='#facs_95_r_1_1_tl_46' n='N046'/>well as I can. People come in and watch and read. There is a
+				<lb facs='#facs_95_r_1_1_tl_47' n='N047'/>xerox machine somewhere so that xeroxes of pages may be made.
+				<lb facs='#facs_95_r_1_1_tl_48' n='N048'/>I want to find out what and how I think. I want the publicness of
+				<lb facs='#facs_95_r_1_1_tl_49' n='N049'/>it to interact with the process of finding out. I like using machines
+				<lb facs='#facs_95_r_1_1_tl_50' n='N050'/>although I am not technically proficient and comfortable with
+				<lb facs='#facs_95_r_1_1_tl_51' n='N051'/>them because they and art are the two metaphors for the mind
+				<lb facs='#facs_95_r_1_1_tl_52' n='N052'/>that I am always bumping up against ... It isn’t terror. It isn’t
+				<lb facs='#facs_95_r_1_1_tl_53' n='N053'/>joy. It’s some sort of physical sensation which starts from the
+				<lb facs='#facs_95_r_1_1_tl_54' n='N054'/>very top of my head and ripples down to my buttocks since l’m
+				<lb facs='#facs_95_r_1_1_tl_55' n='N055'/>sitting. If I were standing it would ripple to my feet and make my
+				<lb facs='#facs_95_r_1_1_tl_56' n='N056'/>insteps tingle. l’m stoned. If I thought it were terror I would be
+				<lb facs='#facs_95_r_1_1_tl_57' n='N057'/>terrified. If I thought it were joy I might be still and meditative
+				<lb facs='#facs_95_r_1_1_tl_58' n='N058'/>and happy, but that is different from this absorbed state of
+				<lb facs='#facs_95_r_1_1_tl_59' n='N059'/>working that I am in. This is where there is that possibility of
+				<lb facs='#facs_95_r_1_1_tl_60' n='N060'/>inarticulableness, either stoned or orgasming or making or con
+				<lb facs='#facs_95_r_1_1_tl_61' n='N061'/>templating art or mystical experiences. There is the temptation
+				<lb facs='#facs_95_r_1_1_tl_62' n='N062'/>of feigning speechlessness because of fearing the inadequacy of
+				<lb facs='#facs_95_r_1_1_tl_63' n='N063'/>words. It can’t be the words that are at fault, but my laziness.
+				<lb facs='#facs_95_r_1_1_tl_64' n='N064'/>Outside there is a New York sirocco blowing hot restless moving
+				<lb facs='#facs_95_r_1_1_tl_65' n='N065'/>air all around my legs and hair. It’s exciting but disturbing since
+			</p>
+			<p>
+				<lb facs='#facs_95_r_2_1_tl_5' n='N001'/>l’m wearing only a light short cotton dress and a pair of under
+				<lb facs='#facs_95_r_2_1_tl_6' n='N002'/>pants. A pair of underpants is only one thing unlike a pair of
+				<lb facs='#facs_95_r_2_1_tl_7' n='N003'/>mittens. I feel naked and lustful and agitated. I just thought about
+				<lb facs='#facs_95_r_2_1_tl_8' n='N004'/>Gertrude Stein and Jill Johnston as heroines, but I didn’t like to
+				<lb facs='#facs_95_r_2_1_tl_9' n='N005'/>think it because it broke my other train of thought. l’d rather
+				<lb facs='#facs_95_r_2_1_tl_10' n='N006'/>stay physical today. While digging in my purse for cigarettes
+				<lb facs='#facs_95_r_2_1_tl_11' n='N007'/>(a man wouldn’t have written that) I found a three-inch high
+				<lb facs='#facs_95_r_2_1_tl_12' n='N008'/>light gray plastic horse, missing its flowing tail but complete
+				<lb facs='#facs_95_r_2_1_tl_13' n='N009'/>with flowing darker mane and red indented nostrils and lips, that
+				<lb facs='#facs_95_r_2_1_tl_14' n='N010'/>belongs to my children. Well, I bought it for them but it&apos;s
+				<lb facs='#facs_95_r_2_1_tl_15' n='N011'/>questionable if children actually own things at all.... I remembei
+				<lb facs='#facs_95_r_2_1_tl_16' n='N012'/>Lambie, a big soft stuffed white lamb I slept with, and later used
+				<lb facs='#facs_95_r_2_1_tl_17' n='N013'/>to dust with my mother’s perfumed talcum powder to make him
+				<lb facs='#facs_95_r_2_1_tl_18' n='N014'/>white again. Funny that I thought he was male. I wonder when I
+				<lb facs='#facs_95_r_2_1_tl_19' n='N015'/>started dividing the world that way and what arbitrary rules did
+				<lb facs='#facs_95_r_2_1_tl_20' n='N016'/>I make up in unknown gender cases like toy animals and why.
+				<lb facs='#facs_95_r_2_1_tl_21' n='N017'/>I did write a list of the first hundred words the babies spoke, but
+				<lb facs='#facs_95_r_2_1_tl_22' n='N018'/>I haven’t written them a journal of their daily activities. That&apos;s
+				<lb facs='#facs_95_r_2_1_tl_23' n='N019'/>their bedtime story every night anyway so I suppose I could tape
+				<lb facs='#facs_95_r_2_1_tl_24' n='N020'/>it and save it for them for eternity. “Once upon a time there
+				<lb facs='#facs_95_r_2_1_tl_25' n='N021'/>was a little boy named Bran and a little girl named Mira and this
+				<lb facs='#facs_95_r_2_1_tl_26' n='N022'/>morning they woke up very early and woke up their mommy and
+				<lb facs='#facs_95_r_2_1_tl_27' n='N023'/>daddy and had eggs for breakfast and....&quot; Every once in a while
+				<lb facs='#facs_95_r_2_1_tl_28' n='N024'/>I get conscious of switching the order girl/boy, boy/girl, every
+				<lb facs='#facs_95_r_2_1_tl_29' n='N025'/>alternate night, but often slide back to Bran/Mira several nights
+				<lb facs='#facs_95_r_2_1_tl_30' n='N026'/>in a row. I even started telling it “Once upon a time there were
+				<lb facs='#facs_95_r_2_1_tl_31' n='N027'/>two children, one named Mira and one named Bran... so that
+				<lb facs='#facs_95_r_2_1_tl_32' n='N028'/>there wouldn’t even be the boy/girl differentiation at all, but l’m
+				<lb facs='#facs_95_r_2_1_tl_33' n='N029'/>afraid that they and I are already conditioned that way. Bran is
+				<lb facs='#facs_95_r_2_1_tl_34' n='N030'/>masculine and Mira is feminine and they get more and more
+				<lb facs='#facs_95_r_2_1_tl_35' n='N031'/>different every day. I hope that Mira won’t hate me when she
+				<lb facs='#facs_95_r_2_1_tl_36' n='N032'/>grows up. I hope that all the femininity that I have inevitably
+				<lb facs='#facs_95_r_2_1_tl_37' n='N033'/>inculcated in her will be perceived as positive and valuable
+				<lb facs='#facs_95_r_2_1_tl_38' n='N034'/>instead of the degrading powerlessness I have often been made to
+				<lb facs='#facs_95_r_2_1_tl_39' n='N035'/>feel. The only way I can attempt to assure that is to make sure
+				<lb facs='#facs_95_r_2_1_tl_40' n='N036'/>she grows up with good images of female power surrounding
+				<lb facs='#facs_95_r_2_1_tl_41' n='N037'/>her, starting with my own self. And that means not totally
+				<lb facs='#facs_95_r_2_1_tl_42' n='N038'/>answering her current demands of all my time and affection and
+				<lb facs='#facs_95_r_2_1_tl_43' n='N039'/>attention so that I can go out and get myself powerful and make
+				<lb facs='#facs_95_r_2_1_tl_44' n='N040'/>sure that I feel it and feel good about it. Which is difficult to do.
+				<lb facs='#facs_95_r_2_1_tl_45' n='N041'/>Which l’m not pretending to do for her sake, but knowing that it
+				<lb facs='#facs_95_r_2_1_tl_46' n='N042'/>is also for her makes me stronger. It’s for Bran too but not as
+				<lb facs='#facs_95_r_2_1_tl_47' n='N043'/>empathetically. For a long time I was taught to see my mother,
+				<lb facs='#facs_95_r_2_1_tl_48' n='N044'/>and she was being convinced to see herself, as a mean, castrating,
+				<lb facs='#facs_95_r_2_1_tl_49' n='N045'/>frigid, evil bitch. I don’t blame her for that, but I would blame
+				<lb facs='#facs_95_r_2_1_tl_50' n='N046'/>myself if I let Mira suffer the same thing. She will have to suffer
+				<lb facs='#facs_95_r_2_1_tl_51' n='N047'/>something else. Some new pattern. In my mother’s family one
+				<lb facs='#facs_95_r_2_1_tl_52' n='N048'/>only talks about the women, at least as far back as the civil war,
+				<lb facs='#facs_95_r_2_1_tl_53' n='N049'/>because they were the interesting ones and/or they lived longer.
+				<lb facs='#facs_95_r_2_1_tl_54' n='N050'/>Anyway it is the female line that is traced. I read a diary of my
+				<lb facs='#facs_95_r_2_1_tl_55' n='N051'/>mother’s mother’s mother’s mother who was a southern belle
+				<lb facs='#facs_95_r_2_1_tl_56' n='N052'/>named Emma Munnerlin, daughter of a rice plantation and slave
+				<lb facs='#facs_95_r_2_1_tl_57' n='N053'/>owner, who married Charles Stocking, a yankee whose family
+				<lb facs='#facs_95_r_2_1_tl_58' n='N054'/>had been long settled in the Connecticut River valley. He made
+				<lb facs='#facs_95_r_2_1_tl_59' n='N055'/>a small fortune and then the civil war broke out and his brothers
+			</p>
+			<pb n='96'/>
+			<p>
+				<lb facs='#facs_96_r_1_1_tl_1' n='N001'/>and cousins were all fighting for the union. He got wiped out
+				<lb facs='#facs_96_r_1_1_tl_2' n='N002'/>financially and went catatonic for a while and then just psychoti
+				<lb facs='#facs_96_r_1_1_tl_3' n='N003'/>cally morbid and depressed and afunctional. Emma’s brothers
+				<lb facs='#facs_96_r_1_1_tl_4' n='N004'/>and father were killed and ruined so she had to move north with
+				<lb facs='#facs_96_r_1_1_tl_5' n='N005'/>two infant daughters and a crazy husband and support every
+				<lb facs='#facs_96_r_1_1_tl_6' n='N006'/>body by giving french and music lessons to the local yankee
+				<lb facs='#facs_96_r_1_1_tl_7' n='N007'/>daughters. She didn’t complain in her diaries and they are not
+				<lb facs='#facs_96_r_1_1_tl_8' n='N008'/>too exciting to read unless you already know the story and
+				<lb facs='#facs_96_r_1_1_tl_9' n='N009'/>empathize a lot. She had been brought up with a personal slave
+				<lb facs='#facs_96_r_1_1_tl_10' n='N010'/>companion, a girl a little older than herself, who brushed her
+				<lb facs='#facs_96_r_1_1_tl_11' n='N011'/>long hair for her every morning and every night. They must have
+				<lb facs='#facs_96_r_1_1_tl_12' n='N012'/>started out like twins or best friends or lovers and been trained
+				<lb facs='#facs_96_r_1_1_tl_13' n='N013'/>to accept their difference in status. Her slave would have been
+				<lb facs='#facs_96_r_1_1_tl_14' n='N014'/>the real child of the black woman who suckled her and the reason
+				<lb facs='#facs_96_r_1_1_tl_15' n='N015'/>the woman was still full of milk for the little white baby. It is
+				<lb facs='#facs_96_r_1_1_tl_16' n='N016'/>easier to imagine the rage that the black baby girl woman might
+				<lb facs='#facs_96_r_1_1_tl_17' n='N017'/>have felt but probably didn’t than to understand what subtle
+				<lb facs='#facs_96_r_1_1_tl_18' n='N018'/>unconscious mixtures of interdependence and guilt and affection
+				<lb facs='#facs_96_r_1_1_tl_19' n='N019'/>and tyranny Emma might have felt. Either way there’s no record
+				<lb facs='#facs_96_r_1_1_tl_20' n='N020'/>of it. Only imaginings based on experience or literature or
+				<lb facs='#facs_96_r_1_1_tl_21' n='N021'/>movies. One of my best friends throughout high school was a
+				<lb facs='#facs_96_r_1_1_tl_22' n='N022'/>very brilliant, angry, tricky and unfathomable black girl, one of
+				<lb facs='#facs_96_r_1_1_tl_23' n='N023'/>the three or four blacks in the whole hypocritical elitist
+				<lb facs='#facs_96_r_1_1_tl_24' n='N024'/>bourgeois school. I am a complex and conscious racist. I wish I
+				<lb facs='#facs_96_r_1_1_tl_25' n='N025'/>weren’t a racist at all, but l am a racist and a sexist and would
+				<lb facs='#facs_96_r_1_1_tl_26' n='N026'/>probably be a capitalist imperialist if I had the chance. Fighting
+				<lb facs='#facs_96_r_1_1_tl_27' n='N027'/>those things personally can either give or take away the strength
+				<lb facs='#facs_96_r_1_1_tl_28' n='N028'/>to fight them on a political level....
+				<lb facs='#facs_96_r_1_1_tl_29' n='N029'/>When Eva Hesse died, some friends of mine were moving
+				<lb facs='#facs_96_r_1_1_tl_30' n='N030'/>into her place on the Bowery, and they knew how poor I was,
+				<lb facs='#facs_96_r_1_1_tl_31' n='N031'/>and they said I could have any of the materials I could salvage
+				<lb facs='#facs_96_r_1_1_tl_32' n='N032'/>from the heaps on the floor. I took inks and charcoals and water
+				<lb facs='#facs_96_r_1_1_tl_33' n='N033'/>color sets and oilpaints and cords and tubing and strings and bits
+				<lb facs='#facs_96_r_1_1_tl_34' n='N034'/>of rubber and everything. I figured it might be magic and I needed
+				<lb facs='#facs_96_r_1_1_tl_35' n='N035'/>all the money I was making (working for a real estate agent in
+				<lb facs='#facs_96_r_1_1_tl_36' n='N036'/>Brooklyn) for food anyway. I can never have too many bottles
+				<lb facs='#facs_96_r_1_1_tl_37' n='N037'/>of half-evaporated foul-smelling multicolored Higgins ink and
+				<lb facs='#facs_96_r_1_1_tl_38' n='N038'/>little wads of used art gum erasers. I carry it all with me from
+				<lb facs='#facs_96_r_1_1_tl_39' n='N039'/>studio to studio. First to the 5th floor of 323 Greenwich St, then
+				<lb facs='#facs_96_r_1_1_tl_40' n='N040'/>to Mulberry St, then to the country, then to the 4th floor of
+				<lb facs='#facs_96_r_1_1_tl_41' n='N041'/>323 Greenwich St, then to 319 Greenwich St. It comes in handy.
+				<lb facs='#facs_96_r_1_1_tl_42' n='N042'/>Except for the horrid little nose masks for working with plastic.
+				<lb facs='#facs_96_r_1_1_tl_43' n='N043'/>One time I used a whole lot of that material plus other stuff
+				<lb facs='#facs_96_r_1_1_tl_44' n='N044'/>to make work in the woods. I was reading a lot about shamanism
+				<lb facs='#facs_96_r_1_1_tl_45' n='N045'/>at the time and, while thinking, I would spend all day in the
+				<lb facs='#facs_96_r_1_1_tl_46' n='N046'/>woods, one late summer into fall, making things from painted
+				<lb facs='#facs_96_r_1_1_tl_47' n='N047'/>strings and painted wood and the trees that were there and the
+				<lb facs='#facs_96_r_1_1_tl_48' n='N048'/>rocks and a brook and rubber slingshots and the works were visi
+				<lb facs='#facs_96_r_1_1_tl_49' n='N049'/>ble enough to be photographed but invisible enough to be magical
+				<lb facs='#facs_96_r_1_1_tl_50' n='N050'/>traps. Nobody ever saw them except the man I lived with and
+				<lb facs='#facs_96_r_1_1_tl_51' n='N051'/>the man who used to own the woods and still walked his dogs
+				<lb facs='#facs_96_r_1_1_tl_52' n='N052'/>there and perhaps an occasional hunter. I always wore red when
+				<lb facs='#facs_96_r_1_1_tl_53' n='N053'/>I worked so I wouldn’t be shot at. And big rubber boots so the
+				<lb facs='#facs_96_r_1_1_tl_54' n='N054'/>copperheads and rattlesnakes wouldn’t bite me. One weekend
+				<lb facs='#facs_96_r_1_1_tl_55' n='N055'/>some people were coming to visit. A critic and a painter. I was
+				<lb facs='#facs_96_r_1_1_tl_56' n='N056'/>very excited because I wanted them to come see my work. I
+				<lb facs='#facs_96_r_1_1_tl_57' n='N057'/>worked hard on Friday afternoon in the woods (after cleaning
+				<lb facs='#facs_96_r_1_1_tl_58' n='N058'/>the house and shopping and making beds etc.). They arrived for
+				<lb facs='#facs_96_r_1_1_tl_59' n='N059'/>supper and it was dark. I woke early Saturday morning from
+				<lb facs='#facs_96_r_1_1_tl_60' n='N060'/>excitement and anxiety and went walking to the woods to see
+				<lb facs='#facs_96_r_1_1_tl_61' n='N061'/>everything once more alone before it became public and found
+				<lb facs='#facs_96_r_1_1_tl_62' n='N062'/>everything I had done wantonly destroyed and stolen and
+				<lb facs='#facs_96_r_1_1_tl_63' n='N063'/>dragged away and gone. This art is writing about this art.
+				<lb facs='#facs_96_r_1_1_tl_64' n='N064'/>Writing about this art is this art. I love grammar but I don&apos;t
+			</p>
+			<p>
+				<lb facs='#facs_96_r_2_1_tl_1' n='N001'/>understand its relation to meaning. If thoughts are born in words,
+				<lb facs='#facs_96_r_2_1_tl_2' n='N002'/>as words, then the grammar is part of their initial existence. If
+				<lb facs='#facs_96_r_2_1_tl_3' n='N003'/>thoughts are born not words, then the words come next and then
+				<lb facs='#facs_96_r_2_1_tl_4' n='N004'/>the grammar is invented for them that puts them in the best
+				<lb facs='#facs_96_r_2_1_tl_5' n='N005'/>order. My daughter has just invented or discovered a sentence
+				<lb facs='#facs_96_r_2_1_tl_6' n='N006'/>that she says all the time which is the question “What is the
+				<lb facs='#facs_96_r_2_1_tl_7' n='N007'/>-being any noun she knows, mommy,
+				<lb facs='#facs_96_r_2_1_tl_8' n='N008'/>-doing?
+				<lb facs='#facs_96_r_2_1_tl_9' n='N009'/>truck, daddy, brother, cookie, kitty, chair, table, toy, etc. I
+				<lb facs='#facs_96_r_2_1_tl_10' n='N010'/>answer the question as best I can when it refers to anything
+				<lb facs='#facs_96_r_2_1_tl_11' n='N011'/>capable of action (doing) but I get confused by &quot;what is the cookie
+				<lb facs='#facs_96_r_2_1_tl_12' n='N012'/>doing?&quot; Sometimes I just say &quot;it is&quot; or &quot;it is being a cookie” or
+				<lb facs='#facs_96_r_2_1_tl_13' n='N013'/>’the cookie is sitting on the chair where Mira left it, waiting for
+				<lb facs='#facs_96_r_2_1_tl_14' n='N014'/>Mira to hurry up and eat it before Poppy or Bran does&quot; or &quot;I
+				<lb facs='#facs_96_r_2_1_tl_15' n='N015'/>don’t know, Mira, what is the cookie doing?” to which she replies
+				<lb facs='#facs_96_r_2_1_tl_16' n='N016'/>&quot;UH.&quot; She has three answers to the kind of questions that I don&apos;t
+				<lb facs='#facs_96_r_2_1_tl_17' n='N017'/>know the answers to myself, No, Yes, and uh. It is not grammar,
+				<lb facs='#facs_96_r_2_1_tl_18' n='N018'/>anyway, which is only a structure, but the enormous number
+				<lb facs='#facs_96_r_2_1_tl_19' n='N019'/>of words and then the mathematical infinity of combining any
+				<lb facs='#facs_96_r_2_1_tl_20' n='N020'/>two, three, seven, twenty-four, thirty-three of them in one
+				<lb facs='#facs_96_r_2_1_tl_21' n='N021'/>sentence that staggers the imagination....
+				<lb facs='#facs_96_r_2_1_tl_22' n='N022'/>l’ve been thinking about Suzanne Harris’ work Locus Up.
+				<lb facs='#facs_96_r_2_1_tl_23' n='N023'/>It is experientially describable as a saint approaching death. It is
+				<lb facs='#facs_96_r_2_1_tl_24' n='N024'/>made of sand and stucco walls. Suzanne looks to me like a
+				<lb facs='#facs_96_r_2_1_tl_25' n='N025'/>combination of Joan of Arc and Saint Sebastian by various
+				<lb facs='#facs_96_r_2_1_tl_26' n='N026'/>renaissance masters. I think she is very beautiful. That may not
+				<lb facs='#facs_96_r_2_1_tl_27' n='N027'/>be relevant but I wrote it anyway. The saint approaches her
+				<lb facs='#facs_96_r_2_1_tl_28' n='N028'/>death. She walks slowly in the sandy desert and the horizon
+				<lb facs='#facs_96_r_2_1_tl_29' n='N029'/>melts away as the sand rises symmetrically on either side of her
+				<lb facs='#facs_96_r_2_1_tl_30' n='N030'/>progress. She won’t look back which is the only way to see the
+				<lb facs='#facs_96_r_2_1_tl_31' n='N031'/>world and people and life she is leaving behind. She looks straight
+				<lb facs='#facs_96_r_2_1_tl_32' n='N032'/>ahead at a narrow dark doorway cut into the mound of sand
+				<lb facs='#facs_96_r_2_1_tl_33' n='N033'/>ahead. Inside is a cool, dark but short passageway that
+				<lb facs='#facs_96_r_2_1_tl_34' n='N034'/>immediately and clearly opens into a bright round limited space.
+				<lb facs='#facs_96_r_2_1_tl_35' n='N035'/>In the center of the bright round space, so huge that it takes up
+				<lb facs='#facs_96_r_2_1_tl_36' n='N036'/>three-fourths of the space is an implacable white cube. The saint
+				<lb facs='#facs_96_r_2_1_tl_37' n='N037'/>looks up into the blue sky above. She has left everything else
+				<lb facs='#facs_96_r_2_1_tl_38' n='N038'/>behind and entered into her own metaphor for her soul, hermetic
+				<lb facs='#facs_96_r_2_1_tl_39' n='N039'/>and infinite. She is not afraid.
+				<lb facs='#facs_96_r_2_1_tl_40' n='N040'/>I wrote a very long list of all the women who I think are
+				<lb facs='#facs_96_r_2_1_tl_41' n='N041'/>beautiful that I have been in the same room with. This is all
+				<lb facs='#facs_96_r_2_1_tl_42' n='N042'/>related. I have been trained by art at the service of society to see
+				<lb facs='#facs_96_r_2_1_tl_43' n='N043'/>certain things as beautiful: sunsets, flowers, stars, jewels, fruit,
+				<lb facs='#facs_96_r_2_1_tl_44' n='N044'/>oceans, shells, trees, mountains, circles, colors, sunrises, and
+				<lb facs='#facs_96_r_2_1_tl_45' n='N045'/>rocks and mothers with children and gold and sunlight and eyes
+				<lb facs='#facs_96_r_2_1_tl_46' n='N046'/>and animals and glass and wood and shiny things; calligraphy
+				<lb facs='#facs_96_r_2_1_tl_47' n='N047'/>and birds and structure and dragons and hills; stars and moon
+				<lb facs='#facs_96_r_2_1_tl_48' n='N048'/>light, boats, flags, crucifixions and repetition and liquids, flight
+				<lb facs='#facs_96_r_2_1_tl_49' n='N049'/>and the lives of the saints, altruism and patriotism and irony,
+				<lb facs='#facs_96_r_2_1_tl_50' n='N050'/>rhythm and power and women. This list could be short if it
+				<lb facs='#facs_96_r_2_1_tl_51' n='N051'/>were generalized and long if it were particularized. Very few of
+				<lb facs='#facs_96_r_2_1_tl_52' n='N052'/>the women on my list are mothers, so why did I want to be a
+				<lb facs='#facs_96_r_2_1_tl_53' n='N053'/>mother? I thought of two ways to be useful on this earth. One is
+				<lb facs='#facs_96_r_2_1_tl_54' n='N054'/>to alleviate human suffering which would make one want to be
+				<lb facs='#facs_96_r_2_1_tl_55' n='N055'/>a saint a scientist a revolutionary a doctor a politician a nurse
+				<lb facs='#facs_96_r_2_1_tl_56' n='N056'/>a teacher a social worker a mass murderer a saint a mother an
+				<lb facs='#facs_96_r_2_1_tl_57' n='N057'/>artist an entertainer a whore a mathematician or to add to human
+				<lb facs='#facs_96_r_2_1_tl_58' n='N058'/>joy by being.
+				<lb facs='#facs_96_r_2_1_tl_59' n='N059'/>Yellow Book
+				<lb facs='#facs_96_r_2_1_tl_60' n='N060'/>It might be possible to believe that Chang Ching truly tried
+				<lb facs='#facs_96_r_2_1_tl_61' n='N061'/>to revolutionize culture or the relationship between people and
+				<lb facs='#facs_96_r_2_1_tl_62' n='N062'/>culture and that is why the bureaucrats who seem to be in power
+				<lb facs='#facs_96_r_2_1_tl_63' n='N063'/>now are afraid of her. The New York Times says her revolu
+				<lb facs='#facs_96_r_2_1_tl_64' n='N064'/>tionary operas were rigidly propagandistic but they see propa
+			</p>
+			<pb n='97'/>
+			<p>
+				<lb facs='#facs_97_r_1_1_tl_1' n='N001'/>ganda as a pejorative word and what do they know anyway? It
+				<lb facs='#facs_97_r_1_1_tl_2' n='N002'/>interests me that she was an actress and perhaps an adventuress
+				<lb facs='#facs_97_r_1_1_tl_3' n='N003'/>and l imagine she has been made to suffer because Mao sent his
+				<lb facs='#facs_97_r_1_1_tl_4' n='N004'/>loyal wife of the Long March, who bore him children given to
+				<lb facs='#facs_97_r_1_1_tl_5' n='N005'/>peasants on the route and then lost, off to Moscow and then
+				<lb facs='#facs_97_r_1_1_tl_6' n='N006'/>divorced her so he could marry young Chang Ching. My son is
+				<lb facs='#facs_97_r_1_1_tl_7' n='N007'/>crying in his room. It is ten o’clock at night and he is supposed to
+				<lb facs='#facs_97_r_1_1_tl_8' n='N008'/>be learning to go to bed without me lying beside him or singing
+				<lb facs='#facs_97_r_1_1_tl_9' n='N009'/>songs or telling stories until he goes to sleep. If I do all or any of
+				<lb facs='#facs_97_r_1_1_tl_10' n='N010'/>those things his father gets mad at me. If I don’t he cries and his
+				<lb facs='#facs_97_r_1_1_tl_11' n='N011'/>father gets mad at him and then at me because it is my fault he
+				<lb facs='#facs_97_r_1_1_tl_12' n='N012'/>cries and it takes hours before everyone calms down because I get
+				<lb facs='#facs_97_r_1_1_tl_13' n='N013'/>mad too. All that writing was interrupted by my going and lying
+				<lb facs='#facs_97_r_1_1_tl_14' n='N014'/>down beside Bran and holding his hand and within five minutes
+				<lb facs='#facs_97_r_1_1_tl_15' n='N015'/>he fell asleep. The other night both children were in the bathtub
+				<lb facs='#facs_97_r_1_1_tl_16' n='N016'/>and I gave them two roses from the dozens given me at my
+				<lb facs='#facs_97_r_1_1_tl_17' n='N017'/>performance to play with. I dethorned them first. I got in the
+				<lb facs='#facs_97_r_1_1_tl_18' n='N018'/>bathtub with them and they were pulling the petals off the roses
+				<lb facs='#facs_97_r_1_1_tl_19' n='N019'/>and we all decorated each other with rose petals. But I worry
+				<lb facs='#facs_97_r_1_1_tl_20' n='N020'/>about Chang Ching. What if both she and Mao had been mythol
+				<lb facs='#facs_97_r_1_1_tl_21' n='N021'/>ogized together, as an inseparable passionate toward each other
+				<lb facs='#facs_97_r_1_1_tl_22' n='N022'/>and passionate to the revolution pair. He would seem less a
+				<lb facs='#facs_97_r_1_1_tl_23' n='N023'/>father if he were also seen as a lover. Wasn’t it Justinian and
+				<lb facs='#facs_97_r_1_1_tl_24' n='N024'/>Theodora who ran such an ideal government and she had been a
+				<lb facs='#facs_97_r_1_1_tl_25' n='N025'/>dancing girl or something. I know I used to think that all men
+				<lb facs='#facs_97_r_1_1_tl_26' n='N026'/>were republicans and all women democrats. (My daughter
+				<lb facs='#facs_97_r_1_1_tl_27' n='N027'/>sometimes declares that all girls have blue eyes and all boys have
+				<lb facs='#facs_97_r_1_1_tl_28' n='N028'/>brown eyes, but now she has a blue-eyed doll with a penis so her
+				<lb facs='#facs_97_r_1_1_tl_29' n='N029'/>faith is a bit shaken.) (She also knows her brown-eyed halfsister
+				<lb facs='#facs_97_r_1_1_tl_30' n='N030'/>has a cunt which is the word used opposite penis in this house
+				<lb facs='#facs_97_r_1_1_tl_31' n='N031'/>because vagina is just not one of my favorite words and cunt is
+				<lb facs='#facs_97_r_1_1_tl_32' n='N032'/>despite its frequent misuse as an insult.) I was taught that men
+				<lb facs='#facs_97_r_1_1_tl_33' n='N033'/>were republicans because they had to worry about money and
+				<lb facs='#facs_97_r_1_1_tl_34' n='N034'/>they didn’t like to give it to poor people and that women, because
+				<lb facs='#facs_97_r_1_1_tl_35' n='N035'/>they didn’t have to work and are naturally extravagant and
+				<lb facs='#facs_97_r_1_1_tl_36' n='N036'/>generous and soft-hearted, are democrats and fuzzy-headed
+				<lb facs='#facs_97_r_1_1_tl_37' n='N037'/>liberals. Also because women can afford to be idealistic and
+				<lb facs='#facs_97_r_1_1_tl_38' n='N038'/>hopeful whereas men have to be cynical to survive in the jungle.
+				<lb facs='#facs_97_r_1_1_tl_39' n='N039'/>There is probably no demographic truth in that, it was only my
+				<lb facs='#facs_97_r_1_1_tl_40' n='N040'/>own family. I am registered and almost always vote as a demo
+				<lb facs='#facs_97_r_1_1_tl_41' n='N041'/>crat but my real party is the changchingist communist party,
+				<lb facs='#facs_97_r_1_1_tl_42' n='N042'/>which is entirely feminist and attempts to integrate art and life in
+			</p>
+			<p>
+				<lb facs='#facs_97_r_2_1_tl_1' n='N001'/>a truly revolutionary manner. This party has only just now been
+				<lb facs='#facs_97_r_2_1_tl_2' n='N002'/>imagined by me and its inspiration is languishing under house
+				<lb facs='#facs_97_r_2_1_tl_3' n='N003'/>arrest in Peking on the other side of this funny round world, but
+				<lb facs='#facs_97_r_2_1_tl_4' n='N004'/>the...
+				<lb facs='#facs_97_r_2_1_tl_5' n='N005'/>Our loft is very odd now. You walk in and are confronted
+				<lb facs='#facs_97_r_2_1_tl_6' n='N006'/>with what is either called a what-not or a marbletop, being an
+				<lb facs='#facs_97_r_2_1_tl_7' n='N007'/>elaborately carved wooden object with a mirror and knobs for
+				<lb facs='#facs_97_r_2_1_tl_8' n='N008'/>hanging coats and bags and a marble tabletop for throwing keys
+				<lb facs='#facs_97_r_2_1_tl_9' n='N009'/>and letters and a drawer for lint brushes and miscellany, very
+				<lb facs='#facs_97_r_2_1_tl_10' n='N010'/>victorian and handy. Then you turn right into a wall giving you
+				<lb facs='#facs_97_r_2_1_tl_11' n='N011'/>three choices. December 2nd. You see, yesterday was short and
+				<lb facs='#facs_97_r_2_1_tl_12' n='N012'/>unsatisfactory. There was a chinese piano tuner and a dinner
+				<lb facs='#facs_97_r_2_1_tl_13' n='N013'/>party, the place I live in was not described, a tiny baby and very
+				<lb facs='#facs_97_r_2_1_tl_14' n='N014'/>cold weather. My eyes are heavy-lidded, always have been. I
+				<lb facs='#facs_97_r_2_1_tl_15' n='N015'/>don’t look innocent. I have of course been told that my eyes are
+				<lb facs='#facs_97_r_2_1_tl_16' n='N016'/>beautiful, but they aren’t. They are hooded and abandoned and
+				<lb facs='#facs_97_r_2_1_tl_17' n='N017'/>of a blue more organic than mineral. They feel tired except when
+				<lb facs='#facs_97_r_2_1_tl_18' n='N018'/>I remember they are round balls mostly inside my head. They
+				<lb facs='#facs_97_r_2_1_tl_19' n='N019'/>are not just what they appear. Once I saw a short accompanying
+				<lb facs='#facs_97_r_2_1_tl_20' n='N020'/>a movie which was made for german children to explain the
+				<lb facs='#facs_97_r_2_1_tl_21' n='N021'/>physiology and physics of the eye. I especially remember the
+				<lb facs='#facs_97_r_2_1_tl_22' n='N022'/>waves of color, the red short and angry jumping and the blue
+				<lb facs='#facs_97_r_2_1_tl_23' n='N023'/>long and peaceful wavy like the ocean. Then they made gray
+				<lb facs='#facs_97_r_2_1_tl_24' n='N024'/>rosebushes turn all red. Would that it were that simple. I hate
+				<lb facs='#facs_97_r_2_1_tl_25' n='N025'/>mysteries. I would truly like to know everything. l’d like to begin
+				<lb facs='#facs_97_r_2_1_tl_26' n='N026'/>with all the most important things and then all the subsidiary
+				<lb facs='#facs_97_r_2_1_tl_27' n='N027'/>facts would just fall into place in an orderly way and wouldn’t
+				<lb facs='#facs_97_r_2_1_tl_28' n='N028'/>be worrisome instead of just accumulating a lot of small things
+				<lb facs='#facs_97_r_2_1_tl_29' n='N029'/>and reasoning out their places to build a structure I cannot
+				<lb facs='#facs_97_r_2_1_tl_30' n='N030'/>imagine the shape of until I have finished building. I would like
+				<lb facs='#facs_97_r_2_1_tl_31' n='N031'/>some blinding flashes like Einstein had on the trolley. I would
+				<lb facs='#facs_97_r_2_1_tl_32' n='N032'/>like not to have to work so hard and be so heavy-lidded. I would
+				<lb facs='#facs_97_r_2_1_tl_33' n='N033'/>also like not to think that I have to read a lot of books, that there
+				<lb facs='#facs_97_r_2_1_tl_34' n='N034'/>I might find enough details for my constructions. No, I scream at
+				<lb facs='#facs_97_r_2_1_tl_35' n='N035'/>myself, that is not where it is found these days, politely hiding on
+				<lb facs='#facs_97_r_2_1_tl_36' n='N036'/>a quiet page, you might find it in the bathtub with your body or
+				<lb facs='#facs_97_r_2_1_tl_37' n='N037'/>in socratic dialogues with your peer group or even in a cultural
+				<lb facs='#facs_97_r_2_1_tl_38' n='N038'/>manifestation, but, no, never just sitting in a book.
+			</p>
+			<p>
+				<lb facs='#facs_97_r_3_1_tl_1' n='N001'/>Poppy Johnson is an artist who lives in New York.
+			</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='80'/>
+			<p>
+				<lb facs='#facs_80_r_1_1_tl_1' n='N001'/>WAYS OF CHANGE RECONSIDERED:
+				<lb facs='#facs_80_r_1_1_tl_2' n='N002'/>AN OUTLINE AND COMMENTARY
+				<lb facs='#facs_80_r_1_1_tl_3' n='N003'/>ON WOMEN AND PEACE IN NORTHERN IRELAND
+				<lb facs='#facs_80_r_1_1_tl_4' n='N004'/>SARAH CHARLESWORTH
+			</p>
+			<p>
+				<lb facs='#facs_80_r_2_1_tl_1' n='N001'/>Compared to the devoted and laborious build-up that
+				<lb facs='#facs_80_r_2_1_tl_2' n='N002'/>took place before all the other peace rallies that I have at
+				<lb facs='#facs_80_r_2_1_tl_3' n='N003'/>tended in Belfast — the advertising, the canvassing, the care
+				<lb facs='#facs_80_r_2_1_tl_4' n='N004'/>fully balanced composition of the platform party —here
+				<lb facs='#facs_80_r_2_1_tl_5' n='N005'/>there was apparently no planning at all. No platform, no
+				<lb facs='#facs_80_r_2_1_tl_6' n='N006'/>loudspeakers, no stewards, no prepared order of service. Just
+				<lb facs='#facs_80_r_2_1_tl_7' n='N007'/>a vast throng of women, gathered at the spot where shortly
+				<lb facs='#facs_80_r_2_1_tl_8' n='N008'/>before, the war between the terrorists and the army had cost
+				<lb facs='#facs_80_r_2_1_tl_9' n='N009'/>the lives of three children.... One had a gnawing uneasiness
+				<lb facs='#facs_80_r_2_1_tl_10' n='N010'/>that nothing more was going to happen
+				<lb facs='#facs_80_r_2_1_tl_11' n='N011'/>What did happen was a sudden burst of derisive yells
+				<lb facs='#facs_80_r_2_1_tl_12' n='N012'/>and taunts from a band of youths defiantly brandishing the
+				<lb facs='#facs_80_r_2_1_tl_13' n='N013'/>tricolour flag from a vantage point on the roof of a nearby
+				<lb facs='#facs_80_r_2_1_tl_14' n='N014'/>garage. At that moment perhaps nothing could more effec
+				<lb facs='#facs_80_r_2_1_tl_15' n='N015'/>tively have rallied the rally.&quot; Suddenly it seemed we knew
+				<lb facs='#facs_80_r_2_1_tl_16' n='N016'/>what we were there to do. From one to another the word
+				<lb facs='#facs_80_r_2_1_tl_17' n='N017'/>threaded like quicksilver through the crowds: “We’re goin
+				<lb facs='#facs_80_r_2_1_tl_18' n='N018'/>to walk down to the Falls.&quot; And walk we did—pushchairs
+				<lb facs='#facs_80_r_2_1_tl_19' n='N019'/>and all —along the road that has become so notorious for
+				<lb facs='#facs_80_r_2_1_tl_20' n='N020'/>violence and anger. Here and there spectators jeered ana
+				<lb facs='#facs_80_r_2_1_tl_21' n='N021'/>flaunted the slogans of hatred, but calmly and steadily the
+				<lb facs='#facs_80_r_2_1_tl_22' n='N022'/>column of women — in the most casual fashion — walked on.
+				<lb facs='#facs_80_r_2_1_tl_23' n='N023'/>As we walked, we talked. “They say,&quot; said the woman
+				<lb facs='#facs_80_r_2_1_tl_24' n='N024'/>beside me, &quot;that there&apos;s Protestants walking with us.&quot;“That&apos;s
+				<lb facs='#facs_80_r_2_1_tl_25' n='N025'/>right,&quot; said I... &quot;Tm one of them.&quot; The response was im
+				<lb facs='#facs_80_r_2_1_tl_26' n='N026'/>mediate: hands shot out to grasp mine, heart-warming
+				<lb facs='#facs_80_r_2_1_tl_27' n='N027'/>ejaculations of welcome fell on my ears. I felt simultaneously
+				<lb facs='#facs_80_r_2_1_tl_28' n='N028'/>the reality of the division and the unity.
+			</p>
+			<p>
+				<lb facs='#facs_80_r_3_1_tl_1' n='N001'/>In August 1976, there emerged in Belfast, Northern Ireland
+				<lb facs='#facs_80_r_3_1_tl_2' n='N002'/>apparently quite &quot;spontaneously,” a movement, which althougl
+				<lb facs='#facs_80_r_3_1_tl_3' n='N003'/>it was later to be dubbed “The People for Peace” movement, was
+				<lb facs='#facs_80_r_3_1_tl_4' n='N004'/>quite without a doubt a women’s movement, initiated, supported
+				<lb facs='#facs_80_r_3_1_tl_5' n='N005'/>and sustained primarily by women. From the perspective of cla
+				<lb facs='#facs_80_r_3_1_tl_6' n='N006'/>sic political forms, it was and is both extremely traditional and
+				<lb facs='#facs_80_r_3_1_tl_7' n='N007'/>profoundly radical, and it is particularly within the context o
+				<lb facs='#facs_80_r_3_1_tl_8' n='N008'/>Irish politics that it becomes so.
+				<lb facs='#facs_80_r_3_1_tl_9' n='N009'/>My initial interest in the peace movement grew out of a feel
+				<lb facs='#facs_80_r_3_1_tl_10' n='N010'/>ing of solidarity and empathy with both the frustration and the
+				<lb facs='#facs_80_r_3_1_tl_11' n='N011'/>positive vision these women revealed. As I followed its progress
+				<lb facs='#facs_80_r_3_1_tl_12' n='N012'/>my interest began to turn increasingly to its larger political and
+				<lb facs='#facs_80_r_3_1_tl_13' n='N013'/>social implications, not simply in relation to the situation of
+				<lb facs='#facs_80_r_3_1_tl_14' n='N014'/>Northern Ireland, but also in regard to basic issues posed by femi
+				<lb facs='#facs_80_r_3_1_tl_15' n='N015'/>nism in relation to traditional patriarchal political analysis an
+				<lb facs='#facs_80_r_3_1_tl_16' n='N016'/>practice. What became increasingly apparent as I continued my
+				<lb facs='#facs_80_r_3_1_tl_17' n='N017'/>research was the fact that the peace movement could not be
+				<lb facs='#facs_80_r_3_1_tl_18' n='N018'/>understood and evaluated either on the basis of the primar,
+				<lb facs='#facs_80_r_3_1_tl_19' n='N019'/>social-political traditions of Northern Ireland or from the per
+				<lb facs='#facs_80_r_3_1_tl_20' n='N020'/>spective of an abstract marxist or feminist analysis. These model
+				<lb facs='#facs_80_r_3_1_tl_21' n='N021'/>must themselves be continually measured against the social reali
+				<lb facs='#facs_80_r_3_1_tl_22' n='N022'/>ties which they presume to appraise.
+				<lb facs='#facs_80_r_3_1_tl_23' n='N023'/>The peace movement, to the extent to which it can be called
+				<lb facs='#facs_80_r_3_1_tl_24' n='N024'/>a &quot;women’s movement,” is interesting precisely because it is not
+				<lb facs='#facs_80_r_3_1_tl_25' n='N025'/>in any sense &quot;sophisticated.” Its values and the forms of its
+				<lb facs='#facs_80_r_3_1_tl_26' n='N026'/>organization are a direct manifestation of the attitudes of womer
+			</p>
+			<p>
+				<lb facs='#facs_80_r_4_1_tl_1' n='N001'/>Peace women hit Ulster streets despite threats
+			</p>
+			<p>
+				<lb facs='#facs_80_r_5_1_tl_1' n='N001'/>BELFAST, Northern Ireland
+				<lb facs='#facs_80_r_5_1_tl_2' n='N002'/>(AP)- The Peace Women of this
+				<lb facs='#facs_80_r_5_1_tl_3' n='N003'/>turbulent British province take
+				<lb facs='#facs_80_r_5_1_tl_4' n='N004'/>to the streets of violence-scarred
+				<lb facs='#facs_80_r_5_1_tl_5' n='N005'/>Belfast Saturday, defying
+				<lb facs='#facs_80_r_5_1_tl_6' n='N006'/>terrorist death threats in their
+				<lb facs='#facs_80_r_5_1_tl_7' n='N007'/>campaign to end seven years of
+				<lb facs='#facs_80_r_5_1_tl_8' n='N008'/>sectarian bloodshed
+				<lb facs='#facs_80_r_5_1_tl_9' n='N009'/>“There’s no way we’re going
+				<lb facs='#facs_80_r_5_1_tl_10' n='N010'/>to give up now,” declared Mrs.
+				<lb facs='#facs_80_r_5_1_tl_11' n='N011'/>Betty Williams, the Roman
+				<lb facs='#facs_80_r_5_1_tl_12' n='N012'/>Catholic housewife
+				<lb facs='#facs_80_r_5_1_tl_13' n='N013'/>launched the burgeoning
+				<lb facs='#facs_80_r_5_1_tl_14' n='N014'/>movement 10 days ago after
+				<lb facs='#facs_80_r_5_1_tl_15' n='N015'/>three children were killed by
+				<lb facs='#facs_80_r_5_1_tl_16' n='N016'/>Irish Republican Army gunmen
+				<lb facs='#facs_80_r_5_1_tl_17' n='N017'/>fleeing British troops.
+				<lb facs='#facs_80_r_5_1_tl_18' n='N018'/>Thousands of Catholic and
+				<lb facs='#facs_80_r_5_1_tl_19' n='N019'/>Protestant women, setting aside
+				<lb facs='#facs_80_r_5_1_tl_20' n='N020'/>the centuries-old hatreds that
+				<lb facs='#facs_80_r_5_1_tl_21' n='N021'/>have separated Northern
+				<lb facs='#facs_80_r_5_1_tl_22' n='N022'/>freland’s feuding communities,
+				<lb facs='#facs_80_r_5_1_tl_23' n='N023'/>were expected to gather for a
+				<lb facs='#facs_80_r_5_1_tl_24' n='N024'/>rally in Ormeau park in
+				<lb facs='#facs_80_r_5_1_tl_25' n='N025'/>Protestant East Belfast
+				<lb facs='#facs_80_r_5_1_tl_26' n='N026'/>The attendance at the rally
+				<lb facs='#facs_80_r_5_1_tl_27' n='N027'/>will be a crucial test of the
+				<lb facs='#facs_80_r_5_1_tl_28' n='N028'/>strength of the campaign, the
+				<lb facs='#facs_80_r_5_1_tl_29' n='N029'/>latest in a long string of peace
+				<lb facs='#facs_80_r_5_1_tl_30' n='N030'/>movements in Ulster. All the
+				<lb facs='#facs_80_r_5_1_tl_31' n='N031'/>earlier campaigns fizzled out
+				<lb facs='#facs_80_r_5_1_tl_32' n='N032'/>Last Saturday, more than
+			</p>
+			<p>
+				<lb facs='#facs_80_r_6_1_tl_1' n='N001'/>10,000 women and a handful of
+				<lb facs='#facs_80_r_6_1_tl_2' n='N002'/>men attended a peace rally
+				<lb facs='#facs_80_r_6_1_tl_3' n='N003'/>organized by Mrs. Williams in
+				<lb facs='#facs_80_r_6_1_tl_4' n='N004'/>Belfast’s staunchly Catholic
+				<lb facs='#facs_80_r_6_1_tl_5' n='N005'/>Andersonstown suburb at the
+				<lb facs='#facs_80_r_6_1_tl_6' n='N006'/>spot where the three children
+				<lb facs='#facs_80_r_6_1_tl_7' n='N007'/>were slain.
+				<lb facs='#facs_80_r_6_1_tl_8' n='N008'/>Mrs. Williams, 32, and many
+				<lb facs='#facs_80_r_6_1_tl_9' n='N009'/>other Catholic women at that
+				<lb facs='#facs_80_r_6_1_tl_10' n='N010'/>rally were branded “touts
+				<lb facs='#facs_80_r_6_1_tl_11' n='N011'/>terrorist parlance for informers
+				<lb facs='#facs_80_r_6_1_tl_12' n='N012'/>and pro-British collaborators -
+				<lb facs='#facs_80_r_6_1_tl_13' n='N013'/>by the IRA’s “Provisional
+				<lb facs='#facs_80_r_6_1_tl_14' n='N014'/>wing
+				<lb facs='#facs_80_r_6_1_tl_15' n='N015'/>Young IRA supporters last
+				<lb facs='#facs_80_r_6_1_tl_16' n='N016'/>week tried to burn Mrs.
+				<lb facs='#facs_80_r_6_1_tl_17' n='N017'/>Williams’ house down. She and
+				<lb facs='#facs_80_r_6_1_tl_18' n='N018'/>other women received death
+				<lb facs='#facs_80_r_6_1_tl_19' n='N019'/>threats from the mainly
+				<lb facs='#facs_80_r_6_1_tl_20' n='N020'/>Catholic “provos” who are
+				<lb facs='#facs_80_r_6_1_tl_21' n='N021'/>fighting to end British rule and
+				<lb facs='#facs_80_r_6_1_tl_22' n='N022'/>Protestant domination in Ulster
+				<lb facs='#facs_80_r_6_1_tl_23' n='N023'/>Despite the threats, the peace
+				<lb facs='#facs_80_r_6_1_tl_24' n='N024'/>movement has spread.
+				<lb facs='#facs_80_r_6_1_tl_25' n='N025'/>Williams said groups in other
+				<lb facs='#facs_80_r_6_1_tl_26' n='N026'/>parts of the province have
+				<lb facs='#facs_80_r_6_1_tl_27' n='N027'/>voiced support and local peace
+				<lb facs='#facs_80_r_6_1_tl_28' n='N028'/>committees have sprung up in
+				<lb facs='#facs_80_r_6_1_tl_29' n='N029'/>both Catholic and Protestant
+				<lb facs='#facs_80_r_6_1_tl_30' n='N030'/>quarters
+				<lb facs='#facs_80_r_6_1_tl_31' n='N031'/>But the violence has continued
+				<lb facs='#facs_80_r_6_1_tl_32' n='N032'/>unabated. At least six persons
+			</p>
+			<p>
+				<lb facs='#facs_80_r_7_1_tl_1' n='N001'/>have been killed since the peace
+				<lb facs='#facs_80_r_7_1_tl_2' n='N002'/>campaign began and dozens
+				<lb facs='#facs_80_r_7_1_tl_3' n='N003'/>have been wounded by gunfire
+				<lb facs='#facs_80_r_7_1_tl_4' n='N004'/>and bombings
+				<lb facs='#facs_80_r_7_1_tl_5' n='N005'/>Government
+				<lb facs='#facs_80_r_7_1_tl_6' n='N006'/>officials
+				<lb facs='#facs_80_r_7_1_tl_7' n='N007'/>community
+				<lb facs='#facs_80_r_7_1_tl_8' n='N008'/>leaders
+				<lb facs='#facs_80_r_7_1_tl_9' n='N009'/>experienced observers who have
+				<lb facs='#facs_80_r_7_1_tl_10' n='N010'/>seen earlier movements fail are
+				<lb facs='#facs_80_r_7_1_tl_11' n='N011'/>still sceptical that Mrs.
+				<lb facs='#facs_80_r_7_1_tl_12' n='N012'/>Williams campaign will change
+				<lb facs='#facs_80_r_7_1_tl_13' n='N013'/>anything.
+				<lb facs='#facs_80_r_7_1_tl_14' n='N014'/>The sad truth is
+				<lb facs='#facs_80_r_7_1_tl_15' n='N015'/>said
+				<lb facs='#facs_80_r_7_1_tl_16' n='N016'/>Catholic community leader Tom
+				<lb facs='#facs_80_r_7_1_tl_17' n='N017'/>Conaty, a onetime adviser to the
+				<lb facs='#facs_80_r_7_1_tl_18' n='N018'/>British administration in the
+				<lb facs='#facs_80_r_7_1_tl_19' n='N019'/>province, “that the IRA and the
+				<lb facs='#facs_80_r_7_1_tl_20' n='N020'/>Protestant paramilitary groups
+				<lb facs='#facs_80_r_7_1_tl_21' n='N021'/>do not depend on popular
+				<lb facs='#facs_80_r_7_1_tl_22' n='N022'/>support for their survival
+				<lb facs='#facs_80_r_7_1_tl_23' n='N023'/>“They have shown this in the
+				<lb facs='#facs_80_r_7_1_tl_24' n='N024'/>past and, despite
+				<lb facs='#facs_80_r_7_1_tl_25' n='N025'/>courageous display by
+				<lb facs='#facs_80_r_7_1_tl_26' n='N026'/>women, I believe they will be
+				<lb facs='#facs_80_r_7_1_tl_27' n='N027'/>around for a long time.
+				<lb facs='#facs_80_r_7_1_tl_28' n='N028'/>However, IRA sources said
+				<lb facs='#facs_80_r_7_1_tl_29' n='N029'/>the guerrillas&apos; leaders are
+				<lb facs='#facs_80_r_7_1_tl_30' n='N030'/>taking the emotion-charged
+				<lb facs='#facs_80_r_7_1_tl_31' n='N031'/>campaign “seriously.
+				<lb facs='#facs_80_r_7_1_tl_32' n='N032'/>provisionals have cracked up
+				<lb facs='#facs_80_r_7_1_tl_33' n='N033'/>their well-oiled propaganda
+				<lb facs='#facs_80_r_7_1_tl_34' n='N034'/>machine in a bid to counter the
+				<lb facs='#facs_80_r_7_1_tl_35' n='N035'/>movement’s growing support.
+			</p>
+			<p>
+				<lb facs='#facs_80_r_8_1_tl_1' n='N001'/>The Republican news, the
+				<lb facs='#facs_80_r_8_1_tl_2' n='N002'/>provisionals&apos; mouthpiece in
+				<lb facs='#facs_80_r_8_1_tl_3' n='N003'/>Ulster, Friday vowed: “the
+				<lb facs='#facs_80_r_8_1_tl_4' n='N004'/>struggle goes on.” The headline
+				<lb facs='#facs_80_r_8_1_tl_5' n='N005'/>was printed over a big photo of a
+				<lb facs='#facs_80_r_8_1_tl_6' n='N006'/>hooded
+				<lb facs='#facs_80_r_8_1_tl_7' n='N007'/>gunman
+				<lb facs='#facs_80_r_8_1_tl_8' n='N008'/>brandishing a U.S.
+				<lb facs='#facs_80_r_8_1_tl_9' n='N009'/>made
+				<lb facs='#facs_80_r_8_1_tl_10' n='N010'/>armalite automatic rifle
+				<lb facs='#facs_80_r_8_1_tl_11' n='N011'/>The Andersonstown news, a
+				<lb facs='#facs_80_r_8_1_tl_12' n='N012'/>flourishing newssheet that has
+				<lb facs='#facs_80_r_8_1_tl_13' n='N013'/>supported the provisionals in the
+				<lb facs='#facs_80_r_8_1_tl_14' n='N014'/>past, stridently attacked the
+				<lb facs='#facs_80_r_8_1_tl_15' n='N015'/>peace-at-any-price brigade.
+				<lb facs='#facs_80_r_8_1_tl_16' n='N016'/>Both papers published articles
+				<lb facs='#facs_80_r_8_1_tl_17' n='N017'/>and letters denouncing the
+				<lb facs='#facs_80_r_8_1_tl_18' n='N018'/>peace campaign as pro-British.
+				<lb facs='#facs_80_r_8_1_tl_19' n='N019'/>However
+				<lb facs='#facs_80_r_8_1_tl_20' n='N020'/>Mrs.
+				<lb facs='#facs_80_r_8_1_tl_21' n='N021'/>Williams
+				<lb facs='#facs_80_r_8_1_tl_22' n='N022'/>stressed that her movement is
+				<lb facs='#facs_80_r_8_1_tl_23' n='N023'/>not just opposed to the IRA, but
+				<lb facs='#facs_80_r_8_1_tl_24' n='N024'/>Protestant
+				<lb facs='#facs_80_r_8_1_tl_25' n='N025'/>terrorist
+				<lb facs='#facs_80_r_8_1_tl_26' n='N026'/>organizations as well as Ulstei
+				<lb facs='#facs_80_r_8_1_tl_27' n='N027'/>police officers and British troops
+				<lb facs='#facs_80_r_8_1_tl_28' n='N028'/>who “commit cowardly acts.
+				<lb facs='#facs_80_r_8_1_tl_29' n='N029'/>sympathizers
+				<lb facs='#facs_80_r_8_1_tl_30' n='N030'/>Provisional
+				<lb facs='#facs_80_r_8_1_tl_31' n='N031'/>have
+				<lb facs='#facs_80_r_8_1_tl_32' n='N032'/>organized
+				<lb facs='#facs_80_r_8_1_tl_33' n='N033'/>counter-demonstration in south
+				<lb facs='#facs_80_r_8_1_tl_34' n='N034'/>Armagh, an IRA stronghold, at
+				<lb facs='#facs_80_r_8_1_tl_35' n='N035'/>the spot where a 12-year-old
+				<lb facs='#facs_80_r_8_1_tl_36' n='N036'/>Catholic girl was killed,
+				<lb facs='#facs_80_r_8_1_tl_37' n='N037'/>apparently by army fire, last
+				<lb facs='#facs_80_r_8_1_tl_38' n='N038'/>Saturday.
+			</p>
+			<pb n='81'/>
+			<p>
+				<lb facs='#facs_81_r_1_1_tl_1' n='N001'/>bistorically isolated from one another within a social structure
+				<lb facs='#facs_81_r_1_1_tl_2' n='N002'/>over which they exercise minimal control. Within the context of
+				<lb facs='#facs_81_r_1_1_tl_3' n='N003'/>American feminism, the questions posed by the peace movement
+				<lb facs='#facs_81_r_1_1_tl_4' n='N004'/>are relevant to the extent to which they underline and elaborate
+				<lb facs='#facs_81_r_1_1_tl_5' n='N005'/>some of the more complex issues pertaining to the gender bias
+				<lb facs='#facs_81_r_1_1_tl_6' n='N006'/>inherent in the very “logic&quot; of commonly accepted politica
+				<lb facs='#facs_81_r_1_1_tl_7' n='N007'/>norms. As Michelle Zimbalist Rosaldo points out:
+				<lb facs='#facs_81_r_1_1_tl_8' n='N008'/>Since women must work within a social system that ob-
+				<lb facs='#facs_81_r_1_1_tl_9' n='N009'/>scures their goals and interests, they are apt to develop
+				<lb facs='#facs_81_r_1_1_tl_10' n='N010'/>ways of seeing, feeling, and acting that seem to be &quot;in
+				<lb facs='#facs_81_r_1_1_tl_11' n='N011'/>tuitive” and &quot;unsystematic&quot;—with a sensitivity to other
+				<lb facs='#facs_81_r_1_1_tl_12' n='N012'/>people that permits them to survive. They may, then, be
+				<lb facs='#facs_81_r_1_1_tl_13' n='N013'/>&quot;expressive.&quot; But it is important to realize that cultural
+				<lb facs='#facs_81_r_1_1_tl_14' n='N014'/>stereotypes order the observer’s own perceptions. It is
+				<lb facs='#facs_81_r_1_1_tl_15' n='N015'/>because men enter the world of articulated social rela
+				<lb facs='#facs_81_r_1_1_tl_16' n='N016'/>tions that they appear to us as intellectual, rational, or
+				<lb facs='#facs_81_r_1_1_tl_17' n='N017'/>instrumental; and the fact that women are excluded
+				<lb facs='#facs_81_r_1_1_tl_18' n='N018'/>from that world makes them seem to think and behave
+				<lb facs='#facs_81_r_1_1_tl_19' n='N019'/>in another mode.
+			</p>
+			<p>
+				<lb facs='#facs_81_r_3_1_tl_1' n='N001'/>The Province of Ulster was born in conflict. The partition of
+				<lb facs='#facs_81_r_3_1_tl_2' n='N002'/>lreland was a highly artificial solution to an age-old problem. The
+				<lb facs='#facs_81_r_3_1_tl_3' n='N003'/>question of whether the current crisis is a religious war, a class
+				<lb facs='#facs_81_r_3_1_tl_4' n='N004'/>war, or a war of national liberation is in many ways a false one. It
+				<lb facs='#facs_81_r_3_1_tl_5' n='N005'/>is all of these at once. The peculiar complexity of the situation
+				<lb facs='#facs_81_r_3_1_tl_6' n='N006'/>stems from the fact that the political and religious identity of each
+				<lb facs='#facs_81_r_3_1_tl_7' n='N007'/>community is coincident in broad terms, and it is with these poli
+				<lb facs='#facs_81_r_3_1_tl_8' n='N008'/>tical and religious groups that individuals have from birth learned
+				<lb facs='#facs_81_r_3_1_tl_9' n='N009'/>to define themselves.
+				<lb facs='#facs_81_r_3_1_tl_10' n='N010'/>The sources of bigotry in Ireland as well as the mechanisms
+				<lb facs='#facs_81_r_3_1_tl_11' n='N011'/>of its maintenance are ancient. In the Protestant community,
+				<lb facs='#facs_81_r_3_1_tl_12' n='N012'/>patriotic songs and yearly festivals celebrate the siege of London
+				<lb facs='#facs_81_r_3_1_tl_13' n='N013'/>derry and the assent of Protestant rule. These are matched in
+				<lb facs='#facs_81_r_3_1_tl_14' n='N014'/>Catholic culture by a heritage which stresses the heroism and
+				<lb facs='#facs_81_r_3_1_tl_15' n='N015'/>glory of national revolt as well as an almost mystical alliance
+				<lb facs='#facs_81_r_3_1_tl_16' n='N016'/>with the church. According to the Irish Republican tradition to
+				<lb facs='#facs_81_r_3_1_tl_17' n='N017'/>which the modern Provisionals are heir, “Ireland unfree shall
+				<lb facs='#facs_81_r_3_1_tl_18' n='N018'/>never be at peace.
+				<lb facs='#facs_81_r_3_1_tl_19' n='N019'/>The Catholic population in general has tended traditionally
+				<lb facs='#facs_81_r_3_1_tl_20' n='N020'/>to identify with a united and independent Ireland and was in fact
+				<lb facs='#facs_81_r_3_1_tl_21' n='N021'/>instrumental in winning support for the Home Rule Bill by which
+				<lb facs='#facs_81_r_3_1_tl_22' n='N022'/>the Republic of Ireland was established in 1922. The Protestants,
+				<lb facs='#facs_81_r_3_1_tl_23' n='N023'/>who form a minority within Ireland as a whole, had been success
+				<lb facs='#facs_81_r_3_1_tl_24' n='N024'/>ful in their violent opposition to what they termed &quot;the papist
+				<lb facs='#facs_81_r_3_1_tl_25' n='N025'/>state, which led to Britain’s partition of Ireland in an attempt to
+				<lb facs='#facs_81_r_3_1_tl_26' n='N026'/>pacify loyalist Protestants in the North. The long-term and
+				<lb facs='#facs_81_r_3_1_tl_27' n='N027'/>blatant suprematism of the Protestants concentrated in Northern
+			</p>
+			<p>
+				<lb facs='#facs_81_r_4_1_tl_1' n='N001'/>Ireland, their overt domination of political and civil institutions,
+				<lb facs='#facs_81_r_4_1_tl_2' n='N002'/>is countered by a Republican commitment to “victory through
+				<lb facs='#facs_81_r_4_1_tl_3' n='N003'/>physical force” — a form of patriotism which finds its most ex
+				<lb facs='#facs_81_r_4_1_tl_4' n='N004'/>treme manifestation in the IRA tradition of blood sacrifice, in
+				<lb facs='#facs_81_r_4_1_tl_5' n='N005'/>which each death only serves further to legitimize the unques
+				<lb facs='#facs_81_r_4_1_tl_6' n='N006'/>tioned heroism and “justice” of the nationalist cause.
+				<lb facs='#facs_81_r_4_1_tl_7' n='N007'/>With the outbreak of widespread and violent sectarian riot
+				<lb facs='#facs_81_r_4_1_tl_8' n='N008'/>ing in 1969, the collapse of the repressive Protestant-controlled
+				<lb facs='#facs_81_r_4_1_tl_9' n='N009'/>Stormont Government was achieved only through the further
+				<lb facs='#facs_81_r_4_1_tl_10' n='N010'/>intervention of the British, “justified&quot; at the time by continuing
+				<lb facs='#facs_81_r_4_1_tl_11' n='N011'/>paramilitary violence and the threat of civil war. This was to
+				<lb facs='#facs_81_r_4_1_tl_12' n='N012'/>mark the beginning of a period of intense segregation and eco
+				<lb facs='#facs_81_r_4_1_tl_13' n='N013'/>nomic disintegration in Northern Ireland, during which a climate
+				<lb facs='#facs_81_r_4_1_tl_14' n='N014'/>of hostility, combined with a complete lack of dialogue and a
+				<lb facs='#facs_81_r_4_1_tl_15' n='N015'/>military standoff, has made the possibility of further political and
+				<lb facs='#facs_81_r_4_1_tl_16' n='N016'/>social development virtually impossible.
+				<lb facs='#facs_81_r_4_1_tl_17' n='N017'/>When the IRA split in 1969, the Official IRA (increasingly
+				<lb facs='#facs_81_r_4_1_tl_18' n='N018'/>concerned with developing economic and class consciousness)
+				<lb facs='#facs_81_r_4_1_tl_19' n='N019'/>apparently dwindled in effectiveness. The &quot;Provisionals, on the
+				<lb facs='#facs_81_r_4_1_tl_20' n='N020'/>other hand, with their more traditional focus on militarism and
+				<lb facs='#facs_81_r_4_1_tl_21' n='N021'/>nationalism, were able to take advantage of the already tense
+				<lb facs='#facs_81_r_4_1_tl_22' n='N022'/>political climate, playing into and further aggravating sectarian
+				<lb facs='#facs_81_r_4_1_tl_23' n='N023'/>hostilities. They became self-appointed &quot;people’s protectors,” like
+				<lb facs='#facs_81_r_4_1_tl_24' n='N024'/>the Protestant paramilitaries in their own districts. The British
+				<lb facs='#facs_81_r_4_1_tl_25' n='N025'/>policy of internment and torture of IRA militants only served to
+				<lb facs='#facs_81_r_4_1_tl_26' n='N026'/>further escalate guerrilla activities. The vicious circle was com
+				<lb facs='#facs_81_r_4_1_tl_27' n='N027'/>plete.
+				<lb facs='#facs_81_r_4_1_tl_28' n='N028'/>During the last seven years, continued paramilitary and mili
+				<lb facs='#facs_81_r_4_1_tl_29' n='N029'/>tary violence have all but wrecked large sections of both the resi
+				<lb facs='#facs_81_r_4_1_tl_30' n='N030'/>dential and commercial areas of Belfast, Derry and Armagh.
+				<lb facs='#facs_81_r_4_1_tl_31' n='N031'/>Industry has declined and unemployment is soaring. Meanwhile,
+				<lb facs='#facs_81_r_4_1_tl_32' n='N032'/>among the general population, apathy, fear, frustration and
+				<lb facs='#facs_81_r_4_1_tl_33' n='N033'/>poverty have begun to flourish. Amid invariably righteous claims
+				<lb facs='#facs_81_r_4_1_tl_34' n='N034'/>to the representation of “justice, hatred and despair have in
+				<lb facs='#facs_81_r_4_1_tl_35' n='N035'/>creasingly come to dominate “political&quot; life in the Northern State.
+				<lb facs='#facs_81_r_4_1_tl_36' n='N036'/>While numerous &quot;brave and valiant&quot; soldiers have lost their lives,
+				<lb facs='#facs_81_r_4_1_tl_37' n='N037'/>countless ordinary citizens, often women and children, have also
+				<lb facs='#facs_81_r_4_1_tl_38' n='N038'/>been the victims of this ancient and unending cycle of fear,
+				<lb facs='#facs_81_r_4_1_tl_39' n='N039'/>recrimination and violence. The deaths of the three McGuire chil
+				<lb facs='#facs_81_r_4_1_tl_40' n='N040'/>dren, killed on August 10 by an IRA getaway car in Belfast&apos;s
+				<lb facs='#facs_81_r_4_1_tl_41' n='N041'/>Andersontown district, were just another &quot;accident.&quot; It was, how-
+				<lb facs='#facs_81_r_4_1_tl_42' n='N042'/>ever, to have a resounding effect. Betty Williams, an Anderson
+				<lb facs='#facs_81_r_4_1_tl_43' n='N043'/>town resident who had witnessed the incident, and Mairead
+				<lb facs='#facs_81_r_4_1_tl_44' n='N044'/>Corrigan, the children’s aunt, “had had enough.&quot; Within hours
+				<lb facs='#facs_81_r_4_1_tl_45' n='N045'/>they began organizing their neighbors to protest the senseless
+				<lb facs='#facs_81_r_4_1_tl_46' n='N046'/>violence of a war which had long since become a way of life.
+				<lb facs='#facs_81_r_4_1_tl_47' n='N047'/>The peace movement was from the start fueled by an emo
+				<lb facs='#facs_81_r_4_1_tl_48' n='N048'/>tional commitment which was not without its own particular
+				<lb facs='#facs_81_r_4_1_tl_49' n='N049'/>rationality. To the skeptics who denied the possibility of a peace-
+				<lb facs='#facs_81_r_4_1_tl_50' n='N050'/>ful resolution to a feud stemming from deeply ingrained attitudes
+				<lb facs='#facs_81_r_4_1_tl_51' n='N051'/>and opposing loyalties, the women replied that three hundred
+				<lb facs='#facs_81_r_4_1_tl_52' n='N052'/>years of warfare had likewise accomplished nothing, that the
+				<lb facs='#facs_81_r_4_1_tl_53' n='N053'/>Northern Irish people had been for too long divided against them-
+				<lb facs='#facs_81_r_4_1_tl_54' n='N054'/>selves.
+				<lb facs='#facs_81_r_4_1_tl_55' n='N055'/>Thank God l’m still angry enough to do this, because
+				<lb facs='#facs_81_r_4_1_tl_56' n='N056'/>l’d march anywhere in Northern Ireland. I don’t give
+				<lb facs='#facs_81_r_4_1_tl_57' n='N057'/>a darn what the fellow’s beliefs are. Everybody has
+				<lb facs='#facs_81_r_4_1_tl_58' n='N058'/>got a right to believe in exactly what they want to be-
+				<lb facs='#facs_81_r_4_1_tl_59' n='N059'/>lieve in, but there is no one in this whole wide world has
+				<lb facs='#facs_81_r_4_1_tl_60' n='N060'/>any right to kill for it. So, when l’d seen the children die
+				<lb facs='#facs_81_r_4_1_tl_61' n='N061'/>or the awful accident—my daughter also witnessed this
+				<lb facs='#facs_81_r_4_1_tl_62' n='N062'/>—she has screamed about it since, my five-year-old
+				<lb facs='#facs_81_r_4_1_tl_63' n='N063'/>daughter who was unfortunately in the car with me at
+			</p>
+			<pb n='82'/>
+			<p>
+				<lb facs='#facs_82_r_1_1_tl_1' n='N001'/>the time—I went home and sat down. Did you ever get
+				<lb facs='#facs_82_r_1_1_tl_2' n='N002'/>sick inside, so sick that you didn’t even know what was
+				<lb facs='#facs_82_r_1_1_tl_3' n='N003'/>wrong with you? I couldn’t cook a dinner. I couldn’t
+				<lb facs='#facs_82_r_1_1_tl_4' n='N004'/>think straight. I couldn’t even cry, and as the night went
+				<lb facs='#facs_82_r_1_1_tl_5' n='N005'/>on I got angrier and angrier. And my sister came up
+				<lb facs='#facs_82_r_1_1_tl_6' n='N006'/>She lives quite close to where I live, and I had a cousin
+				<lb facs='#facs_82_r_1_1_tl_7' n='N007'/>in the house at the time. And I just said—and I don&apos;t
+				<lb facs='#facs_82_r_1_1_tl_8' n='N008'/>mean to swear, l’m very sorry—I said, &quot;Damn it, we
+				<lb facs='#facs_82_r_1_1_tl_9' n='N009'/>have got to do something. And my husband was at sea,
+				<lb facs='#facs_82_r_1_1_tl_10' n='N010'/>and I an air-mail writing pad, and I went right
+				<lb facs='#facs_82_r_1_1_tl_11' n='N011'/>up into the heart of provisional IRA territory in Ander
+				<lb facs='#facs_82_r_1_1_tl_12' n='N012'/>sontown and I didn’t knock at that door very nicely, by
+				<lb facs='#facs_82_r_1_1_tl_13' n='N013'/>the way, I didn’t say, &quot;Excuse me. Would you like to
+				<lb facs='#facs_82_r_1_1_tl_14' n='N014'/>sign this? We all want peace.&quot; I was spitting angry, and I
+				<lb facs='#facs_82_r_1_1_tl_15' n='N015'/>banged the woman’s door and she came. I frightened the
+				<lb facs='#facs_82_r_1_1_tl_16' n='N016'/>life out of her. I really did.
+				<lb facs='#facs_82_r_1_1_tl_17' n='N017'/>When she came out, I said, “Do you want peace?&quot; She
+				<lb facs='#facs_82_r_1_1_tl_18' n='N018'/>said &quot;Yes!
+				<lb facs='#facs_82_r_1_1_tl_19' n='N019'/>&quot;Yes, then sign that.&quot; It sort of started off like that,
+				<lb facs='#facs_82_r_1_1_tl_20' n='N020'/>and it went on...further down the street, every door
+				<lb facs='#facs_82_r_1_1_tl_21' n='N021'/>you knocked. All the women felt that way. I just lifted
+				<lb facs='#facs_82_r_1_1_tl_22' n='N022'/>the lid. They all poured out. I mean, I ended up rather
+				<lb facs='#facs_82_r_1_1_tl_23' n='N023'/>like the Pied Piper of Hamlin because I had a hundred
+				<lb facs='#facs_82_r_1_1_tl_24' n='N024'/>women in provie territory collecting signatures for
+				<lb facs='#facs_82_r_1_1_tl_25' n='N025'/>peace.
+				<lb facs='#facs_82_r_1_1_tl_26' n='N026'/>We had 3,000 or 6,000 signatures in three hours. We
+				<lb facs='#facs_82_r_1_1_tl_27' n='N027'/>went back to my home. They were in the lounge. They
+				<lb facs='#facs_82_r_1_1_tl_28' n='N028'/>were in the living room. They were in the kitchen. They
+				<lb facs='#facs_82_r_1_1_tl_29' n='N029'/>were in the hall. They were lined up the stairs. They
+				<lb facs='#facs_82_r_1_1_tl_30' n='N030'/>were in the bathroom, the two bedrooms. There just
+				<lb facs='#facs_82_r_1_1_tl_31' n='N031'/>wasn’t enough room to hold them all, and they were all
+				<lb facs='#facs_82_r_1_1_tl_32' n='N032'/>just as angry as I was...that we had let this go on for so
+				<lb facs='#facs_82_r_1_1_tl_33' n='N033'/>long.
+				<lb facs='#facs_82_r_1_1_tl_34' n='N034'/>(Betty Williams4
+			</p>
+			<p>
+				<lb facs='#facs_82_r_2_1_tl_1' n='N001'/>You see, unfortunately, in a long time in Northern
+				<lb facs='#facs_82_r_2_1_tl_2' n='N002'/>Irish society and, indeed, in the world we have glorified
+				<lb facs='#facs_82_r_2_1_tl_3' n='N003'/>the man with the guns. Do you know we sit in our clubs
+				<lb facs='#facs_82_r_2_1_tl_4' n='N004'/>and we sing about the brave man who took life? Now,
+				<lb facs='#facs_82_r_2_1_tl_5' n='N005'/>we’re going to say in Northern Ireland, we want a com
+				<lb facs='#facs_82_r_2_1_tl_6' n='N006'/>plete new change of society. The hero in Northern Ire
+				<lb facs='#facs_82_r_2_1_tl_7' n='N007'/>land is going to be the guy who stands up against the
+				<lb facs='#facs_82_r_2_1_tl_8' n='N008'/>man with a gun in his hand and said, &quot;You’re not speak
+				<lb facs='#facs_82_r_2_1_tl_9' n='N009'/>ing for me. I haven’t got a gun. l’m not prepared to take
+				<lb facs='#facs_82_r_2_1_tl_10' n='N010'/>your life, but you’re most certainly not speaking for me.
+				<lb facs='#facs_82_r_2_1_tl_11' n='N011'/>The guy who gets involved with the man next door,
+				<lb facs='#facs_82_r_2_1_tl_12' n='N012'/>with the old-age pensioner; the guy who recognizes the
+				<lb facs='#facs_82_r_2_1_tl_13' n='N013'/>Protestant and the Shankhill to be his brother or the
+				<lb facs='#facs_82_r_2_1_tl_14' n='N014'/>black man across the road to be his brother. The man,
+			</p>
+			<p>
+				<lb facs='#facs_82_r_6_1_tl_1' n='N001'/>who, in society, acknowledges his brother. ..the man
+				<lb facs='#facs_82_r_6_1_tl_2' n='N002'/>next door to be his brother. This is the kind of whole
+				<lb facs='#facs_82_r_6_1_tl_3' n='N003'/>new society that we want to create in Northern Ireland,
+				<lb facs='#facs_82_r_6_1_tl_4' n='N004'/>Indeed, we want to say that we have led the world in
+				<lb facs='#facs_82_r_6_1_tl_5' n='N005'/>guerrilla warfare for years; we are going to lead the war
+				<lb facs='#facs_82_r_6_1_tl_6' n='N006'/>in peace and we say to the people of the world, “Watch
+				<lb facs='#facs_82_r_6_1_tl_7' n='N007'/>us.&quot; Because we are going to do it, and not only watch
+				<lb facs='#facs_82_r_6_1_tl_8' n='N008'/>us but imitate us because the whole world is led by vio
+				<lb facs='#facs_82_r_6_1_tl_9' n='N009'/>lence and it doesn’t pay. One thousand six hundred
+				<lb facs='#facs_82_r_6_1_tl_10' n='N010'/>people dead in Northern Ireland.
+				<lb facs='#facs_82_r_6_1_tl_11' n='N011'/>My sister was lying in a hospital after losing three
+				<lb facs='#facs_82_r_6_1_tl_12' n='N012'/>babies, and do you know her major concern? There was
+				<lb facs='#facs_82_r_6_1_tl_13' n='N013'/>a bomb the previous week in a bar where a guy had
+				<lb facs='#facs_82_r_6_1_tl_14' n='N014'/>gone out to have a drink—and he was lying across the
+				<lb facs='#facs_82_r_6_1_tl_15' n='N015'/>ward from her—one of those open plan wards, and he
+				<lb facs='#facs_82_r_6_1_tl_16' n='N016'/>had no legs, seventeen years of age—he had no legs and
+				<lb facs='#facs_82_r_6_1_tl_17' n='N017'/>he kept squealing all day, &quot;Please take my hands off. My
+				<lb facs='#facs_82_r_6_1_tl_18' n='N018'/>hands hurt so much.&quot; That is only one awful incident of
+				<lb facs='#facs_82_r_6_1_tl_19' n='N019'/>what’s going on in Northern Ireland with guns coming
+				<lb facs='#facs_82_r_6_1_tl_20' n='N020'/>into Northern Ireland. That’s got to stop. That’s no an
+				<lb facs='#facs_82_r_6_1_tl_21' n='N021'/>swer, but to the gunman we say, &quot;We acknowledge that
+				<lb facs='#facs_82_r_6_1_tl_22' n='N022'/>the gunman in Northern Ireland has taken guns perhaps
+				<lb facs='#facs_82_r_6_1_tl_23' n='N023'/>because of their political ideals, perhaps because they
+				<lb facs='#facs_82_r_6_1_tl_24' n='N024'/>were never offered a way, but there’s a new way. There’s
+				<lb facs='#facs_82_r_6_1_tl_25' n='N025'/>another way, and we say to them, &quot;Put up your guns,
+				<lb facs='#facs_82_r_6_1_tl_26' n='N026'/>and if you really care for the people, come into society.
+				<lb facs='#facs_82_r_6_1_tl_27' n='N027'/>Let’s talk about it.&quot; We’re not telling them to &quot;get lost
+				<lb facs='#facs_82_r_6_1_tl_28' n='N028'/>or go under the carpet because it’Il fester in thirty years,
+				<lb facs='#facs_82_r_6_1_tl_29' n='N029'/>but let’s talk about it. Let’s hear what you are saying,
+				<lb facs='#facs_82_r_6_1_tl_30' n='N030'/>but not by the gun.
+				<lb facs='#facs_82_r_6_1_tl_31' n='N031'/>Mairead Corrigan 5)
+			</p>
+			<p>
+				<lb facs='#facs_82_r_7_1_tl_1' n='N001'/>During the weeks that followed the initial demonstration at
+				<lb facs='#facs_82_r_7_1_tl_2' n='N002'/>the site of the McGuire children’s death, Betty Williams and Mai
+				<lb facs='#facs_82_r_7_1_tl_3' n='N003'/>read Corrigan continued to publicize the incident and organize
+				<lb facs='#facs_82_r_7_1_tl_4' n='N004'/>for an all-out assault on violence. This took the form of massive
+				<lb facs='#facs_82_r_7_1_tl_5' n='N005'/>demonstrations for peace. The first demonstration (August 14)
+				<lb facs='#facs_82_r_7_1_tl_6' n='N006'/>drew 10,000 women, both Protestant and Catholic, to the Catho
+				<lb facs='#facs_82_r_7_1_tl_7' n='N007'/>lic Andersontown district. Provo supporters jeered the rally and
+				<lb facs='#facs_82_r_7_1_tl_8' n='N008'/>denounced Williams as a traitor, but she was not dissuaded and
+				<lb facs='#facs_82_r_7_1_tl_9' n='N009'/>the following week brought 20,000 people together in one of Bel
+				<lb facs='#facs_82_r_7_1_tl_10' n='N010'/>fast’s few remaining “mixed&quot; neighborhoods. The third weekend
+				<lb facs='#facs_82_r_7_1_tl_11' n='N011'/>the peace movement returned to the hard-core Protestant Shan-
+				<lb facs='#facs_82_r_7_1_tl_12' n='N012'/>kill Road area where close to 30,000 demonstrators showed up.
+				<lb facs='#facs_82_r_7_1_tl_13' n='N013'/>The fourth rally was held in Derry, Ulster’s second largest city,
+				<lb facs='#facs_82_r_7_1_tl_14' n='N014'/>on Craigavon Bridge, which connects the Protestant and Catho-
+				<lb facs='#facs_82_r_7_1_tl_15' n='N015'/>lic sections of town. Again approximately 30,000 people turned
+				<lb facs='#facs_82_r_7_1_tl_16' n='N016'/>out. By this time the Provos were saying that they did not oppose
+				<lb facs='#facs_82_r_7_1_tl_17' n='N017'/>the peace movement, but supported “Peace with justice.&quot; Mean-
+				<lb facs='#facs_82_r_7_1_tl_18' n='N018'/>while, in Dublin, the capital of the Irish Republic, a march by
+				<lb facs='#facs_82_r_7_1_tl_19' n='N019'/>20,000 was organized in support and smaller marches were held
+				<lb facs='#facs_82_r_7_1_tl_20' n='N020'/>in Corm, Galway, Carlon and Castlebar.
+				<lb facs='#facs_82_r_7_1_tl_21' n='N021'/>The unexpected popularity and energetic style of these initial
+				<lb facs='#facs_82_r_7_1_tl_22' n='N022'/>marches contributed to their dramatic impact. Both support and
+				<lb facs='#facs_82_r_7_1_tl_23' n='N023'/>criticism abounded. Within weeks of the first rally, smaller com
+				<lb facs='#facs_82_r_7_1_tl_24' n='N024'/>munity &quot;peace” groups began to spring up throughout the pro
+				<lb facs='#facs_82_r_7_1_tl_25' n='N025'/>vince, with no apparent orientation other than a commitment to
+				<lb facs='#facs_82_r_7_1_tl_26' n='N026'/>peace, to furthering dialogue within the community and to con
+				<lb facs='#facs_82_r_7_1_tl_27' n='N027'/>structive non-sectarian local action.
+				<lb facs='#facs_82_r_7_1_tl_28' n='N028'/>Provisional &quot;support,&quot; however, was to prove short-lived.
+				<lb facs='#facs_82_r_7_1_tl_29' n='N029'/>The weekly marches were disrupted on October 2 by small IRA
+				<lb facs='#facs_82_r_7_1_tl_30' n='N030'/>counter-marches in which several of the peace marchers were
+				<lb facs='#facs_82_r_7_1_tl_31' n='N031'/>assaulted. Death threats against Betty and Mairead were occa
+				<lb facs='#facs_82_r_7_1_tl_32' n='N032'/>sionally found scrawled on Belfast walls. The Provos, claiming
+				<lb facs='#facs_82_r_7_1_tl_33' n='N033'/>that there had been an increase in British army raids, arrests and
+				<lb facs='#facs_82_r_7_1_tl_34' n='N034'/>harassment, issued a statement warning that if any women from
+				<lb facs='#facs_82_r_7_1_tl_35' n='N035'/>the peace movement cooperated with security forces, they would
+				<lb facs='#facs_82_r_7_1_tl_36' n='N036'/>be treated as informers and shot.
+			</p>
+			<pb n='83'/>
+			<p>
+				<lb facs='#facs_83_r_1_1_tl_1' n='N001'/>From the onset there has been confusion in the press about
+				<lb facs='#facs_83_r_1_1_tl_2' n='N002'/>the attitude of the peace marchers toward the British and the RUC
+				<lb facs='#facs_83_r_1_1_tl_3' n='N003'/>(Royal Ulster Constabulary — the “legitimate” police who have
+				<lb facs='#facs_83_r_1_1_tl_4' n='N004'/>been theoretically neutral but effectively on the side of the Pro
+				<lb facs='#facs_83_r_1_1_tl_5' n='N005'/>testants). While the peace leaders have been extremely outspoken
+				<lb facs='#facs_83_r_1_1_tl_6' n='N006'/>in their criticism of the Provisionals and of the UDA and the UVF
+				<lb facs='#facs_83_r_1_1_tl_7' n='N007'/>(Ulster Defense Association and Ulster Volunteer Force, the Pro
+				<lb facs='#facs_83_r_1_1_tl_8' n='N008'/>testant paramilitary equivalents of the Provisional IRA), they
+				<lb facs='#facs_83_r_1_1_tl_9' n='N009'/>have been less direct in their denunciation of the British and of the
+				<lb facs='#facs_83_r_1_1_tl_10' n='N010'/>legitimate&quot; Ulster security forces. Though they have consistently
+				<lb facs='#facs_83_r_1_1_tl_11' n='N011'/>condemned all “men of violence, their position on “legal” mili
+				<lb facs='#facs_83_r_1_1_tl_12' n='N012'/>tary forces is more ambiguous. While this is a crucial issue and
+				<lb facs='#facs_83_r_1_1_tl_13' n='N013'/>one on which the peace leaders are perhaps most vulnerable to
+				<lb facs='#facs_83_r_1_1_tl_14' n='N014'/>criticism, IRA supporters have consistently twisted its signifi
+				<lb facs='#facs_83_r_1_1_tl_15' n='N015'/>cance to imply that they are pro-British — unlikely, as the move
+				<lb facs='#facs_83_r_1_1_tl_16' n='N016'/>ment is both Catholic-led and strongly backed by non-violent
+				<lb facs='#facs_83_r_1_1_tl_17' n='N017'/>Catholic Nationalists. There is in fact a simple and rational ex
+				<lb facs='#facs_83_r_1_1_tl_18' n='N018'/>planation for their hedging on the question of British interven
+				<lb facs='#facs_83_r_1_1_tl_19' n='N019'/>tion. Since one of the main thrusts of the movement is its anti
+				<lb facs='#facs_83_r_1_1_tl_20' n='N020'/>sectarian character, and since it is the first major popular grass
+				<lb facs='#facs_83_r_1_1_tl_21' n='N021'/>roots movement uniting both Catholics and Protestants, its very
+				<lb facs='#facs_83_r_1_1_tl_22' n='N022'/>existence is dependent on widespread support from both camps.
+				<lb facs='#facs_83_r_1_1_tl_23' n='N023'/>The vast majority of Protestants (two-thirds of the population in
+				<lb facs='#facs_83_r_1_1_tl_24' n='N024'/>Northern Ireland) for the most part do not favor British with
+				<lb facs='#facs_83_r_1_1_tl_25' n='N025'/>drawal, and many Catholics, including the Official IRA Sinn
+				<lb facs='#facs_83_r_1_1_tl_26' n='N026'/>Fein° do not advocate an immediate withdrawal, so that any
+				<lb facs='#facs_83_r_1_1_tl_27' n='N027'/>public position in regard to either imperialism or British &quot;secur
+				<lb facs='#facs_83_r_1_1_tl_28' n='N028'/>ity&quot; forces is indeed difficult and problematic. Due to this fact, as
+				<lb facs='#facs_83_r_1_1_tl_29' n='N029'/>well as to the general diversity of political sentiment within the
+				<lb facs='#facs_83_r_1_1_tl_30' n='N030'/>movement, the leaders have confined themselves to taking gen
+				<lb facs='#facs_83_r_1_1_tl_31' n='N031'/>eral positions against violence, encouraging local initiative
+				<lb facs='#facs_83_r_1_1_tl_32' n='N032'/>toward peace and speaking in very broad terms about the need
+				<lb facs='#facs_83_r_1_1_tl_33' n='N033'/>for the &quot;Northern Irish&quot; people to resolve their own differences
+				<lb facs='#facs_83_r_1_1_tl_34' n='N034'/>&quot;from the bottom up.
+				<lb facs='#facs_83_r_1_1_tl_35' n='N035'/>Although heavy criticism from both the Provisionals and
+				<lb facs='#facs_83_r_1_1_tl_36' n='N036'/>extremist Protestant groups may have slightly affected the move
+				<lb facs='#facs_83_r_1_1_tl_37' n='N037'/>ment’s popularity, demonstrations, rallies and meetings through-
+				<lb facs='#facs_83_r_1_1_tl_38' n='N038'/>out the fall of 1976 continued to draw wide support. Several sup
+				<lb facs='#facs_83_r_1_1_tl_39' n='N039'/>portive demonstrations were organized by feminist groups in
+				<lb facs='#facs_83_r_1_1_tl_40' n='N040'/>Germany and the Netherlands; a rally in London on November
+				<lb facs='#facs_83_r_1_1_tl_41' n='N041'/>28 drew a crowd of approximately 15,000.
+				<lb facs='#facs_83_r_1_1_tl_42' n='N042'/>The movement now has a magazine (Peace by Peace), a
+				<lb facs='#facs_83_r_1_1_tl_43' n='N043'/>small office in Belfast, and over 125 local groups “organizing for
+				<lb facs='#facs_83_r_1_1_tl_44' n='N044'/>peace” in Northern Ireland. &quot;Support,” however, is not what the
+				<lb facs='#facs_83_r_1_1_tl_45' n='N045'/>movement is all about. In terms of opening up effective channels
+				<lb facs='#facs_83_r_1_1_tl_46' n='N046'/>of discourse and creating a climate in which constructive non
+				<lb facs='#facs_83_r_1_1_tl_47' n='N047'/>sectarian political development can occur, there is no way at
+				<lb facs='#facs_83_r_1_1_tl_48' n='N048'/>present to estimate its success.
+				<lb facs='#facs_83_r_1_1_tl_49' n='N049'/>The current peace movement is not the first of its kind in Ire
+				<lb facs='#facs_83_r_1_1_tl_50' n='N050'/>land. Two others in the recent past have attempted to dispel sec
+				<lb facs='#facs_83_r_1_1_tl_51' n='N051'/>tarian violence by non-violent and non-sectarian means. Both
+				<lb facs='#facs_83_r_1_1_tl_52' n='N052'/>times they were eclipsed by British military escalations which ral
+				<lb facs='#facs_83_r_1_1_tl_53' n='N053'/>lied Catholics to the IRA. In 1971, an organization called &quot;Wom
+				<lb facs='#facs_83_r_1_1_tl_54' n='N054'/>en Together” gained considerable support, but lost ground when
+				<lb facs='#facs_83_r_1_1_tl_55' n='N055'/>the British introduced internment. Another movement sprang up
+				<lb facs='#facs_83_r_1_1_tl_56' n='N056'/>in Derry in 1972. After a British soldier had killed a Catholic
+				<lb facs='#facs_83_r_1_1_tl_57' n='N057'/>youth, the IRA &quot;executed&quot; a young man from Derry who had
+				<lb facs='#facs_83_r_1_1_tl_58' n='N058'/>joined the British army. That was the last straw for Margaret
+				<lb facs='#facs_83_r_1_1_tl_59' n='N059'/>Doherty, who organized her neighbors to demonstrate their
+				<lb facs='#facs_83_r_1_1_tl_60' n='N060'/>anger. This was effective to the extent that the Official IRA de
+				<lb facs='#facs_83_r_1_1_tl_61' n='N061'/>clared a cease-fire which they maintain to this day. The 1972
+				<lb facs='#facs_83_r_1_1_tl_62' n='N062'/>movement collapsed however, when the British invaded the
+			</p>
+			<p>
+				<lb facs='#facs_83_r_2_1_tl_1' n='N001'/>Catholic no-go areas in what was known as “Operation Motor
+				<lb facs='#facs_83_r_2_1_tl_2' n='N002'/>man. Once again the Provisionals were vindicated by British
+				<lb facs='#facs_83_r_2_1_tl_3' n='N003'/>actions. With the rebirth of the peace forces this year, Margaret
+				<lb facs='#facs_83_r_2_1_tl_4' n='N004'/>Doherty, who had been viciously harassed for her peace activities
+				<lb facs='#facs_83_r_2_1_tl_5' n='N005'/>in 1972, again came forward and has participated in the organiza
+				<lb facs='#facs_83_r_2_1_tl_6' n='N006'/>tion of the present campaign.
+				<lb facs='#facs_83_r_2_1_tl_7' n='N007'/>Even these recent interventions on the part of women are not
+				<lb facs='#facs_83_r_2_1_tl_8' n='N008'/>unique in Irish history. In 1921, during the struggle for Home
+				<lb facs='#facs_83_r_2_1_tl_9' n='N009'/>Rule, the British section of the Women’s International League for
+				<lb facs='#facs_83_r_2_1_tl_10' n='N010'/>Peace and Freedom, headed by Jane Addams, sent their own
+				<lb facs='#facs_83_r_2_1_tl_11' n='N011'/>commission to study Irish self-rule, clearly opposing the interests
+				<lb facs='#facs_83_r_2_1_tl_12' n='N012'/>of their own government. The Irish section of the WILPF, led by
+				<lb facs='#facs_83_r_2_1_tl_13' n='N013'/>Louie Bennett, was active in organizing women to employ
+				<lb facs='#facs_83_r_2_1_tl_14' n='N014'/>passive-resistance techniques in a struggle against the British.
+				<lb facs='#facs_83_r_2_1_tl_15' n='N015'/>Their view as women was that human life was precious and that
+				<lb facs='#facs_83_r_2_1_tl_16' n='N016'/>war was an outmoded way of dealing with imperialist rivalries.
+				<lb facs='#facs_83_r_2_1_tl_17' n='N017'/>While the women supporters of the 1921 struggle were largely
+				<lb facs='#facs_83_r_2_1_tl_18' n='N018'/>middle-class suffragettes organized internationally behind a paci-
+				<lb facs='#facs_83_r_2_1_tl_19' n='N019'/>fist ideology, the current peace campaign is indigenous, widely
+				<lb facs='#facs_83_r_2_1_tl_20' n='N020'/>supported by both middle- and working-class people, and rela
+				<lb facs='#facs_83_r_2_1_tl_21' n='N021'/>tively &quot;unorganized.&quot;
+				<lb facs='#facs_83_r_2_1_tl_22' n='N022'/>The peace movement, as Bernadette Devlin has pointed out,
+				<lb facs='#facs_83_r_2_1_tl_23' n='N023'/>is not a feminist movement. There is in fact virtually no feminism
+				<lb facs='#facs_83_r_2_1_tl_24' n='N024'/>in Ireland in the sense in which we as Americans understand it.
+				<lb facs='#facs_83_r_2_1_tl_25' n='N025'/>While there have been several notable female political activists in
+				<lb facs='#facs_83_r_2_1_tl_26' n='N026'/>the Republican movement (Bernadette Devlin, now associated
+				<lb facs='#facs_83_r_2_1_tl_27' n='N027'/>with the Irish Republican Socialist Party, Marin de Burca, joint
+				<lb facs='#facs_83_r_2_1_tl_28' n='N028'/>general secretary of Sinn Fein, and Maire Drumm, the recently
+				<lb facs='#facs_83_r_2_1_tl_29' n='N029'/>assassinated Provisional IRA spokeswoman), the vast majority of
+				<lb facs='#facs_83_r_2_1_tl_30' n='N030'/>Irish women, oppressed as they are by poverty, war, extremely
+				<lb facs='#facs_83_r_2_1_tl_31' n='N031'/>discriminatory employment and pay practices, and perhaps most
+				<lb facs='#facs_83_r_2_1_tl_32' n='N032'/>importantly, by a strong religious and patriarchal family struc
+				<lb facs='#facs_83_r_2_1_tl_33' n='N033'/>ture, have, by and large, remained unorganized as women.
+				<lb facs='#facs_83_r_2_1_tl_34' n='N034'/>For Catholic women, a very intense religious indoctrination
+				<lb facs='#facs_83_r_2_1_tl_35' n='N035'/>which places a strict taboo on birth control, abortion and divorce
+				<lb facs='#facs_83_r_2_1_tl_36' n='N036'/>is still a major obstacle. While as citizens of a Commonwealth
+				<lb facs='#facs_83_r_2_1_tl_37' n='N037'/>nation, Northern Irish women are technically entitled to equal
+				<lb facs='#facs_83_r_2_1_tl_38' n='N038'/>pay, and according to an anti-discrimination law passed at West
+				<lb facs='#facs_83_r_2_1_tl_39' n='N039'/>minster in December 1976, they are protected against job dis
+				<lb facs='#facs_83_r_2_1_tl_40' n='N040'/>crimination, the fact is that women’s employment opportunities
+				<lb facs='#facs_83_r_2_1_tl_41' n='N041'/>lag far behind not only those of men, but behind those of most
+				<lb facs='#facs_83_r_2_1_tl_42' n='N042'/>European women as well. While the legal status of Ulster women
+				<lb facs='#facs_83_r_2_1_tl_43' n='N043'/>is superior to that of women in the Catholic Republic of Ireland
+				<lb facs='#facs_83_r_2_1_tl_44' n='N044'/>where women still have almost no independent legal rights, a
+				<lb facs='#facs_83_r_2_1_tl_45' n='N045'/>very strong patriarchal ideology still prevails throughout Ireland,
+				<lb facs='#facs_83_r_2_1_tl_46' n='N046'/>and Northern Irish women are for the most part still politically
+				<lb facs='#facs_83_r_2_1_tl_47' n='N047'/>subservient to their husbands as well as being educationally and
+				<lb facs='#facs_83_r_2_1_tl_48' n='N048'/>economically disadvantaged. While these conditions can ulti
+				<lb facs='#facs_83_r_2_1_tl_49' n='N049'/>mately be traced to the relatively low level of industrial and eco
+				<lb facs='#facs_83_r_2_1_tl_50' n='N050'/>nomic development of Ireland as a whole, and to the powerful
+				<lb facs='#facs_83_r_2_1_tl_51' n='N051'/>religious infrastructure, they do underline some of the reasons
+				<lb facs='#facs_83_r_2_1_tl_52' n='N052'/>why feminism has failed to develop, as well as the crucial impor
+				<lb facs='#facs_83_r_2_1_tl_53' n='N053'/>tance of independent women’s organizations.
+				<lb facs='#facs_83_r_2_1_tl_54' n='N054'/>How then can we evaluate the effectiveness of the peace
+				<lb facs='#facs_83_r_2_1_tl_55' n='N055'/>movement from a feminist perspective? While its prevailing atti
+				<lb facs='#facs_83_r_2_1_tl_56' n='N056'/>tudes are traditional, in that they are not activist from a feminist
+				<lb facs='#facs_83_r_2_1_tl_57' n='N057'/>or socialist perspective, the movement does potentially represent
+				<lb facs='#facs_83_r_2_1_tl_58' n='N058'/>an important step forward in both of these directions. The self
+				<lb facs='#facs_83_r_2_1_tl_59' n='N059'/>initiated emergence into the political sphere of a large sector of
+				<lb facs='#facs_83_r_2_1_tl_60' n='N060'/>the female population which has heretofore remained inactive, or
+				<lb facs='#facs_83_r_2_1_tl_61' n='N061'/>at best has existed in an exclusively supportive role in relation to
+				<lb facs='#facs_83_r_2_1_tl_62' n='N062'/>those very male modes of political activity which they are now so
+				<lb facs='#facs_83_r_2_1_tl_63' n='N063'/>explicitly criticizing, is not without significance to the develop
+				<lb facs='#facs_83_r_2_1_tl_64' n='N064'/>ment of either.
+			</p>
+			<pb n='84'/>
+			<p>
+				<lb facs='#facs_84_r_1_1_tl_1' n='N001'/>The rallies do help to get rid of a certain amount of
+				<lb facs='#facs_84_r_1_1_tl_2' n='N002'/>fear. You are going to such-and-such a place and at one
+				<lb facs='#facs_84_r_1_1_tl_3' n='N003'/>time you would have been frightened to go there. But at
+				<lb facs='#facs_84_r_1_1_tl_4' n='N004'/>the rally you’re a bit frightened but you just go on. Each
+				<lb facs='#facs_84_r_1_1_tl_5' n='N005'/>time you come back from a rally, you have more cour
+				<lb facs='#facs_84_r_1_1_tl_6' n='N006'/>age to keep going. It’s because you’re meeting with
+				<lb facs='#facs_84_r_1_1_tl_7' n='N007'/>people
+				<lb facs='#facs_84_r_1_1_tl_8' n='N008'/>Let’s face it, for seven years we went about the city
+				<lb facs='#facs_84_r_1_1_tl_9' n='N009'/>and sat in our homes, all the time wrapped up in our
+				<lb facs='#facs_84_r_1_1_tl_10' n='N010'/>own family and our own home and our own constant
+				<lb facs='#facs_84_r_1_1_tl_11' n='N011'/>worry that something would happen to them. You felt it
+				<lb facs='#facs_84_r_1_1_tl_12' n='N012'/>was just yourself had all this worry. Going out to the
+				<lb facs='#facs_84_r_1_1_tl_13' n='N013'/>rallies is making people realize that other people have
+				<lb facs='#facs_84_r_1_1_tl_14' n='N014'/>the same fears and the same worries. We are able to talk
+				<lb facs='#facs_84_r_1_1_tl_15' n='N015'/>to each other about it. It’s bringing a new closeness.
+				<lb facs='#facs_84_r_1_1_tl_16' n='N016'/>JJune Campion, member of a local peace group in Knok
+				<lb facs='#facs_84_r_1_1_tl_17' n='N017'/>nagoney&apos;
+				<lb facs='#facs_84_r_1_1_tl_18' n='N018'/>It is also important to remember that the current peace
+				<lb facs='#facs_84_r_1_1_tl_19' n='N019'/>movement is at present not a political organization; it is perhaps
+				<lb facs='#facs_84_r_1_1_tl_20' n='N020'/>misleading to consider it as such. While plans for the future in
+				<lb facs='#facs_84_r_1_1_tl_21' n='N021'/>clude meetings designed to develop a more explicit form of
+				<lb facs='#facs_84_r_1_1_tl_22' n='N022'/>organization, the movement as yet has no formal structure and
+				<lb facs='#facs_84_r_1_1_tl_23' n='N023'/>no official platform. It is a phenomenon that can accurately be
+				<lb facs='#facs_84_r_1_1_tl_24' n='N024'/>termed &quot;spontaneous” in that it has not been planned and the
+				<lb facs='#facs_84_r_1_1_tl_25' n='N025'/>form it has taken to date can be regarded primarily as a demon
+				<lb facs='#facs_84_r_1_1_tl_26' n='N026'/>stration of solidarity around a commitment to peace.
+				<lb facs='#facs_84_r_1_1_tl_27' n='N027'/>The three most visible leaders at present are Betty Williams,
+				<lb facs='#facs_84_r_1_1_tl_28' n='N028'/>Mairead Corrigan and Ciaran McKeown, a journalist who has
+				<lb facs='#facs_84_r_1_1_tl_29' n='N029'/>given up his newspaper position to support the women in their
+				<lb facs='#facs_84_r_1_1_tl_30' n='N030'/>struggle. The organizational network as a whole, however, is
+				<lb facs='#facs_84_r_1_1_tl_31' n='N031'/>neither centralized nor highly controlled by those who are
+				<lb facs='#facs_84_r_1_1_tl_32' n='N032'/>apparently most prominent. Indeed, there has been a consistent
+				<lb facs='#facs_84_r_1_1_tl_33' n='N033'/>effort by all concerned to systematically locate the basis for par
+				<lb facs='#facs_84_r_1_1_tl_34' n='N034'/>ticipation and direction within the numerous communities where
+				<lb facs='#facs_84_r_1_1_tl_35' n='N035'/>peace groups have been emerging.
+				<lb facs='#facs_84_r_1_1_tl_36' n='N036'/>While direct support for the movement is clearly widespread
+				<lb facs='#facs_84_r_1_1_tl_37' n='N037'/>(estimates range from 170,000 to 250,000 people in Northern Ire
+				<lb facs='#facs_84_r_1_1_tl_38' n='N038'/>land alone), it is extremely hard to gauge its size or class composi
+				<lb facs='#facs_84_r_1_1_tl_39' n='N039'/>tion on the basis of mass rallies and demonstrations. When I criti
+				<lb facs='#facs_84_r_1_1_tl_40' n='N040'/>cized the somewhat naive character of some of the statements by
+				<lb facs='#facs_84_r_1_1_tl_41' n='N041'/>movement leaders, an American woman who had gone to North-
+				<lb facs='#facs_84_r_1_1_tl_42' n='N042'/>ern Ireland to participate in one of their rallies told me that it was
+				<lb facs='#facs_84_r_1_1_tl_43' n='N043'/>precisely this tone that contributed to the movement’s popularity
+				<lb facs='#facs_84_r_1_1_tl_44' n='N044'/>among working-class women. It is certainly true that there has
+				<lb facs='#facs_84_r_1_1_tl_45' n='N045'/>been a very deliberate attempt by the peace people to avoid direct
+				<lb facs='#facs_84_r_1_1_tl_46' n='N046'/>affiliation with any specific political groups, and certain of the
+				<lb facs='#facs_84_r_1_1_tl_47' n='N047'/>more politically “sophisticated&quot; women supporters have delib
+				<lb facs='#facs_84_r_1_1_tl_48' n='N048'/>erately remained in the background, not wishing to “take over’
+				<lb facs='#facs_84_r_1_1_tl_49' n='N049'/>or divert the movement from its primary focus, that is, bringing
+				<lb facs='#facs_84_r_1_1_tl_50' n='N050'/>an end to violence and encouraging local initiative toward non
+				<lb facs='#facs_84_r_1_1_tl_51' n='N051'/>sectarian community development.
+				<lb facs='#facs_84_r_1_1_tl_52' n='N052'/>Marin de Burca, a socialist and leader of Sinn Fein (Official
+				<lb facs='#facs_84_r_1_1_tl_53' n='N053'/>IRA) spoke of the peace movement in an interview during a re
+				<lb facs='#facs_84_r_1_1_tl_54' n='N054'/>cent tour of the U.S.: “We go to the marches as individuals. It
+				<lb facs='#facs_84_r_1_1_tl_55' n='N055'/>would be the kiss of death if we openly supported them. We have
+				<lb facs='#facs_84_r_1_1_tl_56' n='N056'/>issued statements supporting them, but I don’t agree with trying
+				<lb facs='#facs_84_r_1_1_tl_57' n='N057'/>to move in and take them over.&quot;
+				<lb facs='#facs_84_r_1_1_tl_58' n='N058'/>De Burca believes that if the British withdrew the Provos
+				<lb facs='#facs_84_r_1_1_tl_59' n='N059'/>would be politically undermined. She argues that unification of
+				<lb facs='#facs_84_r_1_1_tl_60' n='N060'/>the country is still the solution but that it can be achieved only
+				<lb facs='#facs_84_r_1_1_tl_61' n='N061'/>through unification of the various factions around initially mod
+				<lb facs='#facs_84_r_1_1_tl_62' n='N062'/>est reforms.
+				<lb facs='#facs_84_r_1_1_tl_63' n='N063'/>The demand for peace is not Marxist, but in the context
+				<lb facs='#facs_84_r_1_1_tl_64' n='N064'/>of Northern Ireland it is very revolutionary at the mo
+				<lb facs='#facs_84_r_1_1_tl_65' n='N065'/>ment... The reason we’re looking for peace is to allow
+				<lb facs='#facs_84_r_1_1_tl_66' n='N066'/>us to operate openly and intensively in a political way
+			</p>
+			<p>
+				<lb facs='#facs_84_r_2_1_tl_1' n='N001'/>to unite Protestants and Catholics. If we have to look
+				<lb facs='#facs_84_r_2_1_tl_2' n='N002'/>for something that sounds as reactionary as peace, then
+				<lb facs='#facs_84_r_2_1_tl_3' n='N003'/>we look for it. If people can’t see behind the facade to
+				<lb facs='#facs_84_r_2_1_tl_4' n='N004'/>the reality then it’s their problem.
+				<lb facs='#facs_84_r_2_1_tl_5' n='N005'/>When Marin de Burca speaks of working in a political way
+				<lb facs='#facs_84_r_2_1_tl_6' n='N006'/>to unite Catholics and Protestants, she is speaking as a marxist
+				<lb facs='#facs_84_r_2_1_tl_7' n='N007'/>attempting to organize working people to assume greater econo
+				<lb facs='#facs_84_r_2_1_tl_8' n='N008'/>mic control. While, as a member of the Official IRA, de Burca
+				<lb facs='#facs_84_r_2_1_tl_9' n='N009'/>definitely supports an anti-imperialist struggle, she feels that in
+				<lb facs='#facs_84_r_2_1_tl_10' n='N010'/>the long run the sectarian disputes dividing the Catholic and Prot-
+				<lb facs='#facs_84_r_2_1_tl_11' n='N011'/>estant working populations are perhaps an even greater obstacle
+				<lb facs='#facs_84_r_2_1_tl_12' n='N012'/>to the struggle for self-determination. As the situation exists now,
+				<lb facs='#facs_84_r_2_1_tl_13' n='N013'/>separate Catholic and Protestant labor unions render the labor
+				<lb facs='#facs_84_r_2_1_tl_14' n='N014'/>movement as a whole relatively ineffectual, and continued eco
+				<lb facs='#facs_84_r_2_1_tl_15' n='N015'/>nomic disintegration due to sectarian violence has left large sec
+				<lb facs='#facs_84_r_2_1_tl_16' n='N016'/>tions of the Catholic and Protestant population unemployed.
+				<lb facs='#facs_84_r_2_1_tl_17' n='N017'/>It is interesting to note the difference between de Burca&apos;s
+				<lb facs='#facs_84_r_2_1_tl_18' n='N018'/>marxist analysis, which views the entire Irish working class as the
+				<lb facs='#facs_84_r_2_1_tl_19' n='N019'/>oppressed class and the type of marxist analysis supported by
+				<lb facs='#facs_84_r_2_1_tl_20' n='N020'/>other Republicans, which views the Catholic minority in the
+				<lb facs='#facs_84_r_2_1_tl_21' n='N021'/>North as the oppressed class. The Provisionals, who are not nec
+				<lb facs='#facs_84_r_2_1_tl_22' n='N022'/>essarily socialists but prefer to think of themselves as consistently
+				<lb facs='#facs_84_r_2_1_tl_23' n='N023'/>on the left, persist in opposing both the British and the Protestan
+				<lb facs='#facs_84_r_2_1_tl_24' n='N024'/>paramilitary and are engaged in a constant struggle for unifica
+				<lb facs='#facs_84_r_2_1_tl_25' n='N025'/>tion with the Catholic South. Bernadette Devlin, a socialist and
+				<lb facs='#facs_84_r_2_1_tl_26' n='N026'/>an aggressive Republican, generally supports this form of analysis
+				<lb facs='#facs_84_r_2_1_tl_27' n='N027'/>where class—purely in economic terms—is secondary to anti
+				<lb facs='#facs_84_r_2_1_tl_28' n='N028'/>imperialism and a class analysis stressing the political and eco
+				<lb facs='#facs_84_r_2_1_tl_29' n='N029'/>nomic discrimination that the Catholic population as a whole has
+				<lb facs='#facs_84_r_2_1_tl_30' n='N030'/>suffered at the hands of a Protestant-controlled government and
+				<lb facs='#facs_84_r_2_1_tl_31' n='N031'/>industry.
+				<lb facs='#facs_84_r_2_1_tl_32' n='N032'/>The complexity of the situation and the relative inadequacy
+				<lb facs='#facs_84_r_2_1_tl_33' n='N033'/>of this approach is apparent when one considers, even in crude
+				<lb facs='#facs_84_r_2_1_tl_34' n='N034'/>terms, the economic composition of the Catholic and Protestant
+				<lb facs='#facs_84_r_2_1_tl_35' n='N035'/>population. While it is definitely true that the Protestant majori-
+				<lb facs='#facs_84_r_2_1_tl_36' n='N036'/>ty, as a group, has greater economic control, and that the high
+				<lb facs='#facs_84_r_2_1_tl_37' n='N037'/>est levels of unemployment in the North are in Catholic districts,
+				<lb facs='#facs_84_r_2_1_tl_38' n='N038'/>the large majority of the Protestant population is also working
+				<lb facs='#facs_84_r_2_1_tl_39' n='N039'/>class. It is, in fact, the youths of these two communities who are
+				<lb facs='#facs_84_r_2_1_tl_40' n='N040'/>fighting one another, while the small minority of Protestants who
+				<lb facs='#facs_84_r_2_1_tl_41' n='N041'/>are wealthy maintain an economic advantage and have an inter
+				<lb facs='#facs_84_r_2_1_tl_42' n='N042'/>est in continuing sectarian hostilities for precisely this reason.
+				<lb facs='#facs_84_r_2_1_tl_43' n='N043'/>It would be a mistake, however, to attempt to evaluate the
+				<lb facs='#facs_84_r_2_1_tl_44' n='N044'/>significance of the peace movement on the basis of its potential
+				<lb facs='#facs_84_r_2_1_tl_45' n='N045'/>effectiveness in furthering the cause of other political movements.
+				<lb facs='#facs_84_r_2_1_tl_46' n='N046'/>It is perhaps more useful to consider the way in which the peace
+				<lb facs='#facs_84_r_2_1_tl_47' n='N047'/>movement is indicative of an entirely different struggle for self
+				<lb facs='#facs_84_r_2_1_tl_48' n='N048'/>determination, as well as a profoundly different approach to these
+				<lb facs='#facs_84_r_2_1_tl_49' n='N049'/>issues. It is significant that what is being questioned by the peace
+				<lb facs='#facs_84_r_2_1_tl_50' n='N050'/>people is not the ends of political struggle so much as the means
+				<lb facs='#facs_84_r_2_1_tl_51' n='N051'/>by which ideas, opinions and interests are both culturally rein
+				<lb facs='#facs_84_r_2_1_tl_52' n='N052'/>forced and socially imposed.
+				<lb facs='#facs_84_r_2_1_tl_53' n='N053'/>The critical issue which is the historical source of internal
+				<lb facs='#facs_84_r_2_1_tl_54' n='N054'/>Irish conflict is that of the relationship between Ireland and the
+				<lb facs='#facs_84_r_2_1_tl_55' n='N055'/>British Empire. This has not only kept Catholics and Protestants
+				<lb facs='#facs_84_r_2_1_tl_56' n='N056'/>feuding for generations, but has also led to innumerable splits
+				<lb facs='#facs_84_r_2_1_tl_57' n='N057'/>within both camps. It is paradoxical that within this contex
+				<lb facs='#facs_84_r_2_1_tl_58' n='N058'/>British imperialism is the one issue on which the peace campaign
+				<lb facs='#facs_84_r_2_1_tl_59' n='N059'/>has most consistently refused to take a stand. This is not because
+				<lb facs='#facs_84_r_2_1_tl_60' n='N060'/>individual participants have no opinions on this question, but
+				<lb facs='#facs_84_r_2_1_tl_61' n='N061'/>rather because the movement locates the &quot;solution” in people, in
+				<lb facs='#facs_84_r_2_1_tl_62' n='N062'/>a process of interaction and definition rather than in abstrac
+				<lb facs='#facs_84_r_2_1_tl_63' n='N063'/>&quot;positions.
+			</p>
+			<pb n='85'/>
+			<p>
+				<lb facs='#facs_85_r_1_1_tl_1' n='N001'/>For the peace people, the question of the relative legitimacy
+				<lb facs='#facs_85_r_1_1_tl_2' n='N002'/>of opposing traditions is momentarily suspended. What is reveal
+				<lb facs='#facs_85_r_1_1_tl_3' n='N003'/>ed instead is the logical perfection of institutionalized conflict.
+				<lb facs='#facs_85_r_1_1_tl_4' n='N004'/>Military, political and even religious leaders are themselves to
+				<lb facs='#facs_85_r_1_1_tl_5' n='N005'/>blame, claim the peace organizers, not because of this or that
+				<lb facs='#facs_85_r_1_1_tl_6' n='N006'/>’position&quot; in relation to government, but because they have kept
+				<lb facs='#facs_85_r_1_1_tl_7' n='N007'/>the Irish people divided among themselves. “Rationality” is for
+				<lb facs='#facs_85_r_1_1_tl_8' n='N008'/>them not merely a question of “right&quot; and “wrong,” but rather
+				<lb facs='#facs_85_r_1_1_tl_9' n='N009'/>begins with the realization of how two non-dialectical visions of
+				<lb facs='#facs_85_r_1_1_tl_10' n='N010'/>&quot;right&quot; are sustained by a culture which is imperialist and author
+				<lb facs='#facs_85_r_1_1_tl_11' n='N011'/>itarian in its very mode of thought.
+				<lb facs='#facs_85_r_1_1_tl_12' n='N012'/>Problems arise, claim the peace workers, because we have
+				<lb facs='#facs_85_r_1_1_tl_13' n='N013'/>lost sight of a basic respect for the individual.&quot; &quot;Solutions,&quot; they
+				<lb facs='#facs_85_r_1_1_tl_14' n='N014'/>assert, cannot be artificially constructed and then imposed but
+				<lb facs='#facs_85_r_1_1_tl_15' n='N015'/>must arise through a process of creative interaction in which gov
+				<lb facs='#facs_85_r_1_1_tl_16' n='N016'/>ernment does not exist to control people, to violently suppress
+				<lb facs='#facs_85_r_1_1_tl_17' n='N017'/>dissent, but rather as an extension of the more or less clearly arti
+				<lb facs='#facs_85_r_1_1_tl_18' n='N018'/>culated needs and desires of all the people.
+				<lb facs='#facs_85_r_1_1_tl_19' n='N019'/>These concepts, while they may reveal an element of political
+				<lb facs='#facs_85_r_1_1_tl_20' n='N020'/>naiveté which translates as liberalism, are not rhetorical. The
+				<lb facs='#facs_85_r_1_1_tl_21' n='N021'/>practical orientation of the movement to date, with its emphasis
+				<lb facs='#facs_85_r_1_1_tl_22' n='N022'/>on open and careful discussion and a decentralized approach to
+				<lb facs='#facs_85_r_1_1_tl_23' n='N023'/>developing democratic forms, is indicative of this fact.
+				<lb facs='#facs_85_r_1_1_tl_24' n='N024'/>From this perspective we might examine Bernadette Devlin&apos;s
+				<lb facs='#facs_85_r_1_1_tl_25' n='N025'/>claim that the peace movement is “dangerous&quot; because it “dulls
+				<lb facs='#facs_85_r_1_1_tl_26' n='N026'/>consciousness. “We were stupid,” she claims, “never to have or
+				<lb facs='#facs_85_r_1_1_tl_27' n='N027'/>ganized the women.&quot;10 Both the truth and the potential fallacy of
+				<lb facs='#facs_85_r_1_1_tl_28' n='N028'/>this statement are apparent. From the standpoint of almost any
+				<lb facs='#facs_85_r_1_1_tl_29' n='N029'/>traditional political perspective, assertions of the sanctity of life,
+				<lb facs='#facs_85_r_1_1_tl_30' n='N030'/>of respect for the individual and of a genuine “creative form of
+				<lb facs='#facs_85_r_1_1_tl_31' n='N031'/>democracy&quot; must appear naive without a &quot;program” or a defini
+				<lb facs='#facs_85_r_1_1_tl_32' n='N032'/>tion of the specific conditions under which such values can be
+				<lb facs='#facs_85_r_1_1_tl_33' n='N033'/>realized. The peace people, however, do not qualify these condi-
+				<lb facs='#facs_85_r_1_1_tl_34' n='N034'/>tions; the values themselves must define the very process of po
+				<lb facs='#facs_85_r_1_1_tl_35' n='N035'/>litical interaction. If this is the case, how then can we interpret
+				<lb facs='#facs_85_r_1_1_tl_36' n='N036'/>Bernadette’s regret at not having &quot;organized&quot; the women? Is it
+				<lb facs='#facs_85_r_1_1_tl_37' n='N037'/>conceivable that the women supporting the peace movement are
+				<lb facs='#facs_85_r_1_1_tl_38' n='N038'/>not in fact organizing themselves, organizing in such a way as to
+				<lb facs='#facs_85_r_1_1_tl_39' n='N039'/>deny the legitimacy of those very political forms into which
+				<lb facs='#facs_85_r_1_1_tl_40' n='N040'/>others seek to recruit them?
+				<lb facs='#facs_85_r_1_1_tl_41' n='N041'/>A supportive statement by the Provisionals, in which the
+				<lb facs='#facs_85_r_1_1_tl_42' n='N042'/>peace movement is described as a &quot;spontaneous overreaction led
+				<lb facs='#facs_85_r_1_1_tl_43' n='N043'/>by the photogenic Mrs. Betty Williams&quot; reveals both the con
+				<lb facs='#facs_85_r_1_1_tl_44' n='N044'/>descension and lack of reflexivity which typify those attitudes the
+				<lb facs='#facs_85_r_1_1_tl_45' n='N045'/>women are most directly challenging.
+				<lb facs='#facs_85_r_1_1_tl_46' n='N046'/>We are not necessarily in opposition to the peace people.
+				<lb facs='#facs_85_r_1_1_tl_47' n='N047'/>But we want to explain to the people that there cannot
+				<lb facs='#facs_85_r_1_1_tl_48' n='N048'/>be peace without justice. We just want to explain to the
+				<lb facs='#facs_85_r_1_1_tl_49' n='N049'/>people turning out to these marches what the true posi
+				<lb facs='#facs_85_r_1_1_tl_50' n='N050'/>tion is and show them the road to real peace.1
+				<lb facs='#facs_85_r_1_1_tl_51' n='N051'/>This raises the most subtle and yet critical issue of the peace
+				<lb facs='#facs_85_r_1_1_tl_52' n='N052'/>movement’s significance. The whole notion of a “true position” is
+				<lb facs='#facs_85_r_1_1_tl_53' n='N053'/>what the peace movement calls into question—it is not the politi
+				<lb facs='#facs_85_r_1_1_tl_54' n='N054'/>cal views of the opposing factions that are being attacked; even
+				<lb facs='#facs_85_r_1_1_tl_55' n='N055'/>the &quot;violence” the movement condemns is but a manifestation of
+				<lb facs='#facs_85_r_1_1_tl_56' n='N056'/>something far more profoundly significant. The peace people are,
+				<lb facs='#facs_85_r_1_1_tl_57' n='N057'/>in my opinion, not reacting simply to a specific incident of vio
+				<lb facs='#facs_85_r_1_1_tl_58' n='N058'/>lence, nor even to violence in the abstract. They are (perhaps
+				<lb facs='#facs_85_r_1_1_tl_59' n='N059'/>naively but nevertheless insightfully) challenging a whole tradi
+				<lb facs='#facs_85_r_1_1_tl_60' n='N060'/>tion. What is fundamentally being questioned is the legitimacy of
+				<lb facs='#facs_85_r_1_1_tl_61' n='N061'/>the imposition of the will of one group upon another. “Justice” is
+				<lb facs='#facs_85_r_1_1_tl_62' n='N062'/>not being challenged so much as how justice is socially defined.
+				<lb facs='#facs_85_r_1_1_tl_63' n='N063'/>imperialism, in this context, is not simply a question of national
+				<lb facs='#facs_85_r_1_1_tl_64' n='N064'/>or international conquest. Imperialism is the imposition of a so
+			</p>
+			<p>
+				<lb facs='#facs_85_r_2_1_tl_1' n='N001'/>cial order, whether through military force or political manipula
+				<lb facs='#facs_85_r_2_1_tl_2' n='N002'/>tion, by those with power on those without. The very question of
+				<lb facs='#facs_85_r_2_1_tl_3' n='N003'/>how Northern Ireland can be governed, says Ciaran McKeown,
+				<lb facs='#facs_85_r_2_1_tl_4' n='N004'/>&quot;is an imperialist question” because it implies the imposition of
+				<lb facs='#facs_85_r_2_1_tl_5' n='N005'/>political forms by politicians on people who are for the most part
+				<lb facs='#facs_85_r_2_1_tl_6' n='N006'/>excluded from the process of a creative democracy. Thus all ex
+				<lb facs='#facs_85_r_2_1_tl_7' n='N007'/>tant political solutions are inevitably violent, whether the vio
+				<lb facs='#facs_85_r_2_1_tl_8' n='N008'/>lence is “legal&quot;1 or &quot;illegal,&quot; because they require military force
+				<lb facs='#facs_85_r_2_1_tl_9' n='N009'/>to secure them.
+				<lb facs='#facs_85_r_2_1_tl_10' n='N010'/>From this perspective, British colonialism, Protestant politi
+				<lb facs='#facs_85_r_2_1_tl_11' n='N011'/>cal suprematism and IRA military violence can be seen as identi
+				<lb facs='#facs_85_r_2_1_tl_12' n='N012'/>cal in their implicit attitudes toward the imposition of social or
+				<lb facs='#facs_85_r_2_1_tl_13' n='N013'/>der. In every case, whether justified or not, “justice” is an exten
+				<lb facs='#facs_85_r_2_1_tl_14' n='N014'/>sion of self-interest and democracy is a rhetorical, not a methodo
+				<lb facs='#facs_85_r_2_1_tl_15' n='N015'/>logical phenomenon. While it would be absurd to consider the
+				<lb facs='#facs_85_r_2_1_tl_16' n='N016'/>peace movement as a feminist or a socialist movement, it express
+				<lb facs='#facs_85_r_2_1_tl_17' n='N017'/>es values that are fundamentally in accordance with both socialist
+				<lb facs='#facs_85_r_2_1_tl_18' n='N018'/>and feminist thought, in that it addresses the whole issue of power
+				<lb facs='#facs_85_r_2_1_tl_19' n='N019'/>and questions the way the right of self-determination has been
+				<lb facs='#facs_85_r_2_1_tl_20' n='N020'/>eclipsed, not only by those in power, but by those who conceive
+				<lb facs='#facs_85_r_2_1_tl_21' n='N021'/>of power alone—economic, military or political—as the just de
+				<lb facs='#facs_85_r_2_1_tl_22' n='N022'/>terminant of social order.
+				<lb facs='#facs_85_r_2_1_tl_23' n='N023'/>Perhaps it’s been our fault, you see, because we have sat
+				<lb facs='#facs_85_r_2_1_tl_24' n='N024'/>back—as ordinary people—which is the fault every-
+				<lb facs='#facs_85_r_2_1_tl_25' n='N025'/>where—where the ordinary people sat back and let a
+				<lb facs='#facs_85_r_2_1_tl_26' n='N026'/>few extremists say, &quot;We are speaking and we are work-
+				<lb facs='#facs_85_r_2_1_tl_27' n='N027'/>ing for the people.&quot; We should have long ago stood up
+				<lb facs='#facs_85_r_2_1_tl_28' n='N028'/>and said, “They’re not speaking for us.&quot; I mean, people
+				<lb facs='#facs_85_r_2_1_tl_29' n='N029'/>have been coming out from Ireland representing the
+				<lb facs='#facs_85_r_2_1_tl_30' n='N030'/>people—the ordinary people, perhaps people like our
+				<lb facs='#facs_85_r_2_1_tl_31' n='N031'/>selves, who never had the nerve. I mean, just to be here
+				<lb facs='#facs_85_r_2_1_tl_32' n='N032'/>takes all the courage one has got, you know. [Mairead
+				<lb facs='#facs_85_r_2_1_tl_33' n='N033'/>Corrigan 13
+			</p>
+			<p>
+				<lb facs='#facs_85_r_3_1_tl_1' n='N001'/>1. Margaret McNeil, “They Say That There’s Protestants Walking With
+				<lb facs='#facs_85_r_3_1_tl_2' n='N002'/>Us, The Friend (London, Sept. 1976)
+				<lb facs='#facs_85_r_3_1_tl_3' n='N003'/>2. Daily American (Rome, Aug. 22, 1976).
+				<lb facs='#facs_85_r_3_1_tl_4' n='N004'/>3. Michelle Zimbalist Rosaldo, Woman, Culture, and Society, ed.
+				<lb facs='#facs_85_r_3_1_tl_5' n='N005'/>Michelle Z. Rosaldo and Louise Lamphere (Stanford, Calif.: Stanford
+				<lb facs='#facs_85_r_3_1_tl_6' n='N006'/>University Press, 1974).
+				<lb facs='#facs_85_r_3_1_tl_7' n='N007'/>4. Betty Williams on Woman program, moderator Sandra Elkin (Buffalo:
+				<lb facs='#facs_85_r_3_1_tl_8' n='N008'/>WNEDTV, Oct. 1976).
+				<lb facs='#facs_85_r_3_1_tl_9' n='N009'/>5. Mairead Corrigan on Woman program (Buffalo: WNED TV, Oct.
+				<lb facs='#facs_85_r_3_1_tl_10' n='N010'/>1976).
+				<lb facs='#facs_85_r_3_1_tl_11' n='N011'/>6. Sinn Fein (means “we ourselves”), founded in 1916, has functioned
+				<lb facs='#facs_85_r_3_1_tl_12' n='N012'/>since the 1930s mainly as the political wing of the IRA. In the 1960s it
+				<lb facs='#facs_85_r_3_1_tl_13' n='N013'/>swung to the left as did the IRA and became involved in social and eco
+				<lb facs='#facs_85_r_3_1_tl_14' n='N014'/>nomic agitation and in 1970 split along the same lines as the IRA into
+				<lb facs='#facs_85_r_3_1_tl_15' n='N015'/>Sinn Fein, Kevin Street (Provisional) and Sinn Fein, Gardiner Street
+				<lb facs='#facs_85_r_3_1_tl_16' n='N016'/>(Official). The names come from the streets in Dublin where they have
+				<lb facs='#facs_85_r_3_1_tl_17' n='N017'/>their headquarters. Both groups use the name Sinn Fein, however, in
+				<lb facs='#facs_85_r_3_1_tl_18' n='N018'/>spite of the fact that their views are widely divergent. The Provisionals
+				<lb facs='#facs_85_r_3_1_tl_19' n='N019'/>are more militant and nationalist while the Officials are marxist and
+				<lb facs='#facs_85_r_3_1_tl_20' n='N020'/>not militant.
+				<lb facs='#facs_85_r_3_1_tl_21' n='N021'/>7. June Campion, quoted in Peace by Peace (Belfast, Oct. 16, 1976).
+				<lb facs='#facs_85_r_3_1_tl_22' n='N022'/>8. Marin de Burca, quoted by David Moberg, In These Times (Jan. 1977).
+				<lb facs='#facs_85_r_3_1_tl_23' n='N023'/>9. Ibid.
+				<lb facs='#facs_85_r_3_1_tl_24' n='N024'/>10. Bernadette Devlin, quoted by Lucinda Franks, “We Want Peace, Just
+				<lb facs='#facs_85_r_3_1_tl_25' n='N025'/>Peace,” New York Times Magazine (Dec. 19, 1975).
+				<lb facs='#facs_85_r_3_1_tl_26' n='N026'/>11. Irish Republican Information Service (Dublin, Oct. 14, 1976). Italics
+				<lb facs='#facs_85_r_3_1_tl_27' n='N027'/>the author’s.
+				<lb facs='#facs_85_r_3_1_tl_28' n='N028'/>12. Ciaran McKeown, “The Price of Peace” (Belfast, 1976).
+				<lb facs='#facs_85_r_3_1_tl_29' n='N029'/>13. Mairead Corrigan on Woman program (Buffalo: WNED TV, Oct.
+				<lb facs='#facs_85_r_3_1_tl_30' n='N030'/>1976).
+				<lb facs='#facs_85_r_3_1_tl_31' n='N031'/>Sarah Charlesworth is an artist and photographer who lives and works in
+				<lb facs='#facs_85_r_3_1_tl_32' n='N032'/>New York. Her previously published writings have dealt with art and social
+				<lb facs='#facs_85_r_3_1_tl_33' n='N033'/>theory. She was a founding editor of The Fox and is a member of the anti
+				<lb facs='#facs_85_r_3_1_tl_34' n='N034'/>catalog collective.
+			</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='108'/>
+            <p>
+               <lb facs='#facs_108_r_1_1_tl_1' n='N001'/>DIANA AGREST: LES ÉCHELLES 1975
+            </p>
+            <p>
+               <lb facs='#facs_108_r_3_1_tl_2' n='N001'/>The Public/Private Dialectic
+               <lb facs='#facs_108_r_3_1_tl_3' n='N002'/>In the design of this house for a musi
+               <lb facs='#facs_108_r_3_1_tl_4' n='N003'/>cian, located on a hillside in Spain
+               <lb facs='#facs_108_r_3_1_tl_5' n='N004'/>overlooking the Mediterranean, the
+               <lb facs='#facs_108_r_3_1_tl_6' n='N005'/>house, a private domain of seclusion,
+               <lb facs='#facs_108_r_3_1_tl_7' n='N006'/>becomes a public space. The house is
+               <lb facs='#facs_108_r_3_1_tl_8' n='N007'/>not just a private interior space, but a
+               <lb facs='#facs_108_r_3_1_tl_9' n='N008'/>building that has its own outside life.
+               <lb facs='#facs_108_r_3_1_tl_10' n='N009'/>The whole house is a sequence of frag
+               <lb facs='#facs_108_r_3_1_tl_11' n='N010'/>ments of gardens, organized along dif
+               <lb facs='#facs_108_r_3_1_tl_12' n='N011'/>ferent modes of transition —staircase,
+               <lb facs='#facs_108_r_3_1_tl_13' n='N012'/>bridges, doors, passageway. Musical
+               <lb facs='#facs_108_r_3_1_tl_14' n='N013'/>and theatrical events can be created on
+               <lb facs='#facs_108_r_3_1_tl_15' n='N014'/>the various terraces as well as along the
+               <lb facs='#facs_108_r_3_1_tl_16' n='N015'/>glassblock staircase, which can be
+               <lb facs='#facs_108_r_3_1_tl_17' n='N016'/>illuminated inside at night. Thus the
+               <lb facs='#facs_108_r_3_1_tl_18' n='N017'/>house becomes a stage, acquiring a
+               <lb facs='#facs_108_r_3_1_tl_19' n='N018'/>social meaning.
+               <lb facs='#facs_108_r_3_1_tl_20' n='N019'/>Body and Architecture
+               <lb facs='#facs_108_r_3_1_tl_21' n='N020'/>My design incorporates the body as
+               <lb facs='#facs_108_r_3_1_tl_22' n='N021'/>part of the experience of space and cul
+               <lb facs='#facs_108_r_3_1_tl_23' n='N022'/>ture. The body has usually been ne
+               <lb facs='#facs_108_r_3_1_tl_24' n='N023'/>gated or repressed in architecture or
+               <lb facs='#facs_108_r_3_1_tl_25' n='N024'/>used as a metaphor for &quot;man as the cen
+            </p>
+            <p>
+               <lb facs='#facs_108_r_9_1_tl_1' n='N001'/>ter” or as a technocratic graphic stand
+               <lb facs='#facs_108_r_9_1_tl_2' n='N002'/>ard. Here the body becomes inseparable
+               <lb facs='#facs_108_r_9_1_tl_3' n='N003'/>from object in the excitement of moving
+               <lb facs='#facs_108_r_9_1_tl_4' n='N004'/>through space.
+               <lb facs='#facs_108_r_9_1_tl_5' n='N005'/>Readings
+               <lb facs='#facs_108_r_9_1_tl_6' n='N006'/>The house allows for multiple read
+               <lb facs='#facs_108_r_9_1_tl_7' n='N007'/>ings. Fragments link associatively in a
+               <lb facs='#facs_108_r_9_1_tl_8' n='N008'/>mise en sequence. The reading is not a
+               <lb facs='#facs_108_r_9_1_tl_9' n='N009'/>linear discourse, but an infinite, spatial
+               <lb facs='#facs_108_r_9_1_tl_10' n='N010'/>ized text in which levels of reading
+               <lb facs='#facs_108_r_9_1_tl_11' n='N011'/>organized along various codes are com
+               <lb facs='#facs_108_r_9_1_tl_12' n='N012'/>bined and articulated. This work incor
+               <lb facs='#facs_108_r_9_1_tl_13' n='N013'/>porates the dimension of pleasure into
+               <lb facs='#facs_108_r_9_1_tl_14' n='N014'/>architecture.
+               <lb facs='#facs_108_r_9_1_tl_15' n='N015'/>Gardens: history—nature—culture...
+               <lb facs='#facs_108_r_9_1_tl_16' n='N016'/>sand—water...Versailles — labyrinth...
+               <lb facs='#facs_108_r_9_1_tl_17' n='N017'/>the Alhambra... grid...arch grid...
+               <lb facs='#facs_108_r_9_1_tl_18' n='N018'/>History: cultural fragments...frag.
+               <lb facs='#facs_108_r_9_1_tl_19' n='N019'/>ments of gardens...fragments recon
+               <lb facs='#facs_108_r_9_1_tl_20' n='N020'/>structing a whole...articulation..
+               <lb facs='#facs_108_r_9_1_tl_21' n='N021'/>transitions...
+            </p>
+            <p>
+               <lb facs='#facs_108_r_10_1_tl_1' n='N001'/>Diana Agrest, an architect from Argentina,
+               <lb facs='#facs_108_r_10_1_tl_2' n='N002'/>practices in New York.
+            </p>
+            <pb n='109'/>
+            <p>
+               <lb facs='#facs_109_r_1_1_tl_1' n='N001'/>g
+            </p>
+            <p>
+               <lb facs='#facs_109_r_4_1_tl_1' n='N001'/>A FEMINIST MONUMENT (FOR MARION MAHONY)
+            </p>
+            <p>
+               <lb facs='#facs_109_r_5_1_tl_1' n='N001'/>This project was submitted in 1975 to an interna
+               <lb facs='#facs_109_r_5_1_tl_2' n='N002'/>tional competition for a memorial to Walter Burley
+               <lb facs='#facs_109_r_5_1_tl_3' n='N003'/>Griffin, the American architect who designed Aus
+               <lb facs='#facs_109_r_5_1_tl_4' n='N004'/>tralia’s capital city, Canberra. It was to be built on the
+               <lb facs='#facs_109_r_5_1_tl_5' n='N005'/>summit of the highest mountain in the area. Griffin
+               <lb facs='#facs_109_r_5_1_tl_6' n='N006'/>(1876-1937) worked with Frank Lloyd Wright and
+               <lb facs='#facs_109_r_5_1_tl_7' n='N007'/>practiced in Chicago, but settled in Australia in 1914,
+               <lb facs='#facs_109_r_5_1_tl_8' n='N008'/>after winning the Canberra commission. He was the
+               <lb facs='#facs_109_r_5_1_tl_9' n='N009'/>husband of Marion Mahony (1871-1961), who collabo
+               <lb facs='#facs_109_r_5_1_tl_10' n='N010'/>rated with him in the Canberra competition; her draw
+               <lb facs='#facs_109_r_5_1_tl_11' n='N011'/>ings in photodyes and watercolor on satin reputedly
+               <lb facs='#facs_109_r_5_1_tl_12' n='N012'/>won him the prize.
+               <lb facs='#facs_109_r_5_1_tl_13' n='N013'/>Mahony graduated in architecture from MIT in
+               <lb facs='#facs_109_r_5_1_tl_14' n='N014'/>1878 and was the first woman licensed to practice
+               <lb facs='#facs_109_r_5_1_tl_15' n='N015'/>architecture in Illinois. In 1895 she entered Wright&apos;s
+               <lb facs='#facs_109_r_5_1_tl_16' n='N016'/>Oak Park studio, earning a meager 510 per week
+               <lb facs='#facs_109_r_5_1_tl_17' n='N017'/>designing ornamental work and details. Her extraordi
+               <lb facs='#facs_109_r_5_1_tl_18' n='N018'/>nary renderings in the famous Wasmuth Portfolio
+               <lb facs='#facs_109_r_5_1_tl_19' n='N019'/>established Wright’s international fame and influenced
+               <lb facs='#facs_109_r_5_1_tl_20' n='N020'/>Bauhaus and De Stijl designs. In 1909 she became chief
+               <lb facs='#facs_109_r_5_1_tl_21' n='N021'/>designer in Wright’s office, but received no public
+               <lb facs='#facs_109_r_5_1_tl_22' n='N022'/>recognition. Many of her designs were subsequently
+               <lb facs='#facs_109_r_5_1_tl_23' n='N023'/>attributed to Herman von Holst. (In her unpublished
+               <lb facs='#facs_109_r_5_1_tl_24' n='N024'/>memoir, Mahony obliterated von Holst’s name from
+            </p>
+            <p>
+               <lb facs='#facs_109_r_6_1_tl_1' n='N001'/>drawings of this period, sometimes writing her own
+               <lb facs='#facs_109_r_6_1_tl_2' n='N002'/>over the erased area.) She collaborated on a number of
+               <lb facs='#facs_109_r_6_1_tl_3' n='N003'/>Griffin’s projects when they married in 1911, but re
+               <lb facs='#facs_109_r_6_1_tl_4' n='N004'/>mained in his shadow. After his death she returned to
+               <lb facs='#facs_109_r_6_1_tl_5' n='N005'/>the U.S. and designed two major community planning
+               <lb facs='#facs_109_r_6_1_tl_6' n='N006'/>projects (unexecuted), commissioned by Lola Lloyd, a
+               <lb facs='#facs_109_r_6_1_tl_7' n='N007'/>pacifist, feminist and co-founder with Jane Addams of
+               <lb facs='#facs_109_r_6_1_tl_8' n='N008'/>the Women’s International League for Peace and Free
+               <lb facs='#facs_109_r_6_1_tl_9' n='N009'/>dom.
+               <lb facs='#facs_109_r_6_1_tl_10' n='N010'/>The monument here is based on a series of spatial
+               <lb facs='#facs_109_r_6_1_tl_11' n='N011'/>metaphors considered archetypally female in our cul
+               <lb facs='#facs_109_r_6_1_tl_12' n='N012'/>ture, in honor of the presence and influence of Marion
+               <lb facs='#facs_109_r_6_1_tl_13' n='N013'/>Mahony, who was not chosen to be honored by the
+               <lb facs='#facs_109_r_6_1_tl_14' n='N014'/>organizers of the competition.
+               <lb facs='#facs_109_r_6_1_tl_15' n='N015'/>The visitor is led through a passage aligned with
+               <lb facs='#facs_109_r_6_1_tl_16' n='N016'/>the city’s land axis into the observatory’s tridimen
+               <lb facs='#facs_109_r_6_1_tl_17' n='N017'/>sional facade, where three windows open on the city&apos;s
+               <lb facs='#facs_109_r_6_1_tl_18' n='N018'/>main axes and civic monuments. The passage is par
+               <lb facs='#facs_109_r_6_1_tl_19' n='N019'/>tially contained within one-half of a circular pool and
+               <lb facs='#facs_109_r_6_1_tl_20' n='N020'/>entered through a pink marble doorway. After seeing
+               <lb facs='#facs_109_r_6_1_tl_21' n='N021'/>the city below from the conceptual perspective com
+               <lb facs='#facs_109_r_6_1_tl_22' n='N022'/>posed by the windows, the visitor descends to the
+               <lb facs='#facs_109_r_6_1_tl_23' n='N023'/>lower level of the observatory. There, enclosed by a
+               <lb facs='#facs_109_r_6_1_tl_24' n='N024'/>pink marble “room&quot; dug into the mountain, whose
+            </p>
+            <p>
+               <lb facs='#facs_109_r_7_1_tl_1' n='N001'/>SUSANA TORRE
+               <lb facs='#facs_109_r_7_1_tl_2' n='N002'/>entrance is on the level above, is Griffin’s effigy. Water
+               <lb facs='#facs_109_r_7_1_tl_3' n='N003'/>from the upper-level fountain cascades around the
+               <lb facs='#facs_109_r_7_1_tl_4' n='N004'/>marble room into the half-circle fountain that sur
+               <lb facs='#facs_109_r_7_1_tl_5' n='N005'/>rounds the observation platform one level below. From
+               <lb facs='#facs_109_r_7_1_tl_6' n='N006'/>this vantage point, the city is again viewed, framed by
+               <lb facs='#facs_109_r_7_1_tl_7' n='N007'/>the stairs, which are aligned with its diagonal axes.
+               <lb facs='#facs_109_r_7_1_tl_8' n='N008'/>Thus the city (the public realm of action) is seen from
+               <lb facs='#facs_109_r_7_1_tl_9' n='N009'/>within two enclosures: the &quot;house” above (woman as
+               <lb facs='#facs_109_r_7_1_tl_10' n='N010'/>social being) and the “cave” below (woman’s body).
+               <lb facs='#facs_109_r_7_1_tl_11' n='N011'/>Since Mahony was not a feminist and did not de
+               <lb facs='#facs_109_r_7_1_tl_12' n='N012'/>mand recognition for her talent and work, this building
+               <lb facs='#facs_109_r_7_1_tl_13' n='N013'/>—a metaphor for woman’s body as a physical, nur
+               <lb facs='#facs_109_r_7_1_tl_14' n='N014'/>turant receptacle and as a spiritual and intellectual ves
+               <lb facs='#facs_109_r_7_1_tl_15' n='N015'/>sel — most accurately represents her role. Its symbolic
+               <lb facs='#facs_109_r_7_1_tl_16' n='N016'/>elements are water, earth (as primal shelter and last
+               <lb facs='#facs_109_r_7_1_tl_17' n='N017'/>sanctuary), door/passage, “window,&quot; circular com
+               <lb facs='#facs_109_r_7_1_tl_18' n='N018'/>position, pink marble doorway and interior “room.&quot;
+               <lb facs='#facs_109_r_7_1_tl_19' n='N019'/>The memorial can also be conceived as an anti-monu
+               <lb facs='#facs_109_r_7_1_tl_20' n='N020'/>ment, in that the building is not meant as a monument
+               <lb facs='#facs_109_r_7_1_tl_21' n='N021'/>to a man but as a means to focus the observer’s atten
+               <lb facs='#facs_109_r_7_1_tl_22' n='N022'/>tion on the idea of the city as a monument of culture.
+               <lb facs='#facs_109_r_7_1_tl_23' n='N023'/>Susana Torre is an Argentine architect practicing in New York.
+               <lb facs='#facs_109_r_7_1_tl_24' n='N024'/>She was curator and editor of Women in Architecture: A His
+               <lb facs='#facs_109_r_7_1_tl_25' n='N025'/>toric and Contemporary Perspective.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

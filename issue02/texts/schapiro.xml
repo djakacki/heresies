@@ -2,13 +2,13 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Contributors</title>
-            <author>Collective</author>
+            <title>Untitled</title>
+            <author>Miriam Schapiro</author>
             <respStmt>
                <persName>Eowyn Andres</persName>
                <resp>Editor (2024-Present)</resp>
@@ -55,7 +55,11 @@
             </respStmt>
             <respStmt>
                <persName>Carrie Pirmann</persName>
-               <resp>HTR editor, encoder (2023-Present)</resp>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
             </respStmt>
             <respStmt>
                <persName>Ricky Rodriguez</persName>
@@ -121,7 +125,7 @@
          <sourceDesc>
             <biblStruct>
                <analytic>
-                  <title>[ISSUE TITLE]</title>
+                  <title>Patterns of Communicating and Space Among Women</title>
                </analytic>
                <monogr>
                   <imprint>
@@ -143,78 +147,22 @@
    </teiHeader>
    <text>
       <body>
-         <pb/>
-         <div type="backmatter">
-            <p>
-            <list>The following people made contributions to HERESIES ranging from §1 to $200. We thank them very much.
-            Susan Abbott
-            Pamela Daniels
-            Jean Heilbrunn
-            Dorothy McCormack
-            Adrienne Anderson
-            Mary Kent Schardt
-            Barbara Deming
-            Catherine Hillenbrand
-            Jeanette Wong King
-            Carl Andre
-            Kendall Shaw
-            Mary Jane Dougherty
-            Rolaine A. Hochstein
-            Paula Nordwind
-            joyce Aiken
-            Catherine M. Stifter
-            C. Christopher Drake
-            Henry and Sarahanne Hope
-            Daisy Paradis
-            Zeldy Appel
-            joyce Timpanelli
-            Lilly Engler
-            Suzanne Irwin-Wells
-            Toby Reifman
-            Art Programs, Inc.
-            Henry Torczyner
-            S.R. Field
-            T. Kaori Kitao
-            Ellen Rothenberg
-            Lisa M. Berk
-            Lane R. Trippe
-            Carole Fischer
-            Betty Klavun
-            Joan Rosenbaum
-            Ruth Bocour
-            Barry Warshaw
-            Audrey Flack
-            Sylvia F. Kleinman
-            Amalie Rothschild
-            Ruth Bowman
-            Joan Watts
-            Mary D. Gatzert
-            Alexandra Kochman
-            Sara Ruddick
-            Sheila de Bretteville
-            Janet and Albert Nebster
-            Moira Geoffrion
-            Janet Koenig/Allan Wallach Alix Kates Shulman
-            Serry Brody
-            Annette Weintraub
-            Florence and Marvin Gerstin Harriet Korman
-            Elna Shulof
-            Noma Copley
-            Angela Westwater
-            Sylvia Greenfield
-            Alice Lauffer
-            Elli M. Siskind
-            Susan W. Cutter
-            Kari Wren
-            Susan Hall
-            Margaret I. Lippard
-            Susan Sollins
-            Eugenia Zuckerman
-            Carey Marvins
-            Benjamin Spock Mary Morgan</list>
-            HERESIES thanks everyone who made our benefits so successful. Special thanks to Leslie Cohen at the Sahara Club and Patricia Hamilton
-            Gallery for the use of their spaces and to Rita Mac Brown, Sheila Jordan, Eve Merriam and Adrienne Rich for donating their time and talent.
-         </p></div>
+         <pb n="18"/>
+         <div type="essay">
+            <p> I have met women all over this country who love art. They were teachers or students
+               at schools and museums where I came as a visiting lecturer, or where there was an
+               exhibition of my work. Often as I talked about my work, explaining my idea of
+               “connection” to them, I asked for a "souvenir” handkerchief, a bit of lace, an apron,
+               a tea towel — some object from their past which they would be willing to have
+               “recycled" in my paintings. I saw this as a way to preserve the history of
+               embroidered, often anonymous works which are our "connection" to women’s past. I have
+               used the pieces women sent me in these collage-paintings. — MIRIAM SCHAPIRO</p>
+         </div>
       </body>
+      <back>
+         <p> Miriam Schapiro lives in New York City, is a painter and member of Heresies Collective.
+            She will be teaching at the Tyler School of Art in Philadelphia in the spring of 1978.
+         </p>
+      </back>
    </text>
 </TEI>

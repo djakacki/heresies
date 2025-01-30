@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='29'/>
+			<p>
+				<lb facs='#facs_29_r_1_1_tl_1' n='N001'/>MEA CULPA
+			</p>
+			<p>
+				<lb facs='#facs_29_r_2_1_tl_1' n='N001'/>SU FRIEDRICH
+			</p>
+			<p>
+				<lb facs='#facs_29_r_3_1_tl_1' n='N001'/>Iused to read Vogue &quot;for the photography” the way I read Play
+				<lb facs='#facs_29_r_3_1_tl_2' n='N002'/>boy &quot;for the articles.
+				<lb facs='#facs_29_r_3_1_tl_3' n='N003'/>- Cosmetics ad
+				<lb facs='#facs_29_r_3_1_tl_4' n='N004'/>Help keep America beautiful
+				<lb facs='#facs_29_r_3_1_tl_5' n='N005'/>To assemble the props for this project, I spent an afternoon in the
+				<lb facs='#facs_29_r_3_1_tl_6' n='N006'/>room-sized closet of Helen, a clothes maniac. When I lived with
+				<lb facs='#facs_29_r_3_1_tl_7' n='N007'/>her, I was always carrying on about &quot;the renunciation of material
+				<lb facs='#facs_29_r_3_1_tl_8' n='N008'/>wealth as a primary political act&quot;; I return one year later more
+				<lb facs='#facs_29_r_3_1_tl_9' n='N009'/>humble, less certain that this renunciation is actually as easy as
+				<lb facs='#facs_29_r_3_1_tl_10' n='N010'/>They make it seem.
+				<lb facs='#facs_29_r_3_1_tl_11' n='N011'/>We are well past the days when beauty was an idle woman&apos;s way
+				<lb facs='#facs_29_r_3_1_tl_12' n='N012'/>of passing the time — and we’re secure enough to know the differ
+				<lb facs='#facs_29_r_3_1_tl_13' n='N013'/>ence. Today, when time is something no one has enough of
+				<lb facs='#facs_29_r_3_1_tl_14' n='N014'/>when women have jobs, families, and half a dozen other commit
+				<lb facs='#facs_29_r_3_1_tl_15' n='N015'/>ments — caring about yourself isn’t the icing on the cake. It&apos;s one
+				<lb facs='#facs_29_r_3_1_tl_16' n='N016'/>of the responsibilities of everyday life to look as well as you can
+				<lb facs='#facs_29_r_3_1_tl_17' n='N017'/>... for yourself ... and for the delight of others.
+				<lb facs='#facs_29_r_3_1_tl_18' n='N018'/>-Vogue’s &quot;Point of View,&quot; 1975
+				<lb facs='#facs_29_r_3_1_tl_19' n='N019'/>Helen is a perfect resource because of her indiscriminate attach
+				<lb facs='#facs_29_r_3_1_tl_20' n='N020'/>ment to all clothes. On the same day she’ll buy a satin kimono,
+				<lb facs='#facs_29_r_3_1_tl_21' n='N021'/>suede pantsuit and pink mohair sweater and then pack them
+				<lb facs='#facs_29_r_3_1_tl_22' n='N022'/>away and continue to wear her Hellenisms. If I were a freudian,
+				<lb facs='#facs_29_r_3_1_tl_23' n='N023'/>l’d triumphantly claim her for my “clothes as a sexual surrogate
+				<lb facs='#facs_29_r_3_1_tl_24' n='N024'/>thesis. But l’m more interested in squeezing the lifeblood out of
+				<lb facs='#facs_29_r_3_1_tl_25' n='N025'/>the deadly aphorism: Clothes Make The Woman.
+				<lb facs='#facs_29_r_3_1_tl_26' n='N026'/>Tonight, I feel as ethereal as a silken butterfly. This afternoon, I
+				<lb facs='#facs_29_r_3_1_tl_27' n='N027'/>helped him change a tire. Is it magic, the moonlight, or Cheryl
+				<lb facs='#facs_29_r_3_1_tl_28' n='N028'/>-Clothing ad in Vogue
+				<lb facs='#facs_29_r_3_1_tl_29' n='N029'/>Baron&apos;s slither of silk?
+				<lb facs='#facs_29_r_3_1_tl_30' n='N030'/>I must remain alert during this project, wary of its seduction.
+				<lb facs='#facs_29_r_3_1_tl_31' n='N031'/>have what some people consider the bad habit of rarely confront-
+				<lb facs='#facs_29_r_3_1_tl_32' n='N032'/>ing myself in the mirror. In fact l’m usually surprised to see
+				<lb facs='#facs_29_r_3_1_tl_33' n='N033'/>myself. My appearance runs the short course from plain lesbian
+				<lb facs='#facs_29_r_3_1_tl_34' n='N034'/>feminist to affordably classy dyke. Even these images seem rigidly
+				<lb facs='#facs_29_r_3_1_tl_35' n='N035'/>codified and I am confused and dissatisfied with them.
+				<lb facs='#facs_29_r_3_1_tl_36' n='N036'/>Do you blame me for wanting to be a man—free in a man-made
+				<lb facs='#facs_29_r_3_1_tl_37' n='N037'/>world? Do you blame me for hating again to resume a woman&apos;s
+				<lb facs='#facs_29_r_3_1_tl_38' n='N038'/>clothes and just belong?
+				<lb facs='#facs_29_r_3_1_tl_39' n='N039'/>— Cora Anderson in 1914, who, after
+				<lb facs='#facs_29_r_3_1_tl_40' n='N040'/>living as a man, in man&apos;s dress, and
+				<lb facs='#facs_29_r_3_1_tl_41' n='N041'/>marrying a woman, was &quot;exposed
+				<lb facs='#facs_29_r_3_1_tl_42' n='N042'/>and ordered by a court to resume
+				<lb facs='#facs_29_r_3_1_tl_43' n='N043'/>wearing female clothes (cited in Gay
+				<lb facs='#facs_29_r_3_1_tl_44' n='N044'/>American History)
+				<lb facs='#facs_29_r_3_1_tl_45' n='N045'/>Gentlemen prefer tuxedos ... When it&apos;s you. In your best ...
+				<lb facs='#facs_29_r_3_1_tl_46' n='N046'/>double breasted satin tux...
+				<lb facs='#facs_29_r_3_1_tl_47' n='N047'/>- Clothing ad in The New York Times, 1976
+			</p>
+			<p>
+				<lb facs='#facs_29_r_4_1_tl_1' n='N001'/>It’s a guilty struggle, indulging in fantasies of myself in new
+				<lb facs='#facs_29_r_4_1_tl_2' n='N002'/>clothes and roles and then rejecting each of them on “political
+				<lb facs='#facs_29_r_4_1_tl_3' n='N003'/>principle”: material projection of self seems at odds with a seri
+				<lb facs='#facs_29_r_4_1_tl_4' n='N004'/>ous commitment ... And then the cycle twists and I defend arti
+				<lb facs='#facs_29_r_4_1_tl_5' n='N005'/>fice as a great form of subversion.
+				<lb facs='#facs_29_r_4_1_tl_6' n='N006'/>Women stride in boots.
+				<lb facs='#facs_29_r_4_1_tl_7' n='N007'/>Little vests are super — little fur vests, little vests in gold at night
+				<lb facs='#facs_29_r_4_1_tl_8' n='N008'/>... Don’t let anyone talk you into one of those suit-with-a-vest
+				<lb facs='#facs_29_r_4_1_tl_9' n='N009'/>routines — a take-off on men’s clothes is not what it&apos;s all about..
+				<lb facs='#facs_29_r_4_1_tl_10' n='N010'/>-Clothing ad in Vogue, 1976
+				<lb facs='#facs_29_r_4_1_tl_11' n='N011'/>There is no intrinsic sin in riding astride a horse, or in wearing
+				<lb facs='#facs_29_r_4_1_tl_12' n='N012'/>boots and breeches, but there is harm in violating those decent
+				<lb facs='#facs_29_r_4_1_tl_13' n='N013'/>rules by which the conduct of either sex is regulated.
+				<lb facs='#facs_29_r_4_1_tl_14' n='N014'/>— London Medical Times, 1897
+				<lb facs='#facs_29_r_4_1_tl_15' n='N015'/>(quoted in Gay American History)
+				<lb facs='#facs_29_r_4_1_tl_16' n='N016'/>So now, disguised as a “project,” l’m exposing myself to an over
+				<lb facs='#facs_29_r_4_1_tl_17' n='N017'/>whelming array of visual, emotional and intellectual costumes
+				<lb facs='#facs_29_r_4_1_tl_18' n='N018'/>and it’s becoming very difficult to overcome the predetermined
+				<lb facs='#facs_29_r_4_1_tl_19' n='N019'/>identities built into these clothes.
+				<lb facs='#facs_29_r_4_1_tl_20' n='N020'/>The wearing of one scent alone can become as much a part of a
+				<lb facs='#facs_29_r_4_1_tl_21' n='N021'/>woman’s behavior as the way she speaks, parts her hair, wears
+				<lb facs='#facs_29_r_4_1_tl_22' n='N022'/>down her lipstick ... and it&apos;s deliberate.
+				<lb facs='#facs_29_r_4_1_tl_23' n='N023'/>- Editorial comment in Vogue
+				<lb facs='#facs_29_r_4_1_tl_24' n='N024'/>Iusually don’t think of myself as having the same soft curves that
+				<lb facs='#facs_29_r_4_1_tl_25' n='N025'/>I see displayed everywhere. I imagine that they belong to women
+				<lb facs='#facs_29_r_4_1_tl_26' n='N026'/>with very different perceptions of themselves. But no ... in the
+				<lb facs='#facs_29_r_4_1_tl_27' n='N027'/>right clothes l’d be indistinguishable from them. Breasts, legs,
+				<lb facs='#facs_29_r_4_1_tl_28' n='N028'/>pink, smooth, a mute smile.
+				<lb facs='#facs_29_r_4_1_tl_29' n='N029'/>And then I know that underneath they’re as full of blood and
+				<lb facs='#facs_29_r_4_1_tl_30' n='N030'/>guts as l&apos;am.
+				<lb facs='#facs_29_r_4_1_tl_31' n='N031'/>She dresses for herself but we dress her. — Clothing ad in Vogue
+				<lb facs='#facs_29_r_4_1_tl_32' n='N032'/>More than a way of dressing, Halston is a way of life.
+				<lb facs='#facs_29_r_4_1_tl_33' n='N033'/>-Clothing ad in Vogue
+				<lb facs='#facs_29_r_4_1_tl_34' n='N034'/>Helen’s attic.
+				<lb facs='#facs_29_r_4_1_tl_35' n='N035'/>I slip on an apricot satin gown. It gleams. Soft, fantastically
+				<lb facs='#facs_29_r_4_1_tl_36' n='N036'/>soft, cool on my thighs, hanging loosely over my breasts. My
+				<lb facs='#facs_29_r_4_1_tl_37' n='N037'/>usual garb doesn’t exact such erotic responses from my skin. I
+				<lb facs='#facs_29_r_4_1_tl_38' n='N038'/>begin to act out a seduction but it’s very unclear whom l’m seduc
+				<lb facs='#facs_29_r_4_1_tl_39' n='N039'/>ing. I enter a male fantasy. I see more clearly than ever the
+				<lb facs='#facs_29_r_4_1_tl_40' n='N040'/>motives for this madness.
+				<lb facs='#facs_29_r_4_1_tl_41' n='N041'/>I was nine years old, reading comic books in the seclusion of my
+				<lb facs='#facs_29_r_4_1_tl_42' n='N042'/>back porch. Eagerly, I flipped to the Frederick’s of Hollywood ad
+				<lb facs='#facs_29_r_4_1_tl_43' n='N043'/>in the back, my fingers slowly tracing the outlines of those draw-
+				<lb facs='#facs_29_r_4_1_tl_44' n='N044'/>ings, lingering over the firm pointed breasts and outrageously full
+				<lb facs='#facs_29_r_4_1_tl_45' n='N045'/>hips. Stroking, stroking. Squeezing my eyes shut I dreamt of per
+				<lb facs='#facs_29_r_4_1_tl_46' n='N046'/>fect curves and crevices, of cleavage and sculpted limbs on those
+				<lb facs='#facs_29_r_4_1_tl_47' n='N047'/>crazy high heels.
+				<lb facs='#facs_29_r_4_1_tl_48' n='N048'/>In the more discreet magazines of high school and college I recog-
+				<lb facs='#facs_29_r_4_1_tl_49' n='N049'/>nized Frederick’s aesthetic translated into Tasteful and Chic.
+				<lb facs='#facs_29_r_4_1_tl_50' n='N050'/>They had merely disguised it as “The Fresh Young Look&quot; and
+				<lb facs='#facs_29_r_4_1_tl_51' n='N051'/>The New Romanticism.
+				<lb facs='#facs_29_r_4_1_tl_52' n='N052'/>In 1678 Abbe Jacques Boileau published “A just and seasonable
+				<lb facs='#facs_29_r_4_1_tl_53' n='N053'/>Reprehension of naked Breasts, etc.
+				<lb facs='#facs_29_r_4_1_tl_54' n='N054'/>Quoted in The Unfashionable Human Body
+			</p>
+			<pb n='30'/>
+			<p>
+				<lb facs='#facs_30_r_1_1_tl_1' n='N001'/>Feeling guilty: &quot;How can I worry about the world of fashion
+				<lb facs='#facs_30_r_1_1_tl_2' n='N002'/>while the world out there is falling apart?&quot; The World and The
+				<lb facs='#facs_30_r_1_1_tl_3' n='N003'/>Fashion World? It’s clear how divisive and misleading man-made
+				<lb facs='#facs_30_r_1_1_tl_4' n='N004'/>categories are.
+				<lb facs='#facs_30_r_1_1_tl_5' n='N005'/>I recall the months of hours spent in Catholic girls’ high school
+				<lb facs='#facs_30_r_1_1_tl_6' n='N006'/>earning the admiration of friends and the disapproval of the
+				<lb facs='#facs_30_r_1_1_tl_7' n='N007'/>nuns. Their typically &quot;altruistic&quot; rationale for our hideous uni
+				<lb facs='#facs_30_r_1_1_tl_8' n='N008'/>forms was that they were freeing our energy for pursuits more
+				<lb facs='#facs_30_r_1_1_tl_9' n='N009'/>honorable than vanity, but by basing this rationale on their prior
+				<lb facs='#facs_30_r_1_1_tl_10' n='N010'/>ities (chastity before comfort) rather than our own, they were
+				<lb facs='#facs_30_r_1_1_tl_11' n='N011'/>destined to fail. Precisely because everything was so ugly (to our
+				<lb facs='#facs_30_r_1_1_tl_12' n='N012'/>self-conscious eyes) we spent that precious energy undermining
+				<lb facs='#facs_30_r_1_1_tl_13' n='N013'/>the dress code.
+				<lb facs='#facs_30_r_1_1_tl_14' n='N014'/>Red bras or naked breasts shone through the thin white blouses,
+				<lb facs='#facs_30_r_1_1_tl_15' n='N015'/>high heels and gym shoes replaced the tyrannical saddle shoe,
+				<lb facs='#facs_30_r_1_1_tl_16' n='N016'/>arms were laden with clattering jewelry, eyes and lips and
+				<lb facs='#facs_30_r_1_1_tl_17' n='N017'/>nails changed color every day, and 3:00 brought the hysterical
+				<lb facs='#facs_30_r_1_1_tl_18' n='N018'/>rush to change into presentable street clothes.
+				<lb facs='#facs_30_r_1_1_tl_19' n='N019'/>The consciousness of being perfectly dressed may bestow a peace
+				<lb facs='#facs_30_r_1_1_tl_20' n='N020'/>-Herbert Spencer
+				<lb facs='#facs_30_r_1_1_tl_21' n='N021'/>such as religion cannot give.
+				<lb facs='#facs_30_r_1_1_tl_22' n='N022'/>In the days when I should have been daydreaming about boys, I
+				<lb facs='#facs_30_r_1_1_tl_23' n='N023'/>was busy admiring magazine models, my classmates, and myself.
+				<lb facs='#facs_30_r_1_1_tl_24' n='N024'/>I was being trained to appreciate the artificial and real curves,
+				<lb facs='#facs_30_r_1_1_tl_25' n='N025'/>gestures and textures of women, but while I never wanted that
+				<lb facs='#facs_30_r_1_1_tl_26' n='N026'/>physical perfection in those to whom I was emotionally attracted,
+				<lb facs='#facs_30_r_1_1_tl_27' n='N027'/>I demanded it of myself. It seemed, however, that the harder I
+				<lb facs='#facs_30_r_1_1_tl_28' n='N028'/>tried to achieve that perfection, the more elusive it became. I saw
+				<lb facs='#facs_30_r_1_1_tl_29' n='N029'/>how arbitrary the rules actually were; I learned to laugh and to
+				<lb facs='#facs_30_r_1_1_tl_30' n='N030'/>formulate some of my own ideas.
+				<lb facs='#facs_30_r_1_1_tl_31' n='N031'/>Powerful feelings of rejection set in: even my most stalwart
+				<lb facs='#facs_30_r_1_1_tl_32' n='N032'/>friends were trying to &quot;grow up,&quot; to dress and act “maturely.&quot; In
+				<lb facs='#facs_30_r_1_1_tl_33' n='N033'/>response, I discovered nervous habits, too much unwanted atten
+				<lb facs='#facs_30_r_1_1_tl_34' n='N034'/>tion, too little love, self-consciousness and ANGER.
+				<lb facs='#facs_30_r_1_1_tl_35' n='N035'/>Thanks for the anger.
+				<lb facs='#facs_30_r_1_1_tl_36' n='N036'/>&quot;Dressing should be exactly that —a tasteful overlaying that
+				<lb facs='#facs_30_r_1_1_tl_37' n='N037'/>brings out the best in me. And you know what: This is the year I
+				<lb facs='#facs_30_r_1_1_tl_38' n='N038'/>can really be mel&quot; We understand you at Saks Fifth Avenue.
+				<lb facs='#facs_30_r_1_1_tl_39' n='N039'/>Clothing ad in Vogue
+				<lb facs='#facs_30_r_1_1_tl_40' n='N040'/>Like most mothers, mine is respectful of Culture. I once went
+				<lb facs='#facs_30_r_1_1_tl_41' n='N041'/>with her to The Ballet, in old jeans, my favorite peasant blouse,
+				<lb facs='#facs_30_r_1_1_tl_42' n='N042'/>and without shoes. I try now, seven years later, to remember her
+				<lb facs='#facs_30_r_1_1_tl_43' n='N043'/>shame, and her rage (at me). She asked, “Why do you DO it?&quot;,
+				<lb facs='#facs_30_r_1_1_tl_44' n='N044'/>sounding as if I was poisoning babies. But I don’t predicate my
+				<lb facs='#facs_30_r_1_1_tl_45' n='N045'/>appearance on how effectively it will offend others. I am con
+				<lb facs='#facs_30_r_1_1_tl_46' n='N046'/>fronting how I alone want to dress. If I am ostracized because I
+				<lb facs='#facs_30_r_1_1_tl_47' n='N047'/>dress like a &quot;slob&quot; or a &quot;dyke,&quot; she mutters something about my
+				<lb facs='#facs_30_r_1_1_tl_48' n='N048'/>deserving&quot; it. They all do. The impulse to please her, to con
+				<lb facs='#facs_30_r_1_1_tl_49' n='N049'/>form, is a glass splinter in my gut, dangerous to extract but fatal
+				<lb facs='#facs_30_r_1_1_tl_50' n='N050'/>to ignore. What else can I do but try?
+				<lb facs='#facs_30_r_1_1_tl_51' n='N051'/>I admit the monster in me. I salute the witch. My ancestors were
+				<lb facs='#facs_30_r_1_1_tl_52' n='N052'/>proud and fierce and slaughtered. My sisters remember. We
+				<lb facs='#facs_30_r_1_1_tl_53' n='N053'/>remind each other, we snarl.
+				<lb facs='#facs_30_r_1_1_tl_54' n='N054'/>Spot tip: to reduce a too-full upper lip, outline it with a white
+				<lb facs='#facs_30_r_1_1_tl_55' n='N055'/>Beauty tips in Vogue
+				<lb facs='#facs_30_r_1_1_tl_56' n='N056'/>pencil and smudge it down.
+				<lb facs='#facs_30_r_1_1_tl_57' n='N057'/>I go to Woolworths for makeup for this project. I have to work
+				<lb facs='#facs_30_r_1_1_tl_58' n='N058'/>some black magic on my unkempt face. I expertly &quot;blush on,
+			</p>
+			<p>
+				<lb facs='#facs_30_r_2_1_tl_1' n='N001'/>frost my lips, sculpt my lids with manufactured nature.
+				<lb facs='#facs_30_r_2_1_tl_2' n='N002'/>Why does it feel so natural to perform this ritual? I want to feel
+				<lb facs='#facs_30_r_2_1_tl_3' n='N003'/>terribly strange. I want to experience it with the same bewilder
+				<lb facs='#facs_30_r_2_1_tl_4' n='N004'/>ment that someone from a preindustrial culture would feel on see
+				<lb facs='#facs_30_r_2_1_tl_5' n='N005'/>ing the first photograph of herself, but I feel as if l’d never been
+				<lb facs='#facs_30_r_2_1_tl_6' n='N006'/>away from it.
+				<lb facs='#facs_30_r_2_1_tl_7' n='N007'/>The Papuans, for instance, have a high regard for the vibrating
+				<lb facs='#facs_30_r_2_1_tl_8' n='N008'/>buttocks of their women who early learn to cultivate a provoca-
+				<lb facs='#facs_30_r_2_1_tl_9' n='N009'/>in The Unfashionable Human Body
+				<lb facs='#facs_30_r_2_1_tl_10' n='N010'/>tive walk.
+				<lb facs='#facs_30_r_2_1_tl_11' n='N011'/>-First in class to shave my legs. Brave.
+				<lb facs='#facs_30_r_2_1_tl_12' n='N012'/>— Discarded my bra with my Catholicism. Subversive.
+				<lb facs='#facs_30_r_2_1_tl_13' n='N013'/>- Wore sandals and a long braid at the university. Intellectual.
+				<lb facs='#facs_30_r_2_1_tl_14' n='N014'/>- Feel professional in my velvet jacket. Adult.
+				<lb facs='#facs_30_r_2_1_tl_15' n='N015'/>I see how powerfully Their definitions have defined my reactions,
+				<lb facs='#facs_30_r_2_1_tl_16' n='N016'/>how much my spontaneity has been predetermined. This affects
+				<lb facs='#facs_30_r_2_1_tl_17' n='N017'/>not only how I to dress but how I respond to others.
+				<lb facs='#facs_30_r_2_1_tl_18' n='N018'/>The &quot;Ahh, I thought so” when a woman’s actions fit her appear
+				<lb facs='#facs_30_r_2_1_tl_19' n='N019'/>ance.
+				<lb facs='#facs_30_r_2_1_tl_20' n='N020'/>And the delightful confusion when a woman in Ladydrag gets
+				<lb facs='#facs_30_r_2_1_tl_21' n='N021'/>ANGRY, gets FURIOUS.
+				<lb facs='#facs_30_r_2_1_tl_22' n='N022'/>The disappointment when gym shoes and labyris protect a hypo
+				<lb facs='#facs_30_r_2_1_tl_23' n='N023'/>crite.
+				<lb facs='#facs_30_r_2_1_tl_24' n='N024'/>The disorienting pleasure when a &quot;butchy” woman speaks tender-
+				<lb facs='#facs_30_r_2_1_tl_25' n='N025'/>ly tome.
+				<lb facs='#facs_30_r_2_1_tl_26' n='N026'/>How ludicrous.
+				<lb facs='#facs_30_r_2_1_tl_27' n='N027'/>But I challenge anyone to say that she doesn’t go through the
+				<lb facs='#facs_30_r_2_1_tl_28' n='N028'/>same gyrations.
+				<lb facs='#facs_30_r_2_1_tl_29' n='N029'/>Ihate it. I hate it and I keep doing it.
+				<lb facs='#facs_30_r_2_1_tl_30' n='N030'/>Everyone tells me not to worry, &quot;Everyone does it.&quot;
+				<lb facs='#facs_30_r_2_1_tl_31' n='N031'/>A lousy argument.
+				<lb facs='#facs_30_r_2_1_tl_32' n='N032'/>Whatever happened to self-definition? To inner-directed fantasy?
+				<lb facs='#facs_30_r_2_1_tl_33' n='N033'/>... there is a woman among the Snakes who once dreamed that
+				<lb facs='#facs_30_r_2_1_tl_34' n='N034'/>she was a man and killed animals in the chase. Upon waking, she
+				<lb facs='#facs_30_r_2_1_tl_35' n='N035'/>assumed her husband&apos;s garments, took his gun and went out to
+				<lb facs='#facs_30_r_2_1_tl_36' n='N036'/>test the virtue of her dream; she killed a deer. Since that time she
+				<lb facs='#facs_30_r_2_1_tl_37' n='N037'/>has not left off man&apos;s costume ... by some fearless actions she
+				<lb facs='#facs_30_r_2_1_tl_38' n='N038'/>has obtained the title of &quot;brave” and the privilege of admittance
+				<lb facs='#facs_30_r_2_1_tl_39' n='N039'/>to the council of chiefs. Nothing less than another dream could
+				<lb facs='#facs_30_r_2_1_tl_40' n='N040'/>make her return to her gown.
+				<lb facs='#facs_30_r_2_1_tl_41' n='N041'/>-Pierre-Jean de Smet (quoted in Gay American History)
+				<lb facs='#facs_30_r_2_1_tl_42' n='N042'/>The danger lies in rebelling on Their terms, replacing one dictate
+				<lb facs='#facs_30_r_2_1_tl_43' n='N043'/>with another. Are we really appeased now that we can wear
+				<lb facs='#facs_30_r_2_1_tl_44' n='N044'/>pants to work? No ... we embrace the egalitarianism of pants
+				<lb facs='#facs_30_r_2_1_tl_45' n='N045'/>and then create socioeconomic distinctions between pants, slacks
+				<lb facs='#facs_30_r_2_1_tl_46' n='N046'/>and trousers, between fine and grubby pants.
+				<lb facs='#facs_30_r_2_1_tl_47' n='N047'/>Fashion changes, but its significance remains: style costs money.
+				<lb facs='#facs_30_r_2_1_tl_48' n='N048'/>We have been taught to be grateful for the “democratic” variety
+				<lb facs='#facs_30_r_2_1_tl_49' n='N049'/>in our lives, but our clothes reflect our economic tyranny. Not
+				<lb facs='#facs_30_r_2_1_tl_50' n='N050'/>only can few of us afford the ever-changing demands of fashion,
+				<lb facs='#facs_30_r_2_1_tl_51' n='N051'/>but we are also destroying animals and the earth to satiate our
+				<lb facs='#facs_30_r_2_1_tl_52' n='N052'/>insatiable &quot;needs.
+				<lb facs='#facs_30_r_2_1_tl_53' n='N053'/>This isn’t a fixed reality, it’s been built from egocentric and ruth
+				<lb facs='#facs_30_r_2_1_tl_54' n='N054'/>less fantasies. Alter the fantasy and we alter the reality.
+				<lb facs='#facs_30_r_2_1_tl_55' n='N055'/>The mystery of fashion is that this sudden change of detail is
+				<lb facs='#facs_30_r_2_1_tl_56' n='N056'/>imposed on women: they cannot escape it ... In matters of style,
+				<lb facs='#facs_30_r_2_1_tl_57' n='N057'/>women obey some hidden law analogous to the one that decides
+				<lb facs='#facs_30_r_2_1_tl_58' n='N058'/>the colors of the wings of birds or the petals of flowers.
+				<lb facs='#facs_30_r_2_1_tl_59' n='N059'/>in Feminine Fulfillment
+			</p>
+			<pb n='31'/>
+			<p>
+				<lb facs='#facs_31_r_1_1_tl_1' n='N001'/>We must begin to believe in a value-free body aesthetic; free
+				<lb facs='#facs_31_r_1_1_tl_2' n='N002'/>choice will come only when the options aren’t value-laden.
+				<lb facs='#facs_31_r_1_1_tl_3' n='N003'/>Im tired of sad-looking women, of drab suffragettes, of dull and
+				<lb facs='#facs_31_r_1_1_tl_4' n='N004'/>Valentino, clothing designer
+				<lb facs='#facs_31_r_1_1_tl_5' n='N005'/>unbecoming colors.
+				<lb facs='#facs_31_r_1_1_tl_6' n='N006'/>Trying to extricate myself.
+				<lb facs='#facs_31_r_1_1_tl_7' n='N007'/>Trying to think without Do’s and Don’ts, feminine and mascu
+				<lb facs='#facs_31_r_1_1_tl_8' n='N008'/>line, fame or famine.
+				<lb facs='#facs_31_r_1_1_tl_9' n='N009'/>Growing up a Catholic middle-class white girl taught me the
+				<lb facs='#facs_31_r_1_1_tl_10' n='N010'/>value of disobedience. I have a vivid sense of my difference andl
+				<lb facs='#facs_31_r_1_1_tl_11' n='N011'/>want to exploit this to catalyże a reaction, to force a confronta
+				<lb facs='#facs_31_r_1_1_tl_12' n='N012'/>tion of values.
+				<lb facs='#facs_31_r_1_1_tl_13' n='N013'/>My appearance is an immediate, nonverbal statement and what I
+				<lb facs='#facs_31_r_1_1_tl_14' n='N014'/>do subsequently either confirms or destroys people’s assump
+				<lb facs='#facs_31_r_1_1_tl_15' n='N015'/>tions; they don’t want to hear an articulate defense of my &quot;bad
+				<lb facs='#facs_31_r_1_1_tl_16' n='N016'/>habits.&quot; They want room to condescend.
+				<lb facs='#facs_31_r_1_1_tl_17' n='N017'/>They tell me l’d &quot;improve my chances” if I wore the right things.
+				<lb facs='#facs_31_r_1_1_tl_18' n='N018'/>Chances? Is this a lottery? Who are they to decide my worth?
+				<lb facs='#facs_31_r_1_1_tl_19' n='N019'/>I know that we need to feel okay about ourselves, but the ques
+				<lb facs='#facs_31_r_1_1_tl_20' n='N020'/>tion here is using clothes to get or keep privilege.
+				<lb facs='#facs_31_r_1_1_tl_21' n='N021'/>... as hard times were crowding upon us, I made up my mind to
+				<lb facs='#facs_31_r_1_1_tl_22' n='N022'/>dress in men’s attire to seek labor as I was used to men’s work.
+				<lb facs='#facs_31_r_1_1_tl_23' n='N023'/>And as I might work harder at housekeeping and get only a dollar
+				<lb facs='#facs_31_r_1_1_tl_24' n='N024'/>per week, and I was capable of doing men’s work and getting
+				<lb facs='#facs_31_r_1_1_tl_25' n='N025'/>men’s wages, I resolved to try.
+				<lb facs='#facs_31_r_1_1_tl_26' n='N026'/>-Lucy Ann Lobdell, 1854, age 2.
+				<lb facs='#facs_31_r_1_1_tl_27' n='N027'/>When I feel jealous of women who &quot;survive” by wearing the right
+				<lb facs='#facs_31_r_1_1_tl_28' n='N028'/>trinkets smells shoes colors, I remind myself that with the game
+				<lb facs='#facs_31_r_1_1_tl_29' n='N029'/>comes the terror of losing. I had assumed that being a dyke meant
+				<lb facs='#facs_31_r_1_1_tl_30' n='N030'/>not playing the game, but l’m in the same trap as an obedient sis
+				<lb facs='#facs_31_r_1_1_tl_31' n='N031'/>ter. She has to remain desirable by Their standards while I have
+				<lb facs='#facs_31_r_1_1_tl_32' n='N032'/>to continually fight Their insistence that I be desirable. I fall into
+				<lb facs='#facs_31_r_1_1_tl_33' n='N033'/>the trap of thinking that I had no interest in being desirable.
+				<lb facs='#facs_31_r_1_1_tl_34' n='N034'/>Of course I do, but not on Their terms.
+				<lb facs='#facs_31_r_1_1_tl_35' n='N035'/>There is a way of dressing— a way of looking—that to American
+				<lb facs='#facs_31_r_1_1_tl_36' n='N036'/>women is like a way of life. It has to do with a certain free-wheel-
+				<lb facs='#facs_31_r_1_1_tl_37' n='N037'/>ing casualness and dash that goes through and through and up
+				<lb facs='#facs_31_r_1_1_tl_38' n='N038'/>-Vogue
+				<lb facs='#facs_31_r_1_1_tl_39' n='N039'/>and down.
+				<lb facs='#facs_31_r_1_1_tl_40' n='N040'/>Slob.
+				<lb facs='#facs_31_r_1_1_tl_41' n='N041'/>... elegant clothing becomes your coat of arms, by which others
+				<lb facs='#facs_31_r_1_1_tl_42' n='N042'/>will recognize that this is indeed yourself. A rag can be eminently
+				<lb facs='#facs_31_r_1_1_tl_43' n='N043'/>elegant, as we see in Andalusia with the beggars ... We under
+				<lb facs='#facs_31_r_1_1_tl_44' n='N044'/>stand that elegance is not conferred by luxury but rather by
+				<lb facs='#facs_31_r_1_1_tl_45' n='N045'/>poverty; the latter brings us close to a state of nature where noth
+				<lb facs='#facs_31_r_1_1_tl_46' n='N046'/>in Feminine Fulfillment
+				<lb facs='#facs_31_r_1_1_tl_47' n='N047'/>ing is useless.
+				<lb facs='#facs_31_r_1_1_tl_48' n='N048'/>Hippie.
+				<lb facs='#facs_31_r_1_1_tl_49' n='N049'/>Thank you, Arthur Richards. At last, someone recognized that
+				<lb facs='#facs_31_r_1_1_tl_50' n='N050'/>women prefer what gentlemen prefer. And that&apos;s the fit and qual
+				<lb facs='#facs_31_r_1_1_tl_51' n='N051'/>Vogue
+				<lb facs='#facs_31_r_1_1_tl_52' n='N052'/>ity of menswear tailoring.
+				<lb facs='#facs_31_r_1_1_tl_53' n='N053'/>Dyke.
+				<lb facs='#facs_31_r_1_1_tl_54' n='N054'/>— Vogue
+				<lb facs='#facs_31_r_1_1_tl_55' n='N055'/>Confidence is a Lady in a Leon Levin.
+				<lb facs='#facs_31_r_1_1_tl_56' n='N056'/>Ballbreaker.
+				<lb facs='#facs_31_r_1_1_tl_57' n='N057'/>— Vogue
+				<lb facs='#facs_31_r_1_1_tl_58' n='N058'/>The new bareness ... and what it takes to wear it.
+				<lb facs='#facs_31_r_1_1_tl_59' n='N059'/>Whore.
+			</p>
+			<p>
+				<lb facs='#facs_31_r_2_1_tl_1' n='N001'/>People resent anyone who won’t dress &quot;nicely.” We defile their
+				<lb facs='#facs_31_r_2_1_tl_2' n='N002'/>sanctified spaces.
+				<lb facs='#facs_31_r_2_1_tl_3' n='N003'/>&quot;Irreverent!
+				<lb facs='#facs_31_r_2_1_tl_4' n='N004'/>It’s just a phase.&quot;
+				<lb facs='#facs_31_r_2_1_tl_5' n='N005'/>&quot;When I was your age...
+				<lb facs='#facs_31_r_2_1_tl_6' n='N006'/>l am not a string of phases. I am no age.
+				<lb facs='#facs_31_r_2_1_tl_7' n='N007'/>In childhood they taught me that acceptance and success would
+				<lb facs='#facs_31_r_2_1_tl_8' n='N008'/>come only with conformity. But my acceptance of myself has
+				<lb facs='#facs_31_r_2_1_tl_9' n='N009'/>come only through nonconformity. They call me selfish because I
+				<lb facs='#facs_31_r_2_1_tl_10' n='N010'/>don’t want to validate their “need&quot; for discretion and propriety,
+				<lb facs='#facs_31_r_2_1_tl_11' n='N011'/>their need to belong. I answer that the incessant craving to be
+				<lb facs='#facs_31_r_2_1_tl_12' n='N012'/>legitimate is the corrupting force in all of us.
+				<lb facs='#facs_31_r_2_1_tl_13' n='N013'/>I don’t want to have to dress like a man to get in.
+				<lb facs='#facs_31_r_2_1_tl_14' n='N014'/>l’m not interested in looking like a Lady to receive sanction.
+				<lb facs='#facs_31_r_2_1_tl_15' n='N015'/>I’m tired of being fooled by flannel shirts.
+				<lb facs='#facs_31_r_2_1_tl_16' n='N016'/>l’m not a feminist because of my boots.
+			</p>
+			<p>
+				<lb facs='#facs_31_r_3_1_tl_1' n='N001'/>What are we all trying so desperately to.&quot;get into” anyway?
+				<lb facs='#facs_31_r_3_1_tl_2' n='N002'/>Who wants to rent a room in a burning building?
+			</p>
+			<p>
+				<lb facs='#facs_31_r_5_1_tl_1' n='N001'/>* During Catholic mass, the assembled chant “Mea culpa, mea culpa, mea
+				<lb facs='#facs_31_r_5_1_tl_2' n='N002'/>maxima culpa” (through my fault, through my fault, through my most
+				<lb facs='#facs_31_r_5_1_tl_3' n='N003'/>grievous fault) as they beat their breasts three times.
+				<lb facs='#facs_31_r_5_1_tl_4' n='N004'/>Thank you Helen for your clothes, and Amy Sillman and Cynthia Carr for
+				<lb facs='#facs_31_r_5_1_tl_5' n='N005'/>assisting in the photography, and Jonathan Katz, Gay American History
+				<lb facs='#facs_31_r_5_1_tl_6' n='N006'/>(New York: Crowell, 1976), Bernard Rudofsky, The Unfashionable Human
+				<lb facs='#facs_31_r_5_1_tl_7' n='N007'/>Body (Garden City, N.Y.: Anchor Books, 1974) and Jean Guitton, Femi
+				<lb facs='#facs_31_r_5_1_tl_8' n='N008'/>nine Fulfillment (New York: Paulist Press, 1965).
+				<lb facs='#facs_31_r_5_1_tl_9' n='N009'/>Su Friedrich teaches photography to the women at Bedford Hills (N.Y.)
+				<lb facs='#facs_31_r_5_1_tl_10' n='N010'/>Correctional Facility, is a freelance photographer and lecturer and a mem
+				<lb facs='#facs_31_r_5_1_tl_11' n='N011'/>ber of the Heresies Collective.
+			</p>
+         </div>
+      </body>
+   </text>
+</TEI>

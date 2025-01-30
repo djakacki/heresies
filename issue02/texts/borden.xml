@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            			<pb n='73'/>
+			<p>
+				<lb facs='#facs_73_r_1_1_tl_1' n='N001'/>WOMEN AND ANARCHY
+				<lb facs='#facs_73_r_1_1_tl_2' n='N002'/>LIZZIE BORDEN
+			</p>
+			<p>
+				<lb facs='#facs_73_r_2_1_tl_1' n='N001'/>They say that at the point they have reached they must
+				<lb facs='#facs_73_r_2_1_tl_2' n='N002'/>examine the principle that has guided them. They say it
+				<lb facs='#facs_73_r_2_1_tl_3' n='N003'/>is not for them to exhaust their strength in symbols. They
+				<lb facs='#facs_73_r_2_1_tl_4' n='N004'/>say henceforward what they are is not subject to com
+				<lb facs='#facs_73_r_2_1_tl_5' n='N005'/>promise. They say they must now stop exalting the vul
+				<lb facs='#facs_73_r_2_1_tl_6' n='N006'/>va. They say they must break the last bond that binds
+				<lb facs='#facs_73_r_2_1_tl_7' n='N007'/>them to a dead culture.—Monique Wittig, Les
+				<lb facs='#facs_73_r_2_1_tl_8' n='N008'/>Guérillères
+			</p>
+			<p>
+				<lb facs='#facs_73_r_3_1_tl_1' n='N001'/>In the past decade, women have worked together, met
+				<lb facs='#facs_73_r_3_1_tl_2' n='N002'/>together, and talked together in ways that have been considered
+				<lb facs='#facs_73_r_3_1_tl_3' n='N003'/>novel, emerging from and at the same time creating a new
+				<lb facs='#facs_73_r_3_1_tl_4' n='N004'/>attitude about group organization which proposes only egalitar
+				<lb facs='#facs_73_r_3_1_tl_5' n='N005'/>jan, non-hierarchical relationships. The methods used in sup
+				<lb facs='#facs_73_r_3_1_tl_6' n='N006'/>port/collaboration (such as consciousness raising) and the kind
+				<lb facs='#facs_73_r_3_1_tl_7' n='N007'/>of group created have seemed unique. However, this attitude and
+				<lb facs='#facs_73_r_3_1_tl_8' n='N008'/>these methods have been generally restricted to the small group,
+				<lb facs='#facs_73_r_3_1_tl_9' n='N009'/>while the dominant form of mass organization among middle
+				<lb facs='#facs_73_r_3_1_tl_10' n='N010'/>class women has been conventionally reformist, aimed at chang
+				<lb facs='#facs_73_r_3_1_tl_11' n='N011'/>ing legislation, working for the ERA and so forth. This kind of
+				<lb facs='#facs_73_r_3_1_tl_12' n='N012'/>political work relies on organizing methods historically unrelated
+				<lb facs='#facs_73_r_3_1_tl_13' n='N013'/>to significant social change.
+				<lb facs='#facs_73_r_3_1_tl_14' n='N014'/>Many women who were in radical politics in the late 1960s
+				<lb facs='#facs_73_r_3_1_tl_15' n='N015'/>have fallen back on working methods that can have immediate,
+				<lb facs='#facs_73_r_3_1_tl_16' n='N016'/>tangible effect. This is a recurrent problem for the left: should it
+				<lb facs='#facs_73_r_3_1_tl_17' n='N017'/>work for immediate reforms, setting the stage for greater ones?
+				<lb facs='#facs_73_r_3_1_tl_18' n='N018'/>Will reform (or opportunism, according to some) eventually
+				<lb facs='#facs_73_r_3_1_tl_19' n='N019'/>produce a consciousness sufficiently advanced to change the
+				<lb facs='#facs_73_r_3_1_tl_20' n='N020'/>social structure? The women’s suffrage movements in England
+				<lb facs='#facs_73_r_3_1_tl_21' n='N021'/>and America were also divided on this issue. Some saw the vote
+				<lb facs='#facs_73_r_3_1_tl_22' n='N022'/>as leading to further reforms for women, while others saw it as
+				<lb facs='#facs_73_r_3_1_tl_23' n='N023'/>leading to socialism. Today, reformist politics tactically in
+				<lb facs='#facs_73_r_3_1_tl_24' n='N024'/>volved with a more or less accepted social structure are at odds
+				<lb facs='#facs_73_r_3_1_tl_25' n='N025'/>with attempts by radical feminists to rethink society and rela
+				<lb facs='#facs_73_r_3_1_tl_26' n='N026'/>tionships within society. In the criticism of power, bureaucracy
+				<lb facs='#facs_73_r_3_1_tl_27' n='N027'/>and institutional rigidity, in the emphasis on the personal, on the
+				<lb facs='#facs_73_r_3_1_tl_28' n='N028'/>family (whatever its form), on education, child care and sex
+				<lb facs='#facs_73_r_3_1_tl_29' n='N029'/>—feminists have proved, consciously or not, to be anarchists.
+				<lb facs='#facs_73_r_3_1_tl_30' n='N030'/>The anarchist premise of radical feminism is that only
+				<lb facs='#facs_73_r_3_1_tl_31' n='N031'/>through collectivity and equality can individuality, autonomy
+				<lb facs='#facs_73_r_3_1_tl_32' n='N032'/>and independence be achieved. Individuality, in this sense, means
+				<lb facs='#facs_73_r_3_1_tl_33' n='N033'/>something like &quot;personal and interpersonal realization.&quot; This is
+				<lb facs='#facs_73_r_3_1_tl_34' n='N034'/>’therapeutic&quot; only when the group helps women &quot;survive&quot; within
+				<lb facs='#facs_73_r_3_1_tl_35' n='N035'/>the system, when the group becomes estheticized or escapist anc
+				<lb facs='#facs_73_r_3_1_tl_36' n='N036'/>class analysis doesn’t provide a basis for further organization.
+				<lb facs='#facs_73_r_3_1_tl_37' n='N037'/>Anarchist egalitarianism in women’s groups has been based not
+				<lb facs='#facs_73_r_3_1_tl_38' n='N038'/>only on political, but on ethical or moral grounds which presume
+				<lb facs='#facs_73_r_3_1_tl_39' n='N039'/>that women should behave in a certain way—openly, honestly,
+				<lb facs='#facs_73_r_3_1_tl_40' n='N040'/>with integrity. Women, by requiring this of each other, some
+				<lb facs='#facs_73_r_3_1_tl_41' n='N041'/>times create a feeling of moral superiority over men who, by
+				<lb facs='#facs_73_r_3_1_tl_42' n='N042'/>implication, and often in fact, are not honest among themselves,
+				<lb facs='#facs_73_r_3_1_tl_43' n='N043'/>or &quot;in touch with their feelings.
+				<lb facs='#facs_73_r_3_1_tl_44' n='N044'/>Historically, ethical and egalitarian relationships among
+				<lb facs='#facs_73_r_3_1_tl_45' n='N045'/>women did not result only from choice, as was the case with
+				<lb facs='#facs_73_r_3_1_tl_46' n='N046'/>anarchists, but from material conditions excluding women from
+				<lb facs='#facs_73_r_3_1_tl_47' n='N047'/>full participation in production and power—and thus from the
+				<lb facs='#facs_73_r_3_1_tl_48' n='N048'/>hierarchies of production. Whenever women began to work
+			</p>
+			<p>
+				<lb facs='#facs_73_r_4_1_tl_1' n='N001'/>together, each contributing what she knew, there was relatively
+				<lb facs='#facs_73_r_4_1_tl_2' n='N002'/>the same level of experience and skill—a necessary or “natural&apos;
+				<lb facs='#facs_73_r_4_1_tl_3' n='N003'/>equality, which often made democracy intrinsic to organization.
+				<lb facs='#facs_73_r_4_1_tl_4' n='N004'/>Because woman’s domain was traditionally more personal,
+				<lb facs='#facs_73_r_4_1_tl_5' n='N005'/>women’s political activities tended to center around personal
+				<lb facs='#facs_73_r_4_1_tl_6' n='N006'/>questions. (Sheila Rowbotham suggests that this focus is a
+				<lb facs='#facs_73_r_4_1_tl_7' n='N007'/>necessary precondition for the mobilization of women en
+				<lb facs='#facs_73_r_4_1_tl_8' n='N008'/>masse.*) But the moral imperative, when elicited as a response to
+				<lb facs='#facs_73_r_4_1_tl_9' n='N009'/>oppression, often bogs down in the attempt to reconcile morality
+				<lb facs='#facs_73_r_4_1_tl_10' n='N010'/>with revolutionary strategy. The impetus behind a moral position
+				<lb facs='#facs_73_r_4_1_tl_11' n='N011'/>is more often rational than revolutionary; it is a call to reason, to
+				<lb facs='#facs_73_r_4_1_tl_12' n='N012'/>the recognition of how things should be and the decision to make
+				<lb facs='#facs_73_r_4_1_tl_13' n='N013'/>them that way. But the idea that change is effected only by reason
+				<lb facs='#facs_73_r_4_1_tl_14' n='N014'/>and understanding can be utopian and/or reactionary, since
+				<lb facs='#facs_73_r_4_1_tl_15' n='N015'/>recognition of class and economic contradictions alone cannot
+				<lb facs='#facs_73_r_4_1_tl_16' n='N016'/>affect the power relationships behind these conflicts. On the other
+				<lb facs='#facs_73_r_4_1_tl_17' n='N017'/>hand, the alliance of feminism with political ideologies that stress
+				<lb facs='#facs_73_r_4_1_tl_18' n='N018'/>revolution, especially marxism-leninism, has often been destruc
+				<lb facs='#facs_73_r_4_1_tl_19' n='N019'/>tive to the radical content of feminism. The real question is, then:
+				<lb facs='#facs_73_r_4_1_tl_20' n='N020'/>how can the content of change be maintained within a confusion
+				<lb facs='#facs_73_r_4_1_tl_21' n='N021'/>about form? What organizational form will work without sacri
+				<lb facs='#facs_73_r_4_1_tl_22' n='N022'/>ficing feminist content to political ideologies that maintain sexist
+				<lb facs='#facs_73_r_4_1_tl_23' n='N023'/>social institutions?
+				<lb facs='#facs_73_r_4_1_tl_24' n='N024'/>“The law of evolution is that the strongest survives!&quot;
+				<lb facs='#facs_73_r_4_1_tl_25' n='N025'/>&quot;Yes, and the strongest, in the existence of any social
+				<lb facs='#facs_73_r_4_1_tl_26' n='N026'/>species, are those who are most social. In human terms,
+				<lb facs='#facs_73_r_4_1_tl_27' n='N027'/>most ethical... There is no strength to be gained from
+				<lb facs='#facs_73_r_4_1_tl_28' n='N028'/>hurting one another. Only weakness.&quot;—Ursula LeGuin,
+				<lb facs='#facs_73_r_4_1_tl_29' n='N029'/>The Dispossessed
+				<lb facs='#facs_73_r_4_1_tl_30' n='N030'/>Thus, feminism’s major problem—how to concretize ideas
+				<lb facs='#facs_73_r_4_1_tl_31' n='N031'/>about personal liberty within a form of organization that is not
+				<lb facs='#facs_73_r_4_1_tl_32' n='N032'/>hierarchical, that does not contradict individual freedom, and
+				<lb facs='#facs_73_r_4_1_tl_33' n='N033'/>that is not utopian—has been anarchism’s traditional dilemma as
+				<lb facs='#facs_73_r_4_1_tl_34' n='N034'/>well. Anarchist and often feminist arguments tend to be predi
+				<lb facs='#facs_73_r_4_1_tl_35' n='N035'/>cated on a moral-philosophical belief in a &quot;natural&quot; social state
+				<lb facs='#facs_73_r_4_1_tl_36' n='N036'/>without government or male-created institutions—a condition
+				<lb facs='#facs_73_r_4_1_tl_37' n='N037'/>that would be “naturally” reinstated if government or male
+				<lb facs='#facs_73_r_4_1_tl_38' n='N038'/>institutions were abolished; that is, Nature herself, or women,
+				<lb facs='#facs_73_r_4_1_tl_39' n='N039'/>would produce a better social organism.
+				<lb facs='#facs_73_r_4_1_tl_40' n='N040'/>Some of the most influential anarchists—Godwin, Prou
+				<lb facs='#facs_73_r_4_1_tl_41' n='N041'/>dhon, Bakunin, Kropotkin, and later, Emma Goldman and
+				<lb facs='#facs_73_r_4_1_tl_42' n='N042'/>Federica Montseny—provide the historical precedents for many
+				<lb facs='#facs_73_r_4_1_tl_43' n='N043'/>aspects of women’s groups. It must be kept in mind, however,
+				<lb facs='#facs_73_r_4_1_tl_44' n='N044'/>that anarchists and feminists have often reached the same con
+				<lb facs='#facs_73_r_4_1_tl_45' n='N045'/>clusions from different directions, which raises the question of
+				<lb facs='#facs_73_r_4_1_tl_46' n='N046'/>intentionality. For example, William Godwin, husband of Mary
+				<lb facs='#facs_73_r_4_1_tl_47' n='N047'/>Wollstonecraft and father of Mary Shelley, imagined the world
+			</p>
+			<pb n='74'/>
+			<p>
+				<lb facs='#facs_74_r_1_1_tl_1' n='N001'/>structured around discussion groups with a purpose similar to
+				<lb facs='#facs_74_r_1_1_tl_2' n='N002'/>consciousness raising. His ideal society, as described in Political
+				<lb facs='#facs_74_r_1_1_tl_3' n='N003'/>Justice (1793) was based on &quot;public inspection,” “positive sincer
+				<lb facs='#facs_74_r_1_1_tl_4' n='N004'/>ity, and &quot;political simplicity”—the foundation for the first two.
+				<lb facs='#facs_74_r_1_1_tl_5' n='N005'/>This meant reorganization through federalism, nations broken
+				<lb facs='#facs_74_r_1_1_tl_6' n='N006'/>down into small autonomous units. Psychological pressure
+				<lb facs='#facs_74_r_1_1_tl_7' n='N007'/>would replace force, for people would have to be honest and
+				<lb facs='#facs_74_r_1_1_tl_8' n='N008'/>virtuous in face-to-face confrontations. Small discussion groups
+				<lb facs='#facs_74_r_1_1_tl_9' n='N009'/>would encourage the pursuit of knowledge, extending laterally to
+				<lb facs='#facs_74_r_1_1_tl_10' n='N010'/>become a universal movement. Godwin’s speculations, however,
+				<lb facs='#facs_74_r_1_1_tl_11' n='N011'/>were based not in practice but in reaction against the retardation
+				<lb facs='#facs_74_r_1_1_tl_12' n='N012'/>of the French Revolution by governmental authority.
+				<lb facs='#facs_74_r_1_1_tl_13' n='N013'/>The major impetus of consciousness raising has been
+				<lb facs='#facs_74_r_1_1_tl_14' n='N014'/>Godwinian, centering around discussion and inquiry with trust,
+				<lb facs='#facs_74_r_1_1_tl_15' n='N015'/>loyalty and honesty as criteria for respect. According to the Red
+				<lb facs='#facs_74_r_1_1_tl_16' n='N016'/>Stockings, the purpose of consciousness raising was to “develop
+				<lb facs='#facs_74_r_1_1_tl_17' n='N017'/>female class consciousness through sharing experience and pub
+				<lb facs='#facs_74_r_1_1_tl_18' n='N018'/>licly exposing the sexist foundations of all our institutions.
+				<lb facs='#facs_74_r_1_1_tl_19' n='N019'/>While the call-to-arms was political, the methods were personal,
+				<lb facs='#facs_74_r_1_1_tl_20' n='N020'/>based on the idea that the subjective experience of objective
+				<lb facs='#facs_74_r_1_1_tl_21' n='N021'/>conditions can lead to objective analysis. “We regard our per
+				<lb facs='#facs_74_r_1_1_tl_22' n='N022'/>sonal experience, and our feelings about that experience, as the
+				<lb facs='#facs_74_r_1_1_tl_23' n='N023'/>basis for an analysis of our common situation.... The notion
+				<lb facs='#facs_74_r_1_1_tl_24' n='N024'/>of equality, as conceived by feminists, has had a double mean
+				<lb facs='#facs_74_r_1_1_tl_25' n='N025'/>ing: the struggle to be recognized as equal to men (the oppres
+				<lb facs='#facs_74_r_1_1_tl_26' n='N026'/>sors) and the struggle to maintain equality among women (so as
+				<lb facs='#facs_74_r_1_1_tl_27' n='N027'/>not to oppress each other). “We are committed to achieving
+				<lb facs='#facs_74_r_1_1_tl_28' n='N028'/>internal democracy. We will do whatever is necessary to ensure
+				<lb facs='#facs_74_r_1_1_tl_29' n='N029'/>that every woman in our movement has an equal chance to
+				<lb facs='#facs_74_r_1_1_tl_30' n='N030'/>participate, assume responsibility, and develop her political
+				<lb facs='#facs_74_r_1_1_tl_31' n='N031'/>potential.&quot;“ Methods like &quot;going around the circle” have been
+				<lb facs='#facs_74_r_1_1_tl_32' n='N032'/>used to prevent dominance—and to recognize that personality is
+				<lb facs='#facs_74_r_1_1_tl_33' n='N033'/>an instrument of domination.
+				<lb facs='#facs_74_r_1_1_tl_34' n='N034'/>However, when consciousness raising fails to distinguish
+				<lb facs='#facs_74_r_1_1_tl_35' n='N035'/>between sex and class consciousness and does not acknowledge
+				<lb facs='#facs_74_r_1_1_tl_36' n='N036'/>middle- and working-class contradictions, it falls into liberalism
+				<lb facs='#facs_74_r_1_1_tl_37' n='N037'/>—&quot;a moralistically humanitarian and egalitarian philosophy of
+				<lb facs='#facs_74_r_1_1_tl_38' n='N038'/>social improvement through the re-education of psychological
+				<lb facs='#facs_74_r_1_1_tl_39' n='N039'/>attitudes.&quot;” From a marxist point of view, there can be no radical
+				<lb facs='#facs_74_r_1_1_tl_40' n='N040'/>analysis if the critique of society rests upon change within the
+				<lb facs='#facs_74_r_1_1_tl_41' n='N041'/>individual (or in self-help and education) rather than relations of
+				<lb facs='#facs_74_r_1_1_tl_42' n='N042'/>production. While small-group interaction can extend laterally to
+				<lb facs='#facs_74_r_1_1_tl_43' n='N043'/>become a mass movement, consciousness raising includes no
+				<lb facs='#facs_74_r_1_1_tl_44' n='N044'/>strategy for mass organization. Consequently, while personal
+				<lb facs='#facs_74_r_1_1_tl_45' n='N045'/>interaction can be helpful as a beginning—generating support
+				<lb facs='#facs_74_r_1_1_tl_46' n='N046'/>building up individuals&apos; confidence—it remains idealistic if every
+				<lb facs='#facs_74_r_1_1_tl_47' n='N047'/>thing stops there.
+				<lb facs='#facs_74_r_1_1_tl_48' n='N048'/>&quot;...wasn’t it Odo who said that where there’s property
+				<lb facs='#facs_74_r_1_1_tl_49' n='N049'/>there&apos;s theft?&quot;
+				<lb facs='#facs_74_r_1_1_tl_50' n='N050'/>&quot;(She said) To make a thief, make an owner; to create
+				<lb facs='#facs_74_r_1_1_tl_51' n='N051'/>crime, create laws.&apos; The Social Organism. —Ursula
+				<lb facs='#facs_74_r_1_1_tl_52' n='N052'/>LeGuin, The Dispossessed
+				<lb facs='#facs_74_r_1_1_tl_53' n='N053'/>Another strain of feminism is related to the theories of Pierre
+				<lb facs='#facs_74_r_1_1_tl_54' n='N054'/>Joseph Proudhon, who carried anarchism into more concrete
+				<lb facs='#facs_74_r_1_1_tl_55' n='N055'/>forms of organization. He wanted to rebuild society by creating a
+				<lb facs='#facs_74_r_1_1_tl_56' n='N056'/>federation of communes and cooperatives based on “Mutual
+				<lb facs='#facs_74_r_1_1_tl_57' n='N057'/>Aid,&quot; through contract and mutual credit, replacing &quot;economic
+				<lb facs='#facs_74_r_1_1_tl_58' n='N058'/>powers&quot; with &quot;economic forces. In his statement, “property is
+				<lb facs='#facs_74_r_1_1_tl_59' n='N059'/>theft,&quot; Proudhon opposed the exploitative accumulation of capi
+				<lb facs='#facs_74_r_1_1_tl_60' n='N060'/>tal but not property for use.
+				<lb facs='#facs_74_r_1_1_tl_61' n='N061'/>Some feminist organizations, such as health centers, credit
+				<lb facs='#facs_74_r_1_1_tl_62' n='N062'/>unions and food co-ops, are Proudhonian in their reliance on
+				<lb facs='#facs_74_r_1_1_tl_63' n='N063'/>mutual aid, on exchange of skills and services. While such groups
+				<lb facs='#facs_74_r_1_1_tl_64' n='N064'/>can often radicalize a particular community, they restrict them
+			</p>
+			<p>
+				<lb facs='#facs_74_r_2_1_tl_1' n='N001'/>selves to immediate need, affecting consumption rather than
+				<lb facs='#facs_74_r_2_1_tl_2' n='N002'/>production, and they do not in themselves deal with the sources
+				<lb facs='#facs_74_r_2_1_tl_3' n='N003'/>of production or help analyze the power of women in the labor
+				<lb facs='#facs_74_r_2_1_tl_4' n='N004'/>force. This kind of cooperative activity is still linked to household
+				<lb facs='#facs_74_r_2_1_tl_5' n='N005'/>activity, which is also about consumption, contrary to what the
+				<lb facs='#facs_74_r_2_1_tl_6' n='N006'/>Wages for Housework women argue.
+				<lb facs='#facs_74_r_2_1_tl_7' n='N007'/>Cooperative organizations are Proudhonian in their hope
+				<lb facs='#facs_74_r_2_1_tl_8' n='N008'/>that cooperation can extend laterally to change the economic and
+				<lb facs='#facs_74_r_2_1_tl_9' n='N009'/>psychological bases of society. If the cooperative form is that of
+				<lb facs='#facs_74_r_2_1_tl_10' n='N010'/>the extended family, if it is apolitical, and isolationist, like most
+				<lb facs='#facs_74_r_2_1_tl_11' n='N011'/>communes, it simply avoids the realities of production. A
+				<lb facs='#facs_74_r_2_1_tl_12' n='N012'/>commune is similar to a consciousness-raising group, it can
+				<lb facs='#facs_74_r_2_1_tl_13' n='N013'/>radically change the individuals within it but it is imperialized,
+				<lb facs='#facs_74_r_2_1_tl_14' n='N014'/>economically and socially, by external institutions, and can serve
+				<lb facs='#facs_74_r_2_1_tl_15' n='N015'/>only as an example rather than as a political force.
+				<lb facs='#facs_74_r_2_1_tl_16' n='N016'/>The women say they have learned to rely on their own
+				<lb facs='#facs_74_r_2_1_tl_17' n='N017'/>strength. They say they are aware of the force of their
+				<lb facs='#facs_74_r_2_1_tl_18' n='N018'/>unity. They say, let those who call for a new language
+				<lb facs='#facs_74_r_2_1_tl_19' n='N019'/>first learn violence. They say, let those who want to
+				<lb facs='#facs_74_r_2_1_tl_20' n='N020'/>change the world first seize all the rifles. They say that
+				<lb facs='#facs_74_r_2_1_tl_21' n='N021'/>they are starting from zero. They say that a new world
+				<lb facs='#facs_74_r_2_1_tl_22' n='N022'/>is beginning.—Monique Wittig, Les Guérillères
+				<lb facs='#facs_74_r_2_1_tl_23' n='N023'/>Mikhail Bakunin’s influence—on both anarchists and
+				<lb facs='#facs_74_r_2_1_tl_24' n='N024'/>women—seems to be emotional; his ideas are based in conven
+				<lb facs='#facs_74_r_2_1_tl_25' n='N025'/>tionally &quot;female” modes: “revolution is instinct rather than
+				<lb facs='#facs_74_r_2_1_tl_26' n='N026'/>thought, it operates as an instinct, and as an instinct gives first
+				<lb facs='#facs_74_r_2_1_tl_27' n='N027'/>battle.&quot;* Unlike Proudhon, he did not think institutions could be
+				<lb facs='#facs_74_r_2_1_tl_28' n='N028'/>rebuilt; they were to be demolished in a revolution that would
+				<lb facs='#facs_74_r_2_1_tl_29' n='N029'/>culminate in the construction of a world where everyone would
+				<lb facs='#facs_74_r_2_1_tl_30' n='N030'/>be free and equal. Bakunin was the only influential anarchist to
+				<lb facs='#facs_74_r_2_1_tl_31' n='N031'/>make a constant litany of violence, and his statement, &quot;the
+				<lb facs='#facs_74_r_2_1_tl_32' n='N032'/>passion for destruction is a creative passion,” became a romantic
+				<lb facs='#facs_74_r_2_1_tl_33' n='N033'/>battle cry.
+				<lb facs='#facs_74_r_2_1_tl_34' n='N034'/>American middle-class feminist activism has usually not
+				<lb facs='#facs_74_r_2_1_tl_35' n='N035'/>included physical violence, although from the time of the temper
+				<lb facs='#facs_74_r_2_1_tl_36' n='N036'/>ance societies and the suffragettes there have been bloodless
+				<lb facs='#facs_74_r_2_1_tl_37' n='N037'/>demonstrations and guerrilla actions—women chaining them
+				<lb facs='#facs_74_r_2_1_tl_38' n='N038'/>selves to benches and fences, hunger strikes, bar smashing,
+				<lb facs='#facs_74_r_2_1_tl_39' n='N039'/>window breaking. In England, upper- and middle-class guerrilla
+				<lb facs='#facs_74_r_2_1_tl_40' n='N040'/>actions were more violent than those of working-class women
+				<lb facs='#facs_74_r_2_1_tl_41' n='N041'/>because poor wage-earners could not risk jail. For middle-class
+				<lb facs='#facs_74_r_2_1_tl_42' n='N042'/>feminists, prison brought class conflict into the public eye;
+				<lb facs='#facs_74_r_2_1_tl_43' n='N043'/>upper-class women were given privileges, while bourgeois
+				<lb facs='#facs_74_r_2_1_tl_44' n='N044'/>women were treated miserably. They often left jail determined to
+				<lb facs='#facs_74_r_2_1_tl_45' n='N045'/>work for prison reform.” Contemporary feminists who have
+				<lb facs='#facs_74_r_2_1_tl_46' n='N046'/>advocated violence and terrorism (such as the Weatherwomen
+				<lb facs='#facs_74_r_2_1_tl_47' n='N047'/>and Susan Saxe) often operate in the Bakuninist spirit of acts that
+				<lb facs='#facs_74_r_2_1_tl_48' n='N048'/>seem to be political theater rather than effective strategies, ever
+				<lb facs='#facs_74_r_2_1_tl_49' n='N049'/>though these women are not professed anarchists. Being forced
+				<lb facs='#facs_74_r_2_1_tl_50' n='N050'/>underground, however, away from usefulness in organization,
+				<lb facs='#facs_74_r_2_1_tl_51' n='N051'/>has fostered greater impotence. It is ironic that the legal defense
+				<lb facs='#facs_74_r_2_1_tl_52' n='N052'/>of some of these fugitives, once they have been caught, has be
+				<lb facs='#facs_74_r_2_1_tl_53' n='N053'/>come an organizational focus. Jane Alpert’s surrender was an ex
+				<lb facs='#facs_74_r_2_1_tl_54' n='N054'/>ception, because it appeared that she collaborated with the gov-
+				<lb facs='#facs_74_r_2_1_tl_55' n='N055'/>ernment in locating and arresting her friend Pat Swinton. To be
+				<lb facs='#facs_74_r_2_1_tl_56' n='N056'/>jailed for being in contempt of grand juries, for refusing to turn
+				<lb facs='#facs_74_r_2_1_tl_57' n='N057'/>state’s evidence, has at times been seen as a high honor, serving to
+				<lb facs='#facs_74_r_2_1_tl_58' n='N058'/>focus class and sex contradictions better than the original bank
+				<lb facs='#facs_74_r_2_1_tl_59' n='N059'/>robberies or bombings.
+				<lb facs='#facs_74_r_2_1_tl_60' n='N060'/>Decentralization had been an essential element in Odo&apos;s
+				<lb facs='#facs_74_r_2_1_tl_61' n='N061'/>plans for the society she did not live to see founded. She
+				<lb facs='#facs_74_r_2_1_tl_62' n='N062'/>had no intention of trying to de-urbanize civilization.
+				<lb facs='#facs_74_r_2_1_tl_63' n='N063'/>Though she suggested that the natural limit to the size of
+				<lb facs='#facs_74_r_2_1_tl_64' n='N064'/>a community lay in its dependence on its own immedi
+			</p>
+			<pb n='75'/>
+			<p>
+				<lb facs='#facs_75_r_4_1_tl_1' n='N001'/>ate region for essential food and power, she intended
+				<lb facs='#facs_75_r_4_1_tl_2' n='N002'/>that all communities be connected by communication
+				<lb facs='#facs_75_r_4_1_tl_3' n='N003'/>and transportation networks, so that goods and ideas
+				<lb facs='#facs_75_r_4_1_tl_4' n='N004'/>could get where they were wanted, and the administra
+				<lb facs='#facs_75_r_4_1_tl_5' n='N005'/>tion of things might work with speed and ease, and no
+				<lb facs='#facs_75_r_4_1_tl_6' n='N006'/>community be cut off from change and interchange.
+				<lb facs='#facs_75_r_4_1_tl_7' n='N007'/>Ursula LeGuin, The Dispossessed
+				<lb facs='#facs_75_r_4_1_tl_8' n='N008'/>Pêtr Kropotkin may have set the most useful anarchist pre
+				<lb facs='#facs_75_r_4_1_tl_9' n='N009'/>cedent. Many strands of feminism stem from his thought—from
+				<lb facs='#facs_75_r_4_1_tl_10' n='N010'/>anthropologists and historians attempting to rewrite the history
+				<lb facs='#facs_75_r_4_1_tl_11' n='N011'/>of women by material analysis of sexism in production in early
+				<lb facs='#facs_75_r_4_1_tl_12' n='N012'/>societies, to socialists who have practically rejected marxist-
+				<lb facs='#facs_75_r_4_1_tl_13' n='N013'/>leninist authoritarianism but still base their economic analyses on
+				<lb facs='#facs_75_r_4_1_tl_14' n='N014'/>those theories. Both Emma Goldman and Federica Montseny
+				<lb facs='#facs_75_r_4_1_tl_15' n='N015'/>were strongly influenced by Kropotkin’s ideas, especially by his
+				<lb facs='#facs_75_r_4_1_tl_16' n='N016'/>attempt to place anarchism on a scientific and evolutionary
+				<lb facs='#facs_75_r_4_1_tl_17' n='N017'/>rather than moral ground. All three advocated a communism that
+				<lb facs='#facs_75_r_4_1_tl_18' n='N018'/>went beyond collectives and mutualism, which Kropotkin saw as
+				<lb facs='#facs_75_r_4_1_tl_19' n='N019'/>reflections of “mitigated individualism.&quot; He argued that commu
+				<lb facs='#facs_75_r_4_1_tl_20' n='N020'/>nist possession of land and individualist production were too
+				<lb facs='#facs_75_r_4_1_tl_21' n='N021'/>contradictory to survive, that the wage system should be abol
+				<lb facs='#facs_75_r_4_1_tl_22' n='N022'/>ished, that common possession of the means of production
+				<lb facs='#facs_75_r_4_1_tl_23' n='N023'/>implied equal consumption, that people should be provided for
+				<lb facs='#facs_75_r_4_1_tl_24' n='N024'/>according to their needs rather than the amount of labor they
+				<lb facs='#facs_75_r_4_1_tl_25' n='N025'/>performed. Dismissing any technical necessity for large-scale
+				<lb facs='#facs_75_r_4_1_tl_26' n='N026'/>industrialization, Kropotkin argued that the tendency of industry
+				<lb facs='#facs_75_r_4_1_tl_27' n='N027'/>was toward decentralization. But small scale was also important
+				<lb facs='#facs_75_r_4_1_tl_28' n='N028'/>for the same reason it was for Godwin and for today’s feminists
+				<lb facs='#facs_75_r_4_1_tl_29' n='N029'/>—for its reliance on trust and honesty in making and keeping
+				<lb facs='#facs_75_r_4_1_tl_30' n='N030'/>agreements. However, Kropotkin’s belief that change would
+				<lb facs='#facs_75_r_4_1_tl_31' n='N031'/>come through evolution, shared by some feminists, is optimistic
+				<lb facs='#facs_75_r_4_1_tl_32' n='N032'/>but utopian. Past glory is as problematic as future glory, and as
+				<lb facs='#facs_75_r_4_1_tl_33' n='N033'/>useless to speculate about.
+				<lb facs='#facs_75_r_4_1_tl_34' n='N034'/>We have nothing but our freedom. We have nothing to
+				<lb facs='#facs_75_r_4_1_tl_35' n='N035'/>give you but your own freedom. We have no law but
+				<lb facs='#facs_75_r_4_1_tl_36' n='N036'/>the single principle of mutual aid between individuals
+				<lb facs='#facs_75_r_4_1_tl_37' n='N037'/>We have no government but the single principle of free
+				<lb facs='#facs_75_r_4_1_tl_38' n='N038'/>association. You cannot buy the Revolution. You can
+				<lb facs='#facs_75_r_4_1_tl_39' n='N039'/>not make the Revolution. You can only be the Revolu
+				<lb facs='#facs_75_r_4_1_tl_40' n='N040'/>tion. It is in your spirit, or it is nowhere.—Ursula
+				<lb facs='#facs_75_r_4_1_tl_41' n='N041'/>LeGuin, The Dispossessed
+				<lb facs='#facs_75_r_4_1_tl_42' n='N042'/>During and after the Russian Revolution, anarchists in
+				<lb facs='#facs_75_r_4_1_tl_43' n='N043'/>Russia and elsewhere, hoping to create a political science by
+				<lb facs='#facs_75_r_4_1_tl_44' n='N044'/>basing their analyšes more concretely on economics, rejected the
+				<lb facs='#facs_75_r_4_1_tl_45' n='N045'/>romantic utopianism of their nineteenth-century predecessors.
+				<lb facs='#facs_75_r_4_1_tl_46' n='N046'/>There were two major lines of social-anarchist thought—that of
+			</p>
+			<p>
+				<lb facs='#facs_75_r_5_1_tl_1' n='N001'/>the anarcho-communists, who were opposed to large-scale in
+				<lb facs='#facs_75_r_5_1_tl_2' n='N002'/>dustry, and that of the anarcho-syndicalists, such as Emma
+				<lb facs='#facs_75_r_5_1_tl_3' n='N003'/>Goldman, who supported trade unionism and thought that
+				<lb facs='#facs_75_r_5_1_tl_4' n='N004'/>anarchists should use the capitalist system of production progres
+				<lb facs='#facs_75_r_5_1_tl_5' n='N005'/>sively to liberate rather than to alienate people. Both groups
+				<lb facs='#facs_75_r_5_1_tl_6' n='N006'/>agreed in their opposition to the Bolsheviks when they saw that
+				<lb facs='#facs_75_r_5_1_tl_7' n='N007'/>the &quot;dictatorship of the proletariat&quot; really meant the &quot;dictatorship
+				<lb facs='#facs_75_r_5_1_tl_8' n='N008'/>of the Social Democratic Party.
+				<lb facs='#facs_75_r_5_1_tl_9' n='N009'/>Emma Goldman, the most famous female anarchist, was one
+				<lb facs='#facs_75_r_5_1_tl_10' n='N010'/>of the harshest critics of the Bolshevik government. She came to
+				<lb facs='#facs_75_r_5_1_tl_11' n='N011'/>America as a young Russian immigrant and was radicalized by
+				<lb facs='#facs_75_r_5_1_tl_12' n='N012'/>the condition of the working class—long hours in sweatshops,
+				<lb facs='#facs_75_r_5_1_tl_13' n='N013'/>unsafe conditions, the sexual exploitation of women workers, the
+				<lb facs='#facs_75_r_5_1_tl_14' n='N014'/>prejudice against Jews. Objecting to communist authoritarian
+				<lb facs='#facs_75_r_5_1_tl_15' n='N015'/>ism, she was drawn to anarchism. Goldman was influenced by
+				<lb facs='#facs_75_r_5_1_tl_16' n='N016'/>Bakunin’s passion for revolt—(“As to methods. Anarchism is
+				<lb facs='#facs_75_r_5_1_tl_17' n='N017'/>not, as some may suppose, a theory of the future to be realized
+				<lb facs='#facs_75_r_5_1_tl_18' n='N018'/>through divine inspiration. It is a living force in the affairs of our
+				<lb facs='#facs_75_r_5_1_tl_19' n='N019'/>life, constantly creating new conditions”°)—and by Kropotkin&apos;s
+				<lb facs='#facs_75_r_5_1_tl_20' n='N020'/>economic analyses of decentralization, his attempt to make
+				<lb facs='#facs_75_r_5_1_tl_21' n='N021'/>anarchism scientific—(&quot;Just as the animal cells, by mutual co
+				<lb facs='#facs_75_r_5_1_tl_22' n='N022'/>operation, express their latent powers in formation of the com
+				<lb facs='#facs_75_r_5_1_tl_23' n='N023'/>plete organism, so does the individual, by cooperative effort
+				<lb facs='#facs_75_r_5_1_tl_24' n='N024'/>with other individuals, attain Ithe) highest form of develop
+				<lb facs='#facs_75_r_5_1_tl_25' n='N025'/>ment ...&quot;*). Goldman became an anarcho-syndicalist, agitating
+				<lb facs='#facs_75_r_5_1_tl_26' n='N026'/>for women’s rights, birth control, and labor reforms. She was not
+				<lb facs='#facs_75_r_5_1_tl_27' n='N027'/>primarily a feminist, although feminism was part of her anarch
+				<lb facs='#facs_75_r_5_1_tl_28' n='N028'/>ism, and she criticized women who were committed only to
+				<lb facs='#facs_75_r_5_1_tl_29' n='N029'/>women’s suffrage, asking why they would want the same right to
+				<lb facs='#facs_75_r_5_1_tl_30' n='N030'/>be oppressed as men. She also lambasted middle-class suffragettes
+				<lb facs='#facs_75_r_5_1_tl_31' n='N031'/>for failing to understand the problems of working-class women.
+				<lb facs='#facs_75_r_5_1_tl_32' n='N032'/>When Goldman was deported during the Red Scare after
+				<lb facs='#facs_75_r_5_1_tl_33' n='N033'/>World War I, she went to Russia, but was bitterly disappointed
+				<lb facs='#facs_75_r_5_1_tl_34' n='N034'/>by what she saw as the betrayal of the revolution.8 She argued
+				<lb facs='#facs_75_r_5_1_tl_35' n='N035'/>that the people’s passionate yearning for liberty had made the
+				<lb facs='#facs_75_r_5_1_tl_36' n='N036'/>revolution possible, in spite of industrial backwardness. The
+				<lb facs='#facs_75_r_5_1_tl_37' n='N037'/>&quot;spirit of mutual purpose” in the labor organizations and co
+				<lb facs='#facs_75_r_5_1_tl_38' n='N038'/>operatives emerged in response to the need for them. However,
+				<lb facs='#facs_75_r_5_1_tl_39' n='N039'/>the Bolsheviks limited the scope of popular power. Seeing that
+				<lb facs='#facs_75_r_5_1_tl_40' n='N040'/>the Soviets threatened the supremacy of the state, Lenin put a
+				<lb facs='#facs_75_r_5_1_tl_41' n='N041'/>&quot;new economic policy” into effect, destroying the Soviets, the
+				<lb facs='#facs_75_r_5_1_tl_42' n='N042'/>trade unions and the cooperatives in order to further centralize
+				<lb facs='#facs_75_r_5_1_tl_43' n='N043'/>the political state. The revolution, though, had been fought with
+				<lb facs='#facs_75_r_5_1_tl_44' n='N044'/>a different objective—the negation of authority and centralism.
+				<lb facs='#facs_75_r_5_1_tl_45' n='N045'/>Goldman blamed not only the Bolsheviks, but the &quot;fanatical
+				<lb facs='#facs_75_r_5_1_tl_46' n='N046'/>governmentalism&quot; of marxism—and felt that only anarcho
+				<lb facs='#facs_75_r_5_1_tl_47' n='N047'/>syndicalism—“the industrial power of the masses expressed
+			</p>
+			<pb n='76'/>
+			<p>
+				<lb facs='#facs_76_r_1_1_tl_1' n='N001'/>through their libertarian associations&quot;—could organize economic
+				<lb facs='#facs_76_r_1_1_tl_2' n='N002'/>life. The power of the masses represented revolution to her: “The
+				<lb facs='#facs_76_r_1_1_tl_3' n='N003'/>inherent tendency of the state is to concentrate, to narrow, and to
+				<lb facs='#facs_76_r_1_1_tl_4' n='N004'/>monopolize all social activities; the nature of Revolution is, on
+				<lb facs='#facs_76_r_1_1_tl_5' n='N005'/>the contrary, to grow, to broaden, and disseminate itself in even
+				<lb facs='#facs_76_r_1_1_tl_6' n='N006'/>wider circles. In other words, the State is institutional and static,
+				<lb facs='#facs_76_r_1_1_tl_7' n='N007'/>Revolution is fluent, dynamic. Goldman also criticized the Rus
+				<lb facs='#facs_76_r_1_1_tl_8' n='N008'/>sian Revolution for propagating anti-humanitarian feelings in its
+				<lb facs='#facs_76_r_1_1_tl_9' n='N009'/>criticism of all ethics. The Bolsheviks saw the desire for justice,
+				<lb facs='#facs_76_r_1_1_tl_10' n='N010'/>equality, and liberty as sentimental, bourgeois, superstitious and
+				<lb facs='#facs_76_r_1_1_tl_11' n='N011'/>counter-revolutionary, this last a criticism especially leveled
+				<lb facs='#facs_76_r_1_1_tl_12' n='N012'/>against outspoken women. All of history, she wrote, &quot;is continu
+				<lb facs='#facs_76_r_1_1_tl_13' n='N013'/>ous proof of the maxim that to divest one’s methods of ethical
+				<lb facs='#facs_76_r_1_1_tl_14' n='N014'/>concepts means to sink into the depths of utter demoralization.&quot;10
+				<lb facs='#facs_76_r_1_1_tl_15' n='N015'/>For Goldman, the primary ethical precept was the identity of
+				<lb facs='#facs_76_r_1_1_tl_16' n='N016'/>means and ends. Like Kropotkin, she found ethics involved more
+				<lb facs='#facs_76_r_1_1_tl_17' n='N017'/>than morals. How, in practice, could the dictatorship of the
+				<lb facs='#facs_76_r_1_1_tl_18' n='N018'/>intelligentsia transform itself into the dictatorship of the prole
+				<lb facs='#facs_76_r_1_1_tl_19' n='N019'/>tariat? Wouldn’t any class dictatorship be the same as any other?
+				<lb facs='#facs_76_r_1_1_tl_20' n='N020'/>How could a revolution attempting to free the masses do away
+				<lb facs='#facs_76_r_1_1_tl_21' n='N021'/>with all ethical concepts about why they should be free? This
+				<lb facs='#facs_76_r_1_1_tl_22' n='N022'/>means-ends contradiction is important for feminists, preventing
+				<lb facs='#facs_76_r_1_1_tl_23' n='N023'/>the advocation of revolutionary action where revolutionary
+				<lb facs='#facs_76_r_1_1_tl_24' n='N024'/>method and end are not compatible.
+				<lb facs='#facs_76_r_1_1_tl_25' n='N025'/>They say that they foster disorder in all its forms. confu
+				<lb facs='#facs_76_r_1_1_tl_26' n='N026'/>sion troubles violent debates disarray upsets distur
+				<lb facs='#facs_76_r_1_1_tl_27' n='N027'/>bances incoherences irregularities divergences complica
+				<lb facs='#facs_76_r_1_1_tl_28' n='N028'/>tions disagreements discords clashes polemics discus
+				<lb facs='#facs_76_r_1_1_tl_29' n='N029'/>sions contentions brawls disputes conflicts routs débâ
+				<lb facs='#facs_76_r_1_1_tl_30' n='N030'/>cles cataclysms disturbances quarrels agitation turbu
+				<lb facs='#facs_76_r_1_1_tl_31' n='N031'/>lence conflagrations chaos anarchy—Monique Wittig,
+				<lb facs='#facs_76_r_1_1_tl_32' n='N032'/>Les Guérillères
+				<lb facs='#facs_76_r_1_1_tl_33' n='N033'/>It is interesting to compare Goldman’s ideas with those of
+				<lb facs='#facs_76_r_1_1_tl_34' n='N034'/>some of the leading female communists, for many of these
+				<lb facs='#facs_76_r_1_1_tl_35' n='N035'/>women, no matter how allied their ideas were to an orthodox
+				<lb facs='#facs_76_r_1_1_tl_36' n='N036'/>marxist line, tended to separate from their male compatriots and
+				<lb facs='#facs_76_r_1_1_tl_37' n='N037'/>come closer to anarchism in their opposition to bureaucracy, to
+				<lb facs='#facs_76_r_1_1_tl_38' n='N038'/>the subversion of revolution by the Bolsheviks, and to the use of
+				<lb facs='#facs_76_r_1_1_tl_39' n='N039'/>purely efficacious means. Some of them resisted official policy so
+				<lb facs='#facs_76_r_1_1_tl_40' n='N040'/>strongly that they were silenced by not receiving appointments,
+				<lb facs='#facs_76_r_1_1_tl_41' n='N041'/>dismissals from posts or absurd “propaganda” missions to the
+				<lb facs='#facs_76_r_1_1_tl_42' n='N042'/>hinterlands.
+				<lb facs='#facs_76_r_1_1_tl_43' n='N043'/>It has often been pointed out both in criticism and support
+				<lb facs='#facs_76_r_1_1_tl_44' n='N044'/>that Rosa Luxemburg’s treatment of the nature of organization,
+				<lb facs='#facs_76_r_1_1_tl_45' n='N045'/>her belief in the creative power and spontaneity of mass action
+				<lb facs='#facs_76_r_1_1_tl_46' n='N046'/>and her advocation of the mass strike were replete with anarchist
+				<lb facs='#facs_76_r_1_1_tl_47' n='N047'/>assumptions. Though she was, in fact, strongly opposed to
+				<lb facs='#facs_76_r_1_1_tl_48' n='N048'/>anarchism in any form, in relation to Lenin&apos;s authoritarian
+				<lb facs='#facs_76_r_1_1_tl_49' n='N049'/>political analysis, Luxemburg&apos;s refusal to support any rigid
+				<lb facs='#facs_76_r_1_1_tl_50' n='N050'/>relationship of leadership to masses seems more sensitive to the
+				<lb facs='#facs_76_r_1_1_tl_51' n='N051'/>complexities of struggle. While her goal was the same as Lenin’s
+				<lb facs='#facs_76_r_1_1_tl_52' n='N052'/>the destruction of capitalism by the working class—she believed
+				<lb facs='#facs_76_r_1_1_tl_53' n='N053'/>in creative improvisation of leadership rather than in precisely
+				<lb facs='#facs_76_r_1_1_tl_54' n='N054'/>planned strategies. She did, of course, believe in leadership, but
+				<lb facs='#facs_76_r_1_1_tl_55' n='N055'/>considered good organization the product of action rather than
+				<lb facs='#facs_76_r_1_1_tl_56' n='N056'/>its precedent and saw organization as growing out of struggle.
+				<lb facs='#facs_76_r_1_1_tl_57' n='N057'/>While Luxemburg understood the necessity of centralism as a
+				<lb facs='#facs_76_r_1_1_tl_58' n='N058'/>reaction against the &quot;autonomy and isolation of the old organi
+				<lb facs='#facs_76_r_1_1_tl_59' n='N059'/>zational type, against localism and federalism,&quot;1 the task was
+				<lb facs='#facs_76_r_1_1_tl_60' n='N060'/>&quot;to unite all workers and all worker organizations in a single
+				<lb facs='#facs_76_r_1_1_tl_61' n='N061'/>party” despite national and religious differences. In the German
+				<lb facs='#facs_76_r_1_1_tl_62' n='N062'/>Social Democratic Party, this was predicated upon the “direct,
+				<lb facs='#facs_76_r_1_1_tl_63' n='N063'/>independent action of the masses,&quot; where the workers woulc
+				<lb facs='#facs_76_r_1_1_tl_64' n='N064'/>&quot;develop their own political activity through direct influence in
+			</p>
+			<p>
+				<lb facs='#facs_76_r_2_1_tl_1' n='N001'/>public life.&quot; However, Luxemburg objected to Lenin’s principles
+				<lb facs='#facs_76_r_2_1_tl_2' n='N002'/>of centralism: “1. The blind subordination, in the smallest detail,
+				<lb facs='#facs_76_r_2_1_tl_3' n='N003'/>of all party organs, to the party which alone thinks, guides, and
+				<lb facs='#facs_76_r_2_1_tl_4' n='N004'/>decides for all. 2. The rigorous separation of the organized
+				<lb facs='#facs_76_r_2_1_tl_5' n='N005'/>nucleus from its social-revolutionary surroundings. . . .&quot; The
+				<lb facs='#facs_76_r_2_1_tl_6' n='N006'/>German Social Democracy, she insisted, was not joined to the
+				<lb facs='#facs_76_r_2_1_tl_7' n='N007'/>proletariat, it was the proletariat. The party was synonymous
+				<lb facs='#facs_76_r_2_1_tl_8' n='N008'/>with the masses; it was to provide the &quot;spirit of movement&quot; to the
+				<lb facs='#facs_76_r_2_1_tl_9' n='N009'/>masses. Luxemburg objected that the power of the Central
+				<lb facs='#facs_76_r_2_1_tl_10' n='N010'/>Committee would be comprehensible only if it took the initiative
+				<lb facs='#facs_76_r_2_1_tl_11' n='N011'/>of a &quot;vast revolutionary act,&quot; paralleling Goldman’s means-ends
+				<lb facs='#facs_76_r_2_1_tl_12' n='N012'/>argument.
+				<lb facs='#facs_76_r_2_1_tl_13' n='N013'/>Luxemburg saw the development of class consciousness as a
+				<lb facs='#facs_76_r_2_1_tl_14' n='N014'/>product of the frictions between the party and trade union
+				<lb facs='#facs_76_r_2_1_tl_15' n='N015'/>activity. Lenin, denying this dialectical function, saw trade union
+				<lb facs='#facs_76_r_2_1_tl_16' n='N016'/>activity as a mere reflection of bourgeois consciousness in the
+				<lb facs='#facs_76_r_2_1_tl_17' n='N017'/>working class. Through her belief that continued agitation was
+				<lb facs='#facs_76_r_2_1_tl_18' n='N018'/>the only way to prevent the retardation of the struggle, Luxem
+				<lb facs='#facs_76_r_2_1_tl_19' n='N019'/>burg supported the traditionally anarchist idea of the mass strike.
+				<lb facs='#facs_76_r_2_1_tl_20' n='N020'/>&quot;Spontaneity, as she used the term, meant action as opposed to
+				<lb facs='#facs_76_r_2_1_tl_21' n='N021'/>static or reformist attitudes; it was misinterpreted by the Bolshe
+				<lb facs='#facs_76_r_2_1_tl_22' n='N022'/>viks to mean confusion or to suggest that the party’s rational
+				<lb facs='#facs_76_r_2_1_tl_23' n='N023'/>policies should be determined by the &quot;spontaneous” desires of the
+				<lb facs='#facs_76_r_2_1_tl_24' n='N024'/>masses. “But what has been the experience of the Russian socialist
+				<lb facs='#facs_76_r_2_1_tl_25' n='N025'/>movement up to now? The most important and most fruitful
+				<lb facs='#facs_76_r_2_1_tl_26' n='N026'/>changes have not been the inventions of several leaders and even
+				<lb facs='#facs_76_r_2_1_tl_27' n='N027'/>less so of any central organizational organs. They have always
+				<lb facs='#facs_76_r_2_1_tl_28' n='N028'/>been the spontaneous product of the movement in ferment.&quot; The
+				<lb facs='#facs_76_r_2_1_tl_29' n='N029'/>tactical policy of social democracy was not &quot;invented” but was
+				<lb facs='#facs_76_r_2_1_tl_30' n='N030'/>the &quot;product of a series of great creative acts.&quot; Luxemburg argued
+				<lb facs='#facs_76_r_2_1_tl_31' n='N031'/>that Lenin’s was not a “positive and creative spirit,” that he tried
+				<lb facs='#facs_76_r_2_1_tl_32' n='N032'/>to &quot;narrow the movement rather than to develop it, to bind i
+				<lb facs='#facs_76_r_2_1_tl_33' n='N033'/>rather than to unify it....For us it is not the letter but the
+				<lb facs='#facs_76_r_2_1_tl_34' n='N034'/>living spirit carried into the organization by the membership thal
+				<lb facs='#facs_76_r_2_1_tl_35' n='N035'/>decides the value of this or that organizational form.“ It is here
+				<lb facs='#facs_76_r_2_1_tl_36' n='N036'/>that she seems closest to anarchism. She wanted to replace systen
+				<lb facs='#facs_76_r_2_1_tl_37' n='N037'/>not with another system, but with the opposite — movement anc
+				<lb facs='#facs_76_r_2_1_tl_38' n='N038'/>dynamism.
+				<lb facs='#facs_76_r_2_1_tl_39' n='N039'/>Clara Zetkin, a close friend of Luxemburg, agreed with most
+				<lb facs='#facs_76_r_2_1_tl_40' n='N040'/>of her ideas. However, Zetkin was a feminist, working for wom
+				<lb facs='#facs_76_r_2_1_tl_41' n='N041'/>en’s rights, editing a socialist women’s paper, organizing biannual
+				<lb facs='#facs_76_r_2_1_tl_42' n='N042'/>women’s conferences in the German Social Democratic Party, the
+				<lb facs='#facs_76_r_2_1_tl_43' n='N043'/>International Socialist Women’s Conference, and International
+				<lb facs='#facs_76_r_2_1_tl_44' n='N044'/>Women’s Day. She felt that as long as there were sexist attitude.
+				<lb facs='#facs_76_r_2_1_tl_45' n='N045'/>in the party, there was a need for separate women’s organiza
+				<lb facs='#facs_76_r_2_1_tl_46' n='N046'/>tions, meetings and groups for self-education and political agita
+				<lb facs='#facs_76_r_2_1_tl_47' n='N047'/>tion. She compared woman’s relation to man to that of the work-
+				<lb facs='#facs_76_r_2_1_tl_48' n='N048'/>er to the capitalist (a favorite quotation was from Engels: “He is
+				<lb facs='#facs_76_r_2_1_tl_49' n='N049'/>the bourgeois in the family, the woman represents the prole
+				<lb facs='#facs_76_r_2_1_tl_50' n='N050'/>tariat&quot;1), and she believed that economic independence through
+				<lb facs='#facs_76_r_2_1_tl_51' n='N051'/>socially productive labor was the key to women’s freedom.
+				<lb facs='#facs_76_r_2_1_tl_52' n='N052'/>Because of this, she thought at first that the destruction of private
+				<lb facs='#facs_76_r_2_1_tl_53' n='N053'/>property would free women by transforming the family from ar
+				<lb facs='#facs_76_r_2_1_tl_54' n='N054'/>entity bound by economic ties to a “moral entity” united by
+				<lb facs='#facs_76_r_2_1_tl_55' n='N055'/>love, understanding, and respect.“1 But like Goldman, Zetkin
+				<lb facs='#facs_76_r_2_1_tl_56' n='N056'/>later recognized the difference between the role of women’s rights
+				<lb facs='#facs_76_r_2_1_tl_57' n='N057'/>for bourgeois women and for working-class women. Middle-class
+				<lb facs='#facs_76_r_2_1_tl_58' n='N058'/>women could focus on issues of personal liberation and more
+				<lb facs='#facs_76_r_2_1_tl_59' n='N059'/>individual concerns, while working-class women, exploited as
+				<lb facs='#facs_76_r_2_1_tl_60' n='N060'/>women and as workers, did not have that kind of leisure. Because
+				<lb facs='#facs_76_r_2_1_tl_61' n='N061'/>she believed that biological as well as social factors created
+				<lb facs='#facs_76_r_2_1_tl_62' n='N062'/>oppression, she concentrated, perhaps too heavily in later life, on
+				<lb facs='#facs_76_r_2_1_tl_63' n='N063'/>motherhood as the primary defining characteristic and fulfillment
+				<lb facs='#facs_76_r_2_1_tl_64' n='N064'/>of women. Because of her feminism, Zetkin was victimized by the
+				<lb facs='#facs_76_r_2_1_tl_65' n='N065'/>party and excluded from important positions.
+			</p>
+			<pb n='77'/>
+			<p>
+				<lb facs='#facs_77_r_7_1_tl_1' n='N001'/>Angelica Balabanoff, active primarily in Italy, was like
+				<lb facs='#facs_77_r_7_1_tl_2' n='N002'/>Kropotkin a Russian aristocrat who rejected family and back
+				<lb facs='#facs_77_r_7_1_tl_3' n='N003'/>ground for communism. Compared with Luxemburg and Zetkin,
+				<lb facs='#facs_77_r_7_1_tl_4' n='N004'/>she seems a bit simplistic, naive about the political machinations
+				<lb facs='#facs_77_r_7_1_tl_5' n='N005'/>going on around her, but she was broad-minded and loyal to her
+				<lb facs='#facs_77_r_7_1_tl_6' n='N006'/>sense of what was right. She too initially criticized anarchy be
+				<lb facs='#facs_77_r_7_1_tl_7' n='N007'/>cause it lacked a basis in objective conditions, but she changed
+				<lb facs='#facs_77_r_7_1_tl_8' n='N008'/>her mind upon meeting Emma Goldman, realizing that she had
+				<lb facs='#facs_77_r_7_1_tl_9' n='N009'/>accepted without question the official charges against anarchist
+				<lb facs='#facs_77_r_7_1_tl_10' n='N010'/>dissenters. Balabanoff’s objections to the Bolsheviks were similar
+				<lb facs='#facs_77_r_7_1_tl_11' n='N011'/>to Goldman’s and Luxemburg’s. In her autobiography, My Life as
+				<lb facs='#facs_77_r_7_1_tl_12' n='N012'/>a Rebel, she wrote: &quot;I have always believed that the emancipa
+				<lb facs='#facs_77_r_7_1_tl_13' n='N013'/>tion of labor must be achieved primarily by awakening and edu
+				<lb facs='#facs_77_r_7_1_tl_14' n='N014'/>cating the masses to a consciousness of their human and social
+				<lb facs='#facs_77_r_7_1_tl_15' n='N015'/>rights, whereas the Bolsheviks have maintained that the trans
+				<lb facs='#facs_77_r_7_1_tl_16' n='N016'/>formation of the social system must be accomplished by a rela
+				<lb facs='#facs_77_r_7_1_tl_17' n='N017'/>tively small minority.&quot;
+				<lb facs='#facs_77_r_7_1_tl_18' n='N018'/>Balabanoff not only opposed minority rule, but the cult of
+				<lb facs='#facs_77_r_7_1_tl_19' n='N019'/>leadership, convinced that revolutionary work should be anony
+				<lb facs='#facs_77_r_7_1_tl_20' n='N020'/>mous &quot;in order to prevent the development of hero-worship and
+				<lb facs='#facs_77_r_7_1_tl_21' n='N021'/>the undue influence of the individual upon the movement.
+				<lb facs='#facs_77_r_7_1_tl_22' n='N022'/>Objecting to the idea of revolution imposed from above, she
+				<lb facs='#facs_77_r_7_1_tl_23' n='N023'/>argued that method must come from the experience of the work-
+				<lb facs='#facs_77_r_7_1_tl_24' n='N024'/>ers themselves, as an exploited class, if the revolution were to
+				<lb facs='#facs_77_r_7_1_tl_25' n='N025'/>maintain itself against reaction. She despised the Bolshevik prac
+				<lb facs='#facs_77_r_7_1_tl_26' n='N026'/>tice of exterminating the opposition —the “path of least resis
+				<lb facs='#facs_77_r_7_1_tl_27' n='N027'/>tance, advocating instead the discussion of conflicting methods
+				<lb facs='#facs_77_r_7_1_tl_28' n='N028'/>and the confrontation of honest differences of opinion rather than
+				<lb facs='#facs_77_r_7_1_tl_29' n='N029'/>discrediting or buying off opponents. When she made these
+				<lb facs='#facs_77_r_7_1_tl_30' n='N030'/>objections, she was accused of being too &quot;soft-hearted” to under
+				<lb facs='#facs_77_r_7_1_tl_31' n='N031'/>stand the necessities of the revolution — that is, too female and
+				<lb facs='#facs_77_r_7_1_tl_32' n='N032'/>sensitive, which amounted to being “counter-revolutionary” and
+				<lb facs='#facs_77_r_7_1_tl_33' n='N033'/>bourgeois.
+				<lb facs='#facs_77_r_7_1_tl_34' n='N034'/>Balabanoff’s autobiography is informative on the subject of
+				<lb facs='#facs_77_r_7_1_tl_35' n='N035'/>her comrade, Alexandra Kollantai, who led the first organized
+				<lb facs='#facs_77_r_7_1_tl_36' n='N036'/>opposition to the policies of Lenin and Trotsky.
+				<lb facs='#facs_77_r_7_1_tl_37' n='N037'/>Alexandra was not an Old Bolshevik, but she had joined
+				<lb facs='#facs_77_r_7_1_tl_38' n='N038'/>the Bolshevik Party even before Trotsky had done so
+				<lb facs='#facs_77_r_7_1_tl_39' n='N039'/>and much earlier than I. During these first few years of
+				<lb facs='#facs_77_r_7_1_tl_40' n='N040'/>the Revolution she was a frequent source of both per
+				<lb facs='#facs_77_r_7_1_tl_41' n='N041'/>sonal and political annoyance to the Party leaders. On
+				<lb facs='#facs_77_r_7_1_tl_42' n='N042'/>more than one occasion, the Central Committee had
+				<lb facs='#facs_77_r_7_1_tl_43' n='N043'/>wanted me to substitute for her in the leadership of the
+				<lb facs='#facs_77_r_7_1_tl_44' n='N044'/>women’s movement, thus facilitating the campaign
+				<lb facs='#facs_77_r_7_1_tl_45' n='N045'/>against her and isolating her from the women of the
+				<lb facs='#facs_77_r_7_1_tl_46' n='N046'/>movement. Fortunately I understood this intrigue and
+				<lb facs='#facs_77_r_7_1_tl_47' n='N047'/>refused these offers...By the Ninth Congress of the
+			</p>
+			<p>
+				<lb facs='#facs_77_r_8_1_tl_1' n='N001'/>Russian Party, the last vestige of trade-union autonomy
+				<lb facs='#facs_77_r_8_1_tl_2' n='N002'/>and workers’ control in industry was swept away to be
+				<lb facs='#facs_77_r_8_1_tl_3' n='N003'/>replaced by the control of the political commissars over
+				<lb facs='#facs_77_r_8_1_tl_4' n='N004'/>the trade unions and the workers’ soviets. Kollantai had
+				<lb facs='#facs_77_r_8_1_tl_5' n='N005'/>become the leader of the “Workers’ Opposition, a pro
+				<lb facs='#facs_77_r_8_1_tl_6' n='N006'/>test movement against the bureaucratic suffocation of
+				<lb facs='#facs_77_r_8_1_tl_7' n='N007'/>the labor unions and the democratic rights of the work
+				<lb facs='#facs_77_r_8_1_tl_8' n='N008'/>ers. As there was no possibility, even at that time, of
+				<lb facs='#facs_77_r_8_1_tl_9' n='N009'/>publicly criticizing the Central Committee or of placing
+				<lb facs='#facs_77_r_8_1_tl_10' n='N010'/>an unofficial opinion before the Party rank and file, she
+				<lb facs='#facs_77_r_8_1_tl_11' n='N011'/>was courageous enough to have a pamphlet secretly
+				<lb facs='#facs_77_r_8_1_tl_12' n='N012'/>printed for distribution to the delegates of the Party
+				<lb facs='#facs_77_r_8_1_tl_13' n='N013'/>I have never seen Lenin so angry, as
+				<lb facs='#facs_77_r_8_1_tl_14' n='N014'/>when one of these pamphlets was handed to him at the
+				<lb facs='#facs_77_r_8_1_tl_15' n='N015'/>Convention... Taking the platform, he denounced
+				<lb facs='#facs_77_r_8_1_tl_16' n='N016'/>Kollantai as the Party’s worst enemy, a menace to its
+				<lb facs='#facs_77_r_8_1_tl_17' n='N017'/>unity...
+				<lb facs='#facs_77_r_8_1_tl_18' n='N018'/>Kollantai was accused of being an anarchist (a &quot;syndicalist”)
+				<lb facs='#facs_77_r_8_1_tl_19' n='N019'/>because of her criticisms of the party for the absence of worker
+				<lb facs='#facs_77_r_8_1_tl_20' n='N020'/>participation, its substitution of “specialists&quot; for the working
+				<lb facs='#facs_77_r_8_1_tl_21' n='N021'/>masses in decisions, its fear of criticism and freedom of thought.
+				<lb facs='#facs_77_r_8_1_tl_22' n='N022'/>The Workers’ Opposition, which demanded real participation of
+				<lb facs='#facs_77_r_8_1_tl_23' n='N023'/>the workers in economic self-administration and the organization
+				<lb facs='#facs_77_r_8_1_tl_24' n='N024'/>of production, was condemned by Lenin as &quot;a petty bourgeois
+				<lb facs='#facs_77_r_8_1_tl_25' n='N025'/>anarchist element hiding behind the back of the proletariat.
+				<lb facs='#facs_77_r_8_1_tl_26' n='N026'/>Kollantai’s view of revolution parallels that of Luxemburg and
+				<lb facs='#facs_77_r_8_1_tl_27' n='N027'/>Goldman in its emphasis on spontaneity and creativity: “We can
+				<lb facs='#facs_77_r_8_1_tl_28' n='N028'/>not decree Communism. It can be created only through active
+				<lb facs='#facs_77_r_8_1_tl_29' n='N029'/>searching, through temporary setbacks but, at all events, through
+				<lb facs='#facs_77_r_8_1_tl_30' n='N030'/>the creative force of the working class I
+				<lb facs='#facs_77_r_8_1_tl_31' n='N031'/>Kollantai also extended her criticisms to the absence of
+				<lb facs='#facs_77_r_8_1_tl_32' n='N032'/>equality for women, arguing that the party was not genuinely
+				<lb facs='#facs_77_r_8_1_tl_33' n='N033'/>concerned with women’s liberation in practice. Women &quot;still
+				<lb facs='#facs_77_r_8_1_tl_34' n='N034'/>lived under the same yoke: without authority in family life,
+				<lb facs='#facs_77_r_8_1_tl_35' n='N035'/>enslaved by a thousand menial household tasks, bearing the
+				<lb facs='#facs_77_r_8_1_tl_36' n='N036'/>whole burden of maternity....&quot; When she went to Germany and
+				<lb facs='#facs_77_r_8_1_tl_37' n='N037'/>joined the Social Democratic Party, she was influenced by Zetkin
+				<lb facs='#facs_77_r_8_1_tl_38' n='N038'/>and took part in the International Conference of Socialist Wom
+				<lb facs='#facs_77_r_8_1_tl_39' n='N039'/>en. In Russia, as Minister of Social Welfare after the revolution,
+				<lb facs='#facs_77_r_8_1_tl_40' n='N040'/>she was interested in redefining not only political conditions but
+				<lb facs='#facs_77_r_8_1_tl_41' n='N041'/>social and psychological attitudes concerning women; she
+				<lb facs='#facs_77_r_8_1_tl_42' n='N042'/>worked for maternity welfare, prenatal care and day nurseries, as
+				<lb facs='#facs_77_r_8_1_tl_43' n='N043'/>well as birth control, and strove to change ideas about sexuality
+				<lb facs='#facs_77_r_8_1_tl_44' n='N044'/>and the structure of the family. Like Goldman, Kollantai dis
+				<lb facs='#facs_77_r_8_1_tl_45' n='N045'/>tinguished the existing bourgeois women’s liberation movement
+				<lb facs='#facs_77_r_8_1_tl_46' n='N046'/>(which was not primarily concerned with creating a new social
+				<lb facs='#facs_77_r_8_1_tl_47' n='N047'/>order) from the need for a working-class movement based on the
+			</p>
+			<pb n='78'/>
+			<p>
+				<lb facs='#facs_78_r_1_1_tl_1' n='N001'/>recognition of class contradiction. She was “accused&quot; by the
+				<lb facs='#facs_78_r_1_1_tl_2' n='N002'/>party of being a &quot;feminist&quot; for putting too much emphasis on
+				<lb facs='#facs_78_r_1_1_tl_3' n='N003'/>matters concerning women. But even though she believed that
+				<lb facs='#facs_78_r_1_1_tl_4' n='N004'/>women have special needs arising from their biology (a material
+				<lb facs='#facs_78_r_1_1_tl_5' n='N005'/>ist argument), she criticized feminism for making only abstract
+				<lb facs='#facs_78_r_1_1_tl_6' n='N006'/>demands for equal rights without any concrete material analysis
+				<lb facs='#facs_78_r_1_1_tl_7' n='N007'/>of the situation for women at the time. This was her distinction
+				<lb facs='#facs_78_r_1_1_tl_8' n='N008'/>between feminism and socialism, between the bourgeois and the
+				<lb facs='#facs_78_r_1_1_tl_9' n='N009'/>working-class women’s movements, which amounted to a dis
+				<lb facs='#facs_78_r_1_1_tl_10' n='N010'/>tinction between liberalism and radicalism.
+				<lb facs='#facs_78_r_1_1_tl_11' n='N011'/>Tension between Kollantai and the party became more and
+				<lb facs='#facs_78_r_1_1_tl_12' n='N012'/>more severe. &quot;Now began a (dark time) of my life which I cannot
+				<lb facs='#facs_78_r_1_1_tl_13' n='N013'/>treat of here since the events are still too fresh in my mind ...
+				<lb facs='#facs_78_r_1_1_tl_14' n='N014'/>(There were differences of opinion in the Party.) I resigned from
+				<lb facs='#facs_78_r_1_1_tl_15' n='N015'/>my post as People’s Commissar (on the ground of total disagree
+				<lb facs='#facs_78_r_1_1_tl_16' n='N016'/>ment with current policy).&quot;1° She was sent on a &quot;diplomatic mis
+				<lb facs='#facs_78_r_1_1_tl_17' n='N017'/>sion&quot; to Oslo as ambassador—supposedly a prestigious assign
+				<lb facs='#facs_78_r_1_1_tl_18' n='N018'/>ment but intended to get her out of the way. After years of being
+				<lb facs='#facs_78_r_1_1_tl_19' n='N019'/>suppressed, her spirit of resistance was broken and she stopped
+				<lb facs='#facs_78_r_1_1_tl_20' n='N020'/>publicly criticizing the party and adopted the official line.
+				<lb facs='#facs_78_r_1_1_tl_21' n='N021'/>With the myth of the State out of the way, the real
+				<lb facs='#facs_78_r_1_1_tl_22' n='N022'/>mutuality and reciprocity of society and individual be
+				<lb facs='#facs_78_r_1_1_tl_23' n='N023'/>came clear. Sacrifice might be demanded of the individ
+				<lb facs='#facs_78_r_1_1_tl_24' n='N024'/>ual, but never compromise: for though only the society
+				<lb facs='#facs_78_r_1_1_tl_25' n='N025'/>could give security and stability, only the individual,
+				<lb facs='#facs_78_r_1_1_tl_26' n='N026'/>the person, had the power of moral choice—the power
+				<lb facs='#facs_78_r_1_1_tl_27' n='N027'/>of change, the essential function of life.—Ursula LeGuin,
+				<lb facs='#facs_78_r_1_1_tl_28' n='N028'/>The Dispossessed
+				<lb facs='#facs_78_r_1_1_tl_29' n='N029'/>The most extensive example of anarchism in practice oc
+				<lb facs='#facs_78_r_1_1_tl_30' n='N030'/>curred during the Spanish Civil War—a revolution that came
+				<lb facs='#facs_78_r_1_1_tl_31' n='N031'/>closer to creating a stateless society on a large scale than any
+				<lb facs='#facs_78_r_1_1_tl_32' n='N032'/>other. Aside from being a resistance to the fascist military take
+				<lb facs='#facs_78_r_1_1_tl_33' n='N033'/>over, it was a social revolution by millions of workers and
+				<lb facs='#facs_78_r_1_1_tl_34' n='N034'/>peasants trying to rebuild society in a libertarian way througl
+				<lb facs='#facs_78_r_1_1_tl_35' n='N035'/>collectives, self-management and changes in personal and social
+				<lb facs='#facs_78_r_1_1_tl_36' n='N036'/>relationships, particularly in the status of women.
+				<lb facs='#facs_78_r_1_1_tl_37' n='N037'/>Before the war, in the first years of the Second Republic (a
+				<lb facs='#facs_78_r_1_1_tl_38' n='N038'/>coalition of bourgeois republicans and socialists formed after the
+				<lb facs='#facs_78_r_1_1_tl_39' n='N039'/>collapse of the monarchy), some legislation had been passed to
+				<lb facs='#facs_78_r_1_1_tl_40' n='N040'/>improve conditions for women: paid maternity leaves, time to
+				<lb facs='#facs_78_r_1_1_tl_41' n='N041'/>nurse children during the work day, suffrage and the legalization
+				<lb facs='#facs_78_r_1_1_tl_42' n='N042'/>of civil marriage and divorce. Anarchist women, however, did
+				<lb facs='#facs_78_r_1_1_tl_43' n='N043'/>not organize to implement these legal changes or form separate
+				<lb facs='#facs_78_r_1_1_tl_44' n='N044'/>women’s organizations because they, like the men, wanted total
+				<lb facs='#facs_78_r_1_1_tl_45' n='N045'/>social revolution rather than reform. Yet even with more liberal
+				<lb facs='#facs_78_r_1_1_tl_46' n='N046'/>attitudes, sexism and patriarchy were not abolished. Women
+				<lb facs='#facs_78_r_1_1_tl_47' n='N047'/>with jobs were still resented and received lower wages. Because a
+				<lb facs='#facs_78_r_1_1_tl_48' n='N048'/>token number of well-educated women achieved good govern
+				<lb facs='#facs_78_r_1_1_tl_49' n='N049'/>ment positions, middle-class feminism subsided. The greatest
+				<lb facs='#facs_78_r_1_1_tl_50' n='N050'/>militancy was among working-class women, who had the worst,
+				<lb facs='#facs_78_r_1_1_tl_51' n='N051'/>lowest-paying jobs.
+				<lb facs='#facs_78_r_1_1_tl_52' n='N052'/>The outbreak of the Civil War in 1936 brought vast changes,
+				<lb facs='#facs_78_r_1_1_tl_53' n='N053'/>as a wartime economy inevitably does, because with the labor
+				<lb facs='#facs_78_r_1_1_tl_54' n='N054'/>shortage, the need for women in factories and collectives in
+				<lb facs='#facs_78_r_1_1_tl_55' n='N055'/>creased, and because anarchist men and women agreed to fight
+				<lb facs='#facs_78_r_1_1_tl_56' n='N056'/>for total social revolution. Feminism became an active political
+				<lb facs='#facs_78_r_1_1_tl_57' n='N057'/>issue, and women felt the need to form separate organizations to
+				<lb facs='#facs_78_r_1_1_tl_58' n='N058'/>work for their liberation. This was implemented by two major
+				<lb facs='#facs_78_r_1_1_tl_59' n='N059'/>factors: formation of the women’s group, Mujeres Libres (Free
+				<lb facs='#facs_78_r_1_1_tl_60' n='N060'/>Women), and the activities of Federica Montseny, the only
+				<lb facs='#facs_78_r_1_1_tl_61' n='N061'/>woman in Spain to hold a ministerial post.
+				<lb facs='#facs_78_r_1_1_tl_62' n='N062'/>Mujeres Libres, formed in Madrid, published a journal by
+				<lb facs='#facs_78_r_1_1_tl_63' n='N063'/>the same name; it consisted primarily of anarchist working- and
+				<lb facs='#facs_78_r_1_1_tl_64' n='N064'/>middle-class women, both illiterate and well educated. They were
+				<lb facs='#facs_78_r_1_1_tl_65' n='N065'/>joined by Barcelona’s Centro de Cultura Feminina (Feminine Cul
+			</p>
+			<p>
+				<lb facs='#facs_78_r_2_1_tl_1' n='N001'/>ture Group), also predominantly anarcho-syndicalist working
+				<lb facs='#facs_78_r_2_1_tl_2' n='N002'/>and middle-class women.“° By 1938, Mujeres Libres and its affili
+				<lb facs='#facs_78_r_2_1_tl_3' n='N003'/>ates had become a mass organization centered around demands
+				<lb facs='#facs_78_r_2_1_tl_4' n='N004'/>for freedom from oppression by capitalism and sexism; for devel
+				<lb facs='#facs_78_r_2_1_tl_5' n='N005'/>oping skills for meaningful rather than menial work; for equal
+				<lb facs='#facs_78_r_2_1_tl_6' n='N006'/>wages; for access to social services. Many of these demands — for
+				<lb facs='#facs_78_r_2_1_tl_7' n='N007'/>birth control, abortion, changes in the attitude toward prostitu
+				<lb facs='#facs_78_r_2_1_tl_8' n='N008'/>tion —were influenced by Emma Goldman’s essays, which
+				<lb facs='#facs_78_r_2_1_tl_9' n='N009'/>appeared in Mujeres Libres. The organization developed into
+				<lb facs='#facs_78_r_2_1_tl_10' n='N010'/>a decentralized federation of local, regional and national commit-
+				<lb facs='#facs_78_r_2_1_tl_11' n='N011'/>tees allied with various anarchist groups. While there were also
+				<lb facs='#facs_78_r_2_1_tl_12' n='N012'/>rightist, leftist, and Catholic women’s groups, they mostly con
+				<lb facs='#facs_78_r_2_1_tl_13' n='N013'/>centrated on wartime services. Mujeres Libres also set up units for
+				<lb facs='#facs_78_r_2_1_tl_14' n='N014'/>transport, sanitation, manufacturing, public services, communal
+				<lb facs='#facs_78_r_2_1_tl_15' n='N015'/>kitchens and the organized collection of food, but mainly they
+				<lb facs='#facs_78_r_2_1_tl_16' n='N016'/>strove for the feminist-anarchist transformation of economic,
+				<lb facs='#facs_78_r_2_1_tl_17' n='N017'/>social and personal institutions. They set up day-care centers in
+				<lb facs='#facs_78_r_2_1_tl_18' n='N018'/>factories and collectives and special technical schools so that new
+				<lb facs='#facs_78_r_2_1_tl_19' n='N019'/>skills would give women the power and means for their own
+				<lb facs='#facs_78_r_2_1_tl_20' n='N020'/>social liberation.
+				<lb facs='#facs_78_r_2_1_tl_21' n='N021'/>Federica Montseny, under whose influence many of these
+				<lb facs='#facs_78_r_2_1_tl_22' n='N022'/>aims became legal, was born in 1905 to anarchist parents, the
+				<lb facs='#facs_78_r_2_1_tl_23' n='N023'/>publishers of the journal La Revista Blanca.12. While close to the
+				<lb facs='#facs_78_r_2_1_tl_24' n='N024'/>socialist tradition of Goldman, Kropotkin, Bakunin, and Proud
+				<lb facs='#facs_78_r_2_1_tl_25' n='N025'/>hon, she was also influenced by the individualist anarchism of
+				<lb facs='#facs_78_r_2_1_tl_26' n='N026'/>Stirner, Neitzsche and Ibsen, which stressed personal autonomy.
+				<lb facs='#facs_78_r_2_1_tl_27' n='N027'/>While she approved the &quot;egoism&quot; of this position, Montseny re
+				<lb facs='#facs_78_r_2_1_tl_28' n='N028'/>jected its often aristocratic tendency, arguing that the dialectical
+				<lb facs='#facs_78_r_2_1_tl_29' n='N029'/>relationship between individual uniqueness and the anarchist&apos;s
+				<lb facs='#facs_78_r_2_1_tl_30' n='N030'/>social commitment and responsibility prevented solipsism. Per
+				<lb facs='#facs_78_r_2_1_tl_31' n='N031'/>haps for a woman in patriarchal Spain, a more individualistic
+				<lb facs='#facs_78_r_2_1_tl_32' n='N032'/>stance was necessary. In any case, it was the female anarchists
+				<lb facs='#facs_78_r_2_1_tl_33' n='N033'/>Montseny and Goldman, who stressed the importance of the indi
+				<lb facs='#facs_78_r_2_1_tl_34' n='N034'/>vidualization of the masses and saw the prevailing concept of the
+				<lb facs='#facs_78_r_2_1_tl_35' n='N035'/>masses as the annihilation of individuality and originality. Mont
+				<lb facs='#facs_78_r_2_1_tl_36' n='N036'/>seny’s idea of revolution was that it had to be social, not political,
+				<lb facs='#facs_78_r_2_1_tl_37' n='N037'/>internalized in each person and transforming all institutions; this
+				<lb facs='#facs_78_r_2_1_tl_38' n='N038'/>would not be utopian because people have an unlimited potential
+				<lb facs='#facs_78_r_2_1_tl_39' n='N039'/>for creating alternative social organizations.
+				<lb facs='#facs_78_r_2_1_tl_40' n='N040'/>During the Second Republic, Montseny wrote essays criticiz
+				<lb facs='#facs_78_r_2_1_tl_41' n='N041'/>ing the government and propagandizing for anarchism; she
+				<lb facs='#facs_78_r_2_1_tl_42' n='N042'/>organized anarchist labor groups and helped Mujeres Libres set
+				<lb facs='#facs_78_r_2_1_tl_43' n='N043'/>up day-care centers and technical schools for women. By 1936,
+				<lb facs='#facs_78_r_2_1_tl_44' n='N044'/>when the anarchists joined the Popular Front government, she
+				<lb facs='#facs_78_r_2_1_tl_45' n='N045'/>had become a popular leader, as well as the leading anarchist
+				<lb facs='#facs_78_r_2_1_tl_46' n='N046'/>theoretician, and was appointed Minister of Health and Social
+				<lb facs='#facs_78_r_2_1_tl_47' n='N047'/>Services. Although she was criticized for accepting the “reform
+				<lb facs='#facs_78_r_2_1_tl_48' n='N048'/>ist&quot; position, and betraying anarchist principles, her decision was
+				<lb facs='#facs_78_r_2_1_tl_49' n='N049'/>affected by her sense of responsibility to society, and especially to
+				<lb facs='#facs_78_r_2_1_tl_50' n='N050'/>women. While she worked for change in many areas — educa
+				<lb facs='#facs_78_r_2_1_tl_51' n='N051'/>tion, prison reform, abolishing the death penalty —she was pri
+				<lb facs='#facs_78_r_2_1_tl_52' n='N052'/>marily committed to changing the status of women. Within the
+				<lb facs='#facs_78_r_2_1_tl_53' n='N053'/>deeply embedded Spanish patriarchal tradition, she realized that
+				<lb facs='#facs_78_r_2_1_tl_54' n='N054'/>anarchist revolution alone could help women only economically;
+				<lb facs='#facs_78_r_2_1_tl_55' n='N055'/>social attitudes would have to change if women were to be secure
+				<lb facs='#facs_78_r_2_1_tl_56' n='N056'/>and independent. While in office, she drafted a law legalizing
+				<lb facs='#facs_78_r_2_1_tl_57' n='N057'/>abortion and argued for birth control and the legal reform of
+				<lb facs='#facs_78_r_2_1_tl_58' n='N058'/>prostitution, which she considered a result of rigid sexual rela
+				<lb facs='#facs_78_r_2_1_tl_59' n='N059'/>tions and women’s lack of significant work. Yet, like Goldman
+				<lb facs='#facs_78_r_2_1_tl_60' n='N060'/>and Kollantai, Montseny was not a &quot;feminist,” and criticized the
+				<lb facs='#facs_78_r_2_1_tl_61' n='N061'/>aims of feminism as narrow and reformist: “To propagate femi
+				<lb facs='#facs_78_r_2_1_tl_62' n='N062'/>nism is to foment masculinism; is to create an immoral and
+				<lb facs='#facs_78_r_2_1_tl_63' n='N063'/>absurd struggle between the two sexes which no Natural law
+				<lb facs='#facs_78_r_2_1_tl_64' n='N064'/>would tolerate ... Feminism? Neverl Humanism? Always!&quot;
+				<lb facs='#facs_78_r_2_1_tl_65' n='N065'/>Because political upheavals forced the anarchists out of govern
+				<lb facs='#facs_78_r_2_1_tl_66' n='N066'/>ment, Montseny held her ministerial post for only a year. After
+			</p>
+			<pb n='79'/>
+			<p>
+				<lb facs='#facs_79_r_1_1_tl_1' n='N001'/>the Civil War, the strong anti-feminism that emerged in the right
+				<lb facs='#facs_79_r_1_1_tl_2' n='N002'/>wing government wiped out most of the women’s gains.
+				<lb facs='#facs_79_r_1_1_tl_3' n='N003'/>I think men mostly have to learn to be anarchists.
+				<lb facs='#facs_79_r_1_1_tl_4' n='N004'/>Women don’t have to learn.—Ursula LeGuin, The Dis
+				<lb facs='#facs_79_r_1_1_tl_5' n='N005'/>possessed
+				<lb facs='#facs_79_r_1_1_tl_6' n='N006'/>Why are women attracted to the most basic anarchist pre
+				<lb facs='#facs_79_r_1_1_tl_7' n='N007'/>mises? Why do women tend to believe that the highest develop-
+				<lb facs='#facs_79_r_1_1_tl_8' n='N008'/>ment of the individual, that which leads to the least oppression,
+				<lb facs='#facs_79_r_1_1_tl_9' n='N009'/>takes place within collective forms; that change has to come from
+				<lb facs='#facs_79_r_1_1_tl_10' n='N010'/>below; that any &quot;human&quot; society must be based on direct con
+				<lb facs='#facs_79_r_1_1_tl_11' n='N011'/>tact, the destruction of hierarchy and ethical behavior? Women
+				<lb facs='#facs_79_r_1_1_tl_12' n='N012'/>have always distrusted leadership and, in fact, there have been no
+				<lb facs='#facs_79_r_1_1_tl_13' n='N013'/>powerful and charismatic female leaders who influenced anar
+				<lb facs='#facs_79_r_1_1_tl_14' n='N014'/>chism or feminism in the way that, say, Marx and Lenin influ
+				<lb facs='#facs_79_r_1_1_tl_15' n='N015'/>enced communism. Anarchist and feminist emphasis is on the
+				<lb facs='#facs_79_r_1_1_tl_16' n='N016'/>quality of life, on the basic structures of community, family and
+				<lb facs='#facs_79_r_1_1_tl_17' n='N017'/>education. Many anarchist attitudes are seen as culturally female
+				<lb facs='#facs_79_r_1_1_tl_18' n='N018'/>— the emphasis on intuition, instinct, feeling and spontaneity, the
+				<lb facs='#facs_79_r_1_1_tl_19' n='N019'/>distrust of logic as authoritarian and dominating. While anarch
+				<lb facs='#facs_79_r_1_1_tl_20' n='N020'/>ism has directed its argument against government, women have
+				<lb facs='#facs_79_r_1_1_tl_21' n='N021'/>fought against patriarchy as such, private as well as public. It
+				<lb facs='#facs_79_r_1_1_tl_22' n='N022'/>may be that this rebellion against all patriarchal institutions is
+				<lb facs='#facs_79_r_1_1_tl_23' n='N023'/>what has led women into anarchist positions. Paralleling a retro
+				<lb facs='#facs_79_r_1_1_tl_24' n='N024'/>grade anarchism that sees freedom only in liberation from indus
+				<lb facs='#facs_79_r_1_1_tl_25' n='N025'/>try (non-syndicalist anarchism) is that retrograde feminism that
+				<lb facs='#facs_79_r_1_1_tl_26' n='N026'/>sees freedom only in liberation from men (separatism). As the
+				<lb facs='#facs_79_r_1_1_tl_27' n='N027'/>Spanish experience of feminism shows, permanent liberation
+				<lb facs='#facs_79_r_1_1_tl_28' n='N028'/>depends upon a total social structure. Sexism must be fought as
+				<lb facs='#facs_79_r_1_1_tl_29' n='N029'/>an integral part of the class contradiction, for it cannot be ex
+				<lb facs='#facs_79_r_1_1_tl_30' n='N030'/>plained without it, but it must always be recalled that feminism is
+				<lb facs='#facs_79_r_1_1_tl_31' n='N031'/>only part of the primary focus on class contradiction. The history
+				<lb facs='#facs_79_r_1_1_tl_32' n='N032'/>of the socialist struggle in Russia and China, of feminist
+				<lb facs='#facs_79_r_1_1_tl_33' n='N033'/>anarchism, and even of the Weather Underground, shows how
+				<lb facs='#facs_79_r_1_1_tl_34' n='N034'/>easily feminist demands, expectations and rights get lost in or
+				<lb facs='#facs_79_r_1_1_tl_35' n='N035'/>exaggerated by male habits of dominance.
+				<lb facs='#facs_79_r_1_1_tl_36' n='N036'/>Anarchist tendencies in feminism could come from two
+				<lb facs='#facs_79_r_1_1_tl_37' n='N037'/>sources. The first is the concept that women are &quot;naturally” more
+				<lb facs='#facs_79_r_1_1_tl_38' n='N038'/>anarchistic because woman’s “nature&quot; is closer to the earth, to the
+				<lb facs='#facs_79_r_1_1_tl_39' n='N039'/>anarchist idea of the &quot;natural state.&quot; The second possibility is his
+				<lb facs='#facs_79_r_1_1_tl_40' n='N040'/>torical and cultural. Women have been excluded from full par
+				<lb facs='#facs_79_r_1_1_tl_41' n='N041'/>ticipation in government and industry, and have been confined to
+				<lb facs='#facs_79_r_1_1_tl_42' n='N042'/>the smaller, more immediate contexts of family and community
+				<lb facs='#facs_79_r_1_1_tl_43' n='N043'/>where harmony and cooperation are desirable and important.
+				<lb facs='#facs_79_r_1_1_tl_44' n='N044'/>Because talk, gossip and expressing emotion were for so long the
+				<lb facs='#facs_79_r_1_1_tl_45' n='N045'/>only expressions permitted women, direct contact in small groups
+				<lb facs='#facs_79_r_1_1_tl_46' n='N046'/>seemed appropriate and necessary for the beginning of social
+				<lb facs='#facs_79_r_1_1_tl_47' n='N047'/>transformation. But there have always been at least two women&apos;s
+				<lb facs='#facs_79_r_1_1_tl_48' n='N048'/>movements. The middle-class movement, historically originating
+				<lb facs='#facs_79_r_1_1_tl_49' n='N049'/>from the free time and the good education that permit women to
+				<lb facs='#facs_79_r_1_1_tl_50' n='N050'/>rebel against the emptiness of their leisure and the absurdity of
+				<lb facs='#facs_79_r_1_1_tl_51' n='N051'/>female roles, has been able to concentrate on issues of personal
+				<lb facs='#facs_79_r_1_1_tl_52' n='N052'/>ity, personal freedom, structures of language and art, social inter
+				<lb facs='#facs_79_r_1_1_tl_53' n='N053'/>action and individual response to conditions of oppression. More
+				<lb facs='#facs_79_r_1_1_tl_54' n='N054'/>recently, middle-class women have been able to work in small
+				<lb facs='#facs_79_r_1_1_tl_55' n='N055'/>groups in an attempt to build up mutual confidence. The work
+				<lb facs='#facs_79_r_1_1_tl_56' n='N056'/>ing-class women’s movement, on the other hand, has sometimes
+				<lb facs='#facs_79_r_1_1_tl_57' n='N057'/>been invisible because it has been aligned with socialist struggles
+				<lb facs='#facs_79_r_1_1_tl_58' n='N058'/>and unionism. For these women, oppressed by class as well as by
+				<lb facs='#facs_79_r_1_1_tl_59' n='N059'/>sexism, feminism is not usually the primary strategy; they seek
+				<lb facs='#facs_79_r_1_1_tl_60' n='N060'/>more immediate changes, tied to conditions in the working place,
+				<lb facs='#facs_79_r_1_1_tl_61' n='N061'/>and often ignore their extension in the home. While their de
+				<lb facs='#facs_79_r_1_1_tl_62' n='N062'/>mands are often feminist —for equal pay, pay during maternity
+				<lb facs='#facs_79_r_1_1_tl_63' n='N063'/>leave, day-care centers —these are sought within sexually inte
+				<lb facs='#facs_79_r_1_1_tl_64' n='N064'/>grated contexts. The task now seems to bring these two feminist
+				<lb facs='#facs_79_r_1_1_tl_65' n='N065'/>movements together.
+			</p>
+			<p>
+				<lb facs='#facs_79_r_2_1_tl_1' n='N001'/>Anarchism presents an unresolvable contradiction. How can
+				<lb facs='#facs_79_r_2_1_tl_2' n='N002'/>it be achieved in a world where everything is leading toward
+				<lb facs='#facs_79_r_2_1_tl_3' n='N003'/>greater centralization? As soon as anarchists begin to build prac
+				<lb facs='#facs_79_r_2_1_tl_4' n='N004'/>tical systems, they are forced to approach a more centralized
+				<lb facs='#facs_79_r_2_1_tl_5' n='N005'/>communism through the necessity for concentration of capital.
+				<lb facs='#facs_79_r_2_1_tl_6' n='N006'/>But in spite of this contradiction, anarchism is important, par
+				<lb facs='#facs_79_r_2_1_tl_7' n='N007'/>ticularly to women. Perhaps it can’t be put into effect unless allied
+				<lb facs='#facs_79_r_2_1_tl_8' n='N008'/>with another system (socialism, communism); perhaps it has to
+				<lb facs='#facs_79_r_2_1_tl_9' n='N009'/>serve as a constant criticism of authoritarianism, bureaucracy,
+				<lb facs='#facs_79_r_2_1_tl_10' n='N010'/>paternalism, protesting the erosion or obfuscation of liberty. Its
+				<lb facs='#facs_79_r_2_1_tl_11' n='N011'/>role may be to serve as a moral reminder that social change is,
+				<lb facs='#facs_79_r_2_1_tl_12' n='N012'/>and always should be, for people.
+				<lb facs='#facs_79_r_2_1_tl_13' n='N013'/>There is a lesson in all of this: if in the entire history of
+				<lb facs='#facs_79_r_2_1_tl_14' n='N014'/>women’s struggles, we have been opposed to authoritarianism
+				<lb facs='#facs_79_r_2_1_tl_15' n='N015'/>and hierarchy, it is masochistic and self-destructive to align femi
+				<lb facs='#facs_79_r_2_1_tl_16' n='N016'/>nism with party lines advocating what Goldman called &quot;fanatical
+				<lb facs='#facs_79_r_2_1_tl_17' n='N017'/>governmentalism.&quot; Marxism, for example, can also provide an
+				<lb facs='#facs_79_r_2_1_tl_18' n='N018'/>economic analysis of the contradictions of capitalism, but there
+				<lb facs='#facs_79_r_2_1_tl_19' n='N019'/>has to be, in addition, a movement toward direct democracy,
+				<lb facs='#facs_79_r_2_1_tl_20' n='N020'/>self-management and freely associated workers —a feminist
+				<lb facs='#facs_79_r_2_1_tl_21' n='N021'/>anarchist-socialism?
+				<lb facs='#facs_79_r_2_1_tl_22' n='N022'/>Extracts are from: Monique Wittig, Les Guërillères, trans. Peter Owen
+				<lb facs='#facs_79_r_2_1_tl_23' n='N023'/>(New York: Viking Press, 1971); Ursula LeGuin, The Dispossessed (New
+				<lb facs='#facs_79_r_2_1_tl_24' n='N024'/>York: Harper and Row, 1974).
+				<lb facs='#facs_79_r_2_1_tl_25' n='N025'/>1. Sheila Rowbotham, Women, Resistance and Revolution (New York:
+				<lb facs='#facs_79_r_2_1_tl_26' n='N026'/>Vintage Books, 1974), p. 124.
+				<lb facs='#facs_79_r_2_1_tl_27' n='N027'/>2. All quotations in this paragraph are from the Redstockings Manifesto,
+				<lb facs='#facs_79_r_2_1_tl_28' n='N028'/>July, 1969.
+				<lb facs='#facs_79_r_2_1_tl_29' n='N029'/>3. Charnie Guettel, Marxism &amp; Feminism (Ontario, Canada: Women’s
+				<lb facs='#facs_79_r_2_1_tl_30' n='N030'/>Educational Press, 1974), p. 3
+				<lb facs='#facs_79_r_2_1_tl_31' n='N031'/>4. Mikhail Bakunin, quoted in Eugene Pyziur, The Doctrine of Anar
+				<lb facs='#facs_79_r_2_1_tl_32' n='N032'/>chism of Michael A. Bakunin (Baltimore: Gateway Editions, 1955), p.
+				<lb facs='#facs_79_r_2_1_tl_33' n='N033'/>5. Sheila Rowbotham, “The Vote,” Hidden from History (New York:
+				<lb facs='#facs_79_r_2_1_tl_34' n='N034'/>Vintage Books, 1976), pp. 77-89.
+				<lb facs='#facs_79_r_2_1_tl_35' n='N035'/>6. Emma Goldman, Anarchism and Other Essays (New York: Dover,
+				<lb facs='#facs_79_r_2_1_tl_36' n='N036'/>1969), p. 63.
+				<lb facs='#facs_79_r_2_1_tl_37' n='N037'/>7. Ibid., p. 36.
+				<lb facs='#facs_79_r_2_1_tl_38' n='N038'/>8. See “The Revolution Betrayed,” Patterns of Anarchy (Garden City,
+				<lb facs='#facs_79_r_2_1_tl_39' n='N039'/>N.Y.: Anchor Books, 1966), pp. 98-115.
+				<lb facs='#facs_79_r_2_1_tl_40' n='N040'/>9. Ibid., p. 110.
+				<lb facs='#facs_79_r_2_1_tl_41' n='N041'/>10. Ibid., p. 113.
+				<lb facs='#facs_79_r_2_1_tl_42' n='N042'/>11. The quotations in this and the following paragraph are from Rosa
+				<lb facs='#facs_79_r_2_1_tl_43' n='N043'/>Luxemburg: Selected Political Writings, ed. Robert Looker (New York:
+				<lb facs='#facs_79_r_2_1_tl_44' n='N044'/>Grove Press, 1974), pp. 96, 99, 101, 102, 104.
+				<lb facs='#facs_79_r_2_1_tl_45' n='N045'/>12. Peter Nettl, Rosa Luxemburg (New York: Oxford University Press,
+				<lb facs='#facs_79_r_2_1_tl_46' n='N046'/>1966), p. 415n.
+				<lb facs='#facs_79_r_2_1_tl_47' n='N047'/>13. There is very little available in English on Zetkin. Thus, a valuable
+				<lb facs='#facs_79_r_2_1_tl_48' n='N048'/>essay is “Clara Zetkin: A Socialist Approach to the Problem of
+				<lb facs='#facs_79_r_2_1_tl_49' n='N049'/>Women’s Oppression” by Karen Honeycutt, Feminist Studies (Spring
+				<lb facs='#facs_79_r_2_1_tl_50' n='N050'/>Summer, 1976), pp. 131-144
+				<lb facs='#facs_79_r_2_1_tl_51' n='N051'/>14. The quotations of Balabanoff are from My Life as a Rebel (Blooming
+				<lb facs='#facs_79_r_2_1_tl_52' n='N052'/>ton, Ind.: Indiana University Press, 1973).
+				<lb facs='#facs_79_r_2_1_tl_53' n='N053'/>15. The quotations of Kollantai are from Autobiography of a Sexually
+				<lb facs='#facs_79_r_2_1_tl_54' n='N054'/>Emancipated Communist Woman (New York: Schocken Books, 1971).
+				<lb facs='#facs_79_r_2_1_tl_55' n='N055'/>16. Ibid., p. 40. Parentheses indicate the passages Kollantai deleted from
+				<lb facs='#facs_79_r_2_1_tl_56' n='N056'/>the published book, demonstrating her reluctance to reveal the con
+				<lb facs='#facs_79_r_2_1_tl_57' n='N057'/>flicts between herself and the Party.
+				<lb facs='#facs_79_r_2_1_tl_58' n='N058'/>17. Little material on this period is translated into English. An important
+				<lb facs='#facs_79_r_2_1_tl_59' n='N059'/>article, then, is by Lourdes Beneria: “Women’s Participation in Paid
+				<lb facs='#facs_79_r_2_1_tl_60' n='N060'/>Production under Capitalism: The Spanish Experience, Women and
+				<lb facs='#facs_79_r_2_1_tl_61' n='N061'/>the Economy (Spring, 1976), pp. 18-33.
+				<lb facs='#facs_79_r_2_1_tl_62' n='N062'/>18. An important source on Mujeres Libres is Temma Kaplan, “Spanish
+				<lb facs='#facs_79_r_2_1_tl_63' n='N063'/>Anarchism and Women’s Liberation,” Journal of Contemporary His
+				<lb facs='#facs_79_r_2_1_tl_64' n='N064'/>tory (Vol. VI, No. 2, 1971), pp. 100-110.
+				<lb facs='#facs_79_r_2_1_tl_65' n='N065'/>19. I have drawn a lot from the only source on Montseny I was able to find:
+				<lb facs='#facs_79_r_2_1_tl_66' n='N066'/>an unpublished dissertation by Shirley F. Fredricks, “Social and Politi
+				<lb facs='#facs_79_r_2_1_tl_67' n='N067'/>cal Thought of Federica Montseny, Spanish Anarchist 1923-1937’
+				<lb facs='#facs_79_r_2_1_tl_68' n='N068'/>(University of New Mexico, March 1972). I am thankful to Lawrence
+				<lb facs='#facs_79_r_2_1_tl_69' n='N069'/>Pitkethly for lending me the microfilm.
+				<lb facs='#facs_79_r_2_1_tl_70' n='N070'/>20. Fredricks, p. 131, from Montseny, “Feminismo y Humaniso, p. 14.
+			</p>
+			<p>
+				<lb facs='#facs_79_r_3_1_tl_1' n='N001'/>Lizzie Borden, a filmmaker and writer, lives in New York.
+			</p>
+         </div>
+      </body>
+   </text>
+</TEI>

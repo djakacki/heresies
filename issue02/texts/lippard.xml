@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>3 Short Fictions</title>
+            <author>Lucy Lippard</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="essay">
+            <pb n="22"/>
+            <head>3 short fictions</head>
+            <byline>lucy r. lippard</byline>
+            <div>
+               <head>1. the cries you hear</head>
+               <p> The rocks trembled every day for over two months and in parts of Tibet a sick
+                  person or a woman who had given birth to a child was carefully prevented from
+                  sleeping. Sometimes the flower is so constructed that the insect cannot get at the
+                  nectar without brushing against a stigma which, perhaps because males tend to fall
+                  asleep more rapidly than females after intercourse, returns to stone needles. In
+                  the process of collapse the star’s outer layers compress. Lying naked in the
+                  pouring rain, our wetness the world’s wetness, our hard bodies the makings of
+                  rock. We took no photographs. The vacant plains were a featureless screen on which
+                  we projected our memories of rivers forests oceans and mountains, of elsewhere —
+                  quick! Before it....</p>
+               <p> Meanwhile, the females of the indispensable earthquake rest quietly in the
+                  half-closed blossoms, sharing the power of sleep, oblivious to our pain. I was
+                  long in doubt concerning the origins of these conditions of stress, horror and
+                  exhaustion. That two different organisms should have simultaneously adapted
+                  themselves to each other. During the third severe shock the trees were so
+                  violently shaken that the birds flew out with frightened cries. Bubblelike
+                  cavities formed by expanding gas. Solid pieces blown violently out of the womb.
+                  Glass surfaces, brittle and gleaming, formed by rapid solidification. Touch me
+                  here. Wrinkles, pores in the earth’s skin, basalt lavas swelling from beneath,
+                  channeled in fissures, dust and ash. The cries you hear are only the continuing
+                  shock of life. </p>
+               <p> "It is a fatal delusion which presents the earth as the lower half of the
+                  universe and the heavens as its upper half. The heavens and earth are not two
+                  separate creations, as we have heard repeated thousands and thousands of times.
+                  They are only one. The earth is in the heavens. The heavens are infinite space,
+                  indefinite expanse, a void without limits; no frontier circumscribes them, they
+                  have neither beginning nor end, neither top nor bottom, right nor left; there is
+                  an infinity of spaces which succeed each other in every direction.</p>
+               <p> A mountain chain is an effective barrier. The slow movement of underground waters
+                  carrying silica into sandstone. Limestone metamorphosed is marble. Bedding planes
+                  obscured and mineral impurities drawn out into swirling streaks and bands,
+                  swirling streaks and bedding planes obscured. He is tall and arrogant, questioning
+                  and vulnerable. Cold tar will shatter if struck but will flow downhill if left
+                  undisturbed for a long time. Shattered and flowing, flowing and shattered if
+                  struck. Hard things that were soft. Soft things that were hard. Hot things that
+                  were cold. Cold things that were hot. Wet things that were dry. Dry things that
+                  were wet. Old things that were young. Young things that won’t be old. It stops
+                  somewhere? Prove it.</p>
+               <p> Under the mist a solid prose of rocks, rocks and water, hard rocks and flowing
+                  water, safe rocks and treacherous water. Rough rocks, motion frozen to the touch,
+                  thorny black volcanic piles, a vein, an aggregate, a channel worn away, a pit
+                  blown or swirled out, grains, knife edges vertical. And smooth rocks, covered with
+                  pale and slippery algae, soothed to a fine old gentleness. Patterns of water,
+                  ancient muds, slow curves.</p>
+               <p> In some alpine mountains high above the timberline, sheets of frost-shattered
+                  rock fragments creep slowly down the valleys making curious tonguelike forms. My
+                  mouth. My tongue makes love to my mouth, searching its cavities for the softest,
+                  wettest places to fondle, sliding past and over the hard sharp teeth so that it
+                  hurts a little, overlapping, lapping its own roughness, slipping across the
+                  toothmounds under the gums and falling into the dark throat. Craving in. Prose,
+                  not poetry. Its tentacles reach in more directions at once, from a solider base,
+                  at a natural pace. It circles and radiates, has a core and a skin and a network of
+                  capillaries instead of only arteries. Memories wear away the present to an older
+                  landscape. My leg, thicker at the top than at the bottom, stronger at the bottom
+                  than at the top, stranger at the top than at the bottom, more useful at the bottom
+                  than at the top. At the top, plump flesh held firmly between thumb and forefinger,
+                  a few long fine hairs on the broadest whitest part. Smooth and soft and secret
+                  lining where other hairs intrude from other sources - darker, coarser. A crease
+                  separating the leg from the rest of the body, a crease that changes character as
+                  the leg is used for <pb n="23"/> different things, a soft crease when I am
+                  sitting, a mysterious crease when I am lying with one leg curled to my stomach, no
+                  crease at all when I am walking, but creased again when running, sometimes. A taut
+                  surface when held back, a valley between bulges when not. A leg slimming gradually
+                  to a knotted center where the bones assert themselves. A hard hairy hilltop, then
+                  a wrinkled old topography flattened into valleys. A leg that swells again, harder
+                  this time, smooth again, with a neatly turning strength of its own, a leg that is
+                  straight in front and soft-hard in back, flat then rounded, a leg that finally
+                  gives way to ankle and foot, the working parts detached from pleasure places
+                  above. The bony not so pretty skeletons of motion, fleshed only around the ankle
+                  bones, arched over the instep and finally twice in touch with the earth.</p>
+               <p> Each major time unit is brought to a close by orogeny, also called revolution.
+                  Disturbance, disruption, disintegration, under pressure. Even the strongest rocks
+                  may develop fractures. Deep decay and rotting of igneous and metamorphic rocks,
+                  from blocks to egg and sphere shapes. Water entering into union with minerals.
+                  Metamorphic rocks have undergone kneading and shaping, baking and shaking, shale
+                  turning to slate when split by cleavage, by slippage, during the process. Slate
+                  when struck sharply rings metallically. Clay comes in all colors. Playing the
+                  geomorphic role of a weak rock, staring at each other but not speaking until
+                  finally. A poetic geology to take back to the red hills, white clay to merge as
+                  pink. Isolated submarine mountains, the ocean floor pulled apart here, causing a
+                  rift, a certain cruelty. Alone is better I say. Then stop the invasion. If you see
+                  two scorpions together they are either making love or one of them is being eaten.
+                  Aries energy stepped back into the earth. My rock, your mesas. Ice needles pry
+                  apart joint blocks, tremendous pressures and bare high cliffs fall off into
+                  conical forms, especially in dry climates. Niches, shallow caves, rock arches,
+                  pits, cliff dwellings. Come now. Yes/No. In deserts, flash floods and earthflows,
+                  mudflows result from the inability of the dry land to permeate the perma frost.
+                  Shrinking and swelling. Given sufficient time, barriers can be broken down and new
+                  topographies arise. An unbridgeable gulf does not exist between organic and
+                  inorganic matter.</p>
+               <p> Drift, and erratic boulders are ascribed to mineral richness, to the action of
+                  great waves, but women’s tides told in the caves refute such theories. Play pale
+                  beyond. In a climate warmer than that we warned each other, islands separated from
+                  ice cover by a wide expanse of ocean, foregoing clubs for quieter power, fleshed
+                  fat and knowing. Warm interglacial leaves, closer to the fires, hands in a ring,
+                  shadows on the ceilings, circles drawn at dusk, footsteps from below. The
+                  occasional peculiar transportation of boulders in a manner not in harmony with
+                  what we see ice doing at the present time. But little girls are crafty. Our
+                  laughter pits the ocean floor. Echoing with pebble talk, scratched on anemones.
+                  Walls curving inward toward us. No windows. Pictures nonetheless. Melted between
+                  sisters in collision. Only global catastrophes could have brought about that
+                  smoothness. Only torrential rains, wet hair, wet cheeks. Each other. Barren stone
+                  and fragmented debris stops here, swept back while lakes and valleys are dug out
+                  by other women. Each a specialist in her field. What generates the enormous forces
+                  that bend, break and crush the rocks in mountain zones? What indeed. Women’s
+                  cataclysmic work, traced by fingers in the meteoric dust. Giving birth to each
+                  other. Excessive.</p>
+            </div>
+            <div>
+               <head>2. into among</head>
+               <p>Stepping down and out. Someone else can move into this house. It looks o.k. from
+                  the outside but the inside needs some work. I only regret how long it took to get
+                  down those stairs to the basement. Overhead the pretty flowered curtains make
+                  wavered patterns on the sunny floor. A tomato is rotting fuzzily in the icebox
+                  drawer and other closets capture other odors, other faults. Under the bed dust
+                  gathers roses smell acrid. The sheets at the hamper’s bottom were stained last
+                  winter, not since. l’ve opened the windows but not the doors. It’s all yours, if
+                  you want it.</p>
+               <p> Nesting fantasies. I am high in the tallest tree in the world and it sways in the
+                  wind. Exhilarating, precarious. I cling to my egg which is disguised as the sea.
+                  When the fish hatches I swim through the air until I find a cave, brown, humid,
+                  and grainy, where after a night with the boulder another egg is laid, this one
+                  transparent. l’m happy watching the beginnings of a new dream. It sometimes has
+                  petals, sometimes blades. One morning the walls are opaque and that’s that. Dead
+                  leaves turn to stone and I would leave but for the field of snakes that writhes
+                  beyond the entrance.</p>
+               <p> Shuttered. Unhinged. Falling off the roof. A nice white clapboard house with a
+                  soft green lawn, lace curtains at the windows, roses on a trellis over the door,
+                  the old fanlight sparkling when the light hits it. We need a very long time to
+                  move up the flagstone walk. In the process a war takes place, peace reigns, men
+                  land on the moon and women defend it, black blankets of oil are thrown across
+                  birds’ coffins and the sea stinks. Still the little house remains, the sun always
+                  dappling its freshly painted walls, the sound of piano scales twinkling delicately
+                  behind the curtain of warmth. When we reach the door we are exhausted, gray,
+                  crippled, and in pain. The doorknob, though brilliantly brass, is cold to our
+                  touch and the door sticks. It takes our last strength to open it and throw
+                  ourselves across the threshold onto what should be a rosy hearth but is instead a
+                  deep dark well, the bottom of which, at this telling, we have not reached.</p>
+            </div>
+            <div>
+               <pb n="24"/>
+               <head>3. headwaters</head>
+               <p>
+                  <quote>For reasons of their own, women are suspicious of diving and frown on their
+                     menfolk going down. D—, who has starred in several underwater films, has never
+                     received a fan letter from a woman. </quote>-<ref>Jacques Cousteau</ref> We are
+                  already down there. We have already gone down, our breasts bumping the boulders
+                  struggling to rise. Our menfolk don’t know where to send the fan letters. Can
+                  dive, but not delve. Perhaps far down are boundaries between layers of water not
+                  obvious at the surface of the sea and quite independent of surface phenomena. Not
+                  just still waters. Rapture of the depths. At a town called Headtide there is an
+                  old white church unconsciously marking with its spire the spot where the Sheepscot
+                  River, short and wide, a tidal estuary, comes to an end in a stony brook and then
+                  goes underground. The term tidal wave is loosely applied. Some rivers braid long
+                  plaits of sand with thinning streams, and others — always full, muddy and sated —
+                  lag in fat banks. Tides are most marked when the sun is nearest the earth. Tides
+                  thigh tickling, oozing over the edges and hummocks, a band of foam, making liquid
+                  land. Creeps up me toward immersion. Hold your waters. Making waves, seeing red. I
+                  flow she flows we flow. Lunar and solar tides coincide, are fully cumulative only
+                  twice each lunar month. While fans unfold, snap shut, and leave the flowers no
+                  escape. Underwater, irregularities rise and, cursing, fall. Two or more wave
+                  patterns at the same place and time. There can, however, be independent waves. And
+                  long rivers pass through different landforms like changing lovers. Impatiently
+                  cutting gorges, willing waterfalls and rapids to flatness. Unfamiliar bodies
+                  hurled at each other. Beneath the rumbling, boulders lurk and lurch, needing a
+                  pool.</p>
+               <p>My traveling dreams are washed in foreign waters. In one I swim along a beach. The
+                  water is warm and the same pale blue as the sky — bleached but not burning. Behind
+                  me swims a large black dog and before me floats a group of exotic birds, brilliant
+                  pink feathers wet but still light, raised above the water in a tangle of wings.
+                  The end of the beach is distant; all sand, no rocks or trees in sight. My swimming
+                  is leisurely but purposeful. In another dream I wake alone and rush to find my
+                  lover. He is in the bathtub and I yell desperately at him: Did I sleep alone last
+                  night? Did I sleep alone last night? Another night, my child, my lover and I are
+                  going to see a lighthouse through a swamp. The waterway is not very wide. Trees
+                  hang dense over the edges but in the center where we swim it’s blue, unshaded. A
+                  long trip to make boatless, but we are swimming, accompanied at times by a fat
+                  friend. l’m not struck by the fact that we are swimming so much as by the length
+                  of the trip, not tired so much as a little bored. Once again the water is tepid,
+                  body temperature, lulling. The lighthouse when we get there is on a broader bay,
+                  still inland, mountains in the distance. There is some talk of leaving and
+                  returning in the afternoon. But there isn’t time.</p>
+               <p>The waters broke with no warning. Lie still, pretend while it crests. Above our
+                  caves the divers’ forms pass dimly, unaware. Destructive advances of the sea upon
+                  the coasts have two distinct origins: dreams like sunwarmed flats when the tide
+                  comes in very slowly, visibly; earthquakes and storms. Neither related to the
+                  tide, and often not actually waves. Floating, I am a fleshy layer between sea and
+                  sky. Why go down? Letters melt and corals build. Why go down and not feel the moon
+                  in the pit of your stomach? Or hear ripples whisper on the floor? The ocean’s
+                  bedrock blurred. Unexpected, the cold and purifying northern channels. With no
+                  warning, water on the brain, the belly, breast and buttock. Internal waves stained
+                  pink affecting everything below above. Doesn’t hold water, that’s all. Divers ring
+                  their bells but fail to reach us, cannot pierce the bubbles that contain them. And
+                  we are already down there, friendly, calm, constructing small places in which to
+                  wait, making room for others, settling in, exchanging disguises, rearranging caves
+                  and mountains, waiting until they stop pouring oil on the waters, till they stop
+                  throwing rocks, sinking ships, turning our tides.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <p>Lucy Lippard is a feminist art critic who also writes "fiction"; it has been published
+            in Center, Big Deal, Tractor, The World and elsewhere. </p>
+      </back>
+   </text>
+</TEI>

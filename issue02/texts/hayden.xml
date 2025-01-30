@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='110'/>
+			<p>
+				<lb facs='#facs_110_r_1_1_tl_1' n='N001'/>SKYSCRAPER SEDUCTION
+				<lb facs='#facs_110_r_1_1_tl_2' n='N002'/>SKYSCRAPER RAPE
+				<lb facs='#facs_110_r_1_1_tl_3' n='N003'/>Dolores Hayden
+				<lb facs='#facs_110_r_1_1_tl_4' n='N004'/>Once you learn to look upon architecture not merely as
+				<lb facs='#facs_110_r_1_1_tl_5' n='N005'/>an art, more or less well, more or less badly, done, but
+				<lb facs='#facs_110_r_1_1_tl_6' n='N006'/>as a social manifestation, the critical eye becomes clair
+				<lb facs='#facs_110_r_1_1_tl_7' n='N007'/>voyant, and obscure and unnoted phenomena become
+				<lb facs='#facs_110_r_1_1_tl_8' n='N008'/>illuminated.—Louis Sullivan, Kindergarten Chats, 1901
+			</p>
+			<p>
+				<lb facs='#facs_110_r_2_1_tl_1' n='N001'/>The skyline of Manhattan tells the dynamic story of the
+				<lb facs='#facs_110_r_2_1_tl_2' n='N002'/>growth of American capitalism in the past century; we see a few
+				<lb facs='#facs_110_r_2_1_tl_3' n='N003'/>lively Gothic and Art Deco towers marked with the names of in
+				<lb facs='#facs_110_r_2_1_tl_4' n='N004'/>dividual tycoons, then many bland International-style office
+				<lb facs='#facs_110_r_2_1_tl_5' n='N005'/>towers built by industrial corporations, real estate developers,
+				<lb facs='#facs_110_r_2_1_tl_6' n='N006'/>and the government; and finally, a limited number of super
+				<lb facs='#facs_110_r_2_1_tl_7' n='N007'/>towers, remote and anonymous, like the multi-national corpora
+				<lb facs='#facs_110_r_2_1_tl_8' n='N008'/>tions or multi-jurisdictional bureaucracies which inhabit them. A
+				<lb facs='#facs_110_r_2_1_tl_9' n='N009'/>complex national symbol, the American skyscraper has been
+				<lb facs='#facs_110_r_2_1_tl_10' n='N010'/>associated with military force and corporate expansion during
+				<lb facs='#facs_110_r_2_1_tl_11' n='N011'/>various phases of American economic and urban growth. In
+				<lb facs='#facs_110_r_2_1_tl_12' n='N012'/>popular culture, skyscrapers have also symbolized personal
+				<lb facs='#facs_110_r_2_1_tl_13' n='N013'/>social mobility and personal sexuality for those who commission,
+				<lb facs='#facs_110_r_2_1_tl_14' n='N014'/>design, or use these buildings. In the history of world architecture,
+				<lb facs='#facs_110_r_2_1_tl_15' n='N015'/>the skyscraper ranks as America’s most distinctive technical in
+				<lb facs='#facs_110_r_2_1_tl_16' n='N016'/>novation; in the history of human settlements, the skyscraper
+				<lb facs='#facs_110_r_2_1_tl_17' n='N017'/>dominated city is America’s legacy to the world. For a century
+				<lb facs='#facs_110_r_2_1_tl_18' n='N018'/>most American architectural historians have busily rationalized
+				<lb facs='#facs_110_r_2_1_tl_19' n='N019'/>the aesthetic, functional, and social distress the skyscraper creates,
+				<lb facs='#facs_110_r_2_1_tl_20' n='N020'/>nurturing the prevalent belief that the skyscraper is a glorious
+				<lb facs='#facs_110_r_2_1_tl_21' n='N021'/>triumph of engineering, a natural part of urban life, and an
+				<lb facs='#facs_110_r_2_1_tl_22' n='N022'/>inevitable result of urban concentration.
+				<lb facs='#facs_110_r_2_1_tl_23' n='N023'/>While the skyscraper is a cultural artifact reflecting the eco
+				<lb facs='#facs_110_r_2_1_tl_24' n='N024'/>nomic developments of the past century, it is also a building type
+				<lb facs='#facs_110_r_2_1_tl_25' n='N025'/>designed to affect both economic activity and social relations. As
+				<lb facs='#facs_110_r_2_1_tl_26' n='N026'/>a result, a fuller history of the skyscraper reveals a century of
+				<lb facs='#facs_110_r_2_1_tl_27' n='N027'/>struggles and protests against the tendency to build ever higher.
+				<lb facs='#facs_110_r_2_1_tl_28' n='N028'/>The builders’ fantasies alternate with grim reality. Each new
+				<lb facs='#facs_110_r_2_1_tl_29' n='N029'/>argument in favor of the skyscraper may incorporate some re
+				<lb facs='#facs_110_r_2_1_tl_30' n='N030'/>sponse to previous urban protests against it. Yet there is no
+				<lb facs='#facs_110_r_2_1_tl_31' n='N031'/>escape from the contradictions of the capitalist city; as an instru
+				<lb facs='#facs_110_r_2_1_tl_32' n='N032'/>ment for enhancing land values and corporate eminence, the sky
+				<lb facs='#facs_110_r_2_1_tl_33' n='N033'/>scraper consumes human lives, lays waste to human settlements,
+				<lb facs='#facs_110_r_2_1_tl_34' n='N034'/>and ultimately overpowers the urban economic activities which
+				<lb facs='#facs_110_r_2_1_tl_35' n='N035'/>provided its original justification.
+				<lb facs='#facs_110_r_2_1_tl_36' n='N036'/>Perhaps the metaphor of rape suggested by the strongly
+				<lb facs='#facs_110_r_2_1_tl_37' n='N037'/>phallic form of the skyscraper can illuminate the process by
+				<lb facs='#facs_110_r_2_1_tl_38' n='N038'/>which American urban residents and workers have, at times, re
+				<lb facs='#facs_110_r_2_1_tl_39' n='N039'/>signed themselves to this oppressive architectural form. In our
+				<lb facs='#facs_110_r_2_1_tl_40' n='N040'/>literature, as in our judicial system, rape has often been presented
+				<lb facs='#facs_110_r_2_1_tl_41' n='N041'/>as seduction. The aggressor &quot;couldn’t help himself,&quot; we are told, or
+				<lb facs='#facs_110_r_2_1_tl_42' n='N042'/>the victim “really wanted it.&quot; The skyscraper is justified by build
+				<lb facs='#facs_110_r_2_1_tl_43' n='N043'/>ers with the same rhetoric: developers “can’t help themselves,&quot; or
+				<lb facs='#facs_110_r_2_1_tl_44' n='N044'/>the city &quot;really wants it,&quot; despite the economic and social anguish
+				<lb facs='#facs_110_r_2_1_tl_45' n='N045'/>it brings. A brief review of skyscraper history illuminates a pain
+				<lb facs='#facs_110_r_2_1_tl_46' n='N046'/>ful dialectical process with alternating themes of reality and fan
+				<lb facs='#facs_110_r_2_1_tl_47' n='N047'/>tasy, rape and seduction.
+			</p>
+			<p>
+				<lb facs='#facs_110_r_3_1_tl_1' n='N001'/>First Fantasy: &quot;Manifest Destiny
+				<lb facs='#facs_110_r_3_1_tl_2' n='N002'/>The earliest tall structures in the United States, monumental
+				<lb facs='#facs_110_r_3_1_tl_3' n='N003'/>military obelisks and columns like the Bunker Hill Battle Monu
+				<lb facs='#facs_110_r_3_1_tl_4' n='N004'/>ment (completed in 1843), provided symbolic as well as techno
+				<lb facs='#facs_110_r_3_1_tl_5' n='N005'/>logical precedents for skyscraper construction. These monuments
+				<lb facs='#facs_110_r_3_1_tl_6' n='N006'/>usually included observatories which became popular spots for
+				<lb facs='#facs_110_r_3_1_tl_7' n='N007'/>surveying the surrounding urban and rural landscape. Such grand
+				<lb facs='#facs_110_r_3_1_tl_8' n='N008'/>vistas were associated with the cry for westward expansion or
+				<lb facs='#facs_110_r_3_1_tl_9' n='N009'/>&quot;manifest destiny” accepted by many patriotic Americans as a
+				<lb facs='#facs_110_r_3_1_tl_10' n='N010'/>political goal during the mid-nineteenth century. John Zukowsky
+				<lb facs='#facs_110_r_3_1_tl_11' n='N011'/>has described the experience of the ascending observers, ...af
+				<lb facs='#facs_110_r_3_1_tl_12' n='N012'/>forded seemingly endless panoramic views, and visual participa
+				<lb facs='#facs_110_r_3_1_tl_13' n='N013'/>tion in those expansionist concepts without facing the dangers,
+				<lb facs='#facs_110_r_3_1_tl_14' n='N014'/>hardships, and expense of physical relocation west.&quot; He adds that
+				<lb facs='#facs_110_r_3_1_tl_15' n='N015'/>’the military connotations inherent in those monuments remind
+				<lb facs='#facs_110_r_3_1_tl_16' n='N016'/>ed all that this westward expansion would be protected, and
+				<lb facs='#facs_110_r_3_1_tl_17' n='N017'/>policies of Manifest Destiny upheld through force if necessary.&quot;
+				<lb facs='#facs_110_r_3_1_tl_18' n='N018'/>The symbolic imagery of military monuments was first
+				<lb facs='#facs_110_r_3_1_tl_19' n='N019'/>transformed into a vision of the American city by Erastus Salis
+				<lb facs='#facs_110_r_3_1_tl_20' n='N020'/>bury Field, an itinerant painter from westem Massachusetts. His
+				<lb facs='#facs_110_r_3_1_tl_21' n='N021'/>Historical Monument of the American Republic combined in one
+				<lb facs='#facs_110_r_3_1_tl_22' n='N022'/>large canvas ten columns which implied “visual participation in
+				<lb facs='#facs_110_r_3_1_tl_23' n='N023'/>expansionist concepts, as well as militarism appropriate to the
+				<lb facs='#facs_110_r_3_1_tl_24' n='N024'/>1876 centennial celebration of American independence. He com
+				<lb facs='#facs_110_r_3_1_tl_25' n='N025'/>posed these columns, usually seen as isolated monuments, into a
+				<lb facs='#facs_110_r_3_1_tl_26' n='N026'/>spectacular urban design with an elevated railway linking the
+				<lb facs='#facs_110_r_3_1_tl_27' n='N027'/>observatories at their tops. During the following decade, the
+				<lb facs='#facs_110_r_3_1_tl_28' n='N028'/>American city began to evolve dramatically in the direction Field
+				<lb facs='#facs_110_r_3_1_tl_29' n='N029'/>had whimsically imagined.
+				<lb facs='#facs_110_r_3_1_tl_30' n='N030'/>In the 1850s, 1860s and early 1870s, the elevator and the cast
+				<lb facs='#facs_110_r_3_1_tl_31' n='N031'/>iron frame boosted the size of commercial buildings, which still
+				<lb facs='#facs_110_r_3_1_tl_32' n='N032'/>tried to conceal their height under gawky mansard roof lines; in
+				<lb facs='#facs_110_r_3_1_tl_33' n='N033'/>the 1880s and 1890s, such traditional roof lines were abandoned
+				<lb facs='#facs_110_r_3_1_tl_34' n='N034'/>in favor of competition for height, and steel-framed towers began
+				<lb facs='#facs_110_r_3_1_tl_35' n='N035'/>to fill the business districts of New York and Chicago. Some of
+				<lb facs='#facs_110_r_3_1_tl_36' n='N036'/>these tall buildings included observatories similar to those atop the
+				<lb facs='#facs_110_r_3_1_tl_37' n='N037'/>traditional monuments, so visitors to skyscrapers could also have
+				<lb facs='#facs_110_r_3_1_tl_38' n='N038'/>panoramic views. Private offices, conference rooms, and clubs
+				<lb facs='#facs_110_r_3_1_tl_39' n='N039'/>were also located at the tops of the towers, from which executives
+				<lb facs='#facs_110_r_3_1_tl_40' n='N040'/>could overlook the cities their enterprises dominated. Just as the
+				<lb facs='#facs_110_r_3_1_tl_41' n='N041'/>centennial obelisks and columns had been decorated with statues
+				<lb facs='#facs_110_r_3_1_tl_42' n='N042'/>of heroes, so the new skyscrapers often bore the names of tycoons,
+				<lb facs='#facs_110_r_3_1_tl_43' n='N043'/>and, sometimes, their statues looming against the sky, proclaiming
+				<lb facs='#facs_110_r_3_1_tl_44' n='N044'/>not the patriotic warriors’ slogan, &quot;manifest destiny,” but the
+				<lb facs='#facs_110_r_3_1_tl_45' n='N045'/>corporate imperative, &quot;survival of the fittest.&quot;
+			</p>
+			<pb n='111'/>
+			<p>
+				<lb facs='#facs_111_r_6_1_tl_1' n='N001'/>Reality: Workers&apos; Funerals
+				<lb facs='#facs_111_r_6_1_tl_2' n='N002'/>The social Darwinist motto, &quot;survival of the fittest,&quot; was an
+				<lb facs='#facs_111_r_6_1_tl_3' n='N003'/>accurate description of the skyscraper construction process. At
+				<lb facs='#facs_111_r_6_1_tl_4' n='N004'/>the turn of the century, competition for height and eagerness to
+				<lb facs='#facs_111_r_6_1_tl_5' n='N005'/>realize a return on investments led builders to encourage architects
+				<lb facs='#facs_111_r_6_1_tl_6' n='N006'/>and engineers to strain the limits of existing technology with each
+				<lb facs='#facs_111_r_6_1_tl_7' n='N007'/>new tower. &quot;Survival of the fittest&quot; in the builders&apos; world of
+				<lb facs='#facs_111_r_6_1_tl_8' n='N008'/>financial speculation thus became the excuse for casual attitudes
+				<lb facs='#facs_111_r_6_1_tl_9' n='N009'/>toward safety conditions for construction workers. One British
+				<lb facs='#facs_111_r_6_1_tl_10' n='N010'/>reporter lugubriously observed public reactions to the deaths of
+				<lb facs='#facs_111_r_6_1_tl_11' n='N011'/>workers on the Woolworth Building, constructed between 1911
+				<lb facs='#facs_111_r_6_1_tl_12' n='N012'/>and 1913: &quot;Anybody in America will tell you without tremor
+				<lb facs='#facs_111_r_6_1_tl_13' n='N013'/>(but with pride) that each story of a skyscraper means a life sacri
+				<lb facs='#facs_111_r_6_1_tl_14' n='N014'/>ficed. Twenty stories—twenty men snuffed out; thirty stories
+				<lb facs='#facs_111_r_6_1_tl_15' n='N015'/>thirty men. A building of some sixty stories is now going up
+				<lb facs='#facs_111_r_6_1_tl_16' n='N016'/>sixty corpses, sixty funerals, sixty domestic hearths to be slowly
+				<lb facs='#facs_111_r_6_1_tl_17' n='N017'/>rearranged.&quot; By 1930, Fortune magazine claimed that this esti
+				<lb facs='#facs_111_r_6_1_tl_18' n='N018'/>mate was no longer correct, commenting, &quot;In general, deaths run
+				<lb facs='#facs_111_r_6_1_tl_19' n='N019'/>from three to eight on sizable buildings,&quot; but conceded that &quot;a
+				<lb facs='#facs_111_r_6_1_tl_20' n='N020'/>bloodless building is still a marvel.&quot;
+				<lb facs='#facs_111_r_6_1_tl_21' n='N021'/>Ironworkers (who erect structural steel) endure the greatest
+				<lb facs='#facs_111_r_6_1_tl_22' n='N022'/>risks. Often builders and journalists use the language of militaris
+				<lb facs='#facs_111_r_6_1_tl_23' n='N023'/>tic, romanticized machismo to describe the “raw danger” of a
+				<lb facs='#facs_111_r_6_1_tl_24' n='N024'/>&quot;daredevil&quot; ironworker’s job, and the Stars and Stripes is always
+				<lb facs='#facs_111_r_6_1_tl_25' n='N025'/>unfurled whenever a building is topped out suggesting a patriotic
+				<lb facs='#facs_111_r_6_1_tl_26' n='N026'/>conquest. Yet ironworkers themselves may feel fearful, since
+				<lb facs='#facs_111_r_6_1_tl_27' n='N027'/>Mike Cherry reports in his autobiography, On High Steel, that
+				<lb facs='#facs_111_r_6_1_tl_28' n='N028'/>one out of fifteen dies within ten years of entering this risky
+				<lb facs='#facs_111_r_6_1_tl_29' n='N029'/>trade.” Cherry recounts his gut reaction to a look at the New
+				<lb facs='#facs_111_r_6_1_tl_30' n='N030'/>York skyline: &quot;the anxiety that l’d thought l’d conquered came
+				<lb facs='#facs_111_r_6_1_tl_31' n='N031'/>running back at me all over again. ..The city had never struck
+				<lb facs='#facs_111_r_6_1_tl_32' n='N032'/>me as so tall before.. .I drove past several buildings that were
+				<lb facs='#facs_111_r_6_1_tl_33' n='N033'/>nearing completion, twice pulling over to the curb to stare at
+				<lb facs='#facs_111_r_6_1_tl_34' n='N034'/>them, developing a slight case of the shakes.&quot;6
+				<lb facs='#facs_111_r_6_1_tl_35' n='N035'/>Theodore James, author of a recent history of the Empire
+				<lb facs='#facs_111_r_6_1_tl_36' n='N036'/>State Building, constructed between 1929 and 1931, recalls the
+				<lb facs='#facs_111_r_6_1_tl_37' n='N037'/>days when ironworkers were called by the condescending, ro
+				<lb facs='#facs_111_r_6_1_tl_38' n='N038'/>mantic nickname, &quot;sky-boys,&quot; (perhaps relating them to military
+				<lb facs='#facs_111_r_6_1_tl_39' n='N039'/>air heroes called fly-boys), yet he passes lightly over the fourteen
+				<lb facs='#facs_111_r_6_1_tl_40' n='N040'/>fatalities and numerous injuries that occurred during the building
+				<lb facs='#facs_111_r_6_1_tl_41' n='N041'/>process. Cherry has a grimmer view of the trade in New York in
+			</p>
+			<p>
+				<lb facs='#facs_111_r_7_1_tl_1' n='N001'/>those years, claiming that foremen could insist on work in haz
+				<lb facs='#facs_111_r_7_1_tl_2' n='N002'/>ardous wet weather, or cut off a man’s pay at the moment of an
+				<lb facs='#facs_111_r_7_1_tl_3' n='N003'/>accident. He states that during the Depression &quot;gangs of out-of
+				<lb facs='#facs_111_r_7_1_tl_4' n='N004'/>work ironworkers hung about on the streets around job sites, so
+				<lb facs='#facs_111_r_7_1_tl_5' n='N005'/>that when a man fell, they would be instantly available to take his
+				<lb facs='#facs_111_r_7_1_tl_6' n='N006'/>place.&quot;* In the 1930s, the best workers in each building trade,
+				<lb facs='#facs_111_r_7_1_tl_7' n='N007'/>alive and walking at the end of a skyscraper job, were awarded
+				<lb facs='#facs_111_r_7_1_tl_8' n='N008'/>Certificates of Superior Craftsmanship&quot; and gold buttons for
+				<lb facs='#facs_111_r_7_1_tl_9' n='N009'/>their skill by a building contractors’ association, but both union
+				<lb facs='#facs_111_r_7_1_tl_10' n='N010'/>and insurance company safety campaigns got nowhere because of
+				<lb facs='#facs_111_r_7_1_tl_11' n='N011'/>the developers’ pressure to build quickly.
+				<lb facs='#facs_111_r_7_1_tl_12' n='N012'/>Today, construction workers’ unions are stronger. No one
+				<lb facs='#facs_111_r_7_1_tl_13' n='N013'/>has to work in the rain, and a fallen worker (or his widow) at
+				<lb facs='#facs_111_r_7_1_tl_14' n='N014'/>least gets paid for a full day’s work. Still the grim process of
+				<lb facs='#facs_111_r_7_1_tl_15' n='N015'/>building a skyscraper continues to take its toll of lives, as Cherry
+				<lb facs='#facs_111_r_7_1_tl_16' n='N016'/>described a death on a New York job in 1972: &quot;Somehow, Timmy,
+				<lb facs='#facs_111_r_7_1_tl_17' n='N017'/>in hurrying from one side of the bay to the other, managed to put
+				<lb facs='#facs_111_r_7_1_tl_18' n='N018'/>his inside foot down an inch to the right of where he should have,
+				<lb facs='#facs_111_r_7_1_tl_19' n='N019'/>and the plank, which had a slight warp in it, rocked...He fell in
+				<lb facs='#facs_111_r_7_1_tl_20' n='N020'/>silence, and no sound from the impact of his body on the concrete
+				<lb facs='#facs_111_r_7_1_tl_21' n='N021'/>plaza reached up to us.&quot;10 Some of the highly skilled, agile iron
+				<lb facs='#facs_111_r_7_1_tl_22' n='N022'/>workers willing to endure the risks of this trade are American
+				<lb facs='#facs_111_r_7_1_tl_23' n='N023'/>Indians, and in their employment the symbolism of manifest
+				<lb facs='#facs_111_r_7_1_tl_24' n='N024'/>destiny turns in an ironic circle. Descendants of the native Ameri
+				<lb facs='#facs_111_r_7_1_tl_25' n='N025'/>cans who survived the white man’s self-righteous westward ex
+				<lb facs='#facs_111_r_7_1_tl_26' n='N026'/>pansion in the nineteenth century, they build the secular monu
+				<lb facs='#facs_111_r_7_1_tl_27' n='N027'/>ments of a redefined, corporate, manifest destiny.
+				<lb facs='#facs_111_r_7_1_tl_28' n='N028'/>Second Fantasy: &quot;Procreant Power
+				<lb facs='#facs_111_r_7_1_tl_29' n='N029'/>In the late nineteenth and early twentieth centuries, while
+				<lb facs='#facs_111_r_7_1_tl_30' n='N030'/>tycoons battled for top positions on the skyline, and &quot;sky-boys&apos;
+				<lb facs='#facs_111_r_7_1_tl_31' n='N031'/>fell to their deaths, skyscraper architects began to use the imagery
+				<lb facs='#facs_111_r_7_1_tl_32' n='N032'/>of male sexuality to describe these buildings. The earlier monu
+				<lb facs='#facs_111_r_7_1_tl_33' n='N033'/>ments had celebrated military conquests, and now towers did the
+				<lb facs='#facs_111_r_7_1_tl_34' n='N034'/>same for economic conquests. Just as American authors like
+				<lb facs='#facs_111_r_7_1_tl_35' n='N035'/>Theodore Dreiser and Henry James used the imagery of male
+				<lb facs='#facs_111_r_7_1_tl_36' n='N036'/>potency to enhance the moneymaking activities of fictional entre
+				<lb facs='#facs_111_r_7_1_tl_37' n='N037'/>preneurs like Frank Cowperwood or Caspar Goodwood, so many
+				<lb facs='#facs_111_r_7_1_tl_38' n='N038'/>American architects began to express the economic power of their
+				<lb facs='#facs_111_r_7_1_tl_39' n='N039'/>corporate clients through metaphors of sexual power. Thus the
+			</p>
+			<pb n='112'/>
+			<p>
+				<lb facs='#facs_112_r_1_1_tl_1' n='N001'/>imagery of war and patriotic death was overlaid with an imagery
+				<lb facs='#facs_112_r_1_1_tl_2' n='N002'/>of fecundity and generative power. However, as skyscraper ar
+				<lb facs='#facs_112_r_1_1_tl_3' n='N003'/>chitects added the office tower to the procession of phallic monu
+				<lb facs='#facs_112_r_1_1_tl_4' n='N004'/>ments in history—including poles, obelisks, spires, columns, and
+				<lb facs='#facs_112_r_1_1_tl_5' n='N005'/>watchtowers—very few designers asked what the effects would
+				<lb facs='#facs_112_r_1_1_tl_6' n='N006'/>be of insisting that ordinary people regularly inhabit such extra
+				<lb facs='#facs_112_r_1_1_tl_7' n='N007'/>ordinary, tall, erect structures.
+				<lb facs='#facs_112_r_1_1_tl_8' n='N008'/>In 1901 Louis Sullivan praised the design of a commercial
+				<lb facs='#facs_112_r_1_1_tl_9' n='N009'/>building (which was not a skyscraper) by H. H. Richardson:
+				<lb facs='#facs_112_r_1_1_tl_10' n='N010'/>...here is a man for you to look at. ..a real man, a manly man;
+				<lb facs='#facs_112_r_1_1_tl_11' n='N011'/>a virile force...an entire male. ..a monument to trade, to the
+				<lb facs='#facs_112_r_1_1_tl_12' n='N012'/>organized commercial spirit, to the power and progress of the
+				<lb facs='#facs_112_r_1_1_tl_13' n='N013'/>age...a male...it sings the song of procreant power....&quot; As
+				<lb facs='#facs_112_r_1_1_tl_14' n='N014'/>Sullivan himself and other architects built commercial skyscrap
+				<lb facs='#facs_112_r_1_1_tl_15' n='N015'/>ers, this language of male identification was extended. One de
+				<lb facs='#facs_112_r_1_1_tl_16' n='N016'/>signer saw skyscrapers as &quot;symbols of the American spirit—that
+				<lb facs='#facs_112_r_1_1_tl_17' n='N017'/>ruthless, tireless, energeticism delightedly proclaiming What a
+				<lb facs='#facs_112_r_1_1_tl_18' n='N018'/>great boy am Il&quot;&quot; 12 In 1936 Le Corbusier identified himself with
+				<lb facs='#facs_112_r_1_1_tl_19' n='N019'/>America’s vital economic forces, using phrases which recalled
+				<lb facs='#facs_112_r_1_1_tl_20' n='N020'/>Sullivan’s &quot;song of procreant power.&quot; He observed &quot;an erect
+				<lb facs='#facs_112_r_1_1_tl_21' n='N021'/>Manhattan, the drives of Chicago, and so many clear signs of
+				<lb facs='#facs_112_r_1_1_tl_22' n='N022'/>youthful power.&quot; Viewing the skyline of New York, he wrote,
+				<lb facs='#facs_112_r_1_1_tl_23' n='N023'/>&quot;Feeling comes into play; the action of the heart is released;
+				<lb facs='#facs_112_r_1_1_tl_24' n='N024'/>crescendo, allegro, fortissimo. We are charged with feeling, we
+				<lb facs='#facs_112_r_1_1_tl_25' n='N025'/>are intoxicated, legs strengthened, chest expanded, eager for ac
+				<lb facs='#facs_112_r_1_1_tl_26' n='N026'/>tion, we are filled with a great confidence. The architectural
+			</p>
+			<p>
+				<lb facs='#facs_112_r_4_1_tl_1' n='N001'/>historian Vincent Scully carried this celebration of skyscrapers,
+				<lb facs='#facs_112_r_4_1_tl_2' n='N002'/>money and sex into the 1960s when he praised Rockefeller Center
+				<lb facs='#facs_112_r_4_1_tl_3' n='N003'/>as ...one of the few surviving public spaces in America that
+				<lb facs='#facs_112_r_4_1_tl_4' n='N004'/>look as if they were designed and used by people who knew what
+				<lb facs='#facs_112_r_4_1_tl_5' n='N005'/>stable wealth was and were not ashamed to enjoy it. Flags snap,
+				<lb facs='#facs_112_r_4_1_tl_6' n='N006'/>high heels tap: a little sex and aggression, the city&apos;s delights.&quot;1
+				<lb facs='#facs_112_r_4_1_tl_7' n='N007'/>The erotic charge of the skyscraper was more explicitly
+				<lb facs='#facs_112_r_4_1_tl_8' n='N008'/>related to phallic erection and penetration in formal discussions
+				<lb facs='#facs_112_r_4_1_tl_9' n='N009'/>of towers as including base, shaft, and tip, and in graphic visions
+				<lb facs='#facs_112_r_4_1_tl_10' n='N010'/>of the skyscraper. A rendering of Louis Sullivan and Dankmar
+				<lb facs='#facs_112_r_4_1_tl_11' n='N011'/>Adler’s Fraternity Temple scheme of 1891 shows a phallic tower on
+				<lb facs='#facs_112_r_4_1_tl_12' n='N012'/>a broad base with a pointed tip piercing the sky. Many archi
+				<lb facs='#facs_112_r_4_1_tl_13' n='N013'/>tectural renderers of the 1920s, such as Hugh Ferriss, often utilized
+				<lb facs='#facs_112_r_4_1_tl_14' n='N014'/>perspective to convey a sense of upward thrust, enhanced by
+				<lb facs='#facs_112_r_4_1_tl_15' n='N015'/>strong lighting from below. Lighting could suggest ejaculation as
+				<lb facs='#facs_112_r_4_1_tl_16' n='N016'/>well as erection, as in a view of the Chrysler Building ejaculating
+				<lb facs='#facs_112_r_4_1_tl_17' n='N017'/>light into the night. (Its articulated tip anticipates today’s sky
+				<lb facs='#facs_112_r_4_1_tl_18' n='N018'/>scrapers with brightly lit revolving restaurants, where diners can
+				<lb facs='#facs_112_r_4_1_tl_19' n='N019'/>rotate tirelessly in the night skies above American cities.)
+				<lb facs='#facs_112_r_4_1_tl_20' n='N020'/>Architects’ words and graphics encouraged their clients to
+				<lb facs='#facs_112_r_4_1_tl_21' n='N021'/>phallic, urban displays, but occasionally architects might do
+				<lb facs='#facs_112_r_4_1_tl_22' n='N022'/>more. A 1931 photograph shows seven men positioned in an ir
+				<lb facs='#facs_112_r_4_1_tl_23' n='N023'/>regular line, wearing cloth costumes banded with vertical or
+				<lb facs='#facs_112_r_4_1_tl_24' n='N024'/>horizontal stripes. Tall cones or ziggurats cover their heads. Six
+				<lb facs='#facs_112_r_4_1_tl_25' n='N025'/>levels of sharp-edged points culminate in an eighteen-inch rod
+				<lb facs='#facs_112_r_4_1_tl_26' n='N026'/>atop the leader’s mask, making his total stature nine feet. Are
+			</p>
+			<pb n='113'/>
+			<p>
+				<lb facs='#facs_113_r_1_1_tl_1' n='N001'/>these tribesmen about to execute some primitive ritual celebrating
+				<lb facs='#facs_113_r_1_1_tl_2' n='N002'/>male fertility? Below the photograph the caption reads: “Famous
+				<lb facs='#facs_113_r_1_1_tl_3' n='N003'/>architects forming a miniature skyline of New York as they don
+				<lb facs='#facs_113_r_1_1_tl_4' n='N004'/>their Beaux Arts costumes.&quot; The symbolic predilections of sky-
+				<lb facs='#facs_113_r_1_1_tl_5' n='N005'/>scraper architects have rarely been shown so clearly: urban pro
+				<lb facs='#facs_113_r_1_1_tl_6' n='N006'/>fessional men require a social occasion to turn themselves into a
+				<lb facs='#facs_113_r_1_1_tl_7' n='N007'/>Dionysian landscape, a miniature version of the revenue-gene
+				<lb facs='#facs_113_r_1_1_tl_8' n='N008'/>rating skyline they promote in their daily work.
+				<lb facs='#facs_113_r_1_1_tl_9' n='N009'/>Reality: Urban Bankruptcy
+				<lb facs='#facs_113_r_1_1_tl_10' n='N010'/>Whatever the myths about their phallic power, towers have
+				<lb facs='#facs_113_r_1_1_tl_11' n='N011'/>proved economically powerful, but in a negative as well as a
+				<lb facs='#facs_113_r_1_1_tl_12' n='N012'/>positive way. The glorification of the &quot;procreant power” of the
+				<lb facs='#facs_113_r_1_1_tl_13' n='N013'/>skyscraper serves to obscure the drain on municipal finances
+				<lb facs='#facs_113_r_1_1_tl_14' n='N014'/>which towers create. Many urban historians have described the
+				<lb facs='#facs_113_r_1_1_tl_15' n='N015'/>American urban downtown as a three-dimensional graph of land
+				<lb facs='#facs_113_r_1_1_tl_16' n='N016'/>speculation, and locating clusters of towers is a quick way to
+				<lb facs='#facs_113_r_1_1_tl_17' n='N017'/>guess at land values. Yet although tall buildings reflect the desire
+				<lb facs='#facs_113_r_1_1_tl_18' n='N018'/>for maximizing private investment in a city based upon private
+				<lb facs='#facs_113_r_1_1_tl_19' n='N019'/>land ownership, skyscrapers are not always profitable for their
+				<lb facs='#facs_113_r_1_1_tl_20' n='N020'/>developers. For whom is skyscraper revenue generated? And how
+				<lb facs='#facs_113_r_1_1_tl_21' n='N021'/>is it calculated?
+				<lb facs='#facs_113_r_1_1_tl_22' n='N022'/>A need for immediate usable space is never enough reason
+				<lb facs='#facs_113_r_1_1_tl_23' n='N023'/>for building a skyscraper. The construction cost of several low-
+				<lb facs='#facs_113_r_1_1_tl_24' n='N024'/>rise buildings is almost always less than the cost of equivalent
+				<lb facs='#facs_113_r_1_1_tl_25' n='N025'/>space in a skyscraper since expensive foundations and unusable
+				<lb facs='#facs_113_r_1_1_tl_26' n='N026'/>space for elevators and mechanical equipment increase as the
+				<lb facs='#facs_113_r_1_1_tl_27' n='N027'/>tower goes higher. Land cost, rather than building cost, is the
+				<lb facs='#facs_113_r_1_1_tl_28' n='N028'/>justification: a very expensive piece of downtown land may be
+				<lb facs='#facs_113_r_1_1_tl_29' n='N029'/>said to “require” a skyscraper to explain its price.19 But the height
+				<lb facs='#facs_113_r_1_1_tl_30' n='N030'/>of such a skyscraper will not be calculated on the city’s needs, nor
+				<lb facs='#facs_113_r_1_1_tl_31' n='N031'/>even on the current value of the land and the existing density of
+				<lb facs='#facs_113_r_1_1_tl_32' n='N032'/>the area. Rather, a developer calculates the rising land values cre
+				<lb facs='#facs_113_r_1_1_tl_33' n='N033'/>ated by present and future skyscrapers, and makes a guess about
+				<lb facs='#facs_113_r_1_1_tl_34' n='N034'/>how much more land speculation the neighborhood will bear.
+				<lb facs='#facs_113_r_1_1_tl_35' n='N035'/>Developers who try to profit from the inflation of urban land
+				<lb facs='#facs_113_r_1_1_tl_36' n='N036'/>values in this way almost always leverage their capital with large
+				<lb facs='#facs_113_r_1_1_tl_37' n='N037'/>bank loans. Banks of course receive large amounts of interest.
+				<lb facs='#facs_113_r_1_1_tl_38' n='N038'/>Developers therefore attempt to minimize their indebtedness by
+				<lb facs='#facs_113_r_1_1_tl_39' n='N039'/>hastening the construction process (with the hazardous conse
+				<lb facs='#facs_113_r_1_1_tl_40' n='N040'/>quences for workers previously described) and by taking advan
+				<lb facs='#facs_113_r_1_1_tl_41' n='N041'/>tage of the federal tax structure and selling tax &quot;shelters” (derived
+				<lb facs='#facs_113_r_1_1_tl_42' n='N042'/>from real estate tax loopholes) to profit-making industrial cor
+				<lb facs='#facs_113_r_1_1_tl_43' n='N043'/>porations.
+				<lb facs='#facs_113_r_1_1_tl_44' n='N044'/>While banks and large tax-sheltered, industrial corporations
+				<lb facs='#facs_113_r_1_1_tl_45' n='N045'/>can always profit from the “procreant power” of the skyscraper,
+				<lb facs='#facs_113_r_1_1_tl_46' n='N046'/>real estate developers hope for rising land values to justify their
+				<lb facs='#facs_113_r_1_1_tl_47' n='N047'/>investments. Meanwhile, taxpayers bear the huge public costs of
+				<lb facs='#facs_113_r_1_1_tl_48' n='N048'/>infrastructure and services for skyscraper developments. As Ste-
+				<lb facs='#facs_113_r_1_1_tl_49' n='N049'/>phen Zoll argues in “Superville,“ “an increasing CBD (central
+				<lb facs='#facs_113_r_1_1_tl_50' n='N050'/>business district) bulk becomes, itself, the principal sink in the
+				<lb facs='#facs_113_r_1_1_tl_51' n='N051'/>municipal treasury.&quot;1° His persuasive historical analysis of high
+				<lb facs='#facs_113_r_1_1_tl_52' n='N052'/>rise economics in New York explains why skyscraper construction
+				<lb facs='#facs_113_r_1_1_tl_53' n='N053'/>is disastrous for the city’s budget: municipal tax revenues never
+				<lb facs='#facs_113_r_1_1_tl_54' n='N054'/>catch up with the spiraling costs of infrastructure which the city
+				<lb facs='#facs_113_r_1_1_tl_55' n='N055'/>must provide. Attempts to control urban density through zoning
+				<lb facs='#facs_113_r_1_1_tl_56' n='N056'/>or to raise taxes are usually met with corporate threats to leave
+				<lb facs='#facs_113_r_1_1_tl_57' n='N057'/>the city altogether, which would cause unemployment. Caught
+				<lb facs='#facs_113_r_1_1_tl_58' n='N058'/>between financial drain and the skyscraper and the threat of un
+				<lb facs='#facs_113_r_1_1_tl_59' n='N059'/>employment, the city loses either way.
+				<lb facs='#facs_113_r_1_1_tl_60' n='N060'/>The tactics of land speculation and of transferring infra
+				<lb facs='#facs_113_r_1_1_tl_61' n='N061'/>structure costs to the city budget explain some of the reasoning
+				<lb facs='#facs_113_r_1_1_tl_62' n='N062'/>behind the craze for skyscraper height, but there is still more to
+				<lb facs='#facs_113_r_1_1_tl_63' n='N063'/>explore. Since the turn of the century many developers, aware of
+			</p>
+			<p>
+				<lb facs='#facs_113_r_2_1_tl_1' n='N001'/>the economically and technologically &quot;optimal” level of specula
+				<lb facs='#facs_113_r_2_1_tl_2' n='N002'/>tion on a given parcel of urban land, have chosen to build ever
+				<lb facs='#facs_113_r_2_1_tl_3' n='N003'/>higher, and urban officials have accepted this. The builders have
+				<lb facs='#facs_113_r_2_1_tl_4' n='N004'/>sacrificed high economic returns in order to enter a citywide,
+				<lb facs='#facs_113_r_2_1_tl_5' n='N005'/>nationwide, or worldwide competition for height and prestige.1
+				<lb facs='#facs_113_r_2_1_tl_6' n='N006'/>In terms of monopoly capitalism, although the tallest building in
+				<lb facs='#facs_113_r_2_1_tl_7' n='N007'/>town may not be quantitatively efficient as office space or hous
+				<lb facs='#facs_113_r_2_1_tl_8' n='N008'/>ing it is qualitatively efficient in promoting dominance over an
+				<lb facs='#facs_113_r_2_1_tl_9' n='N009'/>urban region: towers are landmarks which can be seen from
+				<lb facs='#facs_113_r_2_1_tl_10' n='N010'/>many distant viewpoints. They become symbols of corporate
+				<lb facs='#facs_113_r_2_1_tl_11' n='N011'/>dominance over the city as well as the city’s dominance over the
+				<lb facs='#facs_113_r_2_1_tl_12' n='N012'/>region.
+				<lb facs='#facs_113_r_2_1_tl_13' n='N013'/>The goal in building these extremely tall skyscrapers is psy
+				<lb facs='#facs_113_r_2_1_tl_14' n='N014'/>chological &quot;procreant power” or awe. Awareness of the power
+				<lb facs='#facs_113_r_2_1_tl_15' n='N015'/>this kind of architecture offers is reflected by the skyline of
+				<lb facs='#facs_113_r_2_1_tl_16' n='N016'/>Washington, D.C., where skyscrapers over 90 feet tall are for
+				<lb facs='#facs_113_r_2_1_tl_17' n='N017'/>bidden by law, so that the Capitol reigns as the highest structure.
+				<lb facs='#facs_113_r_2_1_tl_18' n='N018'/>For many years, beginning in 1931, the Empire State Building was
+				<lb facs='#facs_113_r_2_1_tl_19' n='N019'/>the tallest in the world; its pretentious name and an overbearing
+				<lb facs='#facs_113_r_2_1_tl_20' n='N020'/>lobby mural showing the building dominating a map of New
+				<lb facs='#facs_113_r_2_1_tl_21' n='N021'/>York, “the Empire State,&quot; enhanced its awesomeness. The World
+				<lb facs='#facs_113_r_2_1_tl_22' n='N022'/>Trade Center rose higher in 1969. Its even more imperial name
+				<lb facs='#facs_113_r_2_1_tl_23' n='N023'/>reflected an obvious attempt to supercede the Empire State Build
+				<lb facs='#facs_113_r_2_1_tl_24' n='N024'/>ing. Yet in both cases symbolic posturing concealed unrented
+				<lb facs='#facs_113_r_2_1_tl_25' n='N025'/>space, as these hulking developments were planned to exceed all
+				<lb facs='#facs_113_r_2_1_tl_26' n='N026'/>calculations of needed office space in the city. Knowing that the
+				<lb facs='#facs_113_r_2_1_tl_27' n='N027'/>World Trade Center was not fully rented, the owners of the Em
+				<lb facs='#facs_113_r_2_1_tl_28' n='N028'/>pire State threatened to build just enough extra structure to over
+				<lb facs='#facs_113_r_2_1_tl_29' n='N029'/>top them in the 1970s, and triumph again. They didn’t pursue this
+				<lb facs='#facs_113_r_2_1_tl_30' n='N030'/>competition however, and as a result the 1976 version of the film
+				<lb facs='#facs_113_r_2_1_tl_31' n='N031'/>King Kong transferred the symbolic confrontation of the &quot;na
+				<lb facs='#facs_113_r_2_1_tl_32' n='N032'/>tural&quot; ape and the “civilized&quot; capitalists from the Empire State,
+				<lb facs='#facs_113_r_2_1_tl_33' n='N033'/>where it was set in 1933, to the World Trade Center, now the
+				<lb facs='#facs_113_r_2_1_tl_34' n='N034'/>tallest structure in New York.
+				<lb facs='#facs_113_r_2_1_tl_35' n='N035'/>Third Fantasy: &quot;Tm Taking the Town!&quot;
+				<lb facs='#facs_113_r_2_1_tl_36' n='N036'/>While municipal governments struggle with the high costs of
+				<lb facs='#facs_113_r_2_1_tl_37' n='N037'/>the skyscraper, and builders seek both financial and psychological
+				<lb facs='#facs_113_r_2_1_tl_38' n='N038'/>&quot;procreant power,&quot; popular novels and films employ skyscraper
+				<lb facs='#facs_113_r_2_1_tl_39' n='N039'/>imagery to create fantasies about sexual power and upward mo
+				<lb facs='#facs_113_r_2_1_tl_40' n='N040'/>bility for “ordinary” people in capitalist society. In the 1970s,
+				<lb facs='#facs_113_r_2_1_tl_41' n='N041'/>women may be cast as executives or stockbrokers in these fables
+				<lb facs='#facs_113_r_2_1_tl_42' n='N042'/>of success. A fashion advertisement compresses many strains of
+				<lb facs='#facs_113_r_2_1_tl_43' n='N043'/>oppressive imagery—militarism, sexual power, false social mobi
+				<lb facs='#facs_113_r_2_1_tl_44' n='N044'/>lity. Two models wearing suits with military tailoring pose hold
+				<lb facs='#facs_113_r_2_1_tl_45' n='N045'/>ing statuettes of the Empire State Building. “Thinking positive...
+				<lb facs='#facs_113_r_2_1_tl_46' n='N046'/>The way to make things happen in the city where everything&apos;s
+				<lb facs='#facs_113_r_2_1_tl_47' n='N047'/>possible,&quot; reads the copy. &quot;In soft, smokey officer’s pink, l’m in
+				<lb facs='#facs_113_r_2_1_tl_48' n='N048'/>my element, making strides and taking them.... My head’s in the
+				<lb facs='#facs_113_r_2_1_tl_49' n='N049'/>clouds and the view’s terrific. Officer’s pink in sleek new shapes,
+				<lb facs='#facs_113_r_2_1_tl_50' n='N050'/>that are budding with potential. l’m perfectly suited to the pace of
+				<lb facs='#facs_113_r_2_1_tl_51' n='N051'/>The City....&quot; The dialogue concludes, &quot;Tm taking the town....
+				<lb facs='#facs_113_r_2_1_tl_52' n='N052'/>In the movies of the 1920s and 1930s, it was more common
+				<lb facs='#facs_113_r_2_1_tl_53' n='N053'/>to see women encountering skyscrapers as stage-struck young
+				<lb facs='#facs_113_r_2_1_tl_54' n='N054'/>things coming to the big city to seek stardom. Sustaining indi
+				<lb facs='#facs_113_r_2_1_tl_55' n='N055'/>vidual competitiveness in times of collective difficulty, the most
+				<lb facs='#facs_113_r_2_1_tl_56' n='N056'/>successful films of the Depression years, as Martin Pawley has
+				<lb facs='#facs_113_r_2_1_tl_57' n='N057'/>observed, “dealt with the random access to power and influence
+				<lb facs='#facs_113_r_2_1_tl_58' n='N058'/>in high society of ’ordinary’ people.”18 Often such hopeful movie
+				<lb facs='#facs_113_r_2_1_tl_59' n='N059'/>romances occurred in skyscraper offices, skyscraper penthouses,
+				<lb facs='#facs_113_r_2_1_tl_60' n='N060'/>and skyscraper night clubs.
+				<lb facs='#facs_113_r_2_1_tl_61' n='N061'/>In a production number from the 1933 film musical 42nd
+				<lb facs='#facs_113_r_2_1_tl_62' n='N062'/>Street, miniature skyscraper tips, glowing with colored lights,
+				<lb facs='#facs_113_r_2_1_tl_63' n='N063'/>saluted Ruby Keeler as a sweet kid who managed to become a
+			</p>
+			<pb n='114'/>
+			<p>
+				<lb facs='#facs_114_r_1_1_tl_1' n='N001'/>star, and the manipulation of skyscraper scale made her seem
+				<lb facs='#facs_114_r_1_1_tl_2' n='N002'/>larger than life. A film critic recently commented on the effects of
+				<lb facs='#facs_114_r_1_1_tl_3' n='N003'/>this process: “...life in New York is made more than bearable by
+				<lb facs='#facs_114_r_1_1_tl_4' n='N004'/>the fine romance this city has always had with the movies. We
+				<lb facs='#facs_114_r_1_1_tl_5' n='N005'/>have been exalted by a Hollywood version of ourselves that is
+				<lb facs='#facs_114_r_1_1_tl_6' n='N006'/>often no closer to reality than this scene. This is Big Flick City—
+				<lb facs='#facs_114_r_1_1_tl_7' n='N007'/>and welcome to it.&quot;1 Another Ruby Keeler film, Go Into Your
+				<lb facs='#facs_114_r_1_1_tl_8' n='N008'/>Dance (1936), elaborates the cinematic process by which New
+				<lb facs='#facs_114_r_1_1_tl_9' n='N009'/>York’s hostile environment is “made more than bearable” by the
+				<lb facs='#facs_114_r_1_1_tl_10' n='N010'/>association of the skyscraper with themes of personal success
+				<lb facs='#facs_114_r_1_1_tl_11' n='N011'/>and imperialist corporate expansion. In a night club at the top of
+				<lb facs='#facs_114_r_1_1_tl_12' n='N012'/>a New York tower, Al Jolson in blackface sings, “She’s a Latin
+				<lb facs='#facs_114_r_1_1_tl_13' n='N013'/>from Manhattan,&quot; about the fantasy of one “ordinary” person
+				<lb facs='#facs_114_r_1_1_tl_14' n='N014'/>making it in the big city. Then Ruby Keeler and other performers
+				<lb facs='#facs_114_r_1_1_tl_15' n='N015'/>in evening dress engage in a dance routine of world domination,
+				<lb facs='#facs_114_r_1_1_tl_16' n='N016'/>climbing up and down a globe, tap dancing on various countries
+				<lb facs='#facs_114_r_1_1_tl_17' n='N017'/>of the Northern Hemisphere to the tune of the title song with its
+				<lb facs='#facs_114_r_1_1_tl_18' n='N018'/>catchy Depression lyrics, “When you feel sad and blue now, go
+				<lb facs='#facs_114_r_1_1_tl_19' n='N019'/>into your dance!&quot;
+				<lb facs='#facs_114_r_1_1_tl_20' n='N020'/>While these examples show women succeeding, most Ameri
+				<lb facs='#facs_114_r_1_1_tl_21' n='N021'/>can skyscraper fantasies have dealt with male success and mo
+				<lb facs='#facs_114_r_1_1_tl_22' n='N022'/>bility, suggesting that an industrious young fellow may develop a
+				<lb facs='#facs_114_r_1_1_tl_23' n='N023'/>personal empire of banks, shipping lines and factories, and build
+				<lb facs='#facs_114_r_1_1_tl_24' n='N024'/>a skyscraper from which to look down on them. Architect Howard
+				<lb facs='#facs_114_r_1_1_tl_25' n='N025'/>Roark, hero of Ayn Rand’s novel, The Fountainhead, and of the
+				<lb facs='#facs_114_r_1_1_tl_26' n='N026'/>1949 film based on it, endows this plot with an artistic rather than
+				<lb facs='#facs_114_r_1_1_tl_27' n='N027'/>an entrepreneurial tone. Roark, played by Gary Cooper, stands
+				<lb facs='#facs_114_r_1_1_tl_28' n='N028'/>for the survival of the fittest. A poor boy who made good, he
+				<lb facs='#facs_114_r_1_1_tl_29' n='N029'/>fights the &quot;creeping socialism&quot; of his time by designing buildings
+				<lb facs='#facs_114_r_1_1_tl_30' n='N030'/>for tycoons so he can develop his creative genius. At the film’s end,
+				<lb facs='#facs_114_r_1_1_tl_31' n='N031'/>Roark stands, remote and supreme, atop a new skyscraper he de
+				<lb facs='#facs_114_r_1_1_tl_32' n='N032'/>signed. He is joined there by Dominique Francon, an architectural
+				<lb facs='#facs_114_r_1_1_tl_33' n='N033'/>critic who has been moved to ecstasy by an elevator ride up the
+				<lb facs='#facs_114_r_1_1_tl_34' n='N034'/>side of this building. Roark &quot;takes&quot; both the town and the world
+				<lb facs='#facs_114_r_1_1_tl_35' n='N035'/>of cultured society Francon represents; in fact, early in the story
+				<lb facs='#facs_114_r_1_1_tl_36' n='N036'/>he rapes her and she is rapturous.
+				<lb facs='#facs_114_r_1_1_tl_37' n='N037'/>Skyscraper restaurants and hotels trade on the renewal of
+				<lb facs='#facs_114_r_1_1_tl_38' n='N038'/>this sort of cinematic fantasy. For the price of a drink or a meal,
+				<lb facs='#facs_114_r_1_1_tl_39' n='N039'/>you can share the reflected power of a skyscraper location. One
+				<lb facs='#facs_114_r_1_1_tl_40' n='N040'/>nationwide chain of penthouse restaurants advertises, &quot;Make a
+				<lb facs='#facs_114_r_1_1_tl_41' n='N041'/>top decision,&quot;* implying executive success for those who dine at
+				<lb facs='#facs_114_r_1_1_tl_42' n='N042'/>at the top of a tower. Woody Guthrie made fun of such aspira
+				<lb facs='#facs_114_r_1_1_tl_43' n='N043'/>tions when he sang about the Rockefeller Center bar and grill,
+				<lb facs='#facs_114_r_1_1_tl_44' n='N044'/>This Rainbow Room is up so high/ That John D.’s spirit comes
+				<lb facs='#facs_114_r_1_1_tl_45' n='N045'/>a-driftin’ by.. &quot;2 but this did nothing to affect its popularity.
+				<lb facs='#facs_114_r_1_1_tl_46' n='N046'/>Although the tip of a skyscraper is an especially charged location,
+				<lb facs='#facs_114_r_1_1_tl_47' n='N047'/>the rest of the skyscraper also has powerful symbolic associations:
+				<lb facs='#facs_114_r_1_1_tl_48' n='N048'/>one foreign resort hotel advertises its advantages to New Yorkers
+				<lb facs='#facs_114_r_1_1_tl_49' n='N049'/>with a photograph of a phallic building superimposed on the
+				<lb facs='#facs_114_r_1_1_tl_50' n='N050'/>bikini-bared torsos of three models.” Whether they want to be
+				<lb facs='#facs_114_r_1_1_tl_51' n='N051'/>chief executives or simply sophisticated playboys, clients of sky
+				<lb facs='#facs_114_r_1_1_tl_52' n='N052'/>scraper restaurants or hotels are encouraged in their fantasies of
+				<lb facs='#facs_114_r_1_1_tl_53' n='N053'/>power and control.
+				<lb facs='#facs_114_r_1_1_tl_54' n='N054'/>Reality: Urban Oppression
+				<lb facs='#facs_114_r_1_1_tl_55' n='N055'/>In the romantic world of popular films and advertisements,
+				<lb facs='#facs_114_r_1_1_tl_56' n='N056'/>life in the skyscrapers is a whirl of money, power and sex. But as
+				<lb facs='#facs_114_r_1_1_tl_57' n='N057'/>more and more people of all economic classes live and work in
+				<lb facs='#facs_114_r_1_1_tl_58' n='N058'/>skyscrapers, the oppressiveness of these environments cannot be
+				<lb facs='#facs_114_r_1_1_tl_59' n='N059'/>denied. In the 1960s and 1970s, community groups and workers
+				<lb facs='#facs_114_r_1_1_tl_60' n='N060'/>organizations began to detail the social and physical problems of
+				<lb facs='#facs_114_r_1_1_tl_61' n='N061'/>skyscraper life. Injuries to workers building skyscrapers continued,
+				<lb facs='#facs_114_r_1_1_tl_62' n='N062'/>accompanied by the problems created by the completed skyscrap-
+				<lb facs='#facs_114_r_1_1_tl_63' n='N063'/>ers themselves.
+			</p>
+			<p>
+				<lb facs='#facs_114_r_2_1_tl_1' n='N001'/>Ever more gigantic skyscrapers, when placed in urban plazas,
+				<lb facs='#facs_114_r_2_1_tl_2' n='N002'/>could create dangerous wind forces (up to 175 m.p.h.) that hurled
+				<lb facs='#facs_114_r_2_1_tl_3' n='N003'/>pedestrians off their feet. The towers themselves had to be de
+				<lb facs='#facs_114_r_2_1_tl_4' n='N004'/>signed to resist wind forces, but unforeseen difficulties could
+				<lb facs='#facs_114_r_2_1_tl_5' n='N005'/>occur, as in the John Hancock Tower in Boston, where winds
+				<lb facs='#facs_114_r_2_1_tl_6' n='N006'/>wrenched gigantic sections of mirror glass from the curtain wall,
+				<lb facs='#facs_114_r_2_1_tl_7' n='N007'/>hurling them to the sidewalks below, terrorizing citizens with re
+				<lb facs='#facs_114_r_2_1_tl_8' n='N008'/>sounding smashes. Amazingly, there were no pedestrian fatalities.
+				<lb facs='#facs_114_r_2_1_tl_9' n='N009'/>Urban residents also complained of enormous skyscraper
+				<lb facs='#facs_114_r_2_1_tl_10' n='N010'/>shadows darkening whole neighborhoods and changing the eco
+				<lb facs='#facs_114_r_2_1_tl_11' n='N011'/>logy of local parks. Motorists and pedestrians found shadows
+			</p>
+			<p>
+				<lb facs='#facs_114_r_5_1_tl_1' n='N001'/>were only half the problem with mirror glass buildings which, on
+				<lb facs='#facs_114_r_5_1_tl_2' n='N002'/>their sunny sides, reflected blinding flashes of light into cars and
+				<lb facs='#facs_114_r_5_1_tl_3' n='N003'/>homes. Community groups in San Francisco documented such
+				<lb facs='#facs_114_r_5_1_tl_4' n='N004'/>difficulties when they fought construction of the Transamerica
+				<lb facs='#facs_114_r_5_1_tl_5' n='N005'/>Building and other high-rises.2 In Boston, community groups
+				<lb facs='#facs_114_r_5_1_tl_6' n='N006'/>have slowed but not halted construction of the Park Plaza pro
+				<lb facs='#facs_114_r_5_1_tl_7' n='N007'/>ject, whose shadows will darken the Public Garden.
+				<lb facs='#facs_114_r_5_1_tl_8' n='N008'/>Workers inside the towers have added their complaints to
+				<lb facs='#facs_114_r_5_1_tl_9' n='N009'/>those articulated by urban residents. Endlessly repeated sky-
+				<lb facs='#facs_114_r_5_1_tl_10' n='N010'/>scraper floor plans reflect hierarchical design which allots interior
+				<lb facs='#facs_114_r_5_1_tl_11' n='N011'/>fluorescent-lit spaces to predominantly female clerical workers,
+				<lb facs='#facs_114_r_5_1_tl_12' n='N012'/>and exterior offices with natural light and views to predominantly
+				<lb facs='#facs_114_r_5_1_tl_13' n='N013'/>male executives. New trends in office landscaping&quot; using low
+				<lb facs='#facs_114_r_5_1_tl_14' n='N014'/>partitions and plants may mute the most obvious effects of such
+				<lb facs='#facs_114_r_5_1_tl_15' n='N015'/>plans, but light and space are always assigned according to status.
+				<lb facs='#facs_114_r_5_1_tl_16' n='N016'/>In the John Hancock Tower, formal rules allow a senior vice
+				<lb facs='#facs_114_r_5_1_tl_17' n='N017'/>president 406 square feet of space compared to a clerical worker&apos;s
+				<lb facs='#facs_114_r_5_1_tl_18' n='N018'/>55.“ If clerical workers constitute the majority of the towers’
+				<lb facs='#facs_114_r_5_1_tl_19' n='N019'/>populations during the day, cleaners work predominantly at
+				<lb facs='#facs_114_r_5_1_tl_20' n='N020'/>night—squads of men and women, poor white, black and foreign
+				<lb facs='#facs_114_r_5_1_tl_21' n='N021'/>born workers. The best paid have extremely perilous daytime
+				<lb facs='#facs_114_r_5_1_tl_22' n='N022'/>jobs washing windows or polishing facades, hanging on scaffolds
+				<lb facs='#facs_114_r_5_1_tl_23' n='N023'/>as high above the streets as the ironworkers. The night shift
+				<lb facs='#facs_114_r_5_1_tl_24' n='N024'/>works for lower wages, and the thrill of seeing the city lit up at
+				<lb facs='#facs_114_r_5_1_tl_25' n='N025'/>night is, after all, the frisson of watching thousands of these
+				<lb facs='#facs_114_r_5_1_tl_26' n='N026'/>cleaners at work.
+				<lb facs='#facs_114_r_5_1_tl_27' n='N027'/>One of the most serious hazards to all workers in high-rise
+				<lb facs='#facs_114_r_5_1_tl_28' n='N028'/>buildings, by day or by night, is fire. The skyscraper is constructed
+				<lb facs='#facs_114_r_5_1_tl_29' n='N029'/>to resist fire, but if faulty wiring or a smoldering cigarette causes
+				<lb facs='#facs_114_r_5_1_tl_30' n='N030'/>a blaze, then escape from a burning tower can be extremely dif
+				<lb facs='#facs_114_r_5_1_tl_31' n='N031'/>ficult. Stairwells may fill with smoke, elevator shafts can act like
+			</p>
+			<pb n='115'/>
+			<p>
+				<lb facs='#facs_115_r_1_1_tl_1' n='N001'/>chimneys, and traditional firefighting ladders cannot reach the
+				<lb facs='#facs_115_r_1_1_tl_2' n='N002'/>upper floors. The Towering Inferno, a film about skyscraper
+				<lb facs='#facs_115_r_1_1_tl_3' n='N003'/>conflagration, was playing in New York on the evening of Val
+				<lb facs='#facs_115_r_1_1_tl_4' n='N004'/>entine’s Day, 1975, when a moderately serious fire broke out
+				<lb facs='#facs_115_r_1_1_tl_5' n='N005'/>in one of the two World Trade Center buildings there. Because
+				<lb facs='#facs_115_r_1_1_tl_6' n='N006'/>the fire took place at night, most of the thirty injured were fire
+				<lb facs='#facs_115_r_1_1_tl_7' n='N007'/>fighters and cleaners. Building officials managed to calm the
+				<lb facs='#facs_115_r_1_1_tl_8' n='N008'/>thousands of daytime workers, who were unnerved to learn that
+				<lb facs='#facs_115_r_1_1_tl_9' n='N009'/>New York fire codes had not been followed in the construction of
+				<lb facs='#facs_115_r_1_1_tl_10' n='N010'/>the complex. But as skyscraper fires occur every few months
+				<lb facs='#facs_115_r_1_1_tl_11' n='N011'/>around the country, one expects protests to increase.2
+				<lb facs='#facs_115_r_1_1_tl_12' n='N012'/>Since the skyscraper has been established in popular culture
+				<lb facs='#facs_115_r_1_1_tl_13' n='N013'/>as a place for &quot;taking the town,&quot; personnel in skyscraper offices
+				<lb facs='#facs_115_r_1_1_tl_14' n='N014'/>are exposed increasingly to scenes of conflict at skyscraper tips,
+				<lb facs='#facs_115_r_1_1_tl_15' n='N015'/>which are harrowing to the police, firemen, or passing workers
+				<lb facs='#facs_115_r_1_1_tl_16' n='N016'/>who are involved. Bomb threats are not infrequent in corporate
+				<lb facs='#facs_115_r_1_1_tl_17' n='N017'/>towers, and sometimes there are explosions and kidnappings as
+				<lb facs='#facs_115_r_1_1_tl_18' n='N018'/>well. A Los Angeles Times story for December 7, 1976, headlined
+				<lb facs='#facs_115_r_1_1_tl_19' n='N019'/>Gunman Holds Hostage Atop Skyscraper: Youth Gives Up
+				<lb facs='#facs_115_r_1_1_tl_20' n='N020'/>After Antismoking Message Is Read On Radio, tells the sad
+				<lb facs='#facs_115_r_1_1_tl_21' n='N021'/>story of a youth trying to attract attention in his crusade against
+				<lb facs='#facs_115_r_1_1_tl_22' n='N022'/>lung cancer by &quot;taking the town&quot; with a weapon and a hostage.
+				<lb facs='#facs_115_r_1_1_tl_23' n='N023'/>Fourth Fantasy: &quot;Within the City, Without the City&apos;s Problems&quot;
+				<lb facs='#facs_115_r_1_1_tl_24' n='N024'/>In the movies the skyscraper was first presented as a place
+				<lb facs='#facs_115_r_1_1_tl_25' n='N025'/>for dramatic encounters, celebrations, and awe, but as it became
+				<lb facs='#facs_115_r_1_1_tl_26' n='N026'/>the standard building in the center city, the alienation of workers
+				<lb facs='#facs_115_r_1_1_tl_27' n='N027'/>and residents increased. Pre-war fantasies of beautiful, shining
+				<lb facs='#facs_115_r_1_1_tl_28' n='N028'/>tower cities—such as Hugh Ferriss’ romantic renderings and Le
+				<lb facs='#facs_115_r_1_1_tl_29' n='N029'/>Corbusier’s plans for a Radiant City—led to extensive urban
+				<lb facs='#facs_115_r_1_1_tl_30' n='N030'/>renewal programs in the 1950s and 1960s, when office towers and
+			</p>
+			<p>
+				<lb facs='#facs_115_r_3_1_tl_1' n='N001'/>“T’m taking the town,” advertisement by Saks Fifth Avenue, New York
+				<lb facs='#facs_115_r_3_1_tl_2' n='N002'/>Times (Feb. 8, 1976), p. 29.
+				<lb facs='#facs_115_r_3_1_tl_3' n='N003'/>upper-class housing were joined by the grim, stripped-down tower
+				<lb facs='#facs_115_r_3_1_tl_4' n='N004'/>in a field of asphalt as the preferred solution for public housing, a
+				<lb facs='#facs_115_r_3_1_tl_5' n='N005'/>vertical filing cabinet for the urban poor. While such programs
+				<lb facs='#facs_115_r_3_1_tl_6' n='N006'/>added towers to the already densely built-up cities of New York
+				<lb facs='#facs_115_r_3_1_tl_7' n='N007'/>and Chicago, other American cities like Boston and San Francisco
+				<lb facs='#facs_115_r_3_1_tl_8' n='N008'/>were &quot;Manhattanized,&quot; developing predominantly skyscraper
+				<lb facs='#facs_115_r_3_1_tl_9' n='N009'/>skylines for the first time. During these years the expanded acti
+				<lb facs='#facs_115_r_3_1_tl_10' n='N010'/>vities of many American corporations and American architects
+				<lb facs='#facs_115_r_3_1_tl_11' n='N011'/>abroad led to the exportation of the skyscraper, promoting cor
+				<lb facs='#facs_115_r_3_1_tl_12' n='N012'/>porate visibility and land speculation from Paris to Nairobi.
+				<lb facs='#facs_115_r_3_1_tl_13' n='N013'/>The builders of this era succeeded in realizing the goal of an
+				<lb facs='#facs_115_r_3_1_tl_14' n='N014'/>earlier generation of architects—a city composed largely of tow-
+			</p>
+			<p>
+				<lb facs='#facs_115_r_4_1_tl_1' n='N001'/>ers. As a result, they multiplied the economic problems of the
+				<lb facs='#facs_115_r_4_1_tl_2' n='N002'/>metropolis and the social problems of skyscraper workers and
+				<lb facs='#facs_115_r_4_1_tl_3' n='N003'/>urban residents, but the next generation of fantasizers never let
+				<lb facs='#facs_115_r_4_1_tl_4' n='N004'/>up. Although the city was being turned into a field of towers, the
+				<lb facs='#facs_115_r_4_1_tl_5' n='N005'/>supertower could still stand above it. Frank Lloyd Wright pro
+				<lb facs='#facs_115_r_4_1_tl_6' n='N006'/>duced a plan for a mile-high skyscraper in 1956. Urban mega
+				<lb facs='#facs_115_r_4_1_tl_7' n='N007'/>structures proliferated on drafting boards in the 1960s, and in the
+				<lb facs='#facs_115_r_4_1_tl_8' n='N008'/>1970s, Paolo Soleri continues to lead the utopian skyscraper ar
+				<lb facs='#facs_115_r_4_1_tl_9' n='N009'/>chitects with endless plans for “Arcologies&quot; with towers hung
+				<lb facs='#facs_115_r_4_1_tl_10' n='N010'/>upon towers. (He uses the Empire State Building as a scale symbol
+				<lb facs='#facs_115_r_4_1_tl_11' n='N011'/>to dramatize the size of structures many times its height.) The
+				<lb facs='#facs_115_r_4_1_tl_12' n='N012'/>World Trade Center in New York, the Transamerica Building in
+				<lb facs='#facs_115_r_4_1_tl_13' n='N013'/>San Francisco, and the Sears Tower in Chicago have all set new
+				<lb facs='#facs_115_r_4_1_tl_14' n='N014'/>records for skyscraper height in these cities, but the quest for
+				<lb facs='#facs_115_r_4_1_tl_15' n='N015'/>architectural dominance does not rest with the supertower which
+				<lb facs='#facs_115_r_4_1_tl_16' n='N016'/>is the tallest building in town.
+				<lb facs='#facs_115_r_4_1_tl_17' n='N017'/>The 1970s have brought a new kind of skyscraper which
+				<lb facs='#facs_115_r_4_1_tl_18' n='N018'/>simply swallows up the city. Instead of a tower being presented as
+				<lb facs='#facs_115_r_4_1_tl_19' n='N019'/>the typical building in the center city, it becomes a substitute for
+				<lb facs='#facs_115_r_4_1_tl_20' n='N020'/>the city. More and more resources and activities are concentrated
+				<lb facs='#facs_115_r_4_1_tl_21' n='N021'/>inside, while problems—wind, shadows, glare, utilities, trans
+				<lb facs='#facs_115_r_4_1_tl_22' n='N022'/>portation—are left outside for the municipality to deal with as
+				<lb facs='#facs_115_r_4_1_tl_23' n='N023'/>best it can. In New York, Rockefeller Center anticipated this
+				<lb facs='#facs_115_r_4_1_tl_24' n='N024'/>trend with offices, shops, restaurants, pedestrian spaces, and a
+				<lb facs='#facs_115_r_4_1_tl_25' n='N025'/>skating rink. The World Trade Center is a city of 50,000 within a
+				<lb facs='#facs_115_r_4_1_tl_26' n='N026'/>city of 8,000,000. With its own police force, newspaper, and
+				<lb facs='#facs_115_r_4_1_tl_27' n='N027'/>restaurants, the complex is in many ways a private urban realm
+				<lb facs='#facs_115_r_4_1_tl_28' n='N028'/>of government agencies and corporations set down in the public
+				<lb facs='#facs_115_r_4_1_tl_29' n='N029'/>city of New York. This is a workaday complex, even more
+				<lb facs='#facs_115_r_4_1_tl_30' n='N030'/>deserted at night than Rockefeller Center. Chicago’s John Han
+				<lb facs='#facs_115_r_4_1_tl_31' n='N031'/>cock tower, in contrast, functions as a 24-hour skyscraper city,
+				<lb facs='#facs_115_r_4_1_tl_32' n='N032'/>providing housing as well as stores, restaurants and offices. Some
+				<lb facs='#facs_115_r_4_1_tl_33' n='N033'/>residents may rarely emerge; others call the doorman to check
+				<lb facs='#facs_115_r_4_1_tl_34' n='N034'/>the weather (which they live above) before they venture down
+				<lb facs='#facs_115_r_4_1_tl_35' n='N035'/>from the clouds into the real Chicago below.
+				<lb facs='#facs_115_r_4_1_tl_36' n='N036'/>The ultimate skyscraper development goes even further than
+				<lb facs='#facs_115_r_4_1_tl_37' n='N037'/>these giant towers, incorporating urban landscape as well as resi
+				<lb facs='#facs_115_r_4_1_tl_38' n='N038'/>dential, commercial, and recreational facilities into its interior
+				<lb facs='#facs_115_r_4_1_tl_39' n='N039'/>design. John Portman’s hotels in Atlanta, Cambridge, and San
+				<lb facs='#facs_115_r_4_1_tl_40' n='N040'/>Francisco are hollow towers or pyramids advertised as being as
+				<lb facs='#facs_115_r_4_1_tl_41' n='N041'/>exciting as (and implicitly safer than) the city outside. Interior
+				<lb facs='#facs_115_r_4_1_tl_42' n='N042'/>courtyards and glass elevators allow for the traditional skyscraper
+				<lb facs='#facs_115_r_4_1_tl_43' n='N043'/>observation to occur within rather than outside of the tower. The
+				<lb facs='#facs_115_r_4_1_tl_44' n='N044'/>visitor experiences the thrill of riding to the top of the tower, but
+				<lb facs='#facs_115_r_4_1_tl_45' n='N045'/>the views are carefully controlled vistas of the circumscribed,
+				<lb facs='#facs_115_r_4_1_tl_46' n='N046'/>artificial, urban life within the hotel. Going them one better, two
+				<lb facs='#facs_115_r_4_1_tl_47' n='N047'/>new Atlanta complexes include a lake and an ice skating rink as
+				<lb facs='#facs_115_r_4_1_tl_48' n='N048'/>private skyscraper landscapes on their ground floors. Other build
+				<lb facs='#facs_115_r_4_1_tl_49' n='N049'/>ings reveal the same privatization of landscape. The Ford Founda
+				<lb facs='#facs_115_r_4_1_tl_50' n='N050'/>tion Building in New York surrounds an interior garden. The
+				<lb facs='#facs_115_r_4_1_tl_51' n='N051'/>penthouse farm of Stewart Mott, with its &quot;natural&quot; earth loaded
+				<lb facs='#facs_115_r_4_1_tl_52' n='N052'/>onto a New York tower, shows that&quot;nature&quot; can be put on top of
+				<lb facs='#facs_115_r_4_1_tl_53' n='N053'/>a skyscraper rather than left in a public place.
+				<lb facs='#facs_115_r_4_1_tl_54' n='N054'/>As the American city is economically drained and environ
+				<lb facs='#facs_115_r_4_1_tl_55' n='N055'/>mentally destroyed by the skyscraper, developers of tower apart-
+				<lb facs='#facs_115_r_4_1_tl_56' n='N056'/>ments, hotels, and office blocks sell back a limited, guarded
+				<lb facs='#facs_115_r_4_1_tl_57' n='N057'/>version of urban life to those who can afford it. (This is, after all,
+				<lb facs='#facs_115_r_4_1_tl_58' n='N058'/>what Disney and the&apos;developers of &quot;adventure parks&quot; have done,
+				<lb facs='#facs_115_r_4_1_tl_59' n='N059'/>selling synthetic American rural and small town landscapes.) The
+				<lb facs='#facs_115_r_4_1_tl_60' n='N060'/>new, private tower cities exclude the poor, minorities, the aged,
+				<lb facs='#facs_115_r_4_1_tl_61' n='N061'/>and the unemployed. Fortified by private police forces and by the
+				<lb facs='#facs_115_r_4_1_tl_62' n='N062'/>best technology industrial security firms can supply, these private
+				<lb facs='#facs_115_r_4_1_tl_63' n='N063'/>towers recall the militarism associated with the centennial obe
+				<lb facs='#facs_115_r_4_1_tl_64' n='N064'/>lisks and military watchtowers. They pose an extreme answer to
+				<lb facs='#facs_115_r_4_1_tl_65' n='N065'/>urban oppression, selling the urban experience without an urban
+			</p>
+			<pb n='116'/>
+			<p>
+				<lb facs='#facs_116_r_1_1_tl_1' n='N001'/>reality. They want customers to &quot;take the town,&quot; and since the
+				<lb facs='#facs_116_r_1_1_tl_2' n='N002'/>real town is too far gone, they offer a substitute.
+				<lb facs='#facs_116_r_1_1_tl_3' n='N003'/>While urban escapism flourishes and builders construct sky
+				<lb facs='#facs_116_r_1_1_tl_4' n='N004'/>scrapers of the present decade, satirists and science fiction writers
+				<lb facs='#facs_116_r_1_1_tl_5' n='N005'/>have provided strong critical images of a world of urban towers
+				<lb facs='#facs_116_r_1_1_tl_6' n='N006'/>being erected amid urban rubble. “Superstudio, a collective of
+				<lb facs='#facs_116_r_1_1_tl_7' n='N007'/>Italian architects, mocks the trend in their “Twelve Cautionary
+				<lb facs='#facs_116_r_1_1_tl_8' n='N008'/>Tales,&quot; with a design for a skyscraper factory stretching around
+				<lb facs='#facs_116_r_1_1_tl_9' n='N009'/>the earth, churning out new towers as fast as the old ones crum
+				<lb facs='#facs_116_r_1_1_tl_10' n='N010'/>ble. 26 On the same theme, J.G. Ballard’s story, &quot;Build-Up,
+				<lb facs='#facs_116_r_1_1_tl_11' n='N011'/>describes a world where high-rises cover the earth, except for
+				<lb facs='#facs_116_r_1_1_tl_12' n='N012'/>blacked-out spaces where they have collapsed, and subways and
+				<lb facs='#facs_116_r_1_1_tl_13' n='N013'/>high-speed trains are replaced by vertical and horizontal ele
+				<lb facs='#facs_116_r_1_1_tl_14' n='N014'/>vators.27. For every such satirist, there are many more individu
+				<lb facs='#facs_116_r_1_1_tl_15' n='N015'/>als planning new supertowers, perhaps justifying their projects
+				<lb facs='#facs_116_r_1_1_tl_16' n='N016'/>with the rhetoric of a New York housing developer who advertises
+			</p>
+			<p>
+				<lb facs='#facs_116_r_2_1_tl_1' n='N001'/>his expensive high-rise apartment block as being “within the city
+				<lb facs='#facs_116_r_2_1_tl_2' n='N002'/>but without the city’s problems.&quot;2. Skidmore Owings and Mer
+				<lb facs='#facs_116_r_2_1_tl_3' n='N003'/>rill offers the perfect architectural expression of this slogan in two
+				<lb facs='#facs_116_r_2_1_tl_4' n='N004'/>of their newest commercial blocks on 57th and 42nd Streets in
+				<lb facs='#facs_116_r_2_1_tl_5' n='N005'/>Manhattan. On each building, a concave facade covered in mir
+				<lb facs='#facs_116_r_2_1_tl_6' n='N006'/>ror glass manipulates the view so it appears from below that all
+				<lb facs='#facs_116_r_2_1_tl_7' n='N007'/>the rest of the city is toppling, giving a doomsday twist to the
+				<lb facs='#facs_116_r_2_1_tl_8' n='N008'/>perennial competition for skyscraper size as well as reinforcing
+				<lb facs='#facs_116_r_2_1_tl_9' n='N009'/>the idea that the only city worth experiencing is inside, not out
+				<lb facs='#facs_116_r_2_1_tl_10' n='N010'/>side, the skyscraper.
+				<lb facs='#facs_116_r_2_1_tl_11' n='N011'/>Making Changes—Fantasy and Reality
+				<lb facs='#facs_116_r_2_1_tl_12' n='N012'/>Criticizing the design of skyscrapers will not make them dis
+				<lb facs='#facs_116_r_2_1_tl_13' n='N013'/>appear, whether the criticism comes from a revisionist historian,
+				<lb facs='#facs_116_r_2_1_tl_14' n='N014'/>an outraged citizen, or a pragmatic urban budget analyst. Pat
+			</p>
+			<pb n='117'/>
+			<p>
+				<lb facs='#facs_117_r_1_1_tl_1' n='N001'/>terns of corporate growth and patriarchy have determined the
+				<lb facs='#facs_117_r_1_1_tl_2' n='N002'/>history of the skyscraper. The economics of urban land develop
+				<lb facs='#facs_117_r_1_1_tl_3' n='N003'/>ment today make it impossible to effect major changes in present
+				<lb facs='#facs_117_r_1_1_tl_4' n='N004'/>building trends without a political revolution to socialize all
+				<lb facs='#facs_117_r_1_1_tl_5' n='N005'/>urban land. In the meantime, at least some attempts in changing
+				<lb facs='#facs_117_r_1_1_tl_6' n='N006'/>consciousness can begin. To understand the skyscraper and its
+				<lb facs='#facs_117_r_1_1_tl_7' n='N007'/>place in the American city, we need the perceptions of all sky
+				<lb facs='#facs_117_r_1_1_tl_8' n='N008'/>scraper workers and urban residents, women and men, as well as
+				<lb facs='#facs_117_r_1_1_tl_9' n='N009'/>the specialized insights of architects, artists, and social critics.
+				<lb facs='#facs_117_r_1_1_tl_10' n='N010'/>As a nation, we have exported the skyscraper around the
+				<lb facs='#facs_117_r_1_1_tl_11' n='N011'/>world. Like pre-Copernicans who dismissed anyone who disputed
+				<lb facs='#facs_117_r_1_1_tl_12' n='N012'/>the place of the earth as center of the solar system, today’s
+				<lb facs='#facs_117_r_1_1_tl_13' n='N013'/>American design professionals often exclude from serious archi
+				<lb facs='#facs_117_r_1_1_tl_14' n='N014'/>tectural and urban discourse anyone who refuses to accept the
+				<lb facs='#facs_117_r_1_1_tl_15' n='N015'/>importance of the skyscraper to “rational” urban design. Roman
+				<lb facs='#facs_117_r_1_1_tl_16' n='N016'/>tic notions of military preparedness and “manifest destiny,
+				<lb facs='#facs_117_r_1_1_tl_17' n='N017'/>dreams of economic conquest and &quot;survival of the fittest,&quot; fan
+				<lb facs='#facs_117_r_1_1_tl_18' n='N018'/>tasies of social mobility and sexual power, all have been mar
+				<lb facs='#facs_117_r_1_1_tl_19' n='N019'/>shaled in support of the skyscraper during the past century. All
+				<lb facs='#facs_117_r_1_1_tl_20' n='N020'/>still flourish as skyscraper fantasies today. Designed first as ur
+				<lb facs='#facs_117_r_1_1_tl_21' n='N021'/>ban monuments, then as typical urban buildings, then as syn
+				<lb facs='#facs_117_r_1_1_tl_22' n='N022'/>thetic cities, American skyscrapers attest to the power of fantasy
+				<lb facs='#facs_117_r_1_1_tl_23' n='N023'/>to confuse our perceptions of urban reality. If we look up, we can
+				<lb facs='#facs_117_r_1_1_tl_24' n='N024'/>read in the skyscrapers’ looming shapes a reminder that our cul
+				<lb facs='#facs_117_r_1_1_tl_25' n='N025'/>ture depends on false hopes of economic mobility as well as on
+				<lb facs='#facs_117_r_1_1_tl_26' n='N026'/>rigid hierarchy, and that it thrives on social seduction as well as
+				<lb facs='#facs_117_r_1_1_tl_27' n='N027'/>on architectural rape.
+			</p>
+			<p>
+				<lb facs='#facs_117_r_2_1_tl_1' n='N001'/>1. For an aesthetic justification, see Louis Sullivan, “The Tall Office
+				<lb facs='#facs_117_r_2_1_tl_2' n='N002'/>Building Artistically Considered,&quot;” in Kindergarden Chats and Other
+				<lb facs='#facs_117_r_2_1_tl_3' n='N003'/>Writings (New York: Wittenborn, 1947). For an aesthetic analysis
+				<lb facs='#facs_117_r_2_1_tl_4' n='N004'/>focusing on analogies with classical columns, see Winston Weisman,
+				<lb facs='#facs_117_r_2_1_tl_5' n='N005'/>“A New View of Skyscraper History,” in Edgar Kauffman, ed., The
+				<lb facs='#facs_117_r_2_1_tl_6' n='N006'/>Rise of an American Architecture (New York: Praeger, 1970). Diana
+				<lb facs='#facs_117_r_2_1_tl_7' n='N007'/>Agrest, in “Le Ciel est la limite,” adds to this with a discussion about
+				<lb facs='#facs_117_r_2_1_tl_8' n='N008'/>towers reaching into outer space, L’Architecture d’aujourd’hui (sky-
+				<lb facs='#facs_117_r_2_1_tl_9' n='N009'/>scraper issue) (March-April 1975), pp. 55-64. Cass Gilbert, in his intro
+				<lb facs='#facs_117_r_2_1_tl_10' n='N010'/>duction to Skyscrapers of New York by Vernon Howe Bailey (New
+				<lb facs='#facs_117_r_2_1_tl_11' n='N011'/>York: Rudge, 1928), goes on about “Mt. Woolworth” and the “Singer-
+				<lb facs='#facs_117_r_2_1_tl_12' n='N012'/>horn,” viewing skyscrapers as mountains and cliffs created in the city.
+				<lb facs='#facs_117_r_2_1_tl_13' n='N013'/>Many other architects take up this last image, Hugh Ferriss and Ray
+				<lb facs='#facs_117_r_2_1_tl_14' n='N014'/>mond Hood being notable examples. Manfredo Tafuri has criticized it
+				<lb facs='#facs_117_r_2_1_tl_15' n='N015'/>in the L’Architecture d’aujourd’hui issue.
+				<lb facs='#facs_117_r_2_1_tl_16' n='N016'/>A brief article which provides welcome relief from the usual
+				<lb facs='#facs_117_r_2_1_tl_17' n='N017'/>romanticization is by Elizabeth Lindquist Cock and Estelle Jussim,
+				<lb facs='#facs_117_r_2_1_tl_18' n='N018'/>“Machismo in American Architecture, Feminist Art Journal (Spring
+				<lb facs='#facs_117_r_2_1_tl_19' n='N019'/>1974), pp. 8-10, but the authors conclude, ...at what cost these ex
+				<lb facs='#facs_117_r_2_1_tl_20' n='N020'/>pressions of machistic corporate power? ... Perhaps it is time to in
+				<lb facs='#facs_117_r_2_1_tl_21' n='N021'/>sist that women be given the chance to design our buildings.” This sug
+				<lb facs='#facs_117_r_2_1_tl_22' n='N022'/>gestion bypasses the economic demand for skyscrapers rather naively,
+				<lb facs='#facs_117_r_2_1_tl_23' n='N023'/>assuming that female architects employed by large corporations would
+				<lb facs='#facs_117_r_2_1_tl_24' n='N024'/>actually be in a position to create real alternatives. Gertrude Kerbis,
+				<lb facs='#facs_117_r_2_1_tl_25' n='N025'/>Chicago architect, makes a more realistic assessment of the small
+				<lb facs='#facs_117_r_2_1_tl_26' n='N026'/>changes possible when she states that men have designed high-rises as
+				<lb facs='#facs_117_r_2_1_tl_27' n='N027'/>sexual symbols and that if she got a chance to design a skyscraper, it
+				<lb facs='#facs_117_r_2_1_tl_28' n='N028'/>would have some air spaces for wind to pass through. On Kerbis, see
+				<lb facs='#facs_117_r_2_1_tl_29' n='N029'/>Donna Joy Newman, “High-rise-ing Women, Making a Mark on the
+				<lb facs='#facs_117_r_2_1_tl_30' n='N030'/>Skyline,” Chicago Tribune (August 8, 1976), Sec. 5, p. 7.
+				<lb facs='#facs_117_r_2_1_tl_31' n='N031'/>2. John Zukowsky, “Monumental American Obelisks—Centennial
+				<lb facs='#facs_117_r_2_1_tl_32' n='N032'/>Vistas,” unpublished paper (1975).
+				<lb facs='#facs_117_r_2_1_tl_33' n='N033'/>3. Arnold Bennett, “Your United States,” quoted in Harlan Paul Doug-
+				<lb facs='#facs_117_r_2_1_tl_34' n='N034'/>las, The Suburban Trend (New York: Century Co., 1925), p. 305.
+				<lb facs='#facs_117_r_2_1_tl_35' n='N035'/>“Skyscrapers: Builders and Their Tools,” in The Skyscraper, reprinted
+				<lb facs='#facs_117_r_2_1_tl_36' n='N036'/>from Fortune magazine (New York: American Institute of Steel Con-
+				<lb facs='#facs_117_r_2_1_tl_37' n='N037'/>struction, 1930), p. 29.
+				<lb facs='#facs_117_r_2_1_tl_38' n='N038'/>Mike Cherry, On High Steel: The Education of an Ironworker (New
+				<lb facs='#facs_117_r_2_1_tl_39' n='N039'/>York: Ballantine Books, 1975), p. 27.
+				<lb facs='#facs_117_r_2_1_tl_40' n='N040'/>Ibid., p. 169.
+				<lb facs='#facs_117_r_2_1_tl_41' n='N041'/>Theodore James, Jr., The Empire State Building (New York: Harper
+				<lb facs='#facs_117_r_2_1_tl_42' n='N042'/>and Row, 1975), p. 68. In contrast to many American projects, the
+			</p>
+			<p>
+				<lb facs='#facs_117_r_3_1_tl_1' n='N001'/>Eiffel Tower, a tall and complex engineering project, was built in Paris
+				<lb facs='#facs_117_r_3_1_tl_2' n='N002'/>in 1889 without a single fatality; the effort and resources expended on
+				<lb facs='#facs_117_r_3_1_tl_3' n='N003'/>safety equipment matched the desire for spectacular height.
+				<lb facs='#facs_117_r_3_1_tl_4' n='N004'/>8. Cherry, pp. 26-27.
+				<lb facs='#facs_117_r_3_1_tl_5' n='N005'/>9. Fortune, p. 29.
+				<lb facs='#facs_117_r_3_1_tl_6' n='N006'/>10. Cherry, p. 232.
+				<lb facs='#facs_117_r_3_1_tl_7' n='N007'/>11. Louis Sullivan, Kindergarden Chats, pp. 29-30. He refers to the Mar
+				<lb facs='#facs_117_r_3_1_tl_8' n='N008'/>shall Field Wholesale Warehouse, Chicago.
+				<lb facs='#facs_117_r_3_1_tl_9' n='N009'/>Claude Bragdon, “Skyscrapers, in The Architecture Lectures,
+				<lb facs='#facs_117_r_3_1_tl_10' n='N010'/>(Chicago: Creative Age Press, 1942), p. 103.
+				<lb facs='#facs_117_r_3_1_tl_11' n='N011'/>13. Le Corbusier, “I Am an American,” in When All the Cathedrals Were
+				<lb facs='#facs_117_r_3_1_tl_12' n='N012'/>White (1936) (New York: McGraw Hill, 1964), pp. 90, 149
+				<lb facs='#facs_117_r_3_1_tl_13' n='N013'/>Vincent Scully, American Architecture and Urbanism (New York:
+				<lb facs='#facs_117_r_3_1_tl_14' n='N014'/>Praeger, 1969), p. 154.
+				<lb facs='#facs_117_r_3_1_tl_15' n='N015'/>15. One example of the older literature describing economic “rationality”
+				<lb facs='#facs_117_r_3_1_tl_16' n='N016'/>is William C. Clark and J. L. Kingston, The Skyscraper, A Study in the
+				<lb facs='#facs_117_r_3_1_tl_17' n='N017'/>Economic Height of Modern Office Buildings (New York: American
+				<lb facs='#facs_117_r_3_1_tl_18' n='N018'/>Institute of Steel Construction, 1930). Clark and Kingston rationalize a
+				<lb facs='#facs_117_r_3_1_tl_19' n='N019'/>profitable 75 stories. During this period 75 stories was often exceeded
+				<lb facs='#facs_117_r_3_1_tl_20' n='N020'/>and the Empire State Building was under construction including
+				<lb facs='#facs_117_r_3_1_tl_21' n='N021'/>102 stories.
+				<lb facs='#facs_117_r_3_1_tl_22' n='N022'/>16. Stephen Zoll, “Superville: New York, Aspects of Very High Bulk,
+				<lb facs='#facs_117_r_3_1_tl_23' n='N023'/>Massachusetts Review (Summer 1973), p. 538. Zoll provides an elo
+				<lb facs='#facs_117_r_3_1_tl_24' n='N024'/>quent discussion of political and economic factors in skyscraper con
+				<lb facs='#facs_117_r_3_1_tl_25' n='N025'/>struction with an extended bibliography. A former New York City
+				<lb facs='#facs_117_r_3_1_tl_26' n='N026'/>employee, he sees the need for cities to reform their accounting systems
+				<lb facs='#facs_117_r_3_1_tl_27' n='N027'/>and show the social costs of CBD density.
+				<lb facs='#facs_117_r_3_1_tl_28' n='N028'/>Many cities are engaged in such symbolic battles. Perhaps the most
+				<lb facs='#facs_117_r_3_1_tl_29' n='N029'/>extreme ironies are the deliberately misleading understatements issued
+				<lb facs='#facs_117_r_3_1_tl_30' n='N030'/>by builders during construction, in order to fool competitors into think-
+				<lb facs='#facs_117_r_3_1_tl_31' n='N031'/>ing that the new structure is less tall than it really will be. Suzanne
+				<lb facs='#facs_117_r_3_1_tl_32' n='N032'/>Zwarun, in “The Calgary Tower,” Interlude (Oct.-Nov. 1976), p. 9,
+				<lb facs='#facs_117_r_3_1_tl_33' n='N033'/>writes about Calgary’s Husky Tower. The developers lied, she explains,
+				<lb facs='#facs_117_r_3_1_tl_34' n='N034'/>boasting of 613 feet when all the time the structure was 626 feet. “The
+				<lb facs='#facs_117_r_3_1_tl_35' n='N035'/>developers kept thirteen extra feet in reserve to protect the image of the
+				<lb facs='#facs_117_r_3_1_tl_36' n='N036'/>Canadian west.....They knew some dirty rat would toss a few more
+				<lb facs='#facs_117_r_3_1_tl_37' n='N037'/>feet on a project somewhere, just so it would out-tower the Husky
+				<lb facs='#facs_117_r_3_1_tl_38' n='N038'/>Tower... Take that, San Antonio.
+				<lb facs='#facs_117_r_3_1_tl_39' n='N039'/>18. Martin Pawley, The Private Future (London: Pan Books, 1974), p. 30.
+				<lb facs='#facs_117_r_3_1_tl_40' n='N040'/>“New York’s Love Affair with the Movies,” New York (Dec. 29, 1975),
+				<lb facs='#facs_117_r_3_1_tl_41' n='N041'/>p. 33.
+				<lb facs='#facs_117_r_3_1_tl_42' n='N042'/>Make a Top Decision,” Stouffer advertisement, Mainliner (United
+				<lb facs='#facs_117_r_3_1_tl_43' n='N043'/>Airlines’ Magazine, Nov. 1976), p. 100.
+				<lb facs='#facs_117_r_3_1_tl_44' n='N044'/>Woody Guthrie, Bound for Glory (New York: New American Library,
+				<lb facs='#facs_117_r_3_1_tl_45' n='N045'/>1970), p. 292.
+				<lb facs='#facs_117_r_3_1_tl_46' n='N046'/>Smack-Dab in the Middle,” advertisement for Rio Orthon Palace,
+				<lb facs='#facs_117_r_3_1_tl_47' n='N047'/>New York (Dec. 13, 1976), p. 139.
+				<lb facs='#facs_117_r_3_1_tl_48' n='N048'/>Greggar Sletteland and Bruce Brugmann, eds., The Ultimate High-
+				<lb facs='#facs_117_r_3_1_tl_49' n='N049'/>rise: San Francisco’s Rush toward the Sky (San Francisco: San Fran
+				<lb facs='#facs_117_r_3_1_tl_50' n='N050'/>cisco Bay Guardian, 1971).
+				<lb facs='#facs_117_r_3_1_tl_51' n='N051'/>24. Susan Quinn, “My Desk Is Bigger Than Your Desk: Playing the New
+				<lb facs='#facs_117_r_3_1_tl_52' n='N052'/>Office Status Game,” Boston (March 1977), p. 78.
+				<lb facs='#facs_117_r_3_1_tl_53' n='N053'/>Trade Center Fire Stirs Row,” New York Daily News (February 15,
+				<lb facs='#facs_117_r_3_1_tl_54' n='N054'/>1975), p. 1.
+				<lb facs='#facs_117_r_3_1_tl_55' n='N055'/>26. Superstudio, “Twelve Cautionary Tales for Christmas: Premonitions
+				<lb facs='#facs_117_r_3_1_tl_56' n='N056'/>of the Mystical Rebirth of Urbanism,” Architectural Design (Dec. 1971),
+				<lb facs='#facs_117_r_3_1_tl_57' n='N057'/>pp. 737-742.
+				<lb facs='#facs_117_r_3_1_tl_58' n='N058'/>J. G. Ballard, “Build-up,” in Cronopolis (New York: 1971), pp.
+				<lb facs='#facs_117_r_3_1_tl_59' n='N059'/>218-240.
+				<lb facs='#facs_117_r_3_1_tl_60' n='N060'/>The Century, &quot;“Look Up, New York!” advertisement, New York (Nov.
+				<lb facs='#facs_117_r_3_1_tl_61' n='N061'/>22, 1976), p. 45.
+				<lb facs='#facs_117_r_3_1_tl_62' n='N062'/>I presented a preliminary version of this paper at the Woman’s Building
+				<lb facs='#facs_117_r_3_1_tl_63' n='N063'/>in Los Angeles in March 1974 at a conference on Women and Design. I
+				<lb facs='#facs_117_r_3_1_tl_64' n='N064'/>would like to thank Whitney Chadwick, Robert Manoff, David Hodgdon,
+				<lb facs='#facs_117_r_3_1_tl_65' n='N065'/>Peter Marris, Jean Strouse and Susana Torre, who made extensive com
+				<lb facs='#facs_117_r_3_1_tl_66' n='N066'/>ments on early drafts, as well as Sheila de Bretteville, David Gordon,
+				<lb facs='#facs_117_r_3_1_tl_67' n='N067'/>Rosaria Hodgdon, Jane McGroarty, and Gwen Wright, all of whom sup
+				<lb facs='#facs_117_r_3_1_tl_68' n='N068'/>plied encouragement, material or important perspectives. Klaus Roesch
+				<lb facs='#facs_117_r_3_1_tl_69' n='N069'/>did expert photographic research; Ets Otomo and Thea Muscat typed with
+				<lb facs='#facs_117_r_3_1_tl_70' n='N070'/>precision and speed; members of the Heresies staff helped enormously with
+				<lb facs='#facs_117_r_3_1_tl_71' n='N071'/>the final version. Copyright 1977. Please do not quote without written per
+				<lb facs='#facs_117_r_3_1_tl_72' n='N072'/>mission of the author.
+				<lb facs='#facs_117_r_3_1_tl_73' n='N073'/>Dolores Hayden is a fellow at the Radcliffe Institute and assistant professor
+				<lb facs='#facs_117_r_3_1_tl_74' n='N074'/>of architecture and history at MIT in Cambridge. This essay is part of a
+				<lb facs='#facs_117_r_3_1_tl_75' n='N075'/>book in progress that deals with contemporary American cityscapes,
+				<lb facs='#facs_117_r_3_1_tl_76' n='N076'/>entitled The Dream at the End of the Line.
+			</p>
+         </div>
+      </body>
+   </text>
+</TEI>

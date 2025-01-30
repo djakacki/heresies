@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='105'/>
+			<p>
+				<lb facs='#facs_105_r_1_1_tl_1' n='N001'/>&quot;Who controls the box office, controls the industry.&quot;
+				<lb facs='#facs_105_r_1_1_tl_2' n='N002'/>-Adolph
+				<lb facs='#facs_105_r_1_1_tl_3' n='N003'/>Zukor, President, Famous Players-Lasky Corporation and Para
+				<lb facs='#facs_105_r_1_1_tl_4' n='N004'/>mount Pictures, c. 1923
+				<lb facs='#facs_105_r_1_1_tl_5' n='N005'/>HEWING THE WOOD
+				<lb facs='#facs_105_r_1_1_tl_6' n='N006'/>AND DRAWING THE WATER
+				<lb facs='#facs_105_r_1_1_tl_7' n='N007'/>WOMEN AND FILM IN
+				<lb facs='#facs_105_r_1_1_tl_8' n='N008'/>COLONIZED CANADA
+				<lb facs='#facs_105_r_1_1_tl_9' n='N009'/>ARDELE LISTER
+				<lb facs='#facs_105_r_1_1_tl_10' n='N010'/>To comprehend fully or to appreciate the fact of women making
+				<lb facs='#facs_105_r_1_1_tl_11' n='N011'/>films in Canada, one must know something of the history of film
+				<lb facs='#facs_105_r_1_1_tl_12' n='N012'/>making in Canada, because all filmmakers in this country are
+				<lb facs='#facs_105_r_1_1_tl_13' n='N013'/>faced with certain facts:
+				<lb facs='#facs_105_r_1_1_tl_14' n='N014'/>1. The Canadian film audience pays over 200 mil
+				<lb facs='#facs_105_r_1_1_tl_15' n='N015'/>lion dollars annually to Famous Players and Odeon,
+				<lb facs='#facs_105_r_1_1_tl_16' n='N016'/>both foreign-owned conglomerates (Famous is 51%
+				<lb facs='#facs_105_r_1_1_tl_17' n='N017'/>owned by Gulf and Western, which also owns Para
+				<lb facs='#facs_105_r_1_1_tl_18' n='N018'/>mount Pictures; Odeon is now owned by Rank, a Brit-
+				<lb facs='#facs_105_r_1_1_tl_19' n='N019'/>ish conglomerate concentrating on U.S. film produc
+				<lb facs='#facs_105_r_1_1_tl_20' n='N020'/>tions. Rank was originally 50% owned by Famous
+				<lb facs='#facs_105_r_1_1_tl_21' n='N021'/>Players&apos; Nathanson.) None of this money is taxed to
+				<lb facs='#facs_105_r_1_1_tl_22' n='N022'/>leave any percentage in Canada to build the Canadian
+				<lb facs='#facs_105_r_1_1_tl_23' n='N023'/>film industry; and there is no stipulation that requires
+				<lb facs='#facs_105_r_1_1_tl_24' n='N024'/>Canadian films to be seen in Canadian theatres.
+				<lb facs='#facs_105_r_1_1_tl_25' n='N025'/>2. Famous Players and Odeon control over 80% of
+				<lb facs='#facs_105_r_1_1_tl_26' n='N026'/>urban Canadian theatres and openly indulge in prac
+				<lb facs='#facs_105_r_1_1_tl_27' n='N027'/>tices such as tie-on bookings (made illegal in the U.S. in
+				<lb facs='#facs_105_r_1_1_tl_28' n='N028'/>1948 under U.S. Antitrust Laws) by which, in order to
+				<lb facs='#facs_105_r_1_1_tl_29' n='N029'/>exhibit a moneymaking film like Jaws, theatres must
+				<lb facs='#facs_105_r_1_1_tl_30' n='N030'/>agree to exhibit a string of mediocre American films
+				<lb facs='#facs_105_r_1_1_tl_31' n='N031'/>pumped out by Hollywood studios. As a result, neither
+				<lb facs='#facs_105_r_1_1_tl_32' n='N032'/>mediocre Canadian films nor excellent Canadian films
+				<lb facs='#facs_105_r_1_1_tl_33' n='N033'/>qualify for exhibition.
+				<lb facs='#facs_105_r_1_1_tl_34' n='N034'/>3. In 1963 Canada was the sixth most important foreign
+				<lb facs='#facs_105_r_1_1_tl_35' n='N035'/>buyer of American films. By 1975 Canada had the dubi
+				<lb facs='#facs_105_r_1_1_tl_36' n='N036'/>ous distinction of being the biggest buyer of American
+				<lb facs='#facs_105_r_1_1_tl_37' n='N037'/>films outside the U.S.
+				<lb facs='#facs_105_r_1_1_tl_38' n='N038'/>4. 94% of film rentals in Canada goes to the seven
+				<lb facs='#facs_105_r_1_1_tl_39' n='N039'/>major U.S. distributors. With as little as a 5% cost-of
+				<lb facs='#facs_105_r_1_1_tl_40' n='N040'/>doing-business tax in Canada, 10 million dollars could
+				<lb facs='#facs_105_r_1_1_tl_41' n='N041'/>be fed yearly into the impoverished local film industry.
+				<lb facs='#facs_105_r_1_1_tl_42' n='N042'/>The Canadian government, afraid to be “unfriendly,
+				<lb facs='#facs_105_r_1_1_tl_43' n='N043'/>refuses to legislate.
+				<lb facs='#facs_105_r_1_1_tl_44' n='N044'/>5. United Nations statistics suggest that an industrial
+				<lb facs='#facs_105_r_1_1_tl_45' n='N045'/>ized nation should be able to produce a feature film per
+				<lb facs='#facs_105_r_1_1_tl_46' n='N046'/>million population per year. Canada, with a population
+				<lb facs='#facs_105_r_1_1_tl_47' n='N047'/>of 24 million, produces roughly five features a year.
+				<lb facs='#facs_105_r_1_1_tl_48' n='N048'/>Back to God’s Country, directed by and starring Nell Ship
+				<lb facs='#facs_105_r_1_1_tl_49' n='N049'/>man, a Victoria-born woman, was released in 1919. It returned
+				<lb facs='#facs_105_r_1_1_tl_50' n='N050'/>300% on its investment and was a smashing success. It was the
+				<lb facs='#facs_105_r_1_1_tl_51' n='N051'/>first Canadian feature directed by a woman and ranks in the his
+				<lb facs='#facs_105_r_1_1_tl_52' n='N052'/>tory of early Canadian filmmaking as one of the finest. In it Nell
+				<lb facs='#facs_105_r_1_1_tl_53' n='N053'/>Shipman appeared nude. The scandal that ensued only provoked
+				<lb facs='#facs_105_r_1_1_tl_54' n='N054'/>her to attach to all publicity for the film the slogan “The Nude is
+				<lb facs='#facs_105_r_1_1_tl_55' n='N055'/>Not Rude.&quot; Such were our beginnings.
+				<lb facs='#facs_105_r_1_1_tl_56' n='N056'/>Based on the bestselling novel by James Oliver Curwood,
+				<lb facs='#facs_105_r_1_1_tl_57' n='N057'/>Back to God’s Country follows the adventures of an independent
+				<lb facs='#facs_105_r_1_1_tl_58' n='N058'/>woman living in northern Canada, braving the bitter winters and
+				<lb facs='#facs_105_r_1_1_tl_59' n='N059'/>fighting off would-be suitors and rapists dressed up as Mounties.
+				<lb facs='#facs_105_r_1_1_tl_60' n='N060'/>Archetypal as the film’s heroine and villains are, it offers a
+				<lb facs='#facs_105_r_1_1_tl_61' n='N061'/>portrait of a woman with a strong sense of self and purpose out-
+				<lb facs='#facs_105_r_1_1_tl_62' n='N062'/>side traditional notions of servitude who spends eight reels fight-
+			</p>
+			<p>
+				<lb facs='#facs_105_r_2_1_tl_1' n='N001'/>ing for her right to be herself, to make her own choices. She
+				<lb facs='#facs_105_r_2_1_tl_2' n='N002'/>embodies some of those qualities that have since come to be seen
+				<lb facs='#facs_105_r_2_1_tl_3' n='N003'/>as typically Canadian — a fierce individualism and tenacity with
+				<lb facs='#facs_105_r_2_1_tl_4' n='N004'/>out aggression; a tendency to explore undiscovered places, both
+				<lb facs='#facs_105_r_2_1_tl_5' n='N005'/>physical and metaphysical; a quiet kind of intense spirituality; a
+				<lb facs='#facs_105_r_2_1_tl_6' n='N006'/>strong identification with animals, especially as victims of man’s
+				<lb facs='#facs_105_r_2_1_tl_7' n='N007'/>greed and ambition; and a commitment to the land, however
+				<lb facs='#facs_105_r_2_1_tl_8' n='N008'/>bleak. These are recurring themes in the broken threads of
+				<lb facs='#facs_105_r_2_1_tl_9' n='N009'/>Canadian culture, the most timely of which is that of the loner,
+				<lb facs='#facs_105_r_2_1_tl_10' n='N010'/>often a loser, often recently urbanized, in desperate search for his
+				<lb facs='#facs_105_r_2_1_tl_11' n='N011'/>or her identity. In the culture of the last twenty years, the bearer
+				<lb facs='#facs_105_r_2_1_tl_12' n='N012'/>of these qualities has most often been a male who exploits women
+				<lb facs='#facs_105_r_2_1_tl_13' n='N013'/>in the process of upgrading his own status and self-image. This is
+				<lb facs='#facs_105_r_2_1_tl_14' n='N014'/>a phenomenon common in world history —men who see them
+				<lb facs='#facs_105_r_2_1_tl_15' n='N015'/>selves without power turn on their women and families in hostil
+				<lb facs='#facs_105_r_2_1_tl_16' n='N016'/>ity and frustration, preferring some power, however ugly, to
+				<lb facs='#facs_105_r_2_1_tl_17' n='N017'/>none.
+			</p>
+			<p>
+				<lb facs='#facs_105_r_5_1_tl_1' n='N001'/>Modern Art/Film Stills Archive.)
+				<lb facs='#facs_105_r_5_1_tl_2' n='N002'/>... the English Canadian projects himself through his
+				<lb facs='#facs_105_r_5_1_tl_3' n='N003'/>animal images as a threatened victim confronted by a
+				<lb facs='#facs_105_r_5_1_tl_4' n='N004'/>superior alien technology against which he feels power
+				<lb facs='#facs_105_r_5_1_tl_5' n='N005'/>less, unable to take any positive defensive action, and
+				<lb facs='#facs_105_r_5_1_tl_6' n='N006'/>survive each crisis as he may, ultimately doomed.
+				<lb facs='#facs_105_r_5_1_tl_7' n='N007'/>(Margaret Atwood, Survival)
+				<lb facs='#facs_105_r_5_1_tl_8' n='N008'/>There have been few Canadian heroines and even fewer film
+				<lb facs='#facs_105_r_5_1_tl_9' n='N009'/>makers as inspiring as Nell Shipman, and so it is that as Canadian
+				<lb facs='#facs_105_r_5_1_tl_10' n='N010'/>women filmmakers we refer again and again to Back to God&apos;s
+				<lb facs='#facs_105_r_5_1_tl_11' n='N011'/>Country, in search of our own reflection from which to build
+				<lb facs='#facs_105_r_5_1_tl_12' n='N012'/>anew.
+				<lb facs='#facs_105_r_5_1_tl_13' n='N013'/>In 1927, when Canada’s feature-film-producing industry was
+				<lb facs='#facs_105_r_5_1_tl_14' n='N014'/>already on the decline because exhibition and distribution were sc
+				<lb facs='#facs_105_r_5_1_tl_15' n='N015'/>tied in to American production that indigenous industry was be
+				<lb facs='#facs_105_r_5_1_tl_16' n='N016'/>ing suffocated, Universal studios remade Back to God’s Country.
+				<lb facs='#facs_105_r_5_1_tl_17' n='N017'/>This version starred a different cast and shifted the story slightly
+				<lb facs='#facs_105_r_5_1_tl_18' n='N018'/>so that the romantic life rather than the independence of the hero
+			</p>
+			<pb n='106'/>
+			<p>
+				<lb facs='#facs_106_r_1_1_tl_1' n='N001'/>ine was emphasized. In 1953 Universal International Technicolor
+				<lb facs='#facs_106_r_1_1_tl_2' n='N002'/>made the third version of this classic story, starring Rock Hudson
+				<lb facs='#facs_106_r_1_1_tl_3' n='N003'/>and further diminishing the role of the heroine; her nirvana be
+				<lb facs='#facs_106_r_1_1_tl_4' n='N004'/>came inseparable from Rock Hudson’s arms. Each version of this
+				<lb facs='#facs_106_r_1_1_tl_5' n='N005'/>film accurately reflects its time and place; by 1953 women
+				<lb facs='#facs_106_r_1_1_tl_6' n='N006'/>weren’t allowed to be heroines without being submissive to men.
+				<lb facs='#facs_106_r_1_1_tl_7' n='N007'/>The cultural focus had shifted back to the kitchen and away from
+				<lb facs='#facs_106_r_1_1_tl_8' n='N008'/>other life styles.
+				<lb facs='#facs_106_r_1_1_tl_9' n='N009'/>Every colonized people — in other words every people
+				<lb facs='#facs_106_r_1_1_tl_10' n='N010'/>in whose soul an inferiority complex has been created
+				<lb facs='#facs_106_r_1_1_tl_11' n='N011'/>by the death and burial of its local cultural originality-
+				<lb facs='#facs_106_r_1_1_tl_12' n='N012'/>finds itself face to face with the language of the civilizing
+				<lb facs='#facs_106_r_1_1_tl_13' n='N013'/>nation; that is with the culture of the mother country.
+				<lb facs='#facs_106_r_1_1_tl_14' n='N014'/>The colonized is elevated ... in proportion to his adop
+				<lb facs='#facs_106_r_1_1_tl_15' n='N015'/>tion of the mother country’s cultural standards....the
+				<lb facs='#facs_106_r_1_1_tl_16' n='N016'/>goal of his behaviour will be the Other ... for the Other
+				<lb facs='#facs_106_r_1_1_tl_17' n='N017'/>alone can give him his worth. (Franz Fanon, Black
+				<lb facs='#facs_106_r_1_1_tl_18' n='N018'/>Skins, White Masks)
+				<lb facs='#facs_106_r_1_1_tl_19' n='N019'/>The division of sexes is a biological fact, not an event in
+				<lb facs='#facs_106_r_1_1_tl_20' n='N020'/>human history... Here is to be found the basic trait of
+				<lb facs='#facs_106_r_1_1_tl_21' n='N021'/>woman: she is the Other in a totality of which the two
+				<lb facs='#facs_106_r_1_1_tl_22' n='N022'/>components are necessary to one another. .. To decline
+				<lb facs='#facs_106_r_1_1_tl_23' n='N023'/>to be the Other, to refuse to be a party to the deal — this
+				<lb facs='#facs_106_r_1_1_tl_24' n='N024'/>would be for women to renounce all the advantages
+				<lb facs='#facs_106_r_1_1_tl_25' n='N025'/>conferred upon them by their alliance with the superior
+				<lb facs='#facs_106_r_1_1_tl_26' n='N026'/>caste. Man-the-sovereign will provide woman-the-liege
+				<lb facs='#facs_106_r_1_1_tl_27' n='N027'/>with material protection and will undertake the moral
+				<lb facs='#facs_106_r_1_1_tl_28' n='N028'/>justification of her existence; thus she can evade at once
+				<lb facs='#facs_106_r_1_1_tl_29' n='N029'/>both economic risk and the metaphysical risk of a liber
+				<lb facs='#facs_106_r_1_1_tl_30' n='N030'/>ty in which ends and aims must be contrived without
+				<lb facs='#facs_106_r_1_1_tl_31' n='N031'/>assistance. (Simone de Beauvoir, The Second Sex)
+				<lb facs='#facs_106_r_1_1_tl_32' n='N032'/>Although the proportion of female to male directors in early
+				<lb facs='#facs_106_r_1_1_tl_33' n='N033'/>Canadian filmmaking was small, there was at least room for
+				<lb facs='#facs_106_r_1_1_tl_34' n='N034'/>women’s participation in key roles. As in most professions at the
+				<lb facs='#facs_106_r_1_1_tl_35' n='N035'/>earliest stages, there was no rigid role tradition to prevent women
+				<lb facs='#facs_106_r_1_1_tl_36' n='N036'/>definitively from any or all interests or occupations. Most of the
+				<lb facs='#facs_106_r_1_1_tl_37' n='N037'/>women active in early Canadian filmmaking did, however, work
+				<lb facs='#facs_106_r_1_1_tl_38' n='N038'/>in husband-and-wife production teams. They shared the work-
+				<lb facs='#facs_106_r_1_1_tl_39' n='N039'/>rarely the credit. Only recently was Nell Shipman correctly cred
+				<lb facs='#facs_106_r_1_1_tl_40' n='N040'/>ited with directing Back to God&apos;s Country, previously attributed
+				<lb facs='#facs_106_r_1_1_tl_41' n='N041'/>to her producer-husband, Ernest Shipman.
+				<lb facs='#facs_106_r_1_1_tl_42' n='N042'/>In addition to the women working in independent filmmak
+				<lb facs='#facs_106_r_1_1_tl_43' n='N043'/>ing, there have been women working at the National Film Board
+				<lb facs='#facs_106_r_1_1_tl_44' n='N044'/>since its inception in 1941. John Grierson, founder and director of
+				<lb facs='#facs_106_r_1_1_tl_45' n='N045'/>the NFB, believed that the organizational skills and talents of
+				<lb facs='#facs_106_r_1_1_tl_46' n='N046'/>librarians were ideal credentials for beginning filmmakers. Much
+				<lb facs='#facs_106_r_1_1_tl_47' n='N047'/>to the surprise of the women librarians he hired, not to mention
+				<lb facs='#facs_106_r_1_1_tl_48' n='N048'/>that of the established filmmakers, the ensuing films did in fact
+				<lb facs='#facs_106_r_1_1_tl_49' n='N049'/>prove the skill of these women. So it was that in the 1940s
+				<lb facs='#facs_106_r_1_1_tl_50' n='N050'/>Gudrun Parker and Evelyn Cherry, to name just two, began their
+				<lb facs='#facs_106_r_1_1_tl_51' n='N051'/>careers in filmmaking, careers that continue to this day, each
+				<lb facs='#facs_106_r_1_1_tl_52' n='N052'/>woman still successfully producing and directing commercial
+				<lb facs='#facs_106_r_1_1_tl_53' n='N053'/>short films, each with her own prairie-based production com
+				<lb facs='#facs_106_r_1_1_tl_54' n='N054'/>pany.
+				<lb facs='#facs_106_r_1_1_tl_55' n='N055'/>From the earliest days of Canadian filmmaking through the
+				<lb facs='#facs_106_r_1_1_tl_56' n='N056'/>1940s, women played key roles. For the next twenty-five years
+				<lb facs='#facs_106_r_1_1_tl_57' n='N057'/>they did not, and only in 1969, with Sylvia Spring’s first feature
+				<lb facs='#facs_106_r_1_1_tl_58' n='N058'/>film — Madeleine Is... —was a woman again visible in a direc
+				<lb facs='#facs_106_r_1_1_tl_59' n='N059'/>torial role. What accounts for the quarter-century gap? First, as
+				<lb facs='#facs_106_r_1_1_tl_60' n='N060'/>the NFB’s production of short films and documentaries increased,
+				<lb facs='#facs_106_r_1_1_tl_61' n='N061'/>the production of feature films radically decreased, often to the
+				<lb facs='#facs_106_r_1_1_tl_62' n='N062'/>point of non-existence. If Canadian men were getting few oppor
+			</p>
+			<p>
+				<lb facs='#facs_106_r_2_1_tl_1' n='N001'/>tunities in film, Canadian women were getting fewer—or none. As
+				<lb facs='#facs_106_r_2_1_tl_2' n='N002'/>is the case in all other professions and classes, competition among
+				<lb facs='#facs_106_r_2_1_tl_3' n='N003'/>male filmmakers is such that female inclusion would only make it
+				<lb facs='#facs_106_r_2_1_tl_4' n='N004'/>worse, and in every aspect of the industry women have been
+				<lb facs='#facs_106_r_2_1_tl_5' n='N005'/>deterred from participation. Second, in keeping with the general
+				<lb facs='#facs_106_r_2_1_tl_6' n='N006'/>back-to-the-kitchen backlash after World War II, not only were
+				<lb facs='#facs_106_r_2_1_tl_7' n='N007'/>women omitted from key roles in making films, but the images of
+				<lb facs='#facs_106_r_2_1_tl_8' n='N008'/>women in the films made by men regressed, became more hollow
+				<lb facs='#facs_106_r_2_1_tl_9' n='N009'/>and one-dimensional, reinforcing the cultural stereotype. All of
+			</p>
+			<p>
+				<lb facs='#facs_106_r_4_1_tl_3' n='N001'/>this compounded the problem of Canada’s aborted film industry,
+				<lb facs='#facs_106_r_4_1_tl_4' n='N002'/>sanctioned by the Canadian Cooperation Project and Canada’s
+				<lb facs='#facs_106_r_4_1_tl_5' n='N003'/>previous refusals to hinder the American takeover of exhibition
+				<lb facs='#facs_106_r_4_1_tl_6' n='N004'/>and distribution.
+				<lb facs='#facs_106_r_4_1_tl_7' n='N005'/>During the 1920s two factions in the American film industry
+				<lb facs='#facs_106_r_4_1_tl_8' n='N006'/>battled over methods of expansion. The struggle was between the
+				<lb facs='#facs_106_r_4_1_tl_9' n='N007'/>independents (producers and exhibitors) and the monopolists,
+				<lb facs='#facs_106_r_4_1_tl_10' n='N008'/>who favored “vertical integration“ — bringing all aspects of film
+				<lb facs='#facs_106_r_4_1_tl_11' n='N009'/>making, distribution and exhibition under the control of the big
+				<lb facs='#facs_106_r_4_1_tl_12' n='N010'/>production studios. Under the guidance of Adolph Zukor, the
+				<lb facs='#facs_106_r_4_1_tl_13' n='N011'/>monopolists won, and independent filmmaking in both Canada
+				<lb facs='#facs_106_r_4_1_tl_14' n='N012'/>and the United States was wiped out. In 1948 the U.S. legislated
+				<lb facs='#facs_106_r_4_1_tl_15' n='N013'/>against this kind of control, and distribution and exhibition were
+				<lb facs='#facs_106_r_4_1_tl_16' n='N014'/>separated from production, allowing the resurrection of an inde
+				<lb facs='#facs_106_r_4_1_tl_17' n='N015'/>pendent film-producing and exhibiting community. In Canada,
+				<lb facs='#facs_106_r_4_1_tl_18' n='N016'/>no such legislation has been passed; foreign companies are
+				<lb facs='#facs_106_r_4_1_tl_19' n='N017'/>allowed privileges they do not even have in their own countries,
+				<lb facs='#facs_106_r_4_1_tl_20' n='N018'/>and the existence of a commercial Canadian film industry is effec
+				<lb facs='#facs_106_r_4_1_tl_21' n='N019'/>tively killed. All Canadian filmmakers are, then, by definition,
+				<lb facs='#facs_106_r_4_1_tl_22' n='N020'/>&quot;independent, and yet there is no parallel &quot;independent&quot; system
+				<lb facs='#facs_106_r_4_1_tl_23' n='N021'/>for distribution and exhibition.
+				<lb facs='#facs_106_r_4_1_tl_24' n='N022'/>In 1931 Famous Players was taken to court under the Cana
+				<lb facs='#facs_106_r_4_1_tl_25' n='N023'/>dian Combines Act which forbids foreign companies from con
+				<lb facs='#facs_106_r_4_1_tl_26' n='N024'/>trolling the Canadian market in such a way as to put Canadian
+				<lb facs='#facs_106_r_4_1_tl_27' n='N025'/>companies at a disadvantage. But after various tactical pressures
+				<lb facs='#facs_106_r_4_1_tl_28' n='N026'/>and maneuvers, Famous Players was allowed to continue its ex
+				<lb facs='#facs_106_r_4_1_tl_29' n='N027'/>pansion. In 1948, when the Canadian film-producing community
+				<lb facs='#facs_106_r_4_1_tl_30' n='N028'/>was ready to build a permanent feature industry, the American
+				<lb facs='#facs_106_r_4_1_tl_31' n='N029'/>government was threatened with the loss of millions of profit dol
+				<lb facs='#facs_106_r_4_1_tl_32' n='N030'/>lars from Canada. It quickly proposed the Canadian Cooperation
+				<lb facs='#facs_106_r_4_1_tl_33' n='N031'/>Project, by which Canada would promise not to make any fea
+				<lb facs='#facs_106_r_4_1_tl_34' n='N032'/>ture films. The U.S. Motion Picture Export Association promised
+				<lb facs='#facs_106_r_4_1_tl_35' n='N033'/>the Canadian government that the Cooperation Project would
+				<lb facs='#facs_106_r_4_1_tl_36' n='N034'/>make at least 520 million a year for Canada in tourist trade
+				<lb facs='#facs_106_r_4_1_tl_37' n='N035'/>sparked by Hollywood films mentioning Canada. In addition,
+			</p>
+			<pb n='107'/>
+			<p>
+				<lb facs='#facs_107_r_1_1_tl_1' n='N001'/>Canada was to get a film on her trade dollar problem, more com
+				<lb facs='#facs_107_r_1_1_tl_2' n='N002'/>plete news coverage, a short film on Canada made in Hollywood,
+				<lb facs='#facs_107_r_1_1_tl_3' n='N003'/>release of NFB films in the U.S., Canadian &quot;sequences&quot; in Holly
+				<lb facs='#facs_107_r_1_1_tl_4' n='N004'/>wood features, radio recordings extolling Canada and a more
+				<lb facs='#facs_107_r_1_1_tl_5' n='N005'/>careful selection of films sent to Canada. In its infinite naiveté,
+				<lb facs='#facs_107_r_1_1_tl_6' n='N006'/>the Canadian government agreed.
+				<lb facs='#facs_107_r_1_1_tl_7' n='N007'/>If you watch American films from that time (1948-58) you
+				<lb facs='#facs_107_r_1_1_tl_8' n='N008'/>will catch occasional references such as: “Well, they’re sort of a
+				<lb facs='#facs_107_r_1_1_tl_9' n='N009'/>special kind. They live in the hills there ... red-winged orioles
+				<lb facs='#facs_107_r_1_1_tl_10' n='N010'/>... from Canada...&quot; (from Bend in the River with Jimmy Stew-
+				<lb facs='#facs_107_r_1_1_tl_11' n='N011'/>art). No such bird exists. And if it did, it is highly unlikely that
+				<lb facs='#facs_107_r_1_1_tl_12' n='N012'/>such a reference would increase tourism to Canada. The other
+				<lb facs='#facs_107_r_1_1_tl_13' n='N013'/>most common reference was to villains escaping over the border.
+				<lb facs='#facs_107_r_1_1_tl_14' n='N014'/>Aside from these totally meaningless mentions, the image of
+				<lb facs='#facs_107_r_1_1_tl_15' n='N015'/>Canada was that of a bleak and harsh landscape unsuitable for
+				<lb facs='#facs_107_r_1_1_tl_16' n='N016'/>human life, with mounties and sex-crazed coureurs-du-bois (trap
+				<lb facs='#facs_107_r_1_1_tl_17' n='N017'/>pers) running after helpless females. Needless to say, tourism not
+				<lb facs='#facs_107_r_1_1_tl_18' n='N018'/>only failed to rise, it took a turn for the worse. In retrospect, the
+				<lb facs='#facs_107_r_1_1_tl_19' n='N019'/>only thing that the Project did publicize was how easily, and how
+				<lb facs='#facs_107_r_1_1_tl_20' n='N020'/>cheaply, the Canadian authorities could be persuaded to sell out
+				<lb facs='#facs_107_r_1_1_tl_21' n='N021'/>Canada’s chances for her own film industry.
+				<lb facs='#facs_107_r_1_1_tl_22' n='N022'/>In the last twenty-five years, Hollywood’s business in
+				<lb facs='#facs_107_r_1_1_tl_23' n='N023'/>Canada has continued to boom uninhibited. Canada remains the
+				<lb facs='#facs_107_r_1_1_tl_24' n='N024'/>only film-producing country in the world with no quota for
+				<lb facs='#facs_107_r_1_1_tl_25' n='N025'/>nationally made films in national theatres, no levy restrictions on
+				<lb facs='#facs_107_r_1_1_tl_26' n='N026'/>money being made by foreign companies in Canada. The films
+				<lb facs='#facs_107_r_1_1_tl_27' n='N027'/>that do manage to get made in Canada are &quot;foreign&quot; in their own
+				<lb facs='#facs_107_r_1_1_tl_28' n='N028'/>country. In addition, Canadian films that have received awards
+				<lb facs='#facs_107_r_1_1_tl_29' n='N029'/>in Cannes, in New York or in Edinburgh, such as La Vie Rêvée
+				<lb facs='#facs_107_r_1_1_tl_30' n='N030'/>(Dream Life) (1972) directed by Mireille Dansereau, have yet to
+				<lb facs='#facs_107_r_1_1_tl_31' n='N031'/>receive commercial Canadian distribution. Sometimes five or six
+				<lb facs='#facs_107_r_1_1_tl_32' n='N032'/>years lapse between the completion of a film and its distribution
+				<lb facs='#facs_107_r_1_1_tl_33' n='N033'/>-if it is distributed.
+				<lb facs='#facs_107_r_1_1_tl_34' n='N034'/>Not making films you should be making is awful, but
+				<lb facs='#facs_107_r_1_1_tl_35' n='N035'/>making them and then not having them shown is worse.
+				<lb facs='#facs_107_r_1_1_tl_36' n='N036'/>(Claude Jutra, French-Canadian director)
+				<lb facs='#facs_107_r_1_1_tl_37' n='N037'/>To dispel the popular notion that Canada is a lucrative para
+				<lb facs='#facs_107_r_1_1_tl_38' n='N038'/>dise for filmmakers, who are fully funded by a national system of
+				<lb facs='#facs_107_r_1_1_tl_39' n='N039'/>art patronage — here are some other facts. In Canada there is vir
+				<lb facs='#facs_107_r_1_1_tl_40' n='N040'/>tually no private or corporate funding for films. Until last year
+				<lb facs='#facs_107_r_1_1_tl_41' n='N041'/>there were no tax incentives to encourage investment. There are
+				<lb facs='#facs_107_r_1_1_tl_42' n='N042'/>two government-sponsored funding sources for film: the Canad
+				<lb facs='#facs_107_r_1_1_tl_43' n='N043'/>ian Film Development Corporation (CFDC) and the Canada
+				<lb facs='#facs_107_r_1_1_tl_44' n='N044'/>Council. The CFDC, in nine years, has invested 525 million in
+				<lb facs='#facs_107_r_1_1_tl_45' n='N045'/>&quot;Canadian&quot; films, many of which were American coproductions
+				<lb facs='#facs_107_r_1_1_tl_46' n='N046'/>in which Canadian filmmakers were doing no more than &quot;hewing
+				<lb facs='#facs_107_r_1_1_tl_47' n='N047'/>the wood and drawing the water.“ This kind of generosity has,
+				<lb facs='#facs_107_r_1_1_tl_48' n='N048'/>for the most part, ceased. To give an idea of amounts of actual
+				<lb facs='#facs_107_r_1_1_tl_49' n='N049'/>financial support: Joyce Wieland’s feature, The Far Shore, was
+				<lb facs='#facs_107_r_1_1_tl_50' n='N050'/>the most expensive film funded by the CFDC to date; their share
+				<lb facs='#facs_107_r_1_1_tl_51' n='N051'/>was 5210,000, half of the film’s total production costs. In the
+				<lb facs='#facs_107_r_1_1_tl_52' n='N052'/>CFDC’s history, only two films have been made by women. (The
+				<lb facs='#facs_107_r_1_1_tl_53' n='N053'/>other one was La Vie Rêvée.) The film section of the Canada
+				<lb facs='#facs_107_r_1_1_tl_54' n='N054'/>Council funds an average of ten to fifteen short films a year,
+				<lb facs='#facs_107_r_1_1_tl_55' n='N055'/>usually between $5,000 and $10,000. Their budget is diminished
+				<lb facs='#facs_107_r_1_1_tl_56' n='N056'/>year by year by government cutbacks.
+				<lb facs='#facs_107_r_1_1_tl_57' n='N057'/>The National Film Board does not fund independent films or
+				<lb facs='#facs_107_r_1_1_tl_58' n='N058'/>filmmakers. It is an institution, producing institutional shorts and
+				<lb facs='#facs_107_r_1_1_tl_59' n='N059'/>documentaries. In the early days of the NFB, women enjoyed a
+				<lb facs='#facs_107_r_1_1_tl_60' n='N060'/>certain amount of equality; recent surveys indicate otherwise.
+				<lb facs='#facs_107_r_1_1_tl_61' n='N061'/>The following is from a 1975 interview with Peter Jones, then
+				<lb facs='#facs_107_r_1_1_tl_62' n='N062'/>Regional Director of the NFB in Vancouver:
+			</p>
+			<p>
+				<lb facs='#facs_107_r_2_1_tl_1' n='N001'/>Q: In Studio D’s literature, it says that the Film Board
+				<lb facs='#facs_107_r_2_1_tl_2' n='N002'/>makes more films with fish in them than with wom
+				<lb facs='#facs_107_r_2_1_tl_3' n='N003'/>en. Do you have any comment on that?
+				<lb facs='#facs_107_r_2_1_tl_4' n='N004'/>A: Well, there are more fish than women.
+				<lb facs='#facs_107_r_2_1_tl_5' n='N005'/>Q: But are they more important?
+				<lb facs='#facs_107_r_2_1_tl_6' n='N006'/>A: I don’t know...
+				<lb facs='#facs_107_r_2_1_tl_7' n='N007'/>In 1975 (International Women’s Year) &quot;Studio D” was set up
+				<lb facs='#facs_107_r_2_1_tl_8' n='N008'/>by the NFB to focus on women as filmmakers and as audience.
+				<lb facs='#facs_107_r_2_1_tl_9' n='N009'/>Conveniently rendered impotent by having substantially less staff
+				<lb facs='#facs_107_r_2_1_tl_10' n='N010'/>and a lower budget than other NFB studios, it has been able to
+				<lb facs='#facs_107_r_2_1_tl_11' n='N011'/>make few films. Those that have been made are so heavily
+				<lb facs='#facs_107_r_2_1_tl_12' n='N012'/>booked it is often difficult to obtain them. Films About Women
+				<lb facs='#facs_107_r_2_1_tl_13' n='N013'/>and Work, a series of eleven shorts, is booked up six to eight
+				<lb facs='#facs_107_r_2_1_tl_14' n='N014'/>months in advance of screenings. (Most NFB films are available
+				<lb facs='#facs_107_r_2_1_tl_15' n='N015'/>within a week or two.)
+				<lb facs='#facs_107_r_2_1_tl_16' n='N016'/>Despite obstacles that have at times seemed insurmountable,
+				<lb facs='#facs_107_r_2_1_tl_17' n='N017'/>Canadian women have made a considerable number of films over
+				<lb facs='#facs_107_r_2_1_tl_18' n='N018'/>the last ten years. There have been three features made for com-
+				<lb facs='#facs_107_r_2_1_tl_19' n='N019'/>mercial release, and several feature-length, non-commercial
+				<lb facs='#facs_107_r_2_1_tl_20' n='N020'/>films. Sylvia Spring&apos;s Madeleine Is... was released in 1969,
+				<lb facs='#facs_107_r_2_1_tl_21' n='N021'/>Mireille Dansereau’s La Vie Rêvée in 1972 and Joyce Wieland&apos;s
+				<lb facs='#facs_107_r_2_1_tl_22' n='N022'/>The Far Shore in 1976. Each of these films presents us with a
+				<lb facs='#facs_107_r_2_1_tl_23' n='N023'/>woman as central character, in different stages of social and poli
+				<lb facs='#facs_107_r_2_1_tl_24' n='N024'/>tical development. Madeleine has not yet clearly defined her posi
+				<lb facs='#facs_107_r_2_1_tl_25' n='N025'/>tion in the world but she is aware of and struggling with the
+				<lb facs='#facs_107_r_2_1_tl_26' n='N026'/>forces that exploit her. In La Vie Rêvée the two female leads are
+				<lb facs='#facs_107_r_2_1_tl_27' n='N027'/>friends (a rare relationship for women in film) who work for a
+				<lb facs='#facs_107_r_2_1_tl_28' n='N028'/>film company and on the weekends, live out their fantasies, most
+				<lb facs='#facs_107_r_2_1_tl_29' n='N029'/>of which concern men. Nevertheless, they are not in competition
+				<lb facs='#facs_107_r_2_1_tl_30' n='N030'/>with each other, nor are they victimized by their fantasies. The
+				<lb facs='#facs_107_r_2_1_tl_31' n='N031'/>Far Shore goes back to 1919 (the period in which Back to God&apos;s
+				<lb facs='#facs_107_r_2_1_tl_32' n='N032'/>Country was made) and to a story of love, the isolation of artists,
+				<lb facs='#facs_107_r_2_1_tl_33' n='N033'/>the conflict between the French and the English, and Canadian
+				<lb facs='#facs_107_r_2_1_tl_34' n='N034'/>history.
+				<lb facs='#facs_107_r_2_1_tl_35' n='N035'/>Several films have resulted from the universal feminist pre
+				<lb facs='#facs_107_r_2_1_tl_36' n='N036'/>occupation with digging up one’s roots, personally and collec
+				<lb facs='#facs_107_r_2_1_tl_37' n='N037'/>tively. Great Grand Mother (NFB, 1976, 30 min., color) is a film
+				<lb facs='#facs_107_r_2_1_tl_38' n='N038'/>by Lorna Rasmussen and Anne Wheeler made in Edmonton
+				<lb facs='#facs_107_r_2_1_tl_39' n='N039'/>about the lives of pioneer women who were instrumental in
+				<lb facs='#facs_107_r_2_1_tl_40' n='N040'/>settling the prairies. Bonnie Kreps&apos; After the Vote (CFDC, 1969,
+				<lb facs='#facs_107_r_2_1_tl_41' n='N041'/>22 min., black and white) is a feminist documentary covering the
+				<lb facs='#facs_107_r_2_1_tl_42' n='N042'/>history of women’s rights in Canada; it is factual and informa
+				<lb facs='#facs_107_r_2_1_tl_43' n='N043'/>tive with a sense of humor. Kathleen Shannon’s Goldwood (NFB,
+				<lb facs='#facs_107_r_2_1_tl_44' n='N044'/>1975, 22 min., color) is one woman’s memories of childhood in
+				<lb facs='#facs_107_r_2_1_tl_45' n='N045'/>the wilderness of northern Ontario, first recalled in paintings,
+				<lb facs='#facs_107_r_2_1_tl_46' n='N046'/>then revisited in the reality of thirty years later. Shannon is cur
+				<lb facs='#facs_107_r_2_1_tl_47' n='N047'/>rently producing a documentary film about the women filmmak-
+				<lb facs='#facs_107_r_2_1_tl_48' n='N048'/>ers who began making films at the NFB in the 1940s. Buenos Dias
+				<lb facs='#facs_107_r_2_1_tl_49' n='N049'/>Compañeros: Women of Cuba (Phoenix, 1975, 58 min., color),
+				<lb facs='#facs_107_r_2_1_tl_50' n='N050'/>directed by Aviva Slesin, examines the lives of four very different
+				<lb facs='#facs_107_r_2_1_tl_51' n='N051'/>Cuban women.
+				<lb facs='#facs_107_r_2_1_tl_52' n='N052'/>Over the last few years some people have concluded that the
+				<lb facs='#facs_107_r_2_1_tl_53' n='N053'/>future of Canadian filmmaking rests in the hands of women.
+				<lb facs='#facs_107_r_2_1_tl_54' n='N054'/>Though it reeks of reverse sexism, this opinion gains credibility
+				<lb facs='#facs_107_r_2_1_tl_55' n='N055'/>with the emergence of more women’s films. Women making films
+				<lb facs='#facs_107_r_2_1_tl_56' n='N056'/>in Canada have had nothing to lose and everything to gain. They
+				<lb facs='#facs_107_r_2_1_tl_57' n='N057'/>continue, encouraged by the words of one of Canada’s most out-
+				<lb facs='#facs_107_r_2_1_tl_58' n='N058'/>rageous foremothers, Nellie McClung, who said in 1873: “Never
+				<lb facs='#facs_107_r_2_1_tl_59' n='N059'/>retract, never explain, never apologize — get the thing done and
+				<lb facs='#facs_107_r_2_1_tl_60' n='N060'/>let them howl.&quot;
+				<lb facs='#facs_107_r_2_1_tl_61' n='N061'/>Ardele Lister is a Canadian feminist/artist/filmmaker/critic and the editor
+				<lb facs='#facs_107_r_2_1_tl_62' n='N062'/>of Criteria, published in Vancouver. Last year she co-scripted and directed
+				<lb facs='#facs_107_r_2_1_tl_63' n='N063'/>So Where’s My Prince Already? —a tragicomedy about love and marriage.
+			</p>
+         </div>
+      </body>
+   </text>
+</TEI>

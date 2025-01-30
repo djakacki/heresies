@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='86'/>
+            <p>
+               <lb facs='#facs_86_r_1_1_tl_1' n='N001'/>PROSE POEMS FOR OLD WOMEN
+            </p>
+            <p>
+               <lb facs='#facs_86_r_2_1_tl_1' n='N001'/>May Stevens
+            </p>
+            <p>
+               <lb facs='#facs_86_region_1695842436783_24_tl_1' n='N001'/>SITTING STILL
+               <lb facs='#facs_86_region_1695842436783_24_tl_2' n='N002'/>Some people died who never died before she said
+               <lb facs='#facs_86_region_1695842436783_24_tl_3' n='N003'/>They died iust now she said readine The Times
+               <lb facs='#facs_86_region_1695842436783_24_tl_4' n='N004'/>Her skin was pink her flesh concealed the bones
+               <lb facs='#facs_86_region_1695842436783_24_tl_5' n='N005'/>inside She pretended she was a chair
+               <lb facs='#facs_86_region_1695842436783_24_tl_6' n='N006'/>hoping death would flash past sat still as a sofa
+               <lb facs='#facs_86_region_1695842436783_24_tl_7' n='N007'/>A dress laid over two shoes neatly placed.
+            </p>
+            <p>
+               <lb facs='#facs_86_region_1695842439740_27_tl_1' n='N001'/>WOMAN WAITING
+               <lb facs='#facs_86_region_1695842439740_27_tl_2' n='N002'/>My mother sits at a window watching the field.
+               <lb facs='#facs_86_region_1695842439740_27_tl_3' n='N003'/>When I come after six months, a vear, she waves.
+               <lb facs='#facs_86_region_1695842439740_27_tl_4' n='N004'/>Moving from chair to bed to table she opens the
+               <lb facs='#facs_86_region_1695842439740_27_tl_5' n='N005'/>door to the field, waits to receive words of praise
+               <lb facs='#facs_86_region_1695842439740_27_tl_6' n='N006'/>and affection. The days of no figure crossing the
+               <lb facs='#facs_86_region_1695842439740_27_tl_7' n='N007'/>field have moved to this moment. We are together.
+               <lb facs='#facs_86_region_1695842439740_27_tl_8' n='N008'/>Ne drive off. She has nothing to say. She is humming.
+            </p>
+            <p>
+               <lb facs='#facs_86_region_1695842444973_30_tl_1' n='N001'/>ALICE DICK b. NEW BRUNSWICK. CANADA 1895
+               <lb facs='#facs_86_region_1695842444973_30_tl_2' n='N002'/>As children in Chatham Alice and her sister Mary
+               <lb facs='#facs_86_region_1695842444973_30_tl_3' n='N003'/>went for picnics on a boat down the River Miramichi
+               <lb facs='#facs_86_region_1695842444973_30_tl_4' n='N004'/>as far as Bav de Vin and Burnt Church where the boat
+               <lb facs='#facs_86_region_1695842444973_30_tl_5' n='N005'/>turned around. They caried sandwiches and lemon
+               <lb facs='#facs_86_region_1695842444973_30_tl_6' n='N006'/>meringue pie homemade by Nelle Morn who hooked
+               <lb facs='#facs_86_region_1695842444973_30_tl_7' n='N007'/>five or six rugs a vear, took in laundry, baked
+               <lb facs='#facs_86_region_1695842444973_30_tl_8' n='N008'/>and sold fresh bread in herstore, made allthe
+               <lb facs='#facs_86_region_1695842444973_30_tl_9' n='N009'/>familv s clothes and delivered milk to her neishbors.
+               <lb facs='#facs_86_region_1695842444973_30_tl_10' n='N010'/>Three of her four children were girls but they never
+               <lb facs='#facs_86_region_1695842444973_30_tl_11' n='N011'/>learned to do allthe things their mother did. She
+               <lb facs='#facs_86_region_1695842444973_30_tl_12' n='N012'/>had no time to teach them.
+               <lb facs='#facs_86_region_1695842444973_30_tl_13' n='N013'/>Alice was in the second grade when Nellie Morn threw
+               <lb facs='#facs_86_region_1695842444973_30_tl_14' n='N014'/>a log from the top of the woodpile into Alices left
+               <lb facs='#facs_86_region_1695842444973_30_tl_15' n='N015'/>eve. Her blue dress turned red.
+               <lb facs='#facs_86_region_1695842444973_30_tl_16' n='N016'/>Alice was twelve when her father died. She went to work
+               <lb facs='#facs_86_region_1695842444973_30_tl_17' n='N017'/>as mothers helper for the Snowballs and the Steeds
+               <lb facs='#facs_86_region_1695842444973_30_tl_18' n='N018'/>who lived in the big house on the hill. Thev owned the
+               <lb facs='#facs_86_region_1695842444973_30_tl_19' n='N019'/>pulp mill.
+               <lb facs='#facs_86_region_1695842444973_30_tl_20' n='N020'/>Later she came to Boston, got a job in a Chinese
+               <lb facs='#facs_86_region_1695842444973_30_tl_21' n='N021'/>restaurant where she waited on True N. Stevens halft
+               <lb facs='#facs_86_region_1695842444973_30_tl_22' n='N022'/>owner of Stevens and Greene Groceries and his bov Ralph
+               <lb facs='#facs_86_region_1695842444973_30_tl_23' n='N023'/>who flirted with her. Asked what A.D. on the billstood
+               <lb facs='#facs_86_region_1695842444973_30_tl_24' n='N024'/>for she said after dinner. They got married. She was
+               <lb facs='#facs_86_region_1695842444973_30_tl_25' n='N025'/>twenty-four. I was the first of their two children
+               <lb facs='#facs_86_region_1695842444973_30_tl_26' n='N026'/>the one who lived.
+               <lb facs='#facs_86_region_1695842444973_30_tl_27' n='N027'/>She is nearly eighty now. She has a pink-gummed smile
+               <lb facs='#facs_86_region_1695842444973_30_tl_28' n='N028'/>incredibly innocent and sweet without the least inflec-
+               <lb facs='#facs_86_region_1695842444973_30_tl_29' n='N029'/>tion of twenty vears confinement in the back wards of
+               <lb facs='#facs_86_region_1695842444973_30_tl_30' n='N030'/>state mental hospitals. The light in the one eve that
+               <lb facs='#facs_86_region_1695842444973_30_tl_31' n='N031'/>ses has never gone out.
+            </p>
+            <p>
+               <lb facs='#facs_86_region_1695842450855_33_tl_1' n='N001'/>OLD WOMAN BATHING
+               <lb facs='#facs_86_region_1695842450855_33_tl_2' n='N002'/>Loosened strands slip down deep divided back.
+               <lb facs='#facs_86_region_1695842450855_33_tl_3' n='N003'/>Buttocks shelfslides to creasing thighs. Knees
+               <lb facs='#facs_86_region_1695842450855_33_tl_4' n='N004'/>kep a partial crouch. Belly slings body center
+               <lb facs='#facs_86_region_1695842450855_33_tl_5' n='N005'/>forward over a hairless pouch. She lifts each breast
+               <lb facs='#facs_86_region_1695842450855_33_tl_6' n='N006'/>soaping the smell of age. She (matter self-propelled
+               <lb facs='#facs_86_region_1695842450855_33_tl_7' n='N007'/>mushrooms pink and lavender, lustful, greedy, feeding)
+               <lb facs='#facs_86_region_1695842450855_33_tl_8' n='N008'/>steps into air, hands stroking space, trusting someone
+               <lb facs='#facs_86_region_1695842450855_33_tl_9' n='N009'/>is there to towel her drv, pin remnant hair, give back
+               <lb facs='#facs_86_region_1695842450855_33_tl_10' n='N010'/>her name, her watch, her storv. She loves being clean
+               <lb facs='#facs_86_region_1695842450855_33_tl_11' n='N011'/>but who has time to wash her every day? Isshe a baby
+               <lb facs='#facs_86_region_1695842450855_33_tl_12' n='N012'/>with a future? She loves hair dresed but fears over
+               <lb facs='#facs_86_region_1695842450855_33_tl_13' n='N013'/>handling may make it thin. Dampish stil, flushed,
+               <lb facs='#facs_86_region_1695842450855_33_tl_14' n='N014'/>talced, her body blooming, she swings foot, hums
+               <lb facs='#facs_86_region_1695842450855_33_tl_15' n='N015'/>nichtgowned beside the bed, waits for milk and pills.
+               <lb facs='#facs_86_region_1695842450855_33_tl_16' n='N016'/>Glasses folded under pillow, sheet clutched high,
+               <lb facs='#facs_86_region_1695842450855_33_tl_17' n='N017'/>one hand slipped between her thighs, she sleepsa
+               <lb facs='#facs_86_region_1695842450855_33_tl_18' n='N018'/>sleep she will denv, in tongues converses with
+               <lb facs='#facs_86_region_1695842450855_33_tl_19' n='N019'/>familiars, unshareable. No she did not speak she lies
+               <lb facs='#facs_86_region_1695842450855_33_tl_20' n='N020'/>keeping her secret garden, loving the long continuous
+               <lb facs='#facs_86_region_1695842450855_33_tl_21' n='N021'/>dialog, absorbing, obsessing, warm and sweet as ex
+               <lb facs='#facs_86_region_1695842450855_33_tl_22' n='N022'/>crement newly made, unspeakable, but hers, and real.
+            </p>
+            <p>
+               <lb facs='#facs_86_region_1695842455874_36_tl_1' n='N001'/>ADDIE, ALICE
+               <lb facs='#facs_86_region_1695842455874_36_tl_2' n='N002'/>Aunt Addie went to the hospital for a three day checkup
+               <lb facs='#facs_86_region_1695842455874_36_tl_3' n='N003'/>came out with a clean billof health rejoiced at eighty-three
+               <lb facs='#facs_86_region_1695842455874_36_tl_4' n='N004'/>av-vah she savs Maine voice unaided eves family proud race proud
+               <lb facs='#facs_86_region_1695842455874_36_tl_5' n='N005'/>discipline proud straight square proud spareness dryness proud
+               <lb facs='#facs_86_region_1695842455874_36_tl_6' n='N006'/>avkward proud truth proud. Addie; Youstart out with nothing
+               <lb facs='#facs_86_region_1695842455874_36_tl_7' n='N007'/>vou end up with nothing. My traveling days are over. I
+               <lb facs='#facs_86_region_1695842455874_36_tl_8' n='N008'/>remember Souza s band and Burton Holmes lectures. In fact!
+               <lb facs='#facs_86_region_1695842455874_36_tl_9' n='N009'/>heard Winston Churchill telling his experiences in the Boer War
+               <lb facs='#facs_86_region_1695842455874_36_tl_10' n='N010'/>the winter of nineteen hundred andone. Making blouses for
+               <lb facs='#facs_86_region_1695842455874_36_tl_11' n='N011'/>April pajamas for Ramona distant granddaughters puttingup
+               <lb facs='#facs_86_region_1695842455874_36_tl_12' n='N012'/>pears for the winter of nineteen hundred and seventy-two. Aunt
+               <lb facs='#facs_86_region_1695842455874_36_tl_13' n='N013'/>Addie s house is bare of suffering as her face in which suffering
+               <lb facs='#facs_86_region_1695842455874_36_tl_14' n='N014'/>would be an indulgence eves no feling showing asking Maine
+               <lb facs='#facs_86_region_1695842455874_36_tl_15' n='N015'/>voice slightly rasped edges knowing but not dwelling what did
+               <lb facs='#facs_86_region_1695842455874_36_tl_16' n='N016'/>you expect?
+               <lb facs='#facs_86_region_1695842455874_36_tl_17' n='N017'/>In Istanbul a woman of one hundred and one is lifted out of bed
+               <lb facs='#facs_86_region_1695842455874_36_tl_18' n='N018'/>into bed mind clear in a crooked cage telling how the sultan
+               <lb facs='#facs_86_region_1695842455874_36_tl_19' n='N019'/>was deposed and another came in the palace.
+               <lb facs='#facs_86_region_1695842455874_36_tl_20' n='N020'/>Mary had a sister Alice pleasingly plump white calves
+               <lb facs='#facs_86_region_1695842455874_36_tl_21' n='N021'/>hairless armpits clear brow stilleyes. Alice lost an eve
+               <lb facs='#facs_86_region_1695842455874_36_tl_22' n='N022'/>when wood was thrown from the woodpile. Blood ran down her
+               <lb facs='#facs_86_region_1695842455874_36_tl_23' n='N023'/>dress. Alice lost ason flu caried him off. Alice lost
+               <lb facs='#facs_86_region_1695842455874_36_tl_24' n='N024'/>a dauchter who married a lewish artist. Alice lost a husband
+               <lb facs='#facs_86_region_1695842455874_36_tl_25' n='N025'/>when she grew fat and mad. Twenty vears after one-eved
+               <lb facs='#facs_86_region_1695842455874_36_tl_26' n='N026'/>burnt-out schizophrenic Alice sees three figures swarm through
+               <lb facs='#facs_86_region_1695842455874_36_tl_27' n='N027'/>glass doors daughter husband her husband? son her sont
+               <lb facs='#facs_86_region_1695842455874_36_tl_28' n='N028'/>take her outside. She smiles says well declare gets up
+               <lb facs='#facs_86_region_1695842455874_36_tl_29' n='N029'/>goes to the door where coat hat bag are hanging andturns
+               <lb facs='#facs_86_region_1695842455874_36_tl_30' n='N030'/>readv.
+               <lb facs='#facs_86_region_1695842455874_36_tl_31' n='N031'/>May Stevens is a New York painter.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

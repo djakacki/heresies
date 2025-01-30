@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Body, Space and Personal Ritual</title>
+            <author>Sherry Markovitz</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div type="essay">
+            <pb n="19"/>
+            <head> BODY, SPACE AND PERSONAL RITUAL</head>
+            <byline>SHERRY MARKOVITZ</byline>
+            <div>
+               <p> My initial ideas for this project con cerned the observation and documentation of
+                  a 24-hour period in a woman’s life, long enough to allow a certain time, body
+                  state or space to dominate. To date I have documented six people and am still in
+                  the process of observing four of them, including my mother, Rose, my sister,
+                  Merilyn, and my sister’s four-year-old daughter, Anda (who occupies one bedroom
+                  and one playroom).</p>
+               <p> In my photographs I try to locate the feelings and sensations of my subjects,
+                  though sometimes it is just a scanning process. I am concerned with a person s
+                  experience at a particular time and in a particular space. Past and future apply
+                  only when they obviously relate to the present; for example, a woman in her ninth
+                  month of pregnancy who has gained 40 pounds has a different energy than in
+                  prepregnancy, and her movements become cumbersome, fewer, and more focused.</p>
+               <p> My selection of subjects has been critical. I have chosen for the most part by
+                  instinct. External circumstances, such as economic constrictions, are major
+                  factors in occupation of space, so I have selected women from diverse economic,
+                  educa tional and cultural backgrounds. There is also a wide variety in the degree
+                  of intimacy, as my subjects range from my mother and sister to total strangers. I
+                  am documenting a lesbian couple because women living openly with other women in
+                  love/sexual relationships is one of the important recent changes in women’s life
+                  styles. I had thought about documenting a transsexual and a pair of identical
+                  twins, but I finally decided that such unique situations emphasized the anomalies
+                  and detracted from exploring the essentials of body, space and personal ritual. I
+                  always ask, "Why do you want to be documented?" The answers often contain vital
+                  clues. Some people just want to be observed. Some have a fantasy or a
+                  political-ideological commitment they want to project through their space,
+                  personal ritual and body movement. For instance, many feminists have approached
+                  me, but I want to document women’s space, not just feminists’ space.</p>
+               <p> Two events have been significant in my use and understanding of my own space
+                  since I began this project. First I painted my bathroom and then I moved from my
+                  500-square-foot home to a new apartment with 1200 square feet, which I trans
+                  formed into a fantasy of space that I had had for a long time —large, empty,
+                  quiet, low stimulation. The second event was being hospitalized for ten days with
+                  a serious pelvic infection. I was given a little tray with powder, cream,
+                  toothbrush, toothpaste, mouthwash and cup. Nurses and doctors took over the care
+                  of my body, which was so much a part of my personal ritual. I adapted to this
+                  external ly imposed space, but as I recovered, I began to reassert my control over
+                  my personal ritual. When I shared a room, it was with a very sick woman who had
+                  cancer. I observed what happens when the disintegration of a person’s body breaks
+                  down her ability to control her own space and ritual. I listened to the nurses and
+                  doctors repeating how good she smelled from baby powder. I began to think about
+                  this and what happens in prisons, mental institutions, hospitals, nursing homes,
+                  dormitories, the army. I thought about how a person maintains her personal ritual
+                  or utilizes space in such involuntary circumstances, what a woman takes with her
+                  to such places.</p>
+               <p> My project is primarily concerned with how a person takes up space, whether or
+                  not she seems to fill a room, how her use of space relates to that of her husband,
+                  children or roommates. I had trouble understanding one woman who seemed perfectly
+                  at ease with her body; perhaps it was just that which lessened her need to order
+                  or definitively affect external space. </p>
+               <p> Some people don’t make good subjects be cause their lives are too much in flux or
+                  too disintegrated. With others it is hard to separate what the subject believes to
+                  be true from what I observe.</p>
+               <p> It is important to me that the subject really understand what the project is
+                  about on her own terms. I have to feel comfortable with my subjects, to feel that
+                  I am not intruding too much. What they do and don’t want photographed is
+                  informative, though I don’t want to be controlled by what someone wants me to see.
+                  Concealment is a delicate issue I've thought about a lot. The project is really
+                  about disclosure, about how much a woman is able to disclose to the artist. As
+                  soon as the camera comes in, there is in evitably a certain amount of playacting.
+                  I have to understand that, and at the same time minimize my presence to get as
+                  real a picture as possible of everyday ritual and space.</p>
+               <p> The key to personal ritual is found in different places for different women. It
+                  may appear in the areas to which a woman devotes the most energy during the day.
+                  And yet a dirty kitty-litter box may say something more important — or plants
+                  (when they are watered or moved into the sunlight), or the humidifier (the ritual
+                  of keeping it filled and the space at the proper temperature), or the medicine
+                  cabinet, the phone, the television set, a workspace, shopping bag, refrigerator,
+                  cupboard shelves, cosmetics drawer. The pace of the daily ritual is particularly
+                  important. In one case the care and time taken to wrap a head of lettuce indicated
+                  general “compulsive perfection." The same woman told me that she had once sent out
+                  her cloth napkins to be cleaned and pressed for her husband’s birthday dinner
+                  party. They "didn’t look right" when they came back from the laundry, so she
+                  rewashed and reironed all of them. </p>
+            </div>
+            <div>
+               <pb n="20"/>
+
+               <head>Rose</head>
+               <p>Jewish, 57 years old, married for 37 years, three grown children, part-time
+                  housewife recently returned to nursing on part-time basis. She has started
+                  studying Spanish to understand her non-English-speaking clients and volunteers her
+                  nursing services periodically at a second clinic. Still spends a great deal of
+                  time cooking, cleaning, and caring for people (husband, grandchild once a week,
+                  often visiting children). The day always starts early and goes quickly, with great
+                  activity. Her husband, a car dealer (age 63), used to put in an eight- to 12-hour
+                  day. He now comes home earlier and they have (to her joy) more social life. Rose
+                  also entertains her friends at home (a two-story house) with weekly dinners of lox
+                  and bagels (paid for on a rotating basis by "the girls”), followed by a Mah-jongg
+                  game. Bedtime is usually nine or ten, sometimes earlier, but never without an
+                  evening bath. Probably the greatest changes for her at this time are the recent
+                  loss of her mother, the coming of a second grandchild, and the full transition to
+                  "grandmotherhood."</p>
+            </div>
+            <pb n="23"/>
+            <div>
+               <head>Merilyn</head>
+               <p>Married, 34 years old, a mother, expecting her second child, working on a Ph.D. in
+                  human development—"busy, researcher, clinician, social worker, psychologist,
+                  woman." She feels a lot of pressure to fulfill many roles. The pregnancy has made
+                  both physical and mental activity more difficult, with many days needed for rest
+                  and many nights to bed early. What is obvious about Merilyn is the pleasure and
+                  time she takes for personal ritual, both alone and with her family. The white
+                  space, although designed by her artist husband, is also an expression of her own
+                  aesthetic — it comes from the need to create a sanctuary. In her demographic form
+                  for this project, she describes her marital status as "a lot, happy, traditional,
+                  non-traditional"; her ethnic background as "a lot (chicken soup)"; her religion as
+                  "sometimes." </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <p>Sherry Markovitz, age 29, is an artist living in Seattle who works photographically with
+            themes of family and sex differences.</p>
+      </back>
+   </text>
+</TEI>

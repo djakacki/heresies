@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Afro Carolinian “Gullah” Baskets</title>
+            <author>Howardena Pindell</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <pb n="22" facs="https://raw.githubusercontent.com/BucknellDSC/heresies/refs/heads/main/issue04/images/Heresies_04_025.jpg"/>
+         
+         <head>Afro Carolinian “Gullah” Baskets</head>
+         <div>
+            <p>Each black family has its oral history passed down / written door remembering the
+               cruelties and atrocities under slavery, reconstruction, on through the present.
+               My father tells me of my great grandmother, a slave in Maryland who was blinded
+               in one eye by the lash of a whip. I include the adjacent eyewitness accounts
+               because I feel there is amnesia concerning the day-to-day fine point of the more
+               unpleasant aspects of America history. I find it difficult to imagine any group
+               of people having the positive motivation to create under the conditions of
+               slavery. Black men were apprenticed in male gender related crafts such as
+               cabinetmaking, blacksmithing, silversmithing although laws were passed to
+               prevent them from outnumbering whites. I say were frequently not allowed to sign
+               their work nor were written accounts in their name generally made of their
+               transactions. The &quot;Gullah&quot; people lived in the 17 and 1800&apos;s
+               between Mt. Pleasant, Sea Islands, and Sullivan&apos;s Island, South Carolina.
+               (The word &quot;gullah&quot; is derived from Angola, Africa.) People from the
+               Senegambia region and the Congo-Angola region made up 70% the area&apos;s
+               population, slipped from Africa between 1752 and 1808. The women brought from
+               the Sene-gambia region of Africa (Gambia to Sierra Leone) continued the
+               traditionally female gender related craft of basketweaving usng West African
+               coiling techniques incorporating indigenous materials such as marshgrass,
+               palmetto leaves, and long leaf pine. Replicas of these baskets are sold today at
+               the Old Slave Mart in Charleston. South Carolina.</p>
+            <p>African traditional crafts were, unfortunately, lost in my family and replaced by
+               Anglo-American crafts.... Aunts, my mothers sisters, crochet and my father
+               taught me how to knit. </p>
+         </div>
+         <div>
+            <p>&quot;An honorable friend, who stands high in the state and in the nation,” was
+               present at the burial of a female slave in Mississippi, who had been whipped to
+               death at the stake by her master, because she was gone longer of an errand to
+               the neighboring town than her master thought necessary. Under the lash she
+               protested that she was ill, and was obliged to rest in the fields. To complete
+               the climax of horror, she was delivered of a dead infant while undergoing the
+               punishment.&quot;</p>
+         </div>
+         <div>
+            <p>Mr. GIDDINGS, member of Congress from Ohio, his speech in the House of
+               Representatives, Feb. 13, 1839, made the following statement: &quot;On the
+               beautiful avenue in front of the Capitol, members of Congress, during this
+               session have compelled to turn aside from their path, to permit a coftle of
+               slaves, males and females, chained to each other by their necks, to pass on
+               their way to this national slave market.&quot; </p>
+         </div>
+         <div>
+            <p> Rev. JAMES NOURSE, a Presbyterian clergyman of Mifflin co. Penn., whose father
+               is, we believe, a slaveholder in Washington City, says, “The Rev. Mr. M—, now of
+               the Hunting- don Presbytery, after an absence of many months, was about visiting
+               his old friends on what is com- monly called the Eastern Shore.&apos; Late in
+               the afternoon, on his journey, he called at the house of Rev. A. C. of P —town,
+               Md. With this bro- ther he had been long acquainted. Just at that juncture Mr.
+               C. was about preceeding to whip a colored female, who was his slave. She wa
+               firmly tied to a post in FRONT of his dwelling house. The arrival of a clerical
+               Visitor at such time, occasioned a temporary delay in the execut- tion of Mr.
+               C.&apos;s purpose. But the delay was only temporary; for not even the presence
+               of such a guest could destroy the bloody design. &apos;The guest interceded with
+               all the mildness yet earnestness of a brother and new visitor. But all in vain,
+               &quot;the woman had been SAUCY and must be punish- ed.&apos; The cowhide was
+               accordingly produced, and the Rev. Mr. C, a large and very slout man, ap- plied
+               it &apos;manfully&apos;on &apos;woman&apos;s&apos; bare and &apos;shrink- ing
+               flesh.&apos; I say bare, because you know that the slave women generally have
+               but three or four inches of the arm near the shoulder covered, and the neck is
+               left entirely exposed. As the cow- hide moved back and forward, striking right
+               and left, on the head, neck and arms, at every few strokes the sympathizing
+               guest would exclaim, &apos;O, brother C. desist.&apos; But brother C. pursued
+               his brutal work, till, after inflicting about sixty lashes, the woman was found
+               to be suffused with blood on the hinder part of her neck, and under her frock
+               between the shoulders. Yet this Rev. gentleman is well esteemed in the
+               church—was, three or four years since, moderator of the synod of Philadelphia,
+               and yet walks abroad, feeling himself unrebuked by law or gospel. Ah, sir </p>
+         </div>
+         <div>
+            <p> The following letter was sent by Capt. JACOB DUNHAM, of New York City, to a
+               slaveholder in Georgetown, D.C. more than twenty years since: &quot;Georgetown,
+               June 13, 1815. </p>
+         </div>
+         <div>
+            <p> &quot;Dear sir—Passing your house yesterday, I beheld a scene of cruelty seldom
+               witnessed; that was the brutal chantisement of your negro girl, lasked to a
+               ladder and beaten in an inhuman man¬ ner, too bad to describ. My blood chills
+               while I contemplate the subject. This has led me to in¬ vestigate your character
+               from your neighbons who inform me that you have caused the death o one negro
+               man, whom you struck with a sledge for some trivial fault—that you have beaten
+               ano¬ ther black girl with such severity that the splint ers remained in her back
+               for some weeks after you sold her—and many other acts of barbarity, too lengthy
+               to enumerate. And to my great sur¬ prise, I find you are a professor of the
+               Christian religion!</p>
+            <p>“You will naturally inquire, why I middle with your family affairs. My answer is,
+               the cause of humanity and a sense of my duty requires it.— With these hosty
+               remarks I leave you to reflect on the subject; but wish you to remember, that
+               there is an all-soeing eye who knows all our fault and will reward us according
+               to our deeds. I remain, sir, yours, &amp;c. JACOB DUNHAM Master of the brig
+               Cyrus, of N. Y. </p>
+         </div>
+         <div>
+            <p> The preceding are but a few of a large num- ber of similar cases contained in
+               the foregoing tes- timonies. The slaveholder mentioned by Mr Ladd, p. 86, who
+               knocked down a slave and af- terwards piled brush upon his body, and consum- ed
+               it, held the hand of a female slave in the fire till it was burned so as to be
+               useless for life, and confessed to Mr. Ladd, that he had killed four slaves, had
+               been a member of the Senate of Geor- gia and a clergyman. “A non-professor of
+               religion, in Campbell county, Ky. sold a female and two children to a Methodist
+               professor, with the proviso that they should not leave that region of country.
+               The slave-drivers came, and offered $50 more for the woman than he had given,
+               and he sold her. She is now in the lower country, and her orphan babes are in
+               Kentucky. </p>
+         </div>
+         <div>
+            <p> From the &quot;Macon (Georgia) Messenger,&quot; Jan. 16, 1839. &quot;Ranaway
+               from the subscriber, two negroes, Davis, a man about 45 years old ; also Peggy,
+               his wife, near the same age. Said negroes will probably make their way to
+               Columbia county, as they have children living in that county. I will liberally
+               reward any person who may deliver them to me. NEHEMIAH KING.” From
+               the“Petersburg (Va.) Constellation, June 27, 1837. </p>
+         </div>
+         <div>
+            <p> &quot;Ranaway, a negra man, named Peter. He has a wife at the plantation of Mr.
+               C. Haws, near Suffolk, where it is supposed he is still lurking. JOHN L. DUNN
+            </p>
+         </div>
+         <div>
+            <p> The two following facts are stated upon the authority of the Rev. Joseph G.
+               Wilson, pastor of the Presbyterian Church in Salem, Washington co., Indiana.</p>
+            <p>“In Bath co., Kentucky, Mr. L., in the year &apos;32 or &apos;33, while
+               intoxicated, in a fit of rage whip- ped a female slave until she fainted and
+               fell on the fioor. Then he whipped her to get up; then with red hot tongs he
+               burned off her ears, and whipped her again! but all in vain. He then or- dered
+               his negro men to carry her to the cabinet There she was found dead next morning.
+            </p>
+         </div>
+         <div>
+            <p> &quot;I cannot,&quot; says the doctor, &quot;forget my feel- ings on visiting a
+               hospital belonging to the plant- ation of a gentleman highly esteemed for his
+               vir- tues, and whose manners and conversation ex- pressed much benevolence and
+               conscientiousness. When I entered with him the hospital, the first object on
+               which my eye fell was a young woman very ill, probably approaching death. She
+               was stretched on the floor. Her head restored on some- thing like a pillow, but
+               her body and limbs were extended on the hard hoards. The owner, I doubt not,
+               had, at least, as much kindness as myself; but he was so used to see the slaves
+               living with- out common comforts, that the idea of unkind- ness in the present
+               instance did not enter his mind.’ </p>
+         </div>
+         <div>
+            <p> Howardena Pindell 1974, N.Y. </p>
+         </div>
+         <div>
+            <p> "Rev. Joseph Hough, a Baptist minister, formerly of Springfield, Mass, now of
+               Plainfield, N.H. while traveling the south, a few years ago, put up one night
+               with a Methodist family, and spent the Sabbath with them. While there, one of
+               the female slaves did something which displeased her mistress. She took a chisel
+               and mallet, and very deliberately cut off on eof her toes." </p>
+         </div>
+         <div>
+            <p> "Rev. Dr. Staughton, formerly of Philadelphia, often stated, that while he lived
+               at Georgetown, S.C. he could tell the doings of one of the slaveholders of the
+               Baptist church there by his pyrayers, at the prayer meeting. 'If,' said he,
+               'that man was upon good terms wiht his slaves, his words were cold and heartless
+               as frost; if he had been whipping a man, he would pray with life; but if he had
+               left a woman whom he had been flogging, tied to a post in his cellar, with a
+               determination to go back and torture again, O! how he would pray!' The Rev.
+               Cyrus P. Grosvenor of Massachusetts can confirm the above statement by Dr.
+               Staughton.</p>
+         </div>
+      </body>
+      <back>
+         <p> Howardena Pindell is an artist and a founding member of A.I.R. Gallery in New York
+            City </p>
+      </back>
+      
+   </text>
+</TEI>

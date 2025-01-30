@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='127'/>
+            <p>
+               <lb facs='#facs_127_r_1_1_tl_1' n='N001'/>FROM THE READERS:
+            </p>
+            <p>
+               <lb facs='#facs_127_r_2_1_tl_1' n='N001'/>... There’s so much I could write or respond to
+               <lb facs='#facs_127_r_2_1_tl_2' n='N002'/>in your first issue; but I want to say above all
+               <lb facs='#facs_127_r_2_1_tl_3' n='N003'/>that it is important and valuable that HERE
+               <lb facs='#facs_127_r_2_1_tl_4' n='N004'/>SIES exists, that there is yet more new space for
+               <lb facs='#facs_127_r_2_1_tl_5' n='N005'/>the testing and challenging of new thought and
+               <lb facs='#facs_127_r_2_1_tl_6' n='N006'/>art by women.
+               <lb facs='#facs_127_r_2_1_tl_7' n='N007'/>Two apparently minor, but perhaps signifi
+               <lb facs='#facs_127_r_2_1_tl_8' n='N008'/>cant items: I mentioned to you that I found the
+               <lb facs='#facs_127_r_2_1_tl_9' n='N009'/>advertisement for SEVEN DAYS gratuitously
+               <lb facs='#facs_127_r_2_1_tl_10' n='N010'/>offensive in its reference to “the latest rage in
+               <lb facs='#facs_127_r_2_1_tl_11' n='N011'/>the women’s movement. How about the latest
+               <lb facs='#facs_127_r_2_1_tl_12' n='N012'/>rage in the Black movement? the latest rage on
+               <lb facs='#facs_127_r_2_1_tl_13' n='N013'/>the Left? The sentence betrays yet again the
+               <lb facs='#facs_127_r_2_1_tl_14' n='N014'/>misogyny of male Leftism, the attempt to trivial
+               <lb facs='#facs_127_r_2_1_tl_15' n='N015'/>ize feminist politics; I wish HERESIES had re
+               <lb facs='#facs_127_r_2_1_tl_16' n='N016'/>fused to run it. I also found questionable the ad
+               <lb facs='#facs_127_r_2_1_tl_17' n='N017'/>for HERESIES itself, which implies that femi
+               <lb facs='#facs_127_r_2_1_tl_18' n='N018'/>nism and politics are two different things. It
+               <lb facs='#facs_127_r_2_1_tl_19' n='N019'/>seems clear that the HERESIES collective be
+               <lb facs='#facs_127_r_2_1_tl_20' n='N020'/>lieves that feminism is more than “life style”; if
+               <lb facs='#facs_127_r_2_1_tl_21' n='N021'/>it is not political, if we are not concerned with
+               <lb facs='#facs_127_r_2_1_tl_22' n='N022'/>fundamental societal change and with the struc
+               <lb facs='#facs_127_r_2_1_tl_23' n='N023'/>tures and abuses of power in existing society,
+               <lb facs='#facs_127_r_2_1_tl_24' n='N024'/>what are we about?...Adrienne Rich, N.Y.,
+               <lb facs='#facs_127_r_2_1_tl_25' n='N025'/>N.Y.
+               <lb facs='#facs_127_r_2_1_tl_26' n='N026'/>Lucy Lippard’s article has given me more hope
+               <lb facs='#facs_127_r_2_1_tl_27' n='N027'/>about people, the art world, and my art work
+               <lb facs='#facs_127_r_2_1_tl_28' n='N028'/>than anything I have read yet. I speak to you as
+               <lb facs='#facs_127_r_2_1_tl_29' n='N029'/>an artist and the youngest child of second gen
+               <lb facs='#facs_127_r_2_1_tl_30' n='N030'/>eration American parents whose oldest child be
+               <lb facs='#facs_127_r_2_1_tl_31' n='N031'/>came a doctor and now buys art from Marlbor
+               <lb facs='#facs_127_r_2_1_tl_32' n='N032'/>ough. I have lived with all the contradictory feel
+               <lb facs='#facs_127_r_2_1_tl_33' n='N033'/>ings that you describe, yet, I think through my
+               <lb facs='#facs_127_r_2_1_tl_34' n='N034'/>good instincts, I have not gone off the deep end
+               <lb facs='#facs_127_r_2_1_tl_35' n='N035'/>—i.e., dressing downward, maintaining an in
+               <lb facs='#facs_127_r_2_1_tl_36' n='N036'/>tellectual elitist attitude.
+               <lb facs='#facs_127_r_2_1_tl_37' n='N037'/>I have, however, felt at a dead end, and this is
+               <lb facs='#facs_127_r_2_1_tl_38' n='N038'/>why I think your article is so important. It pro
+               <lb facs='#facs_127_r_2_1_tl_39' n='N039'/>vides another option for women artists. To look
+               <lb facs='#facs_127_r_2_1_tl_40' n='N040'/>to other women artists for understanding and
+               <lb facs='#facs_127_r_2_1_tl_41' n='N041'/>criticism; to form a network; to hopefully and
+               <lb facs='#facs_127_r_2_1_tl_42' n='N042'/>eventually break through the patriarchal eco
+               <lb facs='#facs_127_r_2_1_tl_43' n='N043'/>nomic monolith that dominates the art world
+               <lb facs='#facs_127_r_2_1_tl_44' n='N044'/>that is what we need to do....Leslie Sills,
+               <lb facs='#facs_127_r_2_1_tl_45' n='N045'/>Brookline, Mass.
+               <lb facs='#facs_127_r_2_1_tl_46' n='N046'/>Harmony Hammond’s defense of feminists
+               <lb facs='#facs_127_r_2_1_tl_47' n='N047'/>practicing abstract art was wonderful and very
+               <lb facs='#facs_127_r_2_1_tl_48' n='N048'/>intelligent. I was an active feminist for several
+               <lb facs='#facs_127_r_2_1_tl_49' n='N049'/>years....I am still a feminist and a woman
+               <lb facs='#facs_127_r_2_1_tl_50' n='N050'/>struggling to produce my (abstract) art. Neither
+               <lb facs='#facs_127_r_2_1_tl_51' n='N051'/>then nor now have my militant feminist friends
+               <lb facs='#facs_127_r_2_1_tl_52' n='N052'/>been particularly interested in abstract art, nor
+               <lb facs='#facs_127_r_2_1_tl_53' n='N053'/>are most of my other, non-political friends. I
+               <lb facs='#facs_127_r_2_1_tl_54' n='N054'/>think most people prefer some sort of represen
+               <lb facs='#facs_127_r_2_1_tl_55' n='N055'/>tation in art. They feel art should serve some
+               <lb facs='#facs_127_r_2_1_tl_56' n='N056'/>end...I don’t believe that there is a “universal
+               <lb facs='#facs_127_r_2_1_tl_57' n='N057'/>art,” an art that contains something for almost
+               <lb facs='#facs_127_r_2_1_tl_58' n='N058'/>everybody. (l’m not sure I even believe in “mass’
+               <lb facs='#facs_127_r_2_1_tl_59' n='N059'/>politics, even mass feminist politics. We may
+               <lb facs='#facs_127_r_2_1_tl_60' n='N060'/>have to accept what we have—a mass of splin
+               <lb facs='#facs_127_r_2_1_tl_61' n='N061'/>ters—and work with it)...
+               <lb facs='#facs_127_r_2_1_tl_62' n='N062'/>There’s a lack of interest in the spiritual
+               <lb facs='#facs_127_r_2_1_tl_63' n='N063'/>dimensions of art, the non-material dimensions
+               <lb facs='#facs_127_r_2_1_tl_64' n='N064'/>(in life, too). I believe abstract art, of all the pos
+               <lb facs='#facs_127_r_2_1_tl_65' n='N065'/>sible kinds of art, is the most closely linked to
+               <lb facs='#facs_127_r_2_1_tl_66' n='N066'/>the spiritual. Your article was not just a defense
+               <lb facs='#facs_127_r_2_1_tl_67' n='N067'/>of the practice of abstract art by feminist artists,
+               <lb facs='#facs_127_r_2_1_tl_68' n='N068'/>it strengthens the case of abstract art itself. You
+               <lb facs='#facs_127_r_2_1_tl_69' n='N069'/>breathed a lot of new life into abstract art by
+               <lb facs='#facs_127_r_2_1_tl_70' n='N070'/>defining elements it contains that either weren’t
+               <lb facs='#facs_127_r_2_1_tl_71' n='N071'/>there before women artists began using them or
+            </p>
+            <p>
+               <lb facs='#facs_127_r_3_1_tl_1' n='N001'/>weren’t recognized (especially the “marking&apos;
+               <lb facs='#facs_127_r_3_1_tl_2' n='N002'/>idea).
+               <lb facs='#facs_127_r_3_1_tl_3' n='N003'/>When you state that abstract art is used “by
+               <lb facs='#facs_127_r_3_1_tl_4' n='N004'/>men as a defense mechanism against the aliena
+               <lb facs='#facs_127_r_3_1_tl_5' n='N005'/>tion of their own capitalist system,” this is true
+               <lb facs='#facs_127_r_3_1_tl_6' n='N006'/>for me, too, but the concluding part of the sen
+               <lb facs='#facs_127_r_3_1_tl_7' n='N007'/>tence, that it furthers the “myth of the artist as
+               <lb facs='#facs_127_r_3_1_tl_8' n='N008'/>alienated,” is not true in my case. l’m not trying
+               <lb facs='#facs_127_r_3_1_tl_9' n='N009'/>to further a myth—just survive! It still seems
+               <lb facs='#facs_127_r_3_1_tl_10' n='N010'/>necessary for many of us to defend ourselves.
+               <lb facs='#facs_127_r_3_1_tl_11' n='N011'/>What l’m producing is art by a person who is
+               <lb facs='#facs_127_r_3_1_tl_12' n='N012'/>trying hard not to be a victim but who still is a
+               <lb facs='#facs_127_r_3_1_tl_13' n='N013'/>victim. (Very little has changed for the better in
+               <lb facs='#facs_127_r_3_1_tl_14' n='N014'/>most women’s lives; in fact, the world of mak
+               <lb facs='#facs_127_r_3_1_tl_15' n='N015'/>ing-a-living has become much more difficult
+               <lb facs='#facs_127_r_3_1_tl_16' n='N016'/>than it was in the 1960s.) You say it has been
+               <lb facs='#facs_127_r_3_1_tl_17' n='N017'/>suggested by some that the “content of one’s
+               <lb facs='#facs_127_r_3_1_tl_18' n='N018'/>work can be separated from one’s political be
+               <lb facs='#facs_127_r_3_1_tl_19' n='N019'/>liefs.” I believe I would say that the content of
+               <lb facs='#facs_127_r_3_1_tl_20' n='N020'/>one’s work cannot be separated from the cir
+               <lb facs='#facs_127_r_3_1_tl_21' n='N021'/>cumstances of one’s life ...
+               <lb facs='#facs_127_r_3_1_tl_22' n='N022'/>What is there in some radical feminists with
+               <lb facs='#facs_127_r_3_1_tl_23' n='N023'/>their belief in totally overhauling society that
+               <lb facs='#facs_127_r_3_1_tl_24' n='N024'/>makes them produce abstract art? Is there some
+               <lb facs='#facs_127_r_3_1_tl_25' n='N025'/>connection between the drive to make revolu
+               <lb facs='#facs_127_r_3_1_tl_26' n='N026'/>tion and the drive to produce abstract art, some
+               <lb facs='#facs_127_r_3_1_tl_27' n='N027'/>visionary quality? If we could discuss questions
+               <lb facs='#facs_127_r_3_1_tl_28' n='N028'/>like this we might understand ourselves better
+               <lb facs='#facs_127_r_3_1_tl_29' n='N029'/>and be better understood by others, including
+               <lb facs='#facs_127_r_3_1_tl_30' n='N030'/>other feminist artists, not dismissed as counter
+               <lb facs='#facs_127_r_3_1_tl_31' n='N031'/>revolutionary or irrelevant to the women’s strug
+               <lb facs='#facs_127_r_3_1_tl_32' n='N032'/>gle. Feminist abstract artists struggle to make
+               <lb facs='#facs_127_r_3_1_tl_33' n='N033'/>art, to survive and to change this sexist society.
+               <lb facs='#facs_127_r_3_1_tl_34' n='N034'/>Every part of our lives is political, whether we
+               <lb facs='#facs_127_r_3_1_tl_35' n='N035'/>make “political” art or not. What one believes
+               <lb facs='#facs_127_r_3_1_tl_36' n='N036'/>(and is) is expressed in totality, not by separat
+               <lb facs='#facs_127_r_3_1_tl_37' n='N037'/>ing the life of the artist from the work of the
+               <lb facs='#facs_127_r_3_1_tl_38' n='N038'/>artist.
+               <lb facs='#facs_127_r_3_1_tl_39' n='N039'/>You say: “In a reactionary escape from for
+               <lb facs='#facs_127_r_3_1_tl_40' n='N040'/>malist criticism, most movement writing on
+               <lb facs='#facs_127_r_3_1_tl_41' n='N041'/>feminist art deals with political issues, but lacks
+               <lb facs='#facs_127_r_3_1_tl_42' n='N042'/>any real understanding of the creative process
+               <lb facs='#facs_127_r_3_1_tl_43' n='N043'/>... I think the first part of the sentence is an
+               <lb facs='#facs_127_r_3_1_tl_44' n='N044'/>excellent criticism. So is the part about the lack
+               <lb facs='#facs_127_r_3_1_tl_45' n='N045'/>of understanding of the creative process, but
+               <lb facs='#facs_127_r_3_1_tl_46' n='N046'/>this is true of most art writing ... Movement
+               <lb facs='#facs_127_r_3_1_tl_47' n='N047'/>writers are no more guilty here than all the other
+               <lb facs='#facs_127_r_3_1_tl_48' n='N048'/>writers on art. There seems to be a sort of em
+               <lb facs='#facs_127_r_3_1_tl_49' n='N049'/>barrassment about the creative process. Every
+               <lb facs='#facs_127_r_3_1_tl_50' n='N050'/>body seems to be very busy demystifying art and
+               <lb facs='#facs_127_r_3_1_tl_51' n='N051'/>artists, but the creative process is something
+               <lb facs='#facs_127_r_3_1_tl_52' n='N052'/>else, isn’t it? —Joan Mathews, N.Y., N.Y.
+            </p>
+            <p>
+               <lb facs='#facs_127_r_4_1_tl_1' n='N001'/>DO YOU SEE FEMINISM CORRECTING
+               <lb facs='#facs_127_r_4_1_tl_2' n='N002'/>THE ERRORS OF SOCIALISM?
+               <lb facs='#facs_127_r_4_1_tl_3' n='N003'/>If more pulp inside red covers continues to
+               <lb facs='#facs_127_r_4_1_tl_4' n='N004'/>bleed into the magazine stands of elegant book
+               <lb facs='#facs_127_r_4_1_tl_5' n='N005'/>shops, the dollar signs on cash registers will be
+               <lb facs='#facs_127_r_4_1_tl_6' n='N006'/>heralded and no more. What do you think an
+               <lb facs='#facs_127_r_4_1_tl_7' n='N007'/>other “feminist publication on art and poli
+               <lb facs='#facs_127_r_4_1_tl_8' n='N008'/>tics” is going to do? Wage war? If not, what’s
+               <lb facs='#facs_127_r_4_1_tl_9' n='N009'/>the point? Take note: “Politics cannot be
+               <lb facs='#facs_127_r_4_1_tl_10' n='N010'/>equated with art, nor can a general world out
+               <lb facs='#facs_127_r_4_1_tl_11' n='N011'/>look be equated with a method of artistic crea
+               <lb facs='#facs_127_r_4_1_tl_12' n='N012'/>tion and criticism. “Idealists stress motive
+               <lb facs='#facs_127_r_4_1_tl_13' n='N013'/>and ignore effect... (Mao Tse Tung). The
+               <lb facs='#facs_127_r_4_1_tl_14' n='N014'/>dialectic of social transformation is embodied in
+               <lb facs='#facs_127_r_4_1_tl_15' n='N015'/>the ability to set correct analysis in motion.
+               <lb facs='#facs_127_r_4_1_tl_16' n='N016'/>Within your motives is a sincerity that guards
+               <lb facs='#facs_127_r_4_1_tl_17' n='N017'/>but does not attack. You end up only caressing
+               <lb facs='#facs_127_r_4_1_tl_18' n='N018'/>yearnings to be effective. Criticism is the begin
+               <lb facs='#facs_127_r_4_1_tl_19' n='N019'/>ning of political definition. Criticism of Capital
+               <lb facs='#facs_127_r_4_1_tl_20' n='N020'/>ist Society cannot exclude the liberals who
+               <lb facs='#facs_127_r_4_1_tl_21' n='N021'/>grease the chains!
+               <lb facs='#facs_127_r_4_1_tl_22' n='N022'/>HERESIES allows women to remain within a
+               <lb facs='#facs_127_r_4_1_tl_23' n='N023'/>state of oppression by offering console to com
+               <lb facs='#facs_127_r_4_1_tl_24' n='N024'/>fort instead of challenge to correct: by offering
+               <lb facs='#facs_127_r_4_1_tl_25' n='N025'/>women the feeling that they are not alone, the
+            </p>
+            <p>
+               <lb facs='#facs_127_r_6_1_tl_1' n='N001'/>suffering is common. HERESIES is a pseudo
+               <lb facs='#facs_127_r_6_1_tl_2' n='N002'/>sophisticated development of consciousness
+               <lb facs='#facs_127_r_6_1_tl_3' n='N003'/>raising groups. Instead of watered-down group
+               <lb facs='#facs_127_r_6_1_tl_4' n='N004'/>therapy terms, you’re handing out watered
+               <lb facs='#facs_127_r_6_1_tl_5' n='N005'/>down leftist jargon which is ultimately rhetorical
+               <lb facs='#facs_127_r_6_1_tl_6' n='N006'/>and glosses over the fact that you have no
+               <lb facs='#facs_127_r_6_1_tl_7' n='N007'/>stance; that you are not coming to grips with the
+               <lb facs='#facs_127_r_6_1_tl_8' n='N008'/>organizational tasks embedded in class strug
+               <lb facs='#facs_127_r_6_1_tl_9' n='N009'/>gle. Do you believe that anybody is right? How
+               <lb facs='#facs_127_r_6_1_tl_10' n='N010'/>many more pleas for “socialist-feminism” can
+               <lb facs='#facs_127_r_6_1_tl_11' n='N011'/>you make? How many more pictures of vaginal
+               <lb facs='#facs_127_r_6_1_tl_12' n='N012'/>imagery can you pat on the back?
+               <lb facs='#facs_127_r_6_1_tl_13' n='N013'/>Who is your audience?
+               <lb facs='#facs_127_r_6_1_tl_14' n='N014'/>Are you trying to cross class lines?
+               <lb facs='#facs_127_r_6_1_tl_15' n='N015'/>(Can any art journal cross class lines?)
+               <lb facs='#facs_127_r_6_1_tl_16' n='N016'/>Are you trying to popularize feminism while
+               <lb facs='#facs_127_r_6_1_tl_17' n='N017'/>advertising women’s art?
+               <lb facs='#facs_127_r_6_1_tl_18' n='N018'/>Does uniting art and politics politicize your
+               <lb facs='#facs_127_r_6_1_tl_19' n='N019'/>art by creating a politicized context?
+               <lb facs='#facs_127_r_6_1_tl_20' n='N020'/>What is the class of your “politicized” com
+               <lb facs='#facs_127_r_6_1_tl_21' n='N021'/>munity?
+               <lb facs='#facs_127_r_6_1_tl_22' n='N022'/>Are you proselytizing a “catch all” feminism
+               <lb facs='#facs_127_r_6_1_tl_23' n='N023'/>because you’re unable to define and support a
+               <lb facs='#facs_127_r_6_1_tl_24' n='N024'/>unified stance?
+               <lb facs='#facs_127_r_6_1_tl_25' n='N025'/>Or is HERESIES just about the discovery and
+               <lb facs='#facs_127_r_6_1_tl_26' n='N026'/>application of a female mode of communication
+               <lb facs='#facs_127_r_6_1_tl_27' n='N027'/>designed for the women who feel oppressed
+               <lb facs='#facs_127_r_6_1_tl_28' n='N028'/>rather than against the social relations that
+               <lb facs='#facs_127_r_6_1_tl_29' n='N029'/>determine the oppression?
+               <lb facs='#facs_127_r_6_1_tl_30' n='N030'/>Is this not based on the notion that “the per
+               <lb facs='#facs_127_r_6_1_tl_31' n='N031'/>sonal is political”? (Isn’t it a truism to say that
+               <lb facs='#facs_127_r_6_1_tl_32' n='N032'/>the personal is political? Isn’t the personal also
+               <lb facs='#facs_127_r_6_1_tl_33' n='N033'/>social...collective...?)
+               <lb facs='#facs_127_r_6_1_tl_34' n='N034'/>Is HERESIES a product of personal pain try
+               <lb facs='#facs_127_r_6_1_tl_35' n='N035'/>ing to set up a politicized context?
+               <lb facs='#facs_127_r_6_1_tl_36' n='N036'/>Is this the basis upon which you identify with
+               <lb facs='#facs_127_r_6_1_tl_37' n='N037'/>each other?
+               <lb facs='#facs_127_r_6_1_tl_38' n='N038'/>Does HERESIES use politics opportunisti
+               <lb facs='#facs_127_r_6_1_tl_39' n='N039'/>cally?
+               <lb facs='#facs_127_r_6_1_tl_40' n='N040'/>We refuse to meet you on the grounds of
+               <lb facs='#facs_127_r_6_1_tl_41' n='N041'/>group” individualism. What changes can you
+               <lb facs='#facs_127_r_6_1_tl_42' n='N042'/>effect by inflating the market with another com
+               <lb facs='#facs_127_r_6_1_tl_43' n='N043'/>modity: an object of contemplation destined to
+               <lb facs='#facs_127_r_6_1_tl_44' n='N044'/>parallel your art, a static, palatable item for easy
+               <lb facs='#facs_127_r_6_1_tl_45' n='N045'/>consumption? Would potentially offending your
+               <lb facs='#facs_127_r_6_1_tl_46' n='N046'/>audience be too great a risk? How can the wed
+               <lb facs='#facs_127_r_6_1_tl_47' n='N047'/>ding of “feminist” art and “feminist” politics
+               <lb facs='#facs_127_r_6_1_tl_48' n='N048'/>(the enculturated version of “Women’s Lib”) be
+               <lb facs='#facs_127_r_6_1_tl_49' n='N049'/>anything but liberal? (Enculturated politics =
+               <lb facs='#facs_127_r_6_1_tl_50' n='N050'/>fashionable doubt = liberal conscience). You
+               <lb facs='#facs_127_r_6_1_tl_51' n='N051'/>are legitimizing your position by imperializing a
+               <lb facs='#facs_127_r_6_1_tl_52' n='N052'/>wider cultural context. Why do you choose to be
+               <lb facs='#facs_127_r_6_1_tl_53' n='N053'/>reactionary? Proselytizing a privitized politic, a
+               <lb facs='#facs_127_r_6_1_tl_54' n='N054'/>personal politic, a politic rooted in guilt is
+               <lb facs='#facs_127_r_6_1_tl_55' n='N055'/>powerless as well as idealistic. Iconoclastic be
+               <lb facs='#facs_127_r_6_1_tl_56' n='N056'/>havior cannot be equated with revolutionary
+               <lb facs='#facs_127_r_6_1_tl_57' n='N057'/>strategy. If you think HERESIES is only about
+               <lb facs='#facs_127_r_6_1_tl_58' n='N058'/>female method, look again! (Is the parallel of
+               <lb facs='#facs_127_r_6_1_tl_59' n='N059'/>paternalism, &quot;“maternalism”?) IMPERIALISM
+               <lb facs='#facs_127_r_6_1_tl_60' n='N060'/>HAS NO SEX.—Movement Women’s Caucus,
+               <lb facs='#facs_127_r_6_1_tl_61' n='N061'/>N.Y., N.Y.
+            </p>
+            <p>
+               <lb facs='#facs_127_r_7_1_tl_1' n='N001'/>Errata: First issue of HERESIES.
+               <lb facs='#facs_127_r_7_1_tl_2' n='N002'/>There was a misprint in Adrienne Rich&apos;s “Notes
+               <lb facs='#facs_127_r_7_1_tl_3' n='N003'/>on Lying. On page 25, paragraph five should
+               <lb facs='#facs_127_r_7_1_tl_4' n='N004'/>read:
+               <lb facs='#facs_127_r_7_1_tl_5' n='N005'/>Does a life “in the closet”—lying, perhaps
+               <lb facs='#facs_127_r_7_1_tl_6' n='N006'/>of necessity, about ourselves to bosses,
+               <lb facs='#facs_127_r_7_1_tl_7' n='N007'/>landlords, clients, colleagues, family, be
+               <lb facs='#facs_127_r_7_1_tl_8' n='N008'/>cause the law and public opinion are
+               <lb facs='#facs_127_r_7_1_tl_9' n='N009'/>founded on a lie—does this, can it, spread
+               <lb facs='#facs_127_r_7_1_tl_10' n='N010'/>into private life...
+               <lb facs='#facs_127_r_7_1_tl_11' n='N011'/>HERESIES mistakenly substituted “public” for
+               <lb facs='#facs_127_r_7_1_tl_12' n='N012'/>private. And there was a reversal of para
+               <lb facs='#facs_127_r_7_1_tl_13' n='N013'/>graphs at the end of Carol Muske’s “The Art of
+               <lb facs='#facs_127_r_7_1_tl_14' n='N014'/>Not Bowing”; the top paragraph on page 34
+               <lb facs='#facs_127_r_7_1_tl_15' n='N015'/>should in fact have been the last.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

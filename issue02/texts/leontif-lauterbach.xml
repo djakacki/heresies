@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -55,7 +55,11 @@
             </respStmt>
             <respStmt>
                <persName>Carrie Pirmann</persName>
-               <resp>HTR editor, encoder (2023-Present)</resp>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
             </respStmt>
             <respStmt>
                <persName>Ricky Rodriguez</persName>
@@ -121,7 +125,7 @@
          <sourceDesc>
             <biblStruct>
                <analytic>
-                  <title>[ISSUE TITLE]</title>
+                  <title>Patterns of Communicating and Space Among Women</title>
                </analytic>
                <monogr>
                   <imprint>
@@ -143,78 +147,67 @@
    </teiHeader>
    <text>
       <body>
-         <pb/>
-         <div type="backmatter">
+         <pb n="47"/>
+         <div>
             <p>
-            <list>The following people made contributions to HERESIES ranging from §1 to $200. We thank them very much.
-            Susan Abbott
-            Pamela Daniels
-            Jean Heilbrunn
-            Dorothy McCormack
-            Adrienne Anderson
-            Mary Kent Schardt
-            Barbara Deming
-            Catherine Hillenbrand
-            Jeanette Wong King
-            Carl Andre
-            Kendall Shaw
-            Mary Jane Dougherty
-            Rolaine A. Hochstein
-            Paula Nordwind
-            joyce Aiken
-            Catherine M. Stifter
-            C. Christopher Drake
-            Henry and Sarahanne Hope
-            Daisy Paradis
-            Zeldy Appel
-            joyce Timpanelli
-            Lilly Engler
-            Suzanne Irwin-Wells
-            Toby Reifman
-            Art Programs, Inc.
-            Henry Torczyner
-            S.R. Field
-            T. Kaori Kitao
-            Ellen Rothenberg
-            Lisa M. Berk
-            Lane R. Trippe
-            Carole Fischer
-            Betty Klavun
-            Joan Rosenbaum
-            Ruth Bocour
-            Barry Warshaw
-            Audrey Flack
-            Sylvia F. Kleinman
-            Amalie Rothschild
-            Ruth Bowman
-            Joan Watts
-            Mary D. Gatzert
-            Alexandra Kochman
-            Sara Ruddick
-            Sheila de Bretteville
-            Janet and Albert Nebster
-            Moira Geoffrion
-            Janet Koenig/Allan Wallach Alix Kates Shulman
-            Serry Brody
-            Annette Weintraub
-            Florence and Marvin Gerstin Harriet Korman
-            Elna Shulof
-            Noma Copley
-            Angela Westwater
-            Sylvia Greenfield
-            Alice Lauffer
-            Elli M. Siskind
-            Susan W. Cutter
-            Kari Wren
-            Susan Hall
-            Margaret I. Lippard
-            Susan Sollins
-            Eugenia Zuckerman
-            Carey Marvins
-            Benjamin Spock Mary Morgan</list>
-            HERESIES thanks everyone who made our benefits so successful. Special thanks to Leslie Cohen at the Sahara Club and Patricia Hamilton
-            Gallery for the use of their spaces and to Rita Mac Brown, Sheila Jordan, Eve Merriam and Adrienne Rich for donating their time and talent.
-         </p></div>
+               <lb facs='#facs_49_r_2_1_tl_1' n='N001'/>LAMENT ON THE EVE OF HER
+               <lb facs='#facs_49_r_2_1_tl_2' n='N002'/>DAUGHTER&apos;S BIRTHDAY
+               <lb facs='#facs_49_r_2_1_tl_3' n='N003'/>ESTELLE LEONTIEF
+               <lb facs='#facs_49_r_2_1_tl_4' n='N004'/>My head doesn’t ache
+               <lb facs='#facs_49_r_2_1_tl_5' n='N005'/>no one pulls out my fingernails
+               <lb facs='#facs_49_r_2_1_tl_6' n='N006'/>what I eat sits easy
+               <lb facs='#facs_49_r_2_1_tl_7' n='N007'/>On this long
+               <lb facs='#facs_49_r_2_1_tl_8' n='N008'/>blue night each year
+               <lb facs='#facs_49_r_2_1_tl_9' n='N009'/>leven forget that
+               <lb facs='#facs_49_r_2_1_tl_10' n='N010'/>hard hard laboring
+               <lb facs='#facs_49_r_2_1_tl_11' n='N011'/>a magician
+               <lb facs='#facs_49_r_2_1_tl_12' n='N012'/>hacking a woman in two
+               <lb facs='#facs_49_r_2_1_tl_13' n='N013'/>IfIlie still
+               <lb facs='#facs_49_r_2_1_tl_14' n='N014'/>your thirty-six years
+               <lb facs='#facs_49_r_2_1_tl_15' n='N015'/>blow my mind
+               <lb facs='#facs_49_r_2_1_tl_16' n='N016'/>II try to reach you
+               <lb facs='#facs_49_r_2_1_tl_17' n='N017'/>l&apos;mtoo short
+               <lb facs='#facs_49_r_2_1_tl_18' n='N018'/>But now at last
+               <lb facs='#facs_49_r_2_1_tl_19' n='N019'/>night darkens
+               <lb facs='#facs_49_r_2_1_tl_20' n='N020'/>into day
+               <lb facs='#facs_49_r_2_1_tl_21' n='N021'/>and you may wish for
+               <lb facs='#facs_49_r_2_1_tl_22' n='N022'/>what you want
+               <lb facs='#facs_49_r_2_1_tl_23' n='N023'/>What is it
+               <lb facs='#facs_49_r_2_1_tl_24' n='N024'/>Write me
+               <lb facs='#facs_49_r_2_1_tl_25' n='N025'/>Tell me something
+               <lb facs='#facs_49_r_2_1_tl_26' n='N026'/>Sing
+            </p>
+            <p>
+               <lb facs='#facs_49_r_4_1_tl_1' n='N001'/>SEPTEMBER SOLITAIRE
+               <lb facs='#facs_49_r_4_1_tl_2' n='N002'/>ANN LAUTERBACH
+            </p>
+            <p>
+               <lb facs='#facs_49_r_5_1_tl_1' n='N001'/>There are always added difficulties: unwashed glasses,
+               <lb facs='#facs_49_r_5_1_tl_2' n='N002'/>the box with some sweaters, the floral arrangement
+               <lb facs='#facs_49_r_5_1_tl_3' n='N003'/>in the kitchen, the kitchen floor. It was a grid
+               <lb facs='#facs_49_r_5_1_tl_4' n='N004'/>of pale blue and gray linoleum; it no longer exists.
+               <lb facs='#facs_49_r_5_1_tl_5' n='N005'/>All of us move in time for winter.
+               <lb facs='#facs_49_r_5_1_tl_6' n='N006'/>Things are most dangerous when habits are kicked;
+               <lb facs='#facs_49_r_5_1_tl_7' n='N007'/>birds, and the way you imagine.
+               <lb facs='#facs_49_r_5_1_tl_8' n='N008'/>We tell stories.
+               <lb facs='#facs_49_r_5_1_tl_9' n='N009'/>This to restrain the sense that we would give in
+               <lb facs='#facs_49_r_5_1_tl_10' n='N010'/>too easily when the time came. The time had come.
+               <lb facs='#facs_49_r_5_1_tl_11' n='N011'/>The first red and the first green are not the same;
+               <lb facs='#facs_49_r_5_1_tl_12' n='N012'/>between death and birth are radical colors,
+               <lb facs='#facs_49_r_5_1_tl_13' n='N013'/>of which the trees are stain. I told stories for hours,
+               <lb facs='#facs_49_r_5_1_tl_14' n='N014'/>each made from imminent, rendered places; talk itself
+               <lb facs='#facs_49_r_5_1_tl_15' n='N015'/>a terrain. I recall games: ducking and kisses and tails.
+               <lb facs='#facs_49_r_5_1_tl_16' n='N016'/>Someone is always blinded. Someone was removed in a chair.
+            </p>
+            <p>
+               <lb facs='#facs_49_r_6_1_tl_1' n='N001'/>Ann Lauterbach is a native New Yorker. She has just compiled her first
+               <lb facs='#facs_49_r_6_1_tl_2' n='N002'/>collection of poems, titled Chalk.
+               <lb facs='#facs_49_r_6_1_tl_3' n='N003'/>Estelle Leontief was poetry editor of Colloquy magazine, has published two
+               <lb facs='#facs_49_r_6_1_tl_4' n='N004'/>books of poetry—Razerol and Whatever Happens—with Claire van Vliet
+               <lb facs='#facs_49_r_6_1_tl_5' n='N005'/>of Janus Press, Vermont. She is now a reader of poetry and fiction for the
+               <lb facs='#facs_49_r_6_1_tl_6' n='N006'/>Partisan Review.
+            </p>
+         </div>
       </body>
    </text>
 </TEI>

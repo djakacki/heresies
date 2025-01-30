@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Inside/Out: A Return to my Body</title>
+				<author>Sue Heinemann</author>
+				<respStmt>
+					<persName>Eowyn Andres</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Haley Beardsley</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lyndon Beier</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Erica Delsandro</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mia DeRoco</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Margaret Hunter</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Invesigator, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sophie McQuaide</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Martin</persName>
+					<resp>Editor, encoder (2021)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zoha Nadeer</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bri Perea</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Carrie Pirmann</persName>
+					<resp>Editor, encoder (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Ricky Rodriguez</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Roger Rothman</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kaitlyn Segreti</persName>
+					<resp>Editor (2021-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maggie Smith</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maya Wadhwa</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kelly Troop</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lucy Wadswoth</persName>
+					<resp>Editor (2022-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anna Marie Wingard</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Wychock</persName>
+					<resp>Graduate Editor (2024-Present)</resp>
+				</respStmt>
+				<funder>Bucknell University Humanities Center</funder>
+				<funder>Bucknell University Office of Undergraduate Research</funder>
+				<funder>The Mellon Foundation</funder>
+				<funder>National Endowment for the Humanities</funder>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>
+					<name>Bucknell University</name>
+					<address>
+						<street>One Dent Drive</street>
+						<settlement>Lewisburg</settlement>
+						<region>Pennsylvania</region>
+						<postCode>17837</postCode>
+					</address>
+				</distributor>
+				<availability>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial
+						4.0 International (CC BY-NC 4.0)</licence>
+					<licence>Heresies journal: © Heresies Collective</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title>Patterns of Communicating and Space Among Women</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<publisher>HERESIES: A Feminist Publication on Art and
+								Politics</publisher>
+							<pubPlace>
+								<address>
+									<name>Heresies</name>
+									<postBox>P.O. Boxx 766, Canal Street Station</postBox>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<postCode>10013</postCode>
+								</address>
+							</pubPlace>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb/>
+			<div type="essay">
+				<pb n="12"/>
+				<head>Inside/Out: A Return To My Body</head>
+				<byline>Sue Heinemann</byline>
+				<p> Another term we used a lot was "kinaesthetic awareness." The kinaesthetic sense
+					has to do with sensing movement in your own body, sensing your body's changing
+					dynamic configurations. But it's more than that. - Simone Forti, Handbook in
+					Motion</p>
+				<p> I remember my first class with Elaine Summers, a New York dancer whose teaching
+					focuses on kinesthetic awareness. As I lay quiet on the ground, eyes closed,
+					Elaine led me on a journey through my body. Can you feel your toenails? Your
+					metatarsals? Knees, thighs, on up through eyebrows and hair. Amazing how much of
+					my body I couldn't feel —no sensation. As if parts of me had just disappeared.
+					No calves, no armpits, no eyelashes. And wonder how many of us really sense our
+					bodies as integrated with our selves. Do we only acknowledge the body when "it"
+					hurts, when something's "wrong"? In how many ways have we learned to disown our
+					bodies?</p>
+				<p> I think of how we tend to enthrone our minds, all-knowing. The body as a tool,
+					only necessary to get work done. Or the body as an object, to be looked at,
+					admired, displayed. The body remains an accessory, not integral to our
+					definition of being. Just to speak of body sensations, of how emotions are felt
+					located specifically in the body arouses skepticism. And I wonder if it is even
+					possible to convey what "listening" to your body means to someone who has not
+					experienced it. The difference between knowing something intellectually and
+					understanding it through your feeling in your body. </p>
+				<p> Just as someone who has never seen the color yellow has no way of conceiving
+					what that color is like, people bound into specific body controls cannot
+					experience the vivacity of bodily freedom until they break those controls.
+						<note>1. Ann Halprin, "Community Art as Life Process," The Drama Review
+						(Sept. 1973), p. 66.</note></p>
+				<p> Summer 1975. I went to California to participate in Anna Halprin's dance
+					workshop. Anna explains:</p>
+				<quote>In our approach to theatre and dance, art grows directly out of our lives.
+					Whatever emotional, physical, or mental barriers ... we carry around within us
+					in our personal lives will be the same barriers that inhibit our full creative
+					expression..... I work with the notion that emotional blocks are tied into our
+					physical body and mental images..... When a person has reached an impasse we
+					know something in their life and in their art is not working. What is not
+					working is their old dance. The old dance is made up of imprints imbedded in the
+					muscles anc nerves that is reflected in behavior patterns manifested in the way
+					that person participates, interrelates and performs their life and their
+						art.<note>2. Quoted in: Frañtisek Déak and Norma Jean (Déak), "Ann Halprin's
+						Theatre and Therapy Workshop, The Drama Review (March, 1976), p.
+					51.</note></quote>
+				<p>Each morning we performed "movement ritual," a series of exercises through which
+					we listened to our bodies, "hearing" how we felt. According to Anna, "Daily
+					movement ritual is a way of becoming aware of self, of your body and all the
+					spaces and areas of your body, what you feel like and where your mind
+						is."<note>3. Anna Halprin, "Life/art workshop processes," in Taking Part by
+						Lawrence Halprin and Jim Burns (Cambridge: MIT Press, 1974), p. 174.</note>
+					One <pb n="13"/> morning at the end of movement ritual, Anna told us just to let
+					our bodies move themselves, without imposing any preset pat terns, without
+					interfering with notions of what might look "graceful." I lay there, not
+					thinking about how to move. I felt my legs gently pull apart, opening up my
+					genitals, and my pelvis tilted under, slowly lifting my torso upward and back
+					down. The experience was both real and unreal, as if my body were literally
+					talking to me, telling me how I felt. I watched, observing how my body wanted to
+					unfold, to open out, my pelvis widening, my chest expanding. I got scared. And I
+					retreated, my body closing in, curling up tighter and tighter. My "dance" spoke
+					to me about my female sexuality in a way my head had never allowed.</p>
+				<p> My body as a woman. A biological given. Each month I go through the menstrual
+					cycle. I sense the changes inside my body, the shifts in mood. My lower back
+					tenses in anticipation, as if to inhibit the flow, to deny my natural female
+					functioning. Is that a learned behavior? Clara Thompson, a well-known analyst
+					wrote: "Because menstruation is obvious and uncontestable evidence of
+					femaleness, many neurotic attitudes become attached to it; many painful
+					menstrual periods are not due to organic difficulties at all but to protests
+					against being female.<note>4. Clara M. Thompson, On Women (New York: New
+						American Library, 1964), p. 25.</note>"" The secrecy of menstruation, not to
+					be mentioned, not accepted. If I let my lower spine and pelvis move slowly,
+					unrestricted, as they want to move, I can allow the flow to happen. Without the
+					cramps of protest.</p>
+				<p> Menstruation — a sense of inner rhythm, an obvious connection between my body
+					and my being. And I wonder if the visibility of this connection, month after
+					month, makes it easier for women to get in touch with their feelings through
+					their bodies. Margaret Mead notes: "It may be that the fact that women's bodies
+					are prepared for a so much lengthier participation in the creation of a human
+					being may make females — even those who bear no children — more prone to take
+					their own bodies as the theater of action."<note>5. Margaret Mead, "On Freud's
+						View of Female Psychology," in Women &amp; Analysis, ed. Jean Strouse (New
+						York: Dell, 1974), p. 127.</note></p>
+				<p> I think about Erik Erikson's article "Womanhood and Inner Space, and the
+					controversy it raised.<note>6. Originally published in 1968, reprinted with a
+						reply to criticisms in Women &amp; Analysis.</note> Believing that play
+					represents the child's experience of her/his own body, Erikson found that the
+					differing spatial configurations of play scenes constructed by children
+					reflected the girls' preoccupation with inner space (womb) and the boys' with
+					outer space (penis). In a recent replication of Erikson's study, Phebe Cramer
+					concludes, "In other words, the exciting events of a boy's life are exterior —
+					and here I would say exterior to his own body ... Girls, on the other hand,
+					focus on the interior. Excitement occurs within...."<note>7. Phebe Cramer, "The
+						Development of Play and Fantasy in Boys and Girls," in Psychoanalysis and
+						Contemporary Science, Vol. 4 (New York: International Universities Press,
+						1975), p. 561.</note> I read this as a positive assertion. My body is
+					constructed differently from a man's. The sense of inner space —not a void,
+					empty, waiting to be filled, but a possibility, in touch with growth, alive,
+					whole.</p>
+				<p> My body as a woman. Have I learned to hold my body in a particular way because I
+					am a woman? How does my stance conform to and reinforce how I am supposed to
+					feel as a woman? In Elaine Summer's class I was working with my shoulders. The
+					exercise: to stretch my arm out from the shoulder joint as far as it wanted to
+					go, then release it slowly back to center. Repeating this, turning my arm,
+					rotating my shoulder first in, then out. Afterward my shoulders relaxed, heavy,
+					weighted on the floor. Yet when I stood up, I felt vulnerable, my chest, my
+					breasts exposed. Confusing instructions ran round my head —to be a woman is
+					weak, you must not be weak, you must not show you are a woman. And I observed my
+					shoulders rise in tension to protect me.</p>
+				<p> A friend told me that once, while working with her shoulders, she reexperienced
+					her teenage embarrassment at being flat-chested. She remembered intentionally
+					caving in her chest so no one would notice her "deficiency." Expectations of how
+					to be a woman. Elaine mentioned watching a little girl running around, doing
+					cartwheels, moving freely, naturally. The girl's mother called her over to walk
+					beside mother and grandmother. The little girl's body stiffened, her "activity"
+					constricted, as she readily assumed the pose of "woman" in imitation of her
+					mother and grandmother. Three generations — a legacy of how to behave as woman.
+					The little girl sits demure, hands on her lap, ankles crossed — do not fidget.
+					All those messages. And how do they make me feel as a woman?</p>
+				<p> My body as a woman. I return to Anna Halprin's workshop. After three weeks of
+					working together, the women and men separated to find out how we experienced
+					ourselves as groups, women interacting with women, men with men. The women began
+					with a rap session. Tentative, sensing each other, a preliminary.</p>
+				<p> Anna then led us through a "movement preparation," to take us inside ourselves.
+					While doing the exercise, we were to visualize our "life histories as women, to
+					become aware of our woman hood. We worked in pairs, focusing inward by
+					concentrating on our breathing. I sat on my partner Sara's chest, pressing
+					against her shoulders as she exhaled, letting go as she inhaled. Then, in
+					another exercise, I gently pushed down on Sara's stomach as she breathed out.
+					When she inhaled, I raised her up, my hands grip ping behind her, opening out
+					her chest ... pulling her toward me as I lay back on the ground ready to exhale.
+					Repeat, reversing roles in seesaw alternation. Release, letting go — expansion,
+					taking in. A natural rhythmic cycle at the center of my being. And yet how hard
+					it is not to try to control this vital process, not to interfere. Letting go,
+					giving up freely, "passive"; taking in, open ing up fully, "active" —the simple
+					process of breathing acquires connotations. Do I resist exhaling, stopping
+					short, afraid of being "passive"?</p>
+				<pb n="14"/>
+				<p> Often, doing the movement work, one associates in images. Each of us drew the
+					images evoked by the exercises, and we showed our drawings to each other,
+					relating how these images reflected our experiences of ourselves, our
+					experiences as women. Dana had depicted a child-woman standing small before an
+					enormous closed door, surrounded by empty space. No mother to greet her. Alone.
+					On her own. Alice had drawn a little girl seated in a yoga position with her
+					arms held tightly against her body. She explained that at 31 she felt "too
+					young" to have children, that she herself was just a child. Alice looked at her
+					breasts in disbelief; she couldn't be grown up. My own drawing showed an
+					interior space —delicately pasteled, tenuous lines flowing into and around each
+					other. Scribbled flames of orange-red anger surrounded the inner sanctum,
+					threatening to penetrate, to over whelm it. And all of this was rigidly encased
+					in thick black lines ...contained.</p>
+				<p> Some of the women danced out their visualizations. The process of drawing our
+					responses to the original activity and then using these drawings as a score for
+					another dance encouraged a dialogue with our experiences. Melinda had sketched
+					an incident from her childhood: while trying to prove her strength by climb ing
+					a tree, she had fallen in front of her father and sister (her sister turned away
+					from her in disgust). She asked us to call out conflicting instructions —for her
+					to be a "lady" or a "tomboy." At one point someone yelled, "You won't have any
+					boyfriends. Melinda lashed out at this voice and burst into tears. She closed
+					her dance by convincingly repeating Anna's words, "I can cry and still be
+					strong."</p>
+				<p> Marlo's dance was last. Her drawing was covered with words: "you can't get out,"
+					"push me." Like Alice, she explained she felt "too young." In response, we
+					formed a birth canal, offering resistance as Marlo tried to crawl between our
+					legs. Several times she stopped, frustrated, and we taunted her gently, urging
+					her on. Finally Marlo reached Anna, who was waiting quietly at the other end.
+					But Meg, the last woman in the canal, still held onto Marlo's legs. When the two
+					separated, Meg curled into a fetal position. The group gave birth to twins.
+					Humming softly, we became a chorus cradling the two women. Marlo rocked, nestled
+					quiet in Anna's arms. Meg, in contrast, needed to laugh so that she could cry.
+					And those of us surrounding the two women were no longer simply performers
+					enacting a score. We were participants involved in a drama —not fiction but
+					real. Each of us was Meg and Marlo, woman finding her self, woman reborn. Woman
+					secure in the presence of other women.</p>
+				<p> The following day our movement preparation focused on how certain feelings
+					correlate with specific body positions, how emotional responses are locked into
+					particular body attitudes. We sank slowly, vertebra by vertebra, from a standing
+					position, curling tightly into a ball, then opening out, spread on the ground.
+					As we continued to shift from open to closed positions, we were told to imagine
+					a man in our lives looking at our bodies and to note how we felt about his gaze.
+					I saw first my father, then my friend Bob watching me. Again the feeling of
+					exposure as my chest and pelvis expanded wide. As if by opening, I were to give
+					up my self. My arms reached to hug my knees to my chest. No, I would not show
+					them my body, my femaleness.</p>
+				<p> Finally we spiraled on the ground, one leg rotating across the body, reaching
+					forward, the corresponding arm rotating out, reaching back. We explored this
+					movement, making it more and more sensuous, twisting slowly, luxuriously, until
+					we were dancing our love for our female bodies, accepting our sexuality. Turning
+					the torso, tentative at first, reaching down to caress an ankle, a calf. Flowing
+					from one movement to the next, exploring the fullness of the chest, the length
+					of the neck, opening up to new possibilities of movement, new ways of being.
+					Each woman performed for the others, sharing her own discovery of the beauty of
+					her body, of her self. A celebration.</p>
+				<p> In contrast, we spent the afternoon dealing with aggressive energies, with what
+					Anna called "self-hate." We worked again in pairs. Alice lay down, hands beneath
+					her head, elbows on the ground. As she tried to lift her elbows up to bring them
+					together, I offered resistance by pressing down on them — not so much that she
+					couldn't perform the movement, just enough to make it a struggle. While striving
+					to raise her elbows, each woman was to let out a sound as a way of releasing
+					energy and vocalizing her emotional response. A welter of groans, screeching
+					into shrieks, often climaxing in tears.</p>
+				<p> Again we drew our experiences and danced them out. My image was a mountain,
+					closed off in dense blackness, impenetrable, with a tiny figure struggling
+					desperately all alone to the top. A pretense of strength. The barrier from my
+					earlier drawing ...I am afraid to cry, afraid to show "weakness." I keep telling
+					myself I can make it, I can make it, I don't need anyone. So I grit my teeth,
+					holding my feelings in, and lift my elbows... To perform this score, I asked
+					several women to hold me down so that I couldn't get up. How real this "game"
+					became. Despite the resistance, I was stubbornly determined to stand up. I
+					couldn't (wouldn't) let any sound out, let anyone know how I was feeling. The
+					others' taunts hurt me —"how constipated she is," "you don't want to take up our
+					time," etc., etc. — but the hurt remained bottled up inside. Sure, I might have
+					simply told the others to stop at any time, but (psychologically) I couldn't.
+					And I reflect on Anna's insistence that dance is a direct expression of one's
+					life. That the same emotional blocks that restrict our everyday functioning also
+					limit our movement.</p>
+
+				<quote>I have people clearly looking at their old dance, confronting it and
+					accepting what it is and by dancing it, experiencing that it is not working.
+					Once this has happened, all that vital energy locked up in the old dance is
+					rechanneled as energy and motivation to be used in creating a new one.<note>8.
+						Anna Halprin, quoted in Déak, p. 51.</note></quote>
+				<p> After two days of separation, the women and men came back together. Each group
+					presented its experience to the other. The women chose to perform in a redwood
+					grove. First we sketched out a collective score, each of us offering suggestions
+					as the plan took shape. The atmosphere of our setting was compelling ... the
+					silence, the needle floor muffling every footstep. We decided to make that
+					silence the core of our dance — no words, no sound. Other elements impressed us.
+					We noted the trees towering upright, the light softly filtering through, the
+					sacredness, the timelessness of the place. We wanted to merge with this
+					environment without invading it, to recognize and respect its power as <pb
+						n="15"/> part of ourselves. And we wanted to convey what the two days of
+					being together had meant to us, how our experience as a group had strengthened
+					us as individuals.</p>
+				<p> We began our performance separated, each woman dancing her self in relation to
+					the surroundings. I snuggled myself inside a tree stump, needing enclosure
+					within the vastness around me. I couldn't see the others. Yet I felt their
+					presence, I felt joined in experience to them. And I became more confident; I
+					rose to meet the trees, standing straight and tall. My hands reached out to
+					clasp Alice's. We walked toward each other, slowly, silently, deliberately.
+					Other women too began to approach each other, linking hand to hand. Soon we
+					formed a chain, and we wended our way, step by step, downhill. At one moment we
+					paused. Sylvia stood alone, below us, sunlit on the dust-covered road. She just
+					stood there ... silent, still, the only movement the rising and falling of her
+					chest as she breathed in and out. That was her dance. And her dance spoke to all
+					of our experiences. A sense of inner strength, not assertive, just present. An
+					inner rhythm, in tune with, part of the world around. An openness both expand
+					ing, filling the space, and taking in, absorbing the space. One.</p>
+				<p> The men's dance was totally different. I find myself resorting to clichés. The
+					men performed in a cove at the bottom of a sharp cliff, where the sea battled
+					the rocks. The women watched from above. Each man stood isolated on his own
+					rock. Each was costumed according to his self-image. Arthur posed erect, legs
+					firmly astride, a warrior, face painted, high above on the tallest rock. Lower
+					down, on another rock, Jamie writhed, moaning and shrieking, shaking his seaweed
+					hair. Each man did a specific movement which the others then imitated. A male
+					"chorus." Each note sounded, then echoed back in differing tones as each man
+					adapted the movement to his own body. The shouts, the power flung amidst the
+					waves pounding rocks. The aggressiveness, the "maleness" struck me.</p>
+				<p> One by one, the men disappeared around a corner. Arthur jerked his rattle in a
+					frenzied dance, Jamie plunged into the icy water to swim away. We could only
+					hear the triumphant cries of the tribe gathering. Then they reappeared, to enact
+					a healing ritual. How different from the women's ceremony with Meg and Marlo.
+					The men danced around each other, they seemed to avoid touching each other.
+					Their gestures were bound; less gentle, less direct than ours had been; their
+					mutual support less overt. And then they invited us down to the rocks to be
+					healed. To be healed by the men? Was this really a meeting, equal to equal?</p>
+				<p> I still wonder that so many women went down. The atmosphere created by the men's
+					dance was alien, alien to me as a woman. To go down was to enter a territory
+					already staked out on their terms. Again the stereotypes. And yet ... What I had
+					felt among the women was our shared strength, each of us rein forcing the other
+					— not so much through isolated echoes, as in the men's dance, more in harmony.
+					We were less insistent on an individualistic integrity. The men seemed afraid of
+					each other, afraid to let their bodies mingle, afraid to touch. An aggregate of
+					dominant notes rather than a true chorus. (Some people have thought that the
+					difference I sensed was because I was an observer of the men and a participant
+					with the women. I don't think so. In later discussions, the men admitted how
+					difficult it had been for them to come together as a group, how hard it had been
+					to relate physically, to get close to each other.)</p>
+				<p> Differences in communication patterns. In Marge Piercy's novel Small Changes,
+					Wanda is showing the members of her theatre group the different ways men and
+					women occupy space. She chooses for illustration how people sit in public
+					places. "Men expanded into available space. They sprawled, or they sat with
+					spread legs.... Women condensed.... Women sat protectively using elbows not to
+					dominate space, not to mark territory, but to protect their soft
+						tissues."<note>9. Marge Piercy, Small Changes (Garden City, N.Y.: Doubleday,
+						1973), p. 438.</note> And I wonder again about the ways women have been
+					taught to hold their bodies.</p>
+				<p> It's almost two years since I became aware of my body. And l'm still learning.
+					Finding my center. Me. A woman.</p>
+				<p> Research into sex-role differences in movement patterns is still limited. Nancy
+					Henley's new book, Body Politics: Sex, Power and Nonverbal Communication,
+						<note>10. Nancy Henley, Body Politics (New York: Prentice-Hall,
+						1977).</note> provides a much-needed compilation and review of the research
+					on male-female differences, and what this means in terms of status. Just the
+					title implies the importance of body language in regard to social "position." In
+					another study, Martha Davis, a clinical psychologist, points out that a number
+					of aspects of non-verbal communication have both sex-role and status
+					significance—"frequently confirming the expectation of lower status associated
+					with female, higher status with male."<note>11. Martha Davis, "Nonverbal
+						Dimensions of Sex and Status Differences (presented at American
+						Anthropological Association Meetings, Nov. 1976).</note> Davis concludes her
+					paper with a description of the pictures of man and woman sent into outer space
+					on the Pioneer 10 spaceship: "The man stands upright, wide, ready to go into
+					action. The woman stands with her weight shifted to one side, one knee slightly
+					bent and inward, her attitude more passive, a role difference apparently
+					considered important enough to propel beyond our solar system."</p>
+				<p> My thanks to Jacqueline Morrison who took all the photos at Anna's workshop.</p>
+			</div>
+		</body>
+		<back>
+			<p> Sue Heinemann is an artist, critic and sometimes dancer living in New York.</p>
+		</back>
+	</text>
+</TEI>

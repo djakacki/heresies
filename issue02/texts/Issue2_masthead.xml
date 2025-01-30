@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n="0"/>
+            <p> HERESIES is an idea-oriented journal devoted to the examination of art and politics
+               from a feminist perspective. We believe that what is commonly called art can have a
+               political impact, and that in the making of art and of all cultural artifacts our
+               identities as women play a distinct role. We hope that HERESIES will stimulate
+               dialogue around radical political and aesthetic theory, encourage the writing of the
+               history of femina sapiens, and generate new creative energies among women. It will be
+               a place where diversity can be articulated. We are committed to the broadening of the
+               definition and function of art.</p>
+            <p> HERESIES is structured as a collective of feminists, some of whom are also
+               socialists, marxists, lesbian feminists or anarchists; our fields include painting,
+               sculpture, writing, anthropology, literature, performance, art history, architecture
+               and filmmaking. While the themes of the individual issues will be determined by the
+               collective, each issue will have a different editorial staff made up of contributors
+               as well as members of the collective. Each issue will take a different visual form,
+               chosen by the group responsible. HERESIES will try to be accountable to and in touch
+               with the international feminist community. An open evaluation meeting will be held
+               after the appearance of each issue. Themes will be announced well in advance in order
+               to collect material from many sources. (See inside of back cover for list of
+               projected issues.) Possibly satellite pamphlets and broadsides will be produced
+               continuing the discussion of each central theme.</p>
+            <p> As women, we are aware that historically the connections between our lives, our arts
+               and our ideas have been suppressed. Once these connections are clarified they can
+               function as a means to dissolve the alienation between artist and audience, and to
+               understand the relationship between art and politics, work and workers. As a step
+               toward a demystification of art, we reject the standard relationship of criticism to
+               art within the present system, which has often become the relationship of advertiser
+               to product. We will not advertise a new set of genius-products just because they are
+               made by women. We are not committed to any particular style or aesthetic, nor to the
+               competitive mentality that pervades the art world. Our view of feminism is one of
+               process and change, and we feel that ir the process of this dialogue we can foster a
+               change in the meaning of art.</p>
+            <p> THE COLLECTIVE: Ida Applebroog, Patsy Beckert, Joan Braderman, Mary Beth Edelson, Su
+               Friedrich, Janet Froelich, Harmony Hammond, Sue Heinemann, Elizabeth Hess, Joyce
+               Kozloff, Arlene Ladden, Lucy Lippard, Marty Pottenger, Miriam Schapiro, Amy Sillman,
+               Joan Snyder, Elke Solomon, Pat Steir, May Stevens, Susana Torre, Elizabeth
+               Weatherford, Sally Webster, Nina Yankowitz.</p>
+            <p> This issue of HERESIES was edited and produced by three groups which met separately
+               and together for more than four months: a nine-woman editorial collective, which
+               takes final responsibility for the magazine; an eight-woman adjunct group which
+               worked on general ideas, research and specific articles; and a five-woman
+               design/production group. Still other women helped with additional aspects, such as
+               copyediting, proofreading and mechanicals, and the larger HERESIES Collective
+               supported us all. Because of the number of women involved and the number of
+               manuscripts received (more than twice as many as were submitted to our first issue),
+               the process was complex. Editorial work was new to most of us, and we needed a lot of
+               time to listen to each other, to reflect on our disparate experiences and
+               viewpoints—and to develop an overview of the magazine, which finally affected our
+               decisions almost as much as individual submissions. We worked collectively on each
+               piece, arriving at a consensus only after much discussion. Sometimes we frustrated
+               those authors and artists who had hoped to hear more from us sooner. As we worked, we
+               found that we were indeed involved in a process of communication with all the women
+               who wanted to participate in this issue, as well as with each other. If this process
+               was at times confusing, it was also intensely satisfying. </p>
+            <p> As this issue went into production, Ree Morton, an artist whose friendship, work and
+               commitment to feminism made her close to many ofus, died of injuries sustained in an
+               automobile accident. We will miss her. </p>
+            <p> Editorial group: Patsy Beckert, Lizzie Borden, Janet Froelich, Denise Green, Sue
+               Heinemann, Diane Levin, Lucy Lippard, Pat Steir, Elizabeth Weatherford.</p>
+            <p> And: Ida Applebroog, Karen Harris, Stephanie Brody Lederman, Karen Shaw, Theodora
+               Skipitares, Amy Snider, Carla Tardi, Mimi Weisbord.</p>
+            <p> Design/production group: Barbara Coleman, Paula Greif, Suzanne Kuffler, Francesca de
+               Majo.</p>
+            <p> Our thanks to those who helped get out this issue: Barbara Baracks, Marina
+               Cappalletto, Nicole Croiset, Tony DeLuna, Debbie Dominguez, Birgit Flos, Maria
+               Friedrich, Su Friedrich, Paula Harper, Laurie Leifer, Diana Long, Mary Lou Lopez,
+               Melissa Meyer, Margot Norton, Lawrence Pitkethly, Bernie Rohret, Sarah Schuman, Amy
+               Sillman, Jackie Wray, Nil Yalter, Ruth Young; our lawyer, Eleanor Fox; and our
+               photographers, eeva- inkeri.</p>
+            <p> HERESIES: A Feminist Publication on Art and Politics is published in January, May,
+               September and December by Heresies Collective, Inc. at the Fine Arts Building, 105
+               Hudson Street, New York, N.Y. 10013. Subscription rates: $10 for four issues; $16 for
+               institutions. Outside the U.S. add 52 postage. Single copy: 53. Address all
+               correspondence to HERESIES, P.O. Box 766, Canal Street Station, New York, N.Y. 10013.
+               HERESIES, ISSN 0146-3411. Vol. 1, No. 2, May 1977. O 1977 Heresies Collective. All
+               rights reserved. On publication, all rights revert to authors.</p>
+            <p> This issue of HERESIES was typeset by Myrna Zimmerman in Palatino, with headlines
+               set by Talbot Typographics, Inc. Also thanks to Daniel Shapiro. Printed by the
+               Capital City Press, Montpelier, Vermont. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

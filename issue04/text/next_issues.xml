@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITLE</title>
+            <author>AUTHOR</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <pb n="129" facs="https://raw.githubusercontent.com/BucknellDSC/heresies/refs/heads/main/issue04/images/Heresies_04_132.jpg"/>
+         <head>The next issues of Heresies:</head>
+         
+         
+         <table>
+            <row>
+               <cell>5</cell>
+               <cell>6</cell>
+               <cell>7</cell>
+            </row>
+            <row>
+               <cell>The Great Goddess/Women’s spirituality: Common bondings in the new
+                  mythology; ritual and the collective woman; avoiding limitations in our
+                  self-defining process; recipes and wisdom from country “spirit women”; the
+                  Goddess vs. the patriarchy; the Goddess movement abroad; hostility against
+                  and fear of the goddess; original researches; locating the Goddes-temples,
+                  museums, digs, bibliographies, maps; the new/old holydays; healing;
+                  political implications of the goddess; psychological impact on women of
+                  female-centered spirituality. Available May 1978. </cell>
+               <cell>Women and Violence: Cultural: violence against women in mass media,
+                  literature and art; women’s self-usage ... Family: wife beating; child
+                  abuse; sex-violence among lovers and friends...Institutionalized:
+                  incarceration in prisons and mental hospitals; repression in traditional
+                  religions; racism; imperialism and economic deprivation; torture of
+                  political prisoners; sterilization abuse; homophobia; rape... Rebellion:
+                  feminism as an act of self-defense; revolutionary struggles; art which
+                  expiores violence; art-making as anbringing act... <lb/>Deadline: April 15,
+                  1978.</cell>
+               <cell>Working together: ‘True Confessions’: An issue to be edited by the
+                  HERESIES Publishing Collective, with an emphasis on examining collectivity,
+                  work and individuals; an examination of different collective, past and
+                  present, white, Third World, lesbian, female/male; women working with women;
+                  an explanation of feminist networks, structure and process; the development
+                  of feminist criticism; the trial and tribulations of going public; our own
+                  view of HERESIES&apos; working process and substantive radical response to
+                  the first four issues of HERESIES. Deadline: July 15, 1978. </cell>
+            </row>
+         </table>
+         
+         <p>Guidelines for Prospective Contributors: Manuscripts should be typewritten,
+            double-spaced, on 8 1/2“ x 11“ paper and submitted in duplicate with footnotes and
+            illustrative material, if any, fully captioned. We welcome for consideration either
+            outlines or description of proposed articles. These are due no later than one month
+            prior to the deadline for manuscripts. If you are submitting visual material, please
+            send a photograph, xerox or description—not the original. HERESIES will not take
+            responsibility for unsolicited original material. Only manuscripts and visual
+            material aecompanied by a stamped, self-addresed envelope will be returned. HERESIES
+            will pay a fee between $5 and $50, as our budget allows, for published material.
+            There will be no commissioned articles and we cannot guarantee acceptance of
+            submitted material. We will not include reviews or monographs on contemporary
+            women.</p>
+         <p> Dear Lesbian issue Collective: <lb/>We appreciate all of the work the Lesbian Arts
+            and Artists issue of HERESIES represents. We find it appalling, however, that a
+            hundred years from now it will be possible for women to conclude that in 1977 there
+            were no practicing Black and other Third World lesbian artists. It is not sufficient
+            to explain such grievous omissions merely by stating: “.. yet biases which informed
+            our choices of material were certainly conditioned by the fact that we are all
+            lesbians, white, college-educated, and mostly middle-class women who live in New
+            York and have a background in the arts.” Feminist and lesbian politics and creative
+            are not the exclusive property of white women.</p>
+         <p>We would like to know if any of the hundreds of contributors you had to choose from
+            were Third World women and if so to know more specifically the basis on which their
+            work was rejected. <lb/>We look forward to your response. </p>
+         <p>Dear Combahee River Collective:
+            <lb/> Although we did not systematically exclude Third world women from the Lesbian
+            issue of HERESIES, we did participate in a kind of passive exclusion. The editorial
+            collective that formed was all white. Our knowledge of the Third World artist or
+            lesbian community was limited. By not making a concerted effort to contact Third
+            World Lesbian artists we became an only too typical all-White group operating in a
+            racist society.</p>
+         <p>The inclusion of Third World contributions was based on the same criteria applied to
+            all work submitted to the issue. We don’t know exactly how many Black and other
+            Third World women submitted work, but we received nothing that specifically dealt
+            with being a non-white lesbian artist or which spoke from an identifiably non-White
+            position. As far as we know, the work of only one Third World woman was included in
+            the issue. It is probable that we didn’t receive much work from Third World
+            women.</p>
+         <p>HERESIES has had a similar problem with every issue. Most of the editors and
+            contributors have been white women. As you may know, each issue of HERESIES is
+            edited by a different group of women. Each issue is thematic and any women with an
+            interest in that particular topic is welcome to work on the issue. We hope that,
+            increasingly, Third World women will want to participate in issues of their
+            choice.</p>
+         <p>Also, though we haven’t done this yet, if a group of women approaches us with a
+            proposal for an issue they want to put out themselves, we will consider giving an
+            entire issue to them to produce. A group of women who are already organized, such as
+            the Combahee Collective, might want to do an issue devoted to Black and other Third
+            World artists. In this way we can begin to extend our publication to speak for many
+            feminists who have not been well represented so far.</p>
+         <p>As you pointed out, however, it is HERESIES&apos; responsibility to continue to print
+            work by and about minority women (including Third World women, lesbian women, etc.)
+            in each issue to avoid tokenism.</p>
+         <p>We hope this information and your letter will encourage a greater effort on the part
+            of both HERESIES editorial collectives and Third World women to enter into an
+            exchange. </p>
+         <p>HERESIES is planning to publish an issue on Black, Spanish-American, American Indian
+            and other Third World women to be edited by Third World women. As with all HERESIES
+            issues, the concept, content and design are to be decided solely by its editors. The
+            issue, No. 8, is to be published in January 1979. Any Third World woman in the New
+            York area who is interested in working on this should contact HERESIES immediately
+            so that the core editorial group can form. White us or call (212) 431-9060. </p>
+      </body>
+   </text>
+</TEI>

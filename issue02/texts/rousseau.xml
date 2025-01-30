@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='87'/>
+			<p>
+				<lb facs='#facs_87_r_2_1_tl_1' n='N001'/>HOMELESS WOMEN
+				<lb facs='#facs_87_r_2_1_tl_2' n='N002'/>ANN MARIE ROUSSEAU
+			</p>
+			<p>
+				<lb facs='#facs_87_r_5_1_tl_1' n='N001'/>Who are the homeless women huddled in the doorways,
+				<lb facs='#facs_87_r_5_1_tl_2' n='N002'/>train stations and parks of New York City? Called shopping-bag
+				<lb facs='#facs_87_r_5_1_tl_3' n='N003'/>ladies because they carry all their possessions in bags, they roam
+				<lb facs='#facs_87_r_5_1_tl_4' n='N004'/>the streets—alone, isolated and without the basic necessity of
+				<lb facs='#facs_87_r_5_1_tl_5' n='N005'/>shelter. In a world where myths of marriage and motherhood tell
+				<lb facs='#facs_87_r_5_1_tl_6' n='N006'/>us women are protected in the home, these women symbolize our
+				<lb facs='#facs_87_r_5_1_tl_7' n='N007'/>worst fears about women who do not, or cannot, fit into a society
+				<lb facs='#facs_87_r_5_1_tl_8' n='N008'/>that values production and work.
+				<lb facs='#facs_87_r_5_1_tl_9' n='N009'/>The Shelter Care Center for Women is a temporary residence
+				<lb facs='#facs_87_r_5_1_tl_10' n='N010'/>for homeless women in New York City. It costs the city over 560
+				<lb facs='#facs_87_r_5_1_tl_11' n='N011'/>a day per woman to keep 47 women at the Shelter. This pays for
+				<lb facs='#facs_87_r_5_1_tl_12' n='N012'/>the rent of the building and for a full-time staff of 50 who provide
+				<lb facs='#facs_87_r_5_1_tl_13' n='N013'/>social work and other services.
+				<lb facs='#facs_87_r_5_1_tl_14' n='N014'/>In connection with a community arts project sponsored by
+				<lb facs='#facs_87_r_5_1_tl_15' n='N015'/>the Metropolitan Museum, I have been teaching an art class at the
+				<lb facs='#facs_87_r_5_1_tl_16' n='N016'/>Shelter. The following excerpts are from taped conversations
+				<lb facs='#facs_87_r_5_1_tl_17' n='N017'/>with some of the women staying there. The photographs were
+				<lb facs='#facs_87_r_5_1_tl_18' n='N018'/>taken by the women who participated in my classes.
+				<lb facs='#facs_87_r_5_1_tl_19' n='N019'/>Adele Raiffen, found sleeping on the subways, was brought
+				<lb facs='#facs_87_r_5_1_tl_20' n='N020'/>to the Shelter by the police. She comes from Boston, where her
+				<lb facs='#facs_87_r_5_1_tl_21' n='N021'/>father was a lawyer, and unlike many of the Shelter women,
+				<lb facs='#facs_87_r_5_1_tl_22' n='N022'/>Adele went to college. She majored in religion and managed her
+				<lb facs='#facs_87_r_5_1_tl_23' n='N023'/>life reasonably well until her last year in school.
+			</p>
+			<p>
+				<lb facs='#facs_87_r_8_1_tl_1' n='N001'/>When I started reading the New Testament I certainly wasn&apos;t
+				<lb facs='#facs_87_r_8_1_tl_2' n='N002'/>seeking God and probably 95 percent of my fellow students
+				<lb facs='#facs_87_r_8_1_tl_3' n='N003'/>weren’t either. But I began hearing the words of Jesus and I saw
+				<lb facs='#facs_87_r_8_1_tl_4' n='N004'/>that I was not cleansed in the eyes of the Lord. I started to get
+				<lb facs='#facs_87_r_8_1_tl_5' n='N005'/>really upset and I found I couldn’t cope. It was at this time that l
+				<lb facs='#facs_87_r_8_1_tl_6' n='N006'/>decided to jump out of the window. This was pretty dumb, but it
+				<lb facs='#facs_87_r_8_1_tl_7' n='N007'/>was a very definite decision. I had definitely given up on life. I
+				<lb facs='#facs_87_r_8_1_tl_8' n='N008'/>thought Iwas mad. I ended up staying in the local infirmary for a
+				<lb facs='#facs_87_r_8_1_tl_9' n='N009'/>while and then they put me in a mental hospital for two years.
+			</p>
+			<p>
+				<lb facs='#facs_87_r_9_1_tl_1' n='N001'/>About five years ago a government policy turned out thou
+				<lb facs='#facs_87_r_9_1_tl_2' n='N002'/>sands of people from state mental hospitals in the name of hu
+				<lb facs='#facs_87_r_9_1_tl_3' n='N003'/>manity and reform. People who had spent years passively being
+				<lb facs='#facs_87_r_9_1_tl_4' n='N004'/>cared for in institutions were abruptly left to fend for themselves
+				<lb facs='#facs_87_r_9_1_tl_5' n='N005'/>on welfare.
+			</p>
+			<p>
+				<lb facs='#facs_87_r_10_1_tl_1' n='N001'/>When they let me out I moved into a hotel and lived there for
+				<lb facs='#facs_87_r_10_1_tl_2' n='N002'/>a number of years. I had a great many emotional problems and a
+				<lb facs='#facs_87_r_10_1_tl_3' n='N003'/>chronic drinking problem that had been going on for five years. I
+			</p>
+			<pb n='88'/>
+			<p>
+				<lb facs='#facs_88_r_1_1_tl_1' n='N001'/>was pretty unhappy. Everyone was a chronic alcoholic like my-
+				<lb facs='#facs_88_r_1_1_tl_2' n='N002'/>self and the discipline wasn’t very great. Most of the people came
+				<lb facs='#facs_88_r_1_1_tl_3' n='N003'/>and went out of the local hospital.
+			</p>
+			<p>
+				<lb facs='#facs_88_r_2_1_tl_1' n='N001'/>Most of the women cannot find or hold jobs. Often they are
+				<lb facs='#facs_88_r_2_1_tl_2' n='N002'/>placed in welfare hotels where their checks are lost or stolen or
+				<lb facs='#facs_88_r_2_1_tl_3' n='N003'/>they are unsuccessful in budgeting their money. These city
+				<lb facs='#facs_88_r_2_1_tl_4' n='N004'/>financed hotels are poorly kept places of despair and misery.
+				<lb facs='#facs_88_r_2_1_tl_5' n='N005'/>Pimps, addicts and junkies hang out in the lobbies and the women
+				<lb facs='#facs_88_r_2_1_tl_6' n='N006'/>fear being robbed and assaulted. Worst of all is the loneliness.
+				<lb facs='#facs_88_r_2_1_tl_7' n='N007'/>There are few programs to reach the many people isolated inside
+				<lb facs='#facs_88_r_2_1_tl_8' n='N008'/>their rooms. Without treatment or any kind of community or
+				<lb facs='#facs_88_r_2_1_tl_9' n='N009'/>family support, problems of mental illness intensify.
+			</p>
+			<p>
+				<lb facs='#facs_88_r_3_1_tl_1' n='N001'/>I felt that I had already accepted Jesus as the truth and the
+				<lb facs='#facs_88_r_3_1_tl_2' n='N002'/>only salvation, so I was drawn to visit a church fellowship house
+				<lb facs='#facs_88_r_3_1_tl_3' n='N003'/>that was nearby. This was a nationally organized Christian fel
+				<lb facs='#facs_88_r_3_1_tl_4' n='N004'/>lowship house where people lived together in very tight com
+				<lb facs='#facs_88_r_3_1_tl_5' n='N005'/>munal situations where they could receive the word of God.
+				<lb facs='#facs_88_r_3_1_tl_6' n='N006'/>Pretty soon I decided to move in. It was a good move. They knew
+				<lb facs='#facs_88_r_3_1_tl_7' n='N007'/>that living together in a tight situation often makes somebody
+				<lb facs='#facs_88_r_3_1_tl_8' n='N008'/>grow very fast, and I did that for a while. I grew very fast, but
+				<lb facs='#facs_88_r_3_1_tl_9' n='N009'/>after two weeks l had to go into the hospital again.
+				<lb facs='#facs_88_r_3_1_tl_10' n='N010'/>When I came out, I decided to go back to this same house
+				<lb facs='#facs_88_r_3_1_tl_11' n='N011'/>and things went pretty well until two weeks later when I started
+				<lb facs='#facs_88_r_3_1_tl_12' n='N012'/>another drinking binge by drinking all of the vanilla in the house.
+				<lb facs='#facs_88_r_3_1_tl_13' n='N013'/>When I did that, I ran out and ran down the street and I thought,
+				<lb facs='#facs_88_r_3_1_tl_14' n='N014'/>&quot;Well, l’ve replaced vanilla bottles on a Sunday morning before.
+				<lb facs='#facs_88_r_3_1_tl_15' n='N015'/>This is no sweat. This is real easy.&quot; And that was it. I couldn&apos;t
+				<lb facs='#facs_88_r_3_1_tl_16' n='N016'/>stand one more moment of hunting down vanilla bottles. I guess
+				<lb facs='#facs_88_r_3_1_tl_17' n='N017'/>it was the love l had for other people. So I prayed, &quot;God, l’m too
+				<lb facs='#facs_88_r_3_1_tl_18' n='N018'/>tired to drink anymore. You just gotta do something about it,
+				<lb facs='#facs_88_r_3_1_tl_19' n='N019'/>and I turned around and I ran home and told my pastor about it.
+				<lb facs='#facs_88_r_3_1_tl_20' n='N020'/>From that day forward I didn’t take a drink in that house.
+				<lb facs='#facs_88_r_3_1_tl_21' n='N021'/>After a while I decided to leave that house because I had
+				<lb facs='#facs_88_r_3_1_tl_22' n='N022'/>obviously been cured and no longer needed the fellowship of
+				<lb facs='#facs_88_r_3_1_tl_23' n='N023'/>Christian people. I thought I could do well enough on my own
+				<lb facs='#facs_88_r_3_1_tl_24' n='N024'/>and I wanted my own life. I came to New York to visit friends
+				<lb facs='#facs_88_r_3_1_tl_25' n='N025'/>and I stayed with my sister and her family.
+			</p>
+			<p>
+				<lb facs='#facs_88_r_6_1_tl_1' n='N001'/>Ithink I was pretty unhappy at the time. Pretty lost at sea.
+				<lb facs='#facs_88_r_6_1_tl_2' n='N002'/>think a lot of people come to New York to be alone with them-
+				<lb facs='#facs_88_r_6_1_tl_3' n='N003'/>selves or something; to cut off ties with people they know. It&apos;s
+				<lb facs='#facs_88_r_6_1_tl_4' n='N004'/>kind of a self-destructive thing to do, to come to New York
+				<lb facs='#facs_88_r_6_1_tl_5' n='N005'/>without any concrete plans and I might have been doing that,
+				<lb facs='#facs_88_r_6_1_tl_6' n='N006'/>My sister is pretty happily married and sometimes weve
+				<lb facs='#facs_88_r_6_1_tl_7' n='N007'/>been very close, but I was not finding a way to live with the con
+				<lb facs='#facs_88_r_6_1_tl_8' n='N008'/>tentions going on around me. I wasn’t able to cope with people
+				<lb facs='#facs_88_r_6_1_tl_9' n='N009'/>who had never met Jesus. My sister was one of those people, and
+				<lb facs='#facs_88_r_6_1_tl_10' n='N010'/>it became very hard for me to cope. You see l’m basically (
+				<lb facs='#facs_88_r_6_1_tl_11' n='N011'/>back-sliding Christian. For about a year now l’ve felt God&apos;s kind
+				<lb facs='#facs_88_r_6_1_tl_12' n='N012'/>of deserted me, but His word is still pretty faithful, and in my
+				<lb facs='#facs_88_r_6_1_tl_13' n='N013'/>sister&apos;s house I wasn’t finding a way to live, so essentially I guess!
+				<lb facs='#facs_88_r_6_1_tl_14' n='N014'/>ran away. I just upped and left one day.
+			</p>
+			<p>
+				<lb facs='#facs_88_r_7_1_tl_1' n='N001'/>While it is estimated that there are as many as 3,000 home
+				<lb facs='#facs_88_r_7_1_tl_2' n='N002'/>less women wandering around New York City, the Women&apos;s
+				<lb facs='#facs_88_r_7_1_tl_3' n='N003'/>Shelter has only 47 beds. Last year more than 2,000 women were
+				<lb facs='#facs_88_r_7_1_tl_4' n='N004'/>turned away. Close to 800 were accepted and stayed anywhere
+				<lb facs='#facs_88_r_7_1_tl_5' n='N005'/>from one day to several months.
+			</p>
+			<p>
+				<lb facs='#facs_88_r_8_1_tl_1' n='N001'/>I stayed in the park and I wandered around for a I
+				<lb facs='#facs_88_r_8_1_tl_2' n='N002'/>don’t remember how I found the Shelter. Maybe through the
+				<lb facs='#facs_88_r_8_1_tl_3' n='N003'/>grapevine. Iwasn’t thinking too clearly then. Im hoping to get on
+				<lb facs='#facs_88_r_8_1_tl_4' n='N004'/>welfare, or maybe I could get a job as a salesgirl somewhere. For
+				<lb facs='#facs_88_r_8_1_tl_5' n='N005'/>tunately or unfortunately I don’t drink anymore. It doesn’t seem
+				<lb facs='#facs_88_r_8_1_tl_6' n='N006'/>to be a problem. There are too many other things to occupy my
+				<lb facs='#facs_88_r_8_1_tl_7' n='N007'/>mind. Occasionally when I get desperate, I head for a bar or
+				<lb facs='#facs_88_r_8_1_tl_8' n='N008'/>something, but usually Istop in midstream and change my mind.
+			</p>
+			<p>
+				<lb facs='#facs_88_r_9_1_tl_1' n='N001'/>The goal of the Shelter is to provide a short-term residence
+				<lb facs='#facs_88_r_9_1_tl_2' n='N002'/>where women can be helped and then returned to the communit)
+				<lb facs='#facs_88_r_9_1_tl_3' n='N003'/>or placed in an appropriate institution, but the recidivism rate
+				<lb facs='#facs_88_r_9_1_tl_4' n='N004'/>runs to 50 percent. The women do not get the kind of help they
+				<lb facs='#facs_88_r_9_1_tl_5' n='N005'/>need at the Shelter or anywhere else.
+			</p>
+			<p>
+				<lb facs='#facs_88_r_10_1_tl_1' n='N001'/>Selma Lyons is 46. She has spent most of her life in mental
+				<lb facs='#facs_88_r_10_1_tl_2' n='N002'/>institutions or nursing homes.
+			</p>
+			<p>
+				<lb facs='#facs_88_r_11_1_tl_1' n='N001'/>You see the thing was like my mother. She had a problem
+				<lb facs='#facs_88_r_11_1_tl_2' n='N002'/>drinking, and she didn’t get along with my dad. So when they
+				<lb facs='#facs_88_r_11_1_tl_3' n='N003'/>split up the family they just made the kids wards of the court.
+				<lb facs='#facs_88_r_11_1_tl_4' n='N004'/>There were nine of us and I was right in the middle.
+				<lb facs='#facs_88_r_11_1_tl_5' n='N005'/>My younger brothers and sisters went to the orphan home,
+				<lb facs='#facs_88_r_11_1_tl_6' n='N006'/>but I got sent up. You know youre supposed to get a trial of some
+				<lb facs='#facs_88_r_11_1_tl_7' n='N007'/>sort before they send you to state hospital, but I didn’t get none.!
+				<lb facs='#facs_88_r_11_1_tl_8' n='N008'/>never seen the judge. They just decided to send me up. They
+				<lb facs='#facs_88_r_11_1_tl_9' n='N009'/>didn’t say why. They didn’t say much of anything. They just saia
+				<lb facs='#facs_88_r_11_1_tl_10' n='N010'/>something about going for a long nice ride and enjoying the
+				<lb facs='#facs_88_r_11_1_tl_11' n='N011'/>scenery. You know they don’t tell you nothing. They took me up
+				<lb facs='#facs_88_r_11_1_tl_12' n='N012'/>there and when we got there they told me where it was after they
+				<lb facs='#facs_88_r_11_1_tl_13' n='N013'/>locked me up.
+				<lb facs='#facs_88_r_11_1_tl_14' n='N014'/>After I got there, the doctors that talked to me got maddel
+				<lb facs='#facs_88_r_11_1_tl_15' n='N015'/>than hell for them to bring me there because I was only fourteen
+				<lb facs='#facs_88_r_11_1_tl_16' n='N016'/>and the patients that were there were mostly either forty or fifty.
+			</p>
+			<pb n='89'/>
+			<p>
+				<lb facs='#facs_89_r_7_1_tl_1' n='N001'/>and he said he liked to
+				<lb facs='#facs_89_r_7_1_tl_2' n='N002'/>ave the person that sent me there for
+				<lb facs='#facs_89_r_7_1_tl_3' n='N003'/>one hour and call him dirty names. Most of the patients there
+				<lb facs='#facs_89_r_7_1_tl_4' n='N004'/>were old people. I was the only young one. That makes a big dif
+				<lb facs='#facs_89_r_7_1_tl_5' n='N005'/>ference being a young person and then being with so many old
+				<lb facs='#facs_89_r_7_1_tl_6' n='N006'/>people.
+				<lb facs='#facs_89_r_7_1_tl_7' n='N007'/>I stayed in the hospital that first time three or four months
+				<lb facs='#facs_89_r_7_1_tl_8' n='N008'/>until they asked me a lot of questions and they figured I was
+				<lb facs='#facs_89_r_7_1_tl_9' n='N009'/>okay. Then they sent me back to a nursing home in Quincy. See,
+				<lb facs='#facs_89_r_7_1_tl_10' n='N010'/>in Illinois when people get out of state hospitals sometimes they
+				<lb facs='#facs_89_r_7_1_tl_11' n='N011'/>send them to nursing homes with full privileges and all.
+				<lb facs='#facs_89_r_7_1_tl_12' n='N012'/>But my mother started coming round and asking for my
+				<lb facs='#facs_89_r_7_1_tl_13' n='N013'/>money and stuff. She told me to come over and see her, so I went
+				<lb facs='#facs_89_r_7_1_tl_14' n='N014'/>and brought her a sack of groceries. She didn’t like me staying at
+				<lb facs='#facs_89_r_7_1_tl_15' n='N015'/>the home, and I just figured, well, l’Il stay at my mother&apos;s. So I
+				<lb facs='#facs_89_r_7_1_tl_16' n='N016'/>stayed at my mother’s house and all of a sudden a policeman
+				<lb facs='#facs_89_r_7_1_tl_17' n='N017'/>came down saying he was going to take me to jail because I was
+				<lb facs='#facs_89_r_7_1_tl_18' n='N018'/>still a ward of the court, see. And I wasn’t supposed to be at my
+				<lb facs='#facs_89_r_7_1_tl_19' n='N019'/>mother’s. Course I didn’t know cause the law don’t tell kids
+				<lb facs='#facs_89_r_7_1_tl_20' n='N020'/>anything anyway.
+				<lb facs='#facs_89_r_7_1_tl_21' n='N021'/>So they took me to jail and they had a new judge. Came in.
+				<lb facs='#facs_89_r_7_1_tl_22' n='N022'/>He said, &quot;You ain’t guilty of nothing, there’s no charges against
+				<lb facs='#facs_89_r_7_1_tl_23' n='N023'/>you,&quot; and he said, &quot;I got some real nice people where you can live
+				<lb facs='#facs_89_r_7_1_tl_24' n='N024'/>with them, real nice, that&apos;Il treat you right, treat you decent and
+				<lb facs='#facs_89_r_7_1_tl_25' n='N025'/>everything. So he introduced me to the Parsons, see, and the
+				<lb facs='#facs_89_r_7_1_tl_26' n='N026'/>Parsons decided to get me a job. He was a guy that worked for
+				<lb facs='#facs_89_r_7_1_tl_27' n='N027'/>the state and he went around helping teenagers get jobs. He just
+				<lb facs='#facs_89_r_7_1_tl_28' n='N028'/>loved teenagers, working day and night to help them. He got me
+				<lb facs='#facs_89_r_7_1_tl_29' n='N029'/>a job at the Pepsi-Cola plant working on an assembly line sorting
+				<lb facs='#facs_89_r_7_1_tl_30' n='N030'/>bottles. Istayed there about four months and then the boss said l
+				<lb facs='#facs_89_r_7_1_tl_31' n='N031'/>wasn’t able to keep up, you know, work fast enough. So he said
+				<lb facs='#facs_89_r_7_1_tl_32' n='N032'/>that being he liked me he&apos;d keep me a month longer because he
+				<lb facs='#facs_89_r_7_1_tl_33' n='N033'/>hated to, you know, see me go.
+				<lb facs='#facs_89_l' n='N034'/>The only alternative to the streets available for many people
+				<lb facs='#facs_89_l_2031' n='N035'/>is an institution.
+			</p>
+			<p>
+				<lb facs='#facs_89_r_4_1_tl_1' n='N001'/>Later on when I was older they let me go to St. Louis to live
+				<lb facs='#facs_89_r_4_1_tl_2' n='N002'/>with my mother in the boarding house she ran. I lived there for a
+				<lb facs='#facs_89_r_4_1_tl_3' n='N003'/>while but my mother had a drinking problem. I couldn’t under
+				<lb facs='#facs_89_r_4_1_tl_4' n='N004'/>stand her too well. So one night I decided to go to Kansas.
+				<lb facs='#facs_89_r_4_1_tl_5' n='N005'/>When they picked me up they found out that I once was at the
+				<lb facs='#facs_89_r_4_1_tl_6' n='N006'/>state hospital by questioning, so they kept me in the hospital in
+				<lb facs='#facs_89_r_4_1_tl_7' n='N007'/>Kansas for three months and then they transferred me back to the
+				<lb facs='#facs_89_r_4_1_tl_8' n='N008'/>hospital in Illinois.
+				<lb facs='#facs_89_r_4_1_tl_9' n='N009'/>At the hospital they sent me out to a workshop where I
+				<lb facs='#facs_89_r_4_1_tl_10' n='N010'/>folded bags and put them in a little packet. I got S18 a month but l
+				<lb facs='#facs_89_r_4_1_tl_11' n='N011'/>didn’t keep my money. I did good deeds. See, I lived on a ward
+				<lb facs='#facs_89_r_4_1_tl_12' n='N012'/>where nobody had soda or cigarettes, nothing. I’d go out and
+				<lb facs='#facs_89_r_4_1_tl_13' n='N013'/>bring back somebody a jar of coffee and we’d have coffee and
+				<lb facs='#facs_89_r_4_1_tl_14' n='N014'/>play cards. I don’t like no kind of institution but I figure if l&apos;m
+				<lb facs='#facs_89_r_4_1_tl_15' n='N015'/>going to live there l’m going to do good to the patients.
+				<lb facs='#facs_89_r_4_1_tl_16' n='N016'/>One time I decided to go to San Francisco. I cashed in my
+				<lb facs='#facs_89_r_4_1_tl_17' n='N017'/>Social Security check and got a bus. It was a nice trip. I went to
+				<lb facs='#facs_89_r_4_1_tl_18' n='N018'/>look at the ocean, sat on the beach for a while and had me a
+				<lb facs='#facs_89_r_4_1_tl_19' n='N019'/>cheese sandwich with several different kinds of cheese and French
+				<lb facs='#facs_89_r_4_1_tl_20' n='N020'/>bread. That was real nice, but when I was in the bus station I left
+				<lb facs='#facs_89_r_4_1_tl_21' n='N021'/>my purse on the bench and went over to look out the window.
+				<lb facs='#facs_89_r_4_1_tl_22' n='N022'/>When I came back it was gone, so I didn’t have another cent left
+				<lb facs='#facs_89_r_4_1_tl_23' n='N023'/>to me. After a while a policeman came over to me, real nice, and
+			</p>
+			<p>
+				<lb facs='#facs_89_r_5_1_tl_2' n='N001'/>he says, &quot;Anything I can do for ya?&quot; I says, &quot;No, I don’t want to
+				<lb facs='#facs_89_r_5_1_tl_3' n='N002'/>tell you my problems. I don’t want to cause you no trouble, but
+				<lb facs='#facs_89_r_5_1_tl_4' n='N003'/>back home everybody talks about California. How great Califor
+				<lb facs='#facs_89_r_5_1_tl_5' n='N004'/>nia is.&quot; He said, &quot;You&apos;d better believe California&apos;s great.&quot; He said,
+				<lb facs='#facs_89_r_5_1_tl_6' n='N005'/>&quot;We help people, the people help us. He said, &quot;Now is there
+				<lb facs='#facs_89_r_5_1_tl_7' n='N006'/>anything I can do for you?&quot; and I told him that I lost my purse
+				<lb facs='#facs_89_r_5_1_tl_8' n='N007'/>and he said, “Well, l’Il just send you over to this Catholic place.
+				<lb facs='#facs_89_r_5_1_tl_9' n='N008'/>They’ll keep you till your check comes, or else they&apos;ll send you to
+				<lb facs='#facs_89_r_5_1_tl_10' n='N009'/>another place till you can get back on your feet.
+				<lb facs='#facs_89_r_5_1_tl_11' n='N010'/>So I went over to the Catholic place and they kept me for a
+				<lb facs='#facs_89_r_5_1_tl_12' n='N011'/>while, but then they sent me back to Illinois, to the home.
+				<lb facs='#facs_89_r_5_1_tl_13' n='N012'/>It’s horrible in the home. When they put you in an institution
+				<lb facs='#facs_89_r_5_1_tl_14' n='N013'/>they practically destroy your life completely. When you’re young
+				<lb facs='#facs_89_r_5_1_tl_15' n='N014'/>and you have to be around people that are old. You figure you
+				<lb facs='#facs_89_r_5_1_tl_16' n='N015'/>can be classified, say, with them. It gets to you. Here I am. Ain&apos;t
+				<lb facs='#facs_89_r_5_1_tl_17' n='N016'/>done nothing. Ain’t been nowhere. Course l’ve done a few things,
+				<lb facs='#facs_89_r_5_1_tl_18' n='N017'/>but if I have to spend all my life in institutions, well, I won&apos;t be
+				<lb facs='#facs_89_r_5_1_tl_19' n='N018'/>putting nothing into life. I won’t be getting nothing out of life.
+				<lb facs='#facs_89_r_5_1_tl_20' n='N019'/>One of the patients in the home used to talk about San Fran
+				<lb facs='#facs_89_r_5_1_tl_21' n='N020'/>cisco, so l’d been to San Francisco, and there was another patient
+				<lb facs='#facs_89_r_5_1_tl_22' n='N021'/>who talked a lot about New York, so I thought, well, l’Il go to
+				<lb facs='#facs_89_r_5_1_tl_23' n='N022'/>New York. l’d always heard about a store called Macy’s. I heard
+				<lb facs='#facs_89_r_5_1_tl_24' n='N023'/>it was a block long and I thought l’d like to see that!
+				<lb facs='#facs_89_r_5_1_tl_25' n='N024'/>The buses had a 550 special. Usually it costs about S100 to go
+				<lb facs='#facs_89_r_5_1_tl_26' n='N025'/>to New York, but they had a special where you can go anywhere
+				<lb facs='#facs_89_r_5_1_tl_27' n='N026'/>for S50 or less. I thought I’m not going to have this bargain
+			</p>
+			<pb n='90'/>
+			<p>
+				<lb facs='#facs_90_r_1_1_tl_1' n='N001'/>probably never again in my life so I might as well take it now. I
+				<lb facs='#facs_90_r_1_1_tl_2' n='N002'/>cashed in my SSI check again and came to New York.
+				<lb facs='#facs_90_r_1_1_tl_3' n='N003'/>Ididn’t pack much. I just took what I wanted to take and left
+				<lb facs='#facs_90_r_1_1_tl_4' n='N004'/>everything there. I didn’t tell no one, cause every time you&apos;d start
+				<lb facs='#facs_90_r_1_1_tl_5' n='N005'/>to talk about doing something they’d talk you out of it. So I never
+				<lb facs='#facs_90_r_1_1_tl_6' n='N006'/>mentioned nothing. Every time anyone gets inspired to do some
+				<lb facs='#facs_90_r_1_1_tl_7' n='N007'/>thing or be something at the home they&apos;d talk so much that you&apos;re
+				<lb facs='#facs_90_r_1_1_tl_8' n='N008'/>not going to be anything or do anything, and that&apos;s why you&apos;d
+				<lb facs='#facs_90_r_1_1_tl_9' n='N009'/>give up. So I never talked much.
+			</p>
+			<p>
+				<lb facs='#facs_90_r_2_1_tl_1' n='N001'/>There are no outreach programs to contact the many home
+				<lb facs='#facs_90_r_2_1_tl_2' n='N002'/>less women who don’t know about the Shelter. When a woman
+				<lb facs='#facs_90_r_2_1_tl_3' n='N003'/>does not qualify or when the Shelter is full, the only alternative
+				<lb facs='#facs_90_r_2_1_tl_4' n='N004'/>for someone without funds or a place to stay is the Emergency
+				<lb facs='#facs_90_r_2_1_tl_5' n='N005'/>Assistance Unit of the Department of Social Services. There, a
+				<lb facs='#facs_90_r_2_1_tl_6' n='N006'/>woman can sit on a chair all night.
+			</p>
+			<p>
+				<lb facs='#facs_90_r_3_1_tl_1' n='N001'/>My money was stolen on the bus I think. See, I forgot to
+				<lb facs='#facs_90_r_3_1_tl_2' n='N002'/>close my purse and I left it on the chair next to me, and there was
+				<lb facs='#facs_90_r_3_1_tl_3' n='N003'/>a kid right across. Later on, about ten minutes later, I was gonna
+				<lb facs='#facs_90_r_3_1_tl_4' n='N004'/>smoke a cigarette and I looked in my purse and the money was
+				<lb facs='#facs_90_r_3_1_tl_5' n='N005'/>gone. All I had was a dollar bill.
+				<lb facs='#facs_90_r_3_1_tl_6' n='N006'/>When I got to New York I went up to an officer and told him
+				<lb facs='#facs_90_r_3_1_tl_7' n='N007'/>my money was stolen, so he referred me to a place where people
+				<lb facs='#facs_90_r_3_1_tl_8' n='N008'/>sit all night long. It was a small room with people sleeping on
+				<lb facs='#facs_90_r_3_1_tl_9' n='N009'/>chairs. The next morning they sent me to welfare, but welfare
+				<lb facs='#facs_90_r_3_1_tl_10' n='N010'/>refused to help me because I was on SSI. Eventually I found the
+				<lb facs='#facs_90_r_3_1_tl_11' n='N011'/>Women’s Shelter, I couldn’t get in at first, but I did after a few
+				<lb facs='#facs_90_r_3_1_tl_12' n='N012'/>days.
+			</p>
+			<p>
+				<lb facs='#facs_90_r_4_1_tl_1' n='N001'/>Homeless men are treated differently. At the Men’s Shelter
+				<lb facs='#facs_90_r_4_1_tl_2' n='N002'/>they are given chits entitling them to a free meal and a flophouse
+				<lb facs='#facs_90_r_4_1_tl_3' n='N003'/>bed. Although the flophouse hotels may not be as institutionally
+				<lb facs='#facs_90_r_4_1_tl_4' n='N004'/>neat and clean as the Women’s Shelter, there is room for thou
+				<lb facs='#facs_90_r_4_1_tl_5' n='N005'/>sands of men. They are almost never denied a bed.
+			</p>
+			<p>
+				<lb facs='#facs_90_r_5_1_tl_1' n='N001'/>At one time if a woman with children found herself without
+				<lb facs='#facs_90_r_5_1_tl_2' n='N002'/>a place to stay, she was allowed to keep her children with her in a
+				<lb facs='#facs_90_r_5_1_tl_3' n='N003'/>family shelter. Now, a mother who needs help and has nowhere
+			</p>
+			<p>
+				<lb facs='#facs_90_r_8_1_tl_1' n='N001'/>to live must put her children in placement until she can get on
+				<lb facs='#facs_90_r_8_1_tl_2' n='N002'/>welfare or find some means of supporting herself and her children.
+				<lb facs='#facs_90_r_8_1_tl_3' n='N003'/>Hanna Schaeffler was born in Brooklyn. She was adoptec
+				<lb facs='#facs_90_r_8_1_tl_4' n='N004'/>when she was two and knows nothing about her real parents. He
+				<lb facs='#facs_90_r_8_1_tl_5' n='N005'/>adoptive parents separated when she was five.
+			</p>
+			<p>
+				<lb facs='#facs_90_r_9_1_tl_1' n='N001'/>At first I lived with my mother. She was having a great many
+				<lb facs='#facs_90_r_9_1_tl_2' n='N002'/>personal problems at that time and couldn’t cope with anything.
+				<lb facs='#facs_90_r_9_1_tl_3' n='N003'/>so when I was in the sixth grade she sent me to Bay Shore to live
+				<lb facs='#facs_90_r_9_1_tl_4' n='N004'/>with her sister. That was a nice home life for me and I stayed
+				<lb facs='#facs_90_r_9_1_tl_5' n='N005'/>there for two years. I don’t really know what my mother’s prob-
+				<lb facs='#facs_90_r_9_1_tl_6' n='N006'/>lems were. She couldn’t straighten out her life, her bills, her
+				<lb facs='#facs_90_r_9_1_tl_7' n='N007'/>boyfriend.
+				<lb facs='#facs_90_r_9_1_tl_8' n='N008'/>When I came back she had gotten rid of her boyfriend, but
+				<lb facs='#facs_90_r_9_1_tl_9' n='N009'/>something had happened to me. I didn’t want to go to school be
+				<lb facs='#facs_90_r_9_1_tl_10' n='N010'/>cause I was getting pimples. I became silent and quiet and
+				<lb facs='#facs_90_r_9_1_tl_11' n='N011'/>wouldn’t take a bath or anything. My mother didn’t understand
+				<lb facs='#facs_90_r_9_1_tl_12' n='N012'/>then. It got to the point where I practically couldn’t do anything
+				<lb facs='#facs_90_r_9_1_tl_13' n='N013'/>and my mother didn’t make me. When I went to school I kept
+				<lb facs='#facs_90_r_9_1_tl_14' n='N014'/>dropping.to the bottom. I had no interest. I was a very confused
+				<lb facs='#facs_90_r_9_1_tl_15' n='N015'/>person.
+				<lb facs='#facs_90_r_9_1_tl_16' n='N016'/>My mother later signed me out to go to work.
+				<lb facs='#facs_90_r_9_1_tl_17' n='N017'/>I lived at the Simmons House for a few years and during that
+				<lb facs='#facs_90_r_9_1_tl_18' n='N018'/>time I had several office jobs, but I was never really happy.I
+				<lb facs='#facs_90_r_9_1_tl_19' n='N019'/>started becoming depressed and having a lot of problems. It was
+				<lb facs='#facs_90_r_9_1_tl_20' n='N020'/>at that time that I met the man l&apos;ve been living with for the past
+				<lb facs='#facs_90_r_9_1_tl_21' n='N021'/>three years. He used to hang around the Simmons House looking
+				<lb facs='#facs_90_r_9_1_tl_22' n='N022'/>for girls. When I met him, I had just left my last boyfriend and
+				<lb facs='#facs_90_r_9_1_tl_23' n='N023'/>was very lonely. He insisted I move in with him right away.
+				<lb facs='#facs_90_r_9_1_tl_24' n='N024'/>didn’t want to but I gave in. I was very weak then. I had no mind
+				<lb facs='#facs_90_r_9_1_tl_25' n='N025'/>of my own and would allow myself to be led any way withou
+				<lb facs='#facs_90_r_9_1_tl_26' n='N026'/>really knowing what I wanted.
+				<lb facs='#facs_90_r_9_1_tl_27' n='N027'/>Things were okay for a while, but then I got pregnant and
+				<lb facs='#facs_90_r_9_1_tl_28' n='N028'/>that messed everything up. I had to give up my job and I began
+				<lb facs='#facs_90_r_9_1_tl_29' n='N029'/>staying home. My boyfriend really wanted to have me like
+				<lb facs='#facs_90_r_9_1_tl_30' n='N030'/>maid in the house and to have other women outside. Sometimes
+				<lb facs='#facs_90_r_9_1_tl_31' n='N031'/>he would stay away the whole weekend and not say anything
+				<lb facs='#facs_90_r_9_1_tl_32' n='N032'/>about where he had been. At night I never knew if he would be
+				<lb facs='#facs_90_r_9_1_tl_33' n='N033'/>coming home or not. When I asked him what he did, he said i
+				<lb facs='#facs_90_r_9_1_tl_34' n='N034'/>was none of my business. Getting women seemed to be all he
+				<lb facs='#facs_90_r_9_1_tl_35' n='N035'/>thought about. I once heard him telling his friends that his biggest
+				<lb facs='#facs_90_r_9_1_tl_36' n='N036'/>dream is to get an answering service and to come home and tum
+				<lb facs='#facs_90_r_9_1_tl_37' n='N037'/>on his answering service and then go out with whoever he wants.
+				<lb facs='#facs_90_r_9_1_tl_38' n='N038'/>Ifelt like I was going crazy because I had no outlet. My only
+				<lb facs='#facs_90_r_9_1_tl_39' n='N039'/>girlfriend is in the building, and then I found out that my boy
+				<lb facs='#facs_90_r_9_1_tl_40' n='N040'/>friend was trying to turn everyone against me. He was telling her
+				<lb facs='#facs_90_r_9_1_tl_41' n='N041'/>that I never did anything, even the laundry, and that I was lazy
+				<lb facs='#facs_90_r_9_1_tl_42' n='N042'/>and good for nothing. When I found that out, I was so hurt about
+				<lb facs='#facs_90_r_9_1_tl_43' n='N043'/>the way he spoke about me, about the way he was getting a car
+				<lb facs='#facs_90_r_9_1_tl_44' n='N044'/>and locking me in that I didn’t know what to do.
+				<lb facs='#facs_90_r_9_1_tl_45' n='N045'/>Everything got to be too much. That’s when I tore up the
+				<lb facs='#facs_90_r_9_1_tl_46' n='N046'/>furniture. One morning I took a knife and tore it all to pieces.
+				<lb facs='#facs_90_r_9_1_tl_47' n='N047'/>couldn’t take it anymore. I tried to get out, but there was no
+				<lb facs='#facs_90_r_9_1_tl_48' n='N048'/>choice. Ihad stood it for as long as I could and then that morning
+				<lb facs='#facs_90_r_9_1_tl_49' n='N049'/>I ripped everything to shreds. My mind was very calm. I dont
+				<lb facs='#facs_90_r_9_1_tl_50' n='N050'/>even remember where my little boy was at that moment. Some
+				<lb facs='#facs_90_r_9_1_tl_51' n='N051'/>times I wonder what he saw. I know he knew something was up
+				<lb facs='#facs_90_r_9_1_tl_52' n='N052'/>because later I saw him looking at the couch, just staring, like ne
+				<lb facs='#facs_90_r_9_1_tl_53' n='N053'/>knew something was wrong.
+				<lb facs='#facs_90_r_9_1_tl_54' n='N054'/>The police said I should go see a social worker, but I diani
+				<lb facs='#facs_90_r_9_1_tl_55' n='N055'/>know where to go. After that my boyfriend was saying he was
+			</p>
+			<pb n='91'/>
+			<p>
+				<lb facs='#facs_91_r_7_1_tl_1' n='N001'/>Some women spend lifetimes in a cycle moving from mental
+				<lb facs='#facs_91_r_7_1_tl_2' n='N002'/>hospitals to the Women’s Shelter to welfare hotels, to the street
+				<lb facs='#facs_91_r_7_1_tl_3' n='N003'/>and back into a hospital or the Shelter. For other women, there is
+				<lb facs='#facs_91_r_7_1_tl_4' n='N004'/>perhaps a small hope that through luck or endurance they will
+				<lb facs='#facs_91_r_7_1_tl_5' n='N005'/>eventually carve out a reasonable life for themselves. These are
+				<lb facs='#facs_91_r_7_1_tl_6' n='N006'/>the women who have left within themselves some resources of
+				<lb facs='#facs_91_r_7_1_tl_7' n='N007'/>strength and enough will to fight for the scraps of help offered by
+				<lb facs='#facs_91_r_7_1_tl_8' n='N008'/>individuals and social agencies.
+				<lb facs='#facs_91_r_7_1_tl_9' n='N009'/>Adele was placed on welfare and expects to go into a welfare
+				<lb facs='#facs_91_r_7_1_tl_10' n='N010'/>hotel.
+			</p>
+			<p>
+				<lb facs='#facs_91_r_3_1_tl_1' n='N001'/>going to beat me up. Iheard about a free community legal service
+				<lb facs='#facs_91_r_3_1_tl_2' n='N002'/>voar where I lived so I went over there. They told me I should go
+				<lb facs='#facs_91_r_3_1_tl_3' n='N003'/>to family court. It was difficult. Iwas very mixed up and I didn&apos;t
+				<lb facs='#facs_91_r_3_1_tl_4' n='N004'/>know what to do. I did a lot of things wrong. I took out a
+				<lb facs='#facs_91_r_3_1_tl_5' n='N005'/>naternity suit and they took away my birth certificates. I was
+				<lb facs='#facs_91_r_3_1_tl_6' n='N006'/>twing to get myself on welfare at the same time—going from
+				<lb facs='#facs_91_r_3_1_tl_7' n='N007'/>place to place carrying the children. I couldn’t get welfare because
+				<lb facs='#facs_91_r_3_1_tl_8' n='N008'/>they said I was being supported by my boyfriend and then I didn&apos;t
+				<lb facs='#facs_91_r_3_1_tl_9' n='N009'/>have my birth certificates because they were at the court, and I
+				<lb facs='#facs_91_r_3_1_tl_10' n='N010'/>was running all over waiting in this place and that one with the
+				<lb facs='#facs_91_r_3_1_tl_11' n='N011'/>babies in my arms.
+				<lb facs='#facs_91_r_3_1_tl_12' n='N012'/>The social worker said I should come to the Women’s Shelter
+				<lb facs='#facs_91_r_3_1_tl_13' n='N013'/>and put the boys in foster care until I got more straightened out,
+				<lb facs='#facs_91_r_3_1_tl_14' n='N014'/>solthought that would be the best thing to do. It was pretty hard
+				<lb facs='#facs_91_r_3_1_tl_15' n='N015'/>to give them up. I placed them to get self-sufficient.
+				<lb facs='#facs_91_r_3_1_tl_16' n='N016'/>The first time I got to visit my boy after he was placed in
+				<lb facs='#facs_91_r_3_1_tl_17' n='N017'/>foster care was like I was in another world. When I saw him I
+				<lb facs='#facs_91_r_3_1_tl_18' n='N018'/>suddenly couldn’t even hear what the people around me were
+				<lb facs='#facs_91_r_3_1_tl_19' n='N019'/>saying and I was looking at him. Then I had to go into the bath
+				<lb facs='#facs_91_r_3_1_tl_20' n='N020'/>room to hide my crying.
+				<lb facs='#facs_91_r_3_1_tl_21' n='N021'/>My oldest boy acted shy at first, like he didn’t recognize me,
+				<lb facs='#facs_91_r_3_1_tl_22' n='N022'/>but then I played with him a little and he was better. They say
+				<lb facs='#facs_91_r_3_1_tl_23' n='N023'/>that the first few nights he didn’t eat or sleep at all. They had a lot
+				<lb facs='#facs_91_r_3_1_tl_24' n='N024'/>oftrouble with him because he was so upset.
+				<lb facs='#facs_91_r_3_1_tl_25' n='N025'/>The little baby seemed to be okay. He didn’t really recognize
+				<lb facs='#facs_91_r_3_1_tl_26' n='N026'/>me but sometimes I used to make a funny little noise at him with
+				<lb facs='#facs_91_r_3_1_tl_27' n='N027'/>mythroat, and he always made the noise back. This time when I
+				<lb facs='#facs_91_r_3_1_tl_28' n='N028'/>made the noise he looked at me and he made it back, so I guess he
+				<lb facs='#facs_91_r_3_1_tl_29' n='N029'/>did recognize that.
+			</p>
+			<p>
+				<lb facs='#facs_91_r_4_1_tl_1' n='N001'/>Im not very happy about going into the hotel, but there
+				<lb facs='#facs_91_r_4_1_tl_2' n='N002'/>aoesn’t seem to be anything else I can do. l’Il be okay as long as
+				<lb facs='#facs_91_r_4_1_tl_3' n='N003'/>my drinking problem doesn’t come back. I’m waiting for the will
+				<lb facs='#facs_91_r_4_1_tl_4' n='N004'/>ofthe Lord.
+			</p>
+			<p>
+				<lb facs='#facs_91_r_9_1_tl_1' n='N001'/>Ifl can’t get an apartment and a part-time job in New York, I
+				<lb facs='#facs_91_r_9_1_tl_2' n='N002'/>guess l’Il have to go back to the home. I don’t know if l’Il be able
+				<lb facs='#facs_91_r_9_1_tl_3' n='N003'/>woget a job or not. It’s like you have to give up or something. Like
+				<lb facs='#facs_91_r_9_1_tl_4' n='N004'/>meres nothing you can do. It’s practically impossible for me to
+				<lb facs='#facs_91_r_9_1_tl_5' n='N005'/>ger out of this situation. My only choice is to be in the home with
+				<lb facs='#facs_91_r_9_1_tl_6' n='N006'/>ounch of mental patients in a workshop, and that’s not a real
+				<lb facs='#facs_91_r_9_1_tl_7' n='N007'/>soo. That&apos;s nothing. There ain&apos;t really nothing for me, just institu
+			</p>
+			<p>
+				<lb facs='#facs_91_r_8_1_tl_2' n='N001'/>I won’t get them back until I have something to stand on—a
+				<lb facs='#facs_91_r_8_1_tl_3' n='N002'/>job. The children’s agency is helping me. Maybe I could get into a
+				<lb facs='#facs_91_r_8_1_tl_4' n='N003'/>nurses aid program or something, as long as I don’t have to go
+				<lb facs='#facs_91_r_8_1_tl_5' n='N004'/>back to him. I never want to get married or to live with any man
+				<lb facs='#facs_91_r_8_1_tl_6' n='N005'/>again. I don’t think men are necessary for me. I just want my
+				<lb facs='#facs_91_r_8_1_tl_7' n='N006'/>children back and to have a home and a dog and to go to church
+				<lb facs='#facs_91_r_8_1_tl_8' n='N007'/>on Sunday. The whole bit. I hope l’Il get everything straightened
+				<lb facs='#facs_91_r_8_1_tl_9' n='N008'/>out. Im tired of suffering and going around in circles.
+			</p>
+			<p>
+				<lb facs='#facs_91_r_5_1_tl_1' n='N001'/>Selma would like to get a job, but with little education and
+				<lb facs='#facs_91_r_5_1_tl_2' n='N002'/>no skills, she has little hope.
+			</p>
+			<p>
+				<lb facs='#facs_91_r_10_1_tl_1' n='N001'/>Hanna is struggling to establish a home for her children.
+			</p>
+			<p>
+				<lb facs='#facs_91_r_11_1_tl_1' n='N001'/>Ann Marie Rousseau is an artist living in New York. She has worked at
+				<lb facs='#facs_91_r_11_1_tl_2' n='N002'/>the Woman’s Shelter for several years and is a member of the anti-catalog
+				<lb facs='#facs_91_r_11_1_tl_3' n='N003'/>committee. The photographs reproduced here will be exhibited with others
+				<lb facs='#facs_91_r_11_1_tl_4' n='N004'/>by women from the Shelter at the Metropolitan Museum of Art this
+				<lb facs='#facs_91_r_11_1_tl_5' n='N005'/>summer.
+			</p>
+         </div>
+      </body>
+   </text>
+</TEI>

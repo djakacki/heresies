@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div>
+            <pb n='54'/>
+			<p>
+				<lb facs='#facs_54_r_1_1_tl_1' n='N001'/>THE RAISED VOICES OF WOMEN
+				<lb facs='#facs_54_r_1_1_tl_2' n='N002'/>IN MID-NINETEENTH CENTURY FRANCE
+				<lb facs='#facs_54_r_1_1_tl_3' n='N003'/>CÄCILIA RENTMEISTER
+				<lb facs='#facs_54_r_1_1_tl_4' n='N004'/>TRANSLATED BY JUDITH LEE
+			</p>
+			<p>
+				<lb facs='#facs_54_r_2_1_tl_1' n='N001'/>These are the questions: With what weapons did women in the
+				<lb facs='#facs_54_r_2_1_tl_2' n='N002'/>mid-nineteenth century actually fight? Did they have allies? Was
+				<lb facs='#facs_54_r_2_1_tl_3' n='N003'/>their enemy simply the male? What goals did they fight for? How
+				<lb facs='#facs_54_r_2_1_tl_4' n='N004'/>were women affected by the reactions to the first French Revolu
+				<lb facs='#facs_54_r_2_1_tl_5' n='N005'/>tion in 1789, and what laws controlled them? Why did they seek
+				<lb facs='#facs_54_r_2_1_tl_6' n='N006'/>to join the early socialist groups and why were they rejected or
+				<lb facs='#facs_54_r_2_1_tl_7' n='N007'/>disciplined as soon as they asserted their own interests? Why did
+				<lb facs='#facs_54_r_2_1_tl_8' n='N008'/>their hopes in such apostles as Saint-Simon, Fourier, Cabet,
+				<lb facs='#facs_54_r_2_1_tl_9' n='N009'/>George Sand or in the workers’ alliances turn out to be illusions?
+				<lb facs='#facs_54_r_2_1_tl_10' n='N010'/>How is it that women of all classes were able to unite, so as to
+				<lb facs='#facs_54_r_2_1_tl_11' n='N011'/>form an autonomous women’s movement?...
+				<lb facs='#facs_54_r_2_1_tl_12' n='N012'/>1789: The Pioneers
+				<lb facs='#facs_54_r_2_1_tl_13' n='N013'/>The women’s movement of 1848 sought victory in a battle in
+				<lb facs='#facs_54_r_2_1_tl_14' n='N014'/>which, since the Great Revolution of 1789, it had only experi
+				<lb facs='#facs_54_r_2_1_tl_15' n='N015'/>enced defeat. In 1789 women had left their homes, had climbed
+				<lb facs='#facs_54_r_2_1_tl_16' n='N016'/>down from the allegorical pedestals of freedom and fatherland to
+				<lb facs='#facs_54_r_2_1_tl_17' n='N017'/>fight for these values with weapons in their hands. The &quot;amazon
+				<lb facs='#facs_54_r_2_1_tl_18' n='N018'/>of freedom,&quot; Théroigne de Méricourt, and her sisters throughout
+				<lb facs='#facs_54_r_2_1_tl_19' n='N019'/>France formed amazon corps. It was women who advanced on
+				<lb facs='#facs_54_r_2_1_tl_20' n='N020'/>Versailles to bring the royal couple and the crown prince—&quot;the
+				<lb facs='#facs_54_r_2_1_tl_21' n='N021'/>baker, the baker’s wife and the baker’s little boy&quot;—to Paris.
+				<lb facs='#facs_54_r_2_1_tl_22' n='N022'/>As long as they integrated themselves into the fighting lines and
+				<lb facs='#facs_54_r_2_1_tl_23' n='N023'/>subordinated themselves to common goals, they were accepted.
+				<lb facs='#facs_54_r_2_1_tl_24' n='N024'/>But when they followed the men’s example and established clubs
+				<lb facs='#facs_54_r_2_1_tl_25' n='N025'/>to demand civil rights and freedom of economic activity for
+				<lb facs='#facs_54_r_2_1_tl_26' n='N026'/>themselves, then the amazons of freedom became hateful Meg
+				<lb facs='#facs_54_r_2_1_tl_27' n='N027'/>aeras. As a companion to the “Declaration of the Rights of Man,
+				<lb facs='#facs_54_r_2_1_tl_28' n='N028'/>Olympe de Gouges proposed in 1789 a “Declaration of the Rights
+				<lb facs='#facs_54_r_2_1_tl_29' n='N029'/>of Women&quot;: “A woman has the right to go to the gallows; she
+				<lb facs='#facs_54_r_2_1_tl_30' n='N030'/>must also have the right to mount the speaker’s platform.&quot;
+				<lb facs='#facs_54_r_2_1_tl_31' n='N031'/>In the same declaration she concluded, &quot;Oh women, women!
+				<lb facs='#facs_54_r_2_1_tl_32' n='N032'/>When will you stop being blind? What advantages have you
+				<lb facs='#facs_54_r_2_1_tl_33' n='N033'/>gained through the Revolution? Greater contempt, more flagrant
+				<lb facs='#facs_54_r_2_1_tl_34' n='N034'/>disregard. In the centuries of corruption the only thing you con
+				<lb facs='#facs_54_r_2_1_tl_35' n='N035'/>trolled was men’s weaknesses. Your empire has been destroyed.
+				<lb facs='#facs_54_r_2_1_tl_36' n='N036'/>What is there left? The conviction that men are unjust....&quot;2
+				<lb facs='#facs_54_r_2_1_tl_37' n='N037'/>Even though in 1790 the Constituent Assembly introduced a
+				<lb facs='#facs_54_r_2_1_tl_38' n='N038'/>law enabling daughters to inherit property and, in 1792, a divorce
+				<lb facs='#facs_54_r_2_1_tl_39' n='N039'/>law, it was only the wives and daughters of wealthy men whose
+				<lb facs='#facs_54_r_2_1_tl_40' n='N040'/>lot improved. Women’s more basic demands for education, the
+				<lb facs='#facs_54_r_2_1_tl_41' n='N041'/>free exercise of an occupation and political rights were rejected.
+				<lb facs='#facs_54_r_2_1_tl_42' n='N042'/>Napoleon’s “Civil Code” of 1804 stated outright: “A wife owes
+				<lb facs='#facs_54_r_2_1_tl_43' n='N043'/>obedience to her husband&quot; (Article 1). Although Article 488 of
+				<lb facs='#facs_54_r_2_1_tl_44' n='N044'/>the code states that all unmarried women of legal age are“...ab
+				<lb facs='#facs_54_r_2_1_tl_45' n='N045'/>solute mistresses of their person and property” and are able to
+				<lb facs='#facs_54_r_2_1_tl_46' n='N046'/>carry out all acts of civil life,? as long as a single adult woman was
+				<lb facs='#facs_54_r_2_1_tl_47' n='N047'/>not able to support herself through her own work, she would
+				<lb facs='#facs_54_r_2_1_tl_48' n='N048'/>hardly pass her twenty-first year unmarried. By 1826 the restora
+				<lb facs='#facs_54_r_2_1_tl_49' n='N049'/>tion government had rescinded the divorce law; the women&apos;s
+				<lb facs='#facs_54_r_2_1_tl_50' n='N050'/>clubs had already been banned in 1793 by the revolutionary
+				<lb facs='#facs_54_r_2_1_tl_51' n='N051'/>government’s Committee of Public Safety.
+			</p>
+			<p>
+				<lb facs='#facs_54_r_3_1_tl_1' n='N001'/>Women&apos;s Emancipation between Revolutions: The Apostles
+				<lb facs='#facs_54_r_3_1_tl_2' n='N002'/>In spite of the setbacks, women had perceived the possibilities
+				<lb facs='#facs_54_r_3_1_tl_3' n='N003'/>for freedom. Soon after the turn of the century the social utopians
+				<lb facs='#facs_54_r_3_1_tl_4' n='N004'/>appeared before the public with plans for a new social order.
+				<lb facs='#facs_54_r_3_1_tl_5' n='N005'/>Searching for a new identity and lacking their own theories,
+				<lb facs='#facs_54_r_3_1_tl_6' n='N006'/>women believed they had finally found their place in Saint
+				<lb facs='#facs_54_r_3_1_tl_7' n='N007'/>Simon’s Association universelle. Here man and woman would
+				<lb facs='#facs_54_r_3_1_tl_8' n='N008'/>form the future “social unit&quot; in a structure free of all enslavement.
+				<lb facs='#facs_54_r_3_1_tl_9' n='N009'/>However, Saint-Simon himself provided only general formula
+				<lb facs='#facs_54_r_3_1_tl_10' n='N010'/>tions. The exegesis of his gospel was left to his apostle Père
+				<lb facs='#facs_54_r_3_1_tl_11' n='N011'/>Enfantin.* And Enfantin again placed woman on the very throne
+				<lb facs='#facs_54_r_3_1_tl_12' n='N012'/>that had always stood in the way of her liberation: she became an
+				<lb facs='#facs_54_r_3_1_tl_13' n='N013'/>ideal figure to be worshipped. Enfantin and his numerous fol
+				<lb facs='#facs_54_r_3_1_tl_14' n='N014'/>lowers, men and women of all classes, awaited the appearance of
+				<lb facs='#facs_54_r_3_1_tl_15' n='N015'/>the Mère—the female messiah who, with the Père, was supposed
+				<lb facs='#facs_54_r_3_1_tl_16' n='N016'/>to form the Saint-Simonian papal couple, the “Divine Andro
+				<lb facs='#facs_54_r_3_1_tl_17' n='N017'/>gyne.&quot; This &quot;Mother&quot; was also supposed to break the &quot;seal&quot; on
+				<lb facs='#facs_54_r_3_1_tl_18' n='N018'/>the shackles of women. But despite an intensive search, which
+				<lb facs='#facs_54_r_3_1_tl_19' n='N019'/>included expeditions to the Orient, this worthy woman was never
+				<lb facs='#facs_54_r_3_1_tl_20' n='N020'/>found. The seal on women’s chains remained.
+				<lb facs='#facs_54_r_3_1_tl_21' n='N021'/>Enfantin loosened one bond, however, with his réhabilitation
+				<lb facs='#facs_54_r_3_1_tl_22' n='N022'/>de la chair—the &quot;liberation of the flesh&quot; from the bonds of Chris
+				<lb facs='#facs_54_r_3_1_tl_23' n='N023'/>tianity’s aversion to the carnal. This meant the moral relaxation of
+				<lb facs='#facs_54_r_3_1_tl_24' n='N024'/>the bonds of marriage to the very boundaries of promiscuity and
+				<lb facs='#facs_54_r_3_1_tl_25' n='N025'/>was first perceived by Saint-Simonian women as progressive.
+				<lb facs='#facs_54_r_3_1_tl_26' n='N026'/>However, it proved to be neither a theoretical nor a practical step
+				<lb facs='#facs_54_r_3_1_tl_27' n='N027'/>toward their liberation. The dualism of body and soul was main
+				<lb facs='#facs_54_r_3_1_tl_28' n='N028'/>tained. Woman continued to be flesh, but her corporeality was
+				<lb facs='#facs_54_r_3_1_tl_29' n='N029'/>elevated as a means of dignifying the male spirit. By making the
+				<lb facs='#facs_54_r_3_1_tl_30' n='N030'/>body divine, woman could be sexually exploited that much more
+				<lb facs='#facs_54_r_3_1_tl_31' n='N031'/>easily. In addition, no women sat in Enfantin’s Conseil suprême,
+				<lb facs='#facs_54_r_3_1_tl_32' n='N032'/>and in 1851 they were completely excluded from the hierarchy.
+				<lb facs='#facs_54_r_3_1_tl_33' n='N033'/>A great many women learned a lesson from these disappoint
+				<lb facs='#facs_54_r_3_1_tl_34' n='N034'/>ments. They began to search for a new apostle. Former sup
+				<lb facs='#facs_54_r_3_1_tl_35' n='N035'/>porters of Saint-Simon wrote in the first issue of their women&apos;s
+				<lb facs='#facs_54_r_3_1_tl_36' n='N036'/>journal, Femme libre (1832):
+			</p>
+			<p>
+				<lb facs='#facs_54_r_4_1_tl_1' n='N001'/>When everyone is concerned about freedom and the
+				<lb facs='#facs_54_r_4_1_tl_2' n='N002'/>proletariat demands liberation, in the face of this great
+				<lb facs='#facs_54_r_4_1_tl_3' n='N003'/>movement of social emancipation taking place before
+				<lb facs='#facs_54_r_4_1_tl_4' n='N004'/>our very eyes, shall women remain inactive?...ls our
+				<lb facs='#facs_54_r_4_1_tl_5' n='N005'/>lot so fortunate that we have no demands to make? Up
+				<lb facs='#facs_54_r_4_1_tl_6' n='N006'/>to now woman has been exploited and tyrannized. This
+				<lb facs='#facs_54_r_4_1_tl_7' n='N007'/>tyranny, this exploitation must cease. Like men we are
+				<lb facs='#facs_54_r_4_1_tl_8' n='N008'/>born free; one half of the human race cannot be sub
+				<lb facs='#facs_54_r_4_1_tl_9' n='N009'/>jected to the other without injustice.
+			</p>
+			<p>
+				<lb facs='#facs_54_r_5_1_tl_1' n='N001'/>* Excerpted from Honoré Daumier und die ungelosten Probleme der bur
+				<lb facs='#facs_54_r_5_1_tl_2' n='N002'/>gerlichen Gesellschaft: Katalog zur Ausstellung der Neuen Gesellschaft
+				<lb facs='#facs_54_r_5_1_tl_3' n='N003'/>für bildende Kunst, Berlin, Schloss Charlottenburg, 1974.
+			</p>
+			<pb n='55'/>
+			<p>
+				<lb facs='#facs_55_r_1_1_tl_1' n='N001'/>Women saw themselves here not as a minority, but as one half of
+				<lb facs='#facs_55_r_1_1_tl_2' n='N002'/>humanity. If the male proletariat, numerically a smaller group,
+				<lb facs='#facs_55_r_1_1_tl_3' n='N003'/>could demand liberation, why not women?...
+				<lb facs='#facs_55_r_1_1_tl_4' n='N004'/>Yet women were not in a position to create an autonomous
+				<lb facs='#facs_55_r_1_1_tl_5' n='N005'/>emancipation movement. For too long they had been forceably
+				<lb facs='#facs_55_r_1_1_tl_6' n='N006'/>prevented from gaining any insight into social relationships. Be
+				<lb facs='#facs_55_r_1_1_tl_7' n='N007'/>fore 1848, no matter what family and social role the women’s
+				<lb facs='#facs_55_r_1_1_tl_8' n='N008'/>rightists envisioned for themselves, they always viewed their
+				<lb facs='#facs_55_r_1_1_tl_9' n='N009'/>liberation in conjunction with that of the most oppressed classes.
+				<lb facs='#facs_55_r_1_1_tl_10' n='N010'/>However, even these classes, which the women held to be their
+				<lb facs='#facs_55_r_1_1_tl_11' n='N011'/>natural allies, rejected them as soon as they demanded the end of
+				<lb facs='#facs_55_r_1_1_tl_12' n='N012'/>sexual domination.
+				<lb facs='#facs_55_r_1_1_tl_13' n='N013'/>Flora Tristan, for example, led a lifelong battle for the cause of
+				<lb facs='#facs_55_r_1_1_tl_14' n='N014'/>women and workers because of the dual oppression she had her
+				<lb facs='#facs_55_r_1_1_tl_15' n='N015'/>self experienced. After the early death of her father she went to
+				<lb facs='#facs_55_r_1_1_tl_16' n='N016'/>work as an illuminator. Her youthful marriage to her employer
+				<lb facs='#facs_55_r_1_1_tl_17' n='N017'/>was unhappy; Tristan left her husband and took her children
+				<lb facs='#facs_55_r_1_1_tl_18' n='N018'/>with her. According to the law at that time the marriage could
+				<lb facs='#facs_55_r_1_1_tl_19' n='N019'/>not be dissolved and the husband was able to persecute his wife
+				<lb facs='#facs_55_r_1_1_tl_20' n='N020'/>for many years without punishment.“
+				<lb facs='#facs_55_r_1_1_tl_21' n='N021'/>Tristan’s major work, The Union of Labor, appeared in 1843,
+				<lb facs='#facs_55_r_1_1_tl_22' n='N022'/>shortly before her death. Long before Marx she proposed and ex
+				<lb facs='#facs_55_r_1_1_tl_23' n='N023'/>pounded her idea that although the emancipation of workers must
+				<lb facs='#facs_55_r_1_1_tl_24' n='N024'/>be achieved by the workers themselves, it would only remain an
+				<lb facs='#facs_55_r_1_1_tl_25' n='N025'/>illusion without the emancipation of women. Tristan also sug
+				<lb facs='#facs_55_r_1_1_tl_26' n='N026'/>gested to the workers the text for a declaration which ends, “We,
+				<lb facs='#facs_55_r_1_1_tl_27' n='N027'/>the French proletariat...recognize...that the neglect and dis
+				<lb facs='#facs_55_r_1_1_tl_28' n='N028'/>regard which men have shown for the natural rights of women is
+				<lb facs='#facs_55_r_1_1_tl_29' n='N029'/>the sole reason for unhappiness in the world....Sons of 1789,
+				<lb facs='#facs_55_r_1_1_tl_30' n='N030'/>this is the task that your fathers have given you to dol&quot;
+				<lb facs='#facs_55_r_1_1_tl_31' n='N031'/>Because of this declaration and especially because of her por
+				<lb facs='#facs_55_r_1_1_tl_32' n='N032'/>trayal of the misery of proletarian marriages, Tristan did not
+				<lb facs='#facs_55_r_1_1_tl_33' n='N033'/>meet with sympathy from her public. Marriage and family were
+				<lb facs='#facs_55_r_1_1_tl_34' n='N034'/>the last reserves where the worker could exercise control on
+				<lb facs='#facs_55_r_1_1_tl_35' n='N035'/>account of his sex. Thus labor and trade associations recognized
+				<lb facs='#facs_55_r_1_1_tl_36' n='N036'/>Tristan’s work belatedly, if at all. In a letter to Considérant she
+				<lb facs='#facs_55_r_1_1_tl_37' n='N037'/>writes with disappointment, “Almost everyone is against me. The
+				<lb facs='#facs_55_r_1_1_tl_38' n='N038'/>men, because I demand the emancipation of women, the property
+				<lb facs='#facs_55_r_1_1_tl_39' n='N039'/>owners, because I demand the emancipation of wage earners.&quot;
+				<lb facs='#facs_55_r_1_1_tl_40' n='N040'/>The Bluestockings Corrupt the Moral Tradition of Marriage
+				<lb facs='#facs_55_r_1_1_tl_41' n='N041'/>The Bluestockings (Les Bas-bleus) were not a specific organiza
+				<lb facs='#facs_55_r_1_1_tl_42' n='N042'/>tion. Originally the term referred to a group of female scholars
+				<lb facs='#facs_55_r_1_1_tl_43' n='N043'/>and writers who owed their nickname to a certain blue-stockinged
+				<lb facs='#facs_55_r_1_1_tl_44' n='N044'/>Mrs. Stillingfleet, a literary lady prominent in London around
+				<lb facs='#facs_55_r_1_1_tl_45' n='N045'/>1780.° By the mid-nineteenth century, Daumier and his contem
+				<lb facs='#facs_55_r_1_1_tl_46' n='N046'/>poraries used the term to mean any emancipated woman from the
+				<lb facs='#facs_55_r_1_1_tl_47' n='N047'/>bourgeois class, which, being their own class, posed the greatest
+				<lb facs='#facs_55_r_1_1_tl_48' n='N048'/>threat and inspired the strongest defenses.
+				<lb facs='#facs_55_r_1_1_tl_49' n='N049'/>Since bourgeois married women revolted naturally not against
+				<lb facs='#facs_55_r_1_1_tl_50' n='N050'/>employers, but against their husbands (who were not recognized
+				<lb facs='#facs_55_r_1_1_tl_51' n='N051'/>as employers since housework was unpaid), marriage was the
+				<lb facs='#facs_55_r_1_1_tl_52' n='N052'/>focal point of the emancipation efforts of the caricaturists’ Blue
+				<lb facs='#facs_55_r_1_1_tl_53' n='N053'/>stockings. In Daumier’s series Conjugal Mores (1839), the battle
+				<lb facs='#facs_55_r_1_1_tl_54' n='N054'/>between the sexes took place in the parlor or bedroom, the target
+				<lb facs='#facs_55_r_1_1_tl_55' n='N055'/>the flaws of a lower- or middle-class marriage. The sixth plate of
+				<lb facs='#facs_55_r_1_1_tl_56' n='N056'/>the series points clearly to the Bluestockings. A husband in his
+				<lb facs='#facs_55_r_1_1_tl_57' n='N057'/>underwear holds out his torn pants to his wife, who is reading,
+				<lb facs='#facs_55_r_1_1_tl_58' n='N058'/>and complains that George Sand keeps wives from mending their
+				<lb facs='#facs_55_r_1_1_tl_59' n='N059'/>husbands’ trousers: &quot;Either we should make divorce legal again
+				<lb facs='#facs_55_r_1_1_tl_60' n='N060'/>or outlaw this lady writer!&quot;9 This print evokes the three chief
+				<lb facs='#facs_55_r_1_1_tl_61' n='N061'/>complaints against the Bas-bleus: wives refuse to mend trousers
+				<lb facs='#facs_55_r_1_1_tl_62' n='N062'/>and even want to dress themselves in this symbol of their hus
+				<lb facs='#facs_55_r_1_1_tl_63' n='N063'/>bands’ power; marriage and family are neglected in favor of the
+			</p>
+			<p>
+				<lb facs='#facs_55_r_2_1_tl_1' n='N001'/>woman’s own interests; and George Sand—&quot;that woman writer
+				<lb facs='#facs_55_r_2_1_tl_2' n='N002'/>who has inspired literary ambitions in the heads of faithful wives
+				<lb facs='#facs_55_r_2_1_tl_3' n='N003'/>-is the source of all evil.
+				<lb facs='#facs_55_r_2_1_tl_4' n='N004'/>What did George Sand really want and what kind of views did
+				<lb facs='#facs_55_r_2_1_tl_5' n='N005'/>Daumier credit to her blue-stockinged followers? 10 In 1831 the
+				<lb facs='#facs_55_r_2_1_tl_6' n='N006'/>Baroness Dudevant had left her husband and experienced her first
+				<lb facs='#facs_55_r_2_1_tl_7' n='N007'/>success as a feuilletonist for Le Figaro under the pseudonym
+				<lb facs='#facs_55_r_2_1_tl_8' n='N008'/>George Sand. Soon after that, in her novels Indiana and Lelia, she
+				<lb facs='#facs_55_r_2_1_tl_9' n='N009'/>created heroines who protested the tyranny of marriage. The
+				<lb facs='#facs_55_r_2_1_tl_10' n='N010'/>subsequent development of Sand’s political consciousness was
+				<lb facs='#facs_55_r_2_1_tl_11' n='N011'/>similar to that of countless other women. She moved from the
+				<lb facs='#facs_55_r_2_1_tl_12' n='N012'/>Saint-Simonians, who wanted her to be their “Mother,&quot; to the
+				<lb facs='#facs_55_r_2_1_tl_13' n='N013'/>social utopians and Lamennais and eventually, at the end of the
+				<lb facs='#facs_55_r_2_1_tl_14' n='N014'/>1830s, she converted to the views of Pierre Leroux, who fought
+				<lb facs='#facs_55_r_2_1_tl_15' n='N015'/>capitalism through forced development of new methods of agri
+				<lb facs='#facs_55_r_2_1_tl_16' n='N016'/>cultural production. George Sand took Leroux&apos;s position in her
+				<lb facs='#facs_55_r_2_1_tl_17' n='N017'/>so-called social novels written after 1840. She made farmers and
+				<lb facs='#facs_55_r_2_1_tl_18' n='N018'/>workmen her protagonists and declared them to be the deter-
+				<lb facs='#facs_55_r_2_1_tl_19' n='N019'/>mining social force, paralleling the actual historical role of these
+				<lb facs='#facs_55_r_2_1_tl_20' n='N020'/>classes from 1830 to 1850. Her opinions placed her in the left wing
+				<lb facs='#facs_55_r_2_1_tl_21' n='N021'/>of the petit bourgeois democrats.
+				<lb facs='#facs_55_r_2_1_tl_22' n='N022'/>As for the women’s question, Sand—like Leroux—did not ex
+				<lb facs='#facs_55_r_2_1_tl_23' n='N023'/>pect a solution until a new social order could be established. But
+				<lb facs='#facs_55_r_2_1_tl_24' n='N024'/>it is not only because of this blind faith in automatic change that
+				<lb facs='#facs_55_r_2_1_tl_25' n='N025'/>the women’s question is peripheral in her “social” novels. From
+				<lb facs='#facs_55_r_2_1_tl_26' n='N026'/>her extensive work with society and politics she could have come
+				<lb facs='#facs_55_r_2_1_tl_27' n='N027'/>to a clearer analysis of the present and future role of women in
+				<lb facs='#facs_55_r_2_1_tl_28' n='N028'/>society. But Sand was no longer concerned with the women’s
+				<lb facs='#facs_55_r_2_1_tl_29' n='N029'/>question. Having been accepted as one of their own by the most
+				<lb facs='#facs_55_r_2_1_tl_30' n='N030'/>influential men of her time, she believed she had attained eman
+				<lb facs='#facs_55_r_2_1_tl_31' n='N031'/>cipation and was, indeed, already beyond it. She had become a
+				<lb facs='#facs_55_r_2_1_tl_32' n='N032'/>man out of conviction and had nothing but contempt for her
+				<lb facs='#facs_55_r_2_1_tl_33' n='N033'/>former sex. Thus even in 1848 she disassociated herself very
+				<lb facs='#facs_55_r_2_1_tl_34' n='N034'/>clearly from the women’s rightists.
+				<lb facs='#facs_55_r_2_1_tl_35' n='N035'/>The George Sand who is the central figure in Daumier&apos;s Blue
+				<lb facs='#facs_55_r_2_1_tl_36' n='N036'/>stocking series is still the early Sand, opposing marriage, al
+				<lb facs='#facs_55_r_2_1_tl_37' n='N037'/>though by the time the series appeared in 1844 she had already
+				<lb facs='#facs_55_r_2_1_tl_38' n='N038'/>begun the development described above. Sand was the perfect
+				<lb facs='#facs_55_r_2_1_tl_39' n='N039'/>model even for Daumier’s travesty of emancipation—portrayed
+				<lb facs='#facs_55_r_2_1_tl_40' n='N040'/>simply as the imitation and exchange of sexual roles. She dressed
+				<lb facs='#facs_55_r_2_1_tl_41' n='N041'/>like a man, smoked, used male gestures...Daumier’s Blue
+				<lb facs='#facs_55_r_2_1_tl_42' n='N042'/>stockings have only first names, which makes them anonymous
+				<lb facs='#facs_55_r_2_1_tl_43' n='N043'/>and insignificant. Among the precursors of these Eudoxies,
+				<lb facs='#facs_55_r_2_1_tl_44' n='N044'/>Ismenes and Arsinoes are the French précieuses of the seventeenth
+				<lb facs='#facs_55_r_2_1_tl_45' n='N045'/>century, whose legacy is visible today in the petites bourgeoises
+				<lb facs='#facs_55_r_2_1_tl_46' n='N046'/>who imagine themselves to be leading intellectuals.
+				<lb facs='#facs_55_r_2_1_tl_47' n='N047'/>When intellect and creativity, considered to be masculine qual
+				<lb facs='#facs_55_r_2_1_tl_48' n='N048'/>ities, are appropriated by daring women, they supposedly be
+				<lb facs='#facs_55_r_2_1_tl_49' n='N049'/>come—if not men—then at least sexless creatures. Thus, in the
+				<lb facs='#facs_55_r_2_1_tl_50' n='N050'/>first plate of Daumier’s series, an unattractive Bluestocking gaz
+				<lb facs='#facs_55_r_2_1_tl_51' n='N051'/>ing at her own likeness in a mirror takes comfort in Madame de
+				<lb facs='#facs_55_r_2_1_tl_52' n='N052'/>Stael’s words, “Genius has no sex.&quot;11 Nevertheless, Daumier’s
+				<lb facs='#facs_55_r_2_1_tl_53' n='N053'/>Bluestockings still have families and still assume the duties of pro
+				<lb facs='#facs_55_r_2_1_tl_54' n='N054'/>duction and reproduction of manpower, although because of
+				<lb facs='#facs_55_r_2_1_tl_55' n='N055'/>their intellectual predilections, they are unwilling to do house
+				<lb facs='#facs_55_r_2_1_tl_56' n='N056'/>work. Indeed the very existence of the family is in danger, when
+				<lb facs='#facs_55_r_2_1_tl_57' n='N057'/>the children are always falling into the bathwater or when the
+				<lb facs='#facs_55_r_2_1_tl_58' n='N058'/>husband must care for them while his wife writes an “Ode to
+				<lb facs='#facs_55_r_2_1_tl_59' n='N059'/>Motherhood.&quot; It escaped Daumier’s notice that the traditional di
+				<lb facs='#facs_55_r_2_1_tl_60' n='N060'/>vision of roles gives far more occasion for comedy when the hus
+				<lb facs='#facs_55_r_2_1_tl_61' n='N061'/>band is writing an ode praising the joys of motherhood while the
+				<lb facs='#facs_55_r_2_1_tl_62' n='N062'/>wife keeps the children out of his way.
+				<lb facs='#facs_55_r_2_1_tl_63' n='N063'/>In contrast to the women in Conjugal Mores, whose activities
+				<lb facs='#facs_55_r_2_1_tl_64' n='N064'/>were limited to the domestic sphere, ambition drives Daumier’s
+			</p>
+			<pb n='56'/>
+			<p>
+				<lb facs='#facs_56_r_5_1_tl_1' n='N001'/>Honoré Daumier. “Well, we’ve gathered here to write the first issue of our
+				<lb facs='#facs_56_r_5_1_tl_2' n='N002'/>journal...The Women’s Literary Sans-Culotte.... What do we want to
+				<lb facs='#facs_56_r_5_1_tl_3' n='N003'/>wreck first?”—“For a beginning. ..let’s smash everything!” Lithograph.
+				<lb facs='#facs_56_r_5_1_tl_4' n='N004'/>1844 (No. 33 in the series “The Bluestockings”).
+			</p>
+			<p>
+				<lb facs='#facs_56_r_6_1_tl_1' n='N001'/>Bluestockings to take the first steps out of the house and found
+				<lb facs='#facs_56_r_6_1_tl_2' n='N002'/>organizations limited only to their own sex. They are either gaped
+				<lb facs='#facs_56_r_6_1_tl_3' n='N003'/>at or hooted at as salon socialists; they change the function of the
+				<lb facs='#facs_56_r_6_1_tl_4' n='N004'/>ladies’ tea party and meet as a circle of drinking companions who
+				<lb facs='#facs_56_r_6_1_tl_5' n='N005'/>parrot revolutionary ideologies. Daumier deals with the real, and
+				<lb facs='#facs_56_r_6_1_tl_6' n='N006'/>more threatening, women’s newspapers and clubs only twice. At
+				<lb facs='#facs_56_r_6_1_tl_7' n='N007'/>a meeting to found their journal The Women’s Literary Sans
+				<lb facs='#facs_56_r_6_1_tl_8' n='N008'/>Culotte, Bluestocking journalists discuss the contents of their first
+				<lb facs='#facs_56_r_6_1_tl_9' n='N009'/>issue: &quot;What do we want to wreck first? For a beginning, let&apos;s
+				<lb facs='#facs_56_r_6_1_tl_10' n='N010'/>smash everything!&quot; And in the second print— the chaotic meeting
+				<lb facs='#facs_56_r_6_1_tl_11' n='N011'/>of a women’s club—it is typical of Daumier that once again the
+				<lb facs='#facs_56_r_6_1_tl_12' n='N012'/>ironic caption speaks only of women’s incapability of working as
+				<lb facs='#facs_56_r_6_1_tl_13' n='N013'/>an organization. The observer learns nothing about the reason
+				<lb facs='#facs_56_r_6_1_tl_14' n='N014'/>for the meeting or the topic of discussion. These sheets do not
+				<lb facs='#facs_56_r_6_1_tl_15' n='N015'/>give the vaguest notion of the explosive power that the women’s
+				<lb facs='#facs_56_r_6_1_tl_16' n='N016'/>movement was about to develop in the February Revolution
+				<lb facs='#facs_56_r_6_1_tl_17' n='N017'/>of 1848.
+				<lb facs='#facs_56_r_6_1_tl_18' n='N018'/>The Women’s Movement in 1848: Goals and Organization
+				<lb facs='#facs_56_r_6_1_tl_19' n='N019'/>The February Revolution again called women to the battlefield.
+				<lb facs='#facs_56_r_6_1_tl_20' n='N020'/>Again the overthrow of an old social order loosened their bonds,
+				<lb facs='#facs_56_r_6_1_tl_21' n='N021'/>and for a short time in the anarchy of law and morals they es
+				<lb facs='#facs_56_r_6_1_tl_22' n='N022'/>caped the control of their masters. Since 1789 they had expanded
+				<lb facs='#facs_56_r_6_1_tl_23' n='N023'/>their demands and made them more precise: without the com
+				<lb facs='#facs_56_r_6_1_tl_24' n='N024'/>plete abolition of the domination of one sex by the other, the
+				<lb facs='#facs_56_r_6_1_tl_25' n='N025'/>revolution could not be victorious. Their common goals were the
+				<lb facs='#facs_56_r_6_1_tl_26' n='N026'/>right to work, the autonomous organization of wage-earning
+				<lb facs='#facs_56_r_6_1_tl_27' n='N027'/>women, abolition of educational privileges, and the procurement
+				<lb facs='#facs_56_r_6_1_tl_28' n='N028'/>of political and civil rights (suffrage, divorce).
+			</p>
+			<p>
+				<lb facs='#facs_56_r_7_1_tl_1' n='N001'/>So that men could hear them, these working and bourgeois
+				<lb facs='#facs_56_r_7_1_tl_2' n='N002'/>women gained the right to speak in democratic and socialist
+				<lb facs='#facs_56_r_7_1_tl_3' n='N003'/>men&apos;s clubs like the Club Lyonnais or the Club de l&apos;émancipation
+				<lb facs='#facs_56_r_7_1_tl_4' n='N004'/>des peuples. At best the men tolerated or smiled at the women&apos;s
+				<lb facs='#facs_56_r_7_1_tl_5' n='N005'/>presentations. Once again women learned from these experi
+				<lb facs='#facs_56_r_7_1_tl_6' n='N006'/>ences; they organized themselves autonomously. They came
+				<lb facs='#facs_56_r_7_1_tl_7' n='N007'/>together from homes and factories to form their own clubs and
+				<lb facs='#facs_56_r_7_1_tl_8' n='N008'/>editorial boards. “The natural agent for your liberation is
+				<lb facs='#facs_56_r_7_1_tl_9' n='N009'/>woman,&quot; points out one of the women’s papers.12
+				<lb facs='#facs_56_r_7_1_tl_10' n='N010'/>The two largest women’s clubs in Paris were the Club de
+				<lb facs='#facs_56_r_7_1_tl_11' n='N011'/>l’émancipation des femmes, founded by Jeanne Deroin and Dr.
+				<lb facs='#facs_56_r_7_1_tl_12' n='N012'/>Malatier, and the Club des femmes, founded by Eugénie Niboyet.
+				<lb facs='#facs_56_r_7_1_tl_13' n='N013'/>Clubs founded newspapers, newspapers founded clubs. Thus
+				<lb facs='#facs_56_r_7_1_tl_14' n='N014'/>Jeanne Deroin published the Opinion des femmes 13 and Niboyet
+				<lb facs='#facs_56_r_7_1_tl_15' n='N015'/>the Voix des femmes. To properly evaluate the achievements and
+				<lb facs='#facs_56_r_7_1_tl_16' n='N016'/>significance of the women’s newspapers, it must be kept in mind
+				<lb facs='#facs_56_r_7_1_tl_17' n='N017'/>that they appeared daily and that newspapers were the only form
+				<lb facs='#facs_56_r_7_1_tl_18' n='N018'/>of mass communication.1
+				<lb facs='#facs_56_r_7_1_tl_19' n='N019'/>Among the editors of the Voix, Niboyet had worked for a long
+				<lb facs='#facs_56_r_7_1_tl_20' n='N020'/>time on women’s newspapers,13 and Deroin was a teacher who
+				<lb facs='#facs_56_r_7_1_tl_21' n='N021'/>wrote for the Opinion des femmes as well. Désirée Gay was a
+				<lb facs='#facs_56_r_7_1_tl_22' n='N022'/>worker and later founder of a women laundry workers’ union. A
+				<lb facs='#facs_56_r_7_1_tl_23' n='N023'/>large number of other writers for the paper signed their articles
+				<lb facs='#facs_56_r_7_1_tl_24' n='N024'/>with first name and occupation only. With its first issue on March
+				<lb facs='#facs_56_r_7_1_tl_25' n='N025'/>20, 1840, the Voix called for support of the aforementioned de
+				<lb facs='#facs_56_r_7_1_tl_26' n='N026'/>mands of the women’s organizations.
+				<lb facs='#facs_56_r_7_1_tl_27' n='N027'/>The battle dealt primarily with the right to vote and the right to
+				<lb facs='#facs_56_r_7_1_tl_28' n='N028'/>work. On March 5, 1848, the provisional government had pro
+				<lb facs='#facs_56_r_7_1_tl_29' n='N029'/>claimed “universal suffrage.&quot; The next day it specified exactly
+				<lb facs='#facs_56_r_7_1_tl_30' n='N030'/>who was allowed to vote — all men over twenty-one years of
+				<lb facs='#facs_56_r_7_1_tl_31' n='N031'/>age who enjoyed the rights of citizenship. Mentally retarded peo
+				<lb facs='#facs_56_r_7_1_tl_32' n='N032'/>ple and minors were not permitted to vote. The women belonged
+				<lb facs='#facs_56_r_7_1_tl_33' n='N033'/>to this group.
+				<lb facs='#facs_56_r_7_1_tl_34' n='N034'/>Women rose up in arms. In an address to the provisional gov
+				<lb facs='#facs_56_r_7_1_tl_35' n='N035'/>ernment on March 16, women artists, workers, writers and teach
+				<lb facs='#facs_56_r_7_1_tl_36' n='N036'/>ers demanded equal political rights for both sexes. Delegations
+				<lb facs='#facs_56_r_7_1_tl_37' n='N037'/>from the “Committee for Women’s Rights&quot; went to Marrast at
+				<lb facs='#facs_56_r_7_1_tl_38' n='N038'/>City Hall and insisted on the right to vote because the voting law
+				<lb facs='#facs_56_r_7_1_tl_39' n='N039'/>failed to specifically exclude women. The Jacobin Club released a
+				<lb facs='#facs_56_r_7_1_tl_40' n='N040'/>trial balloon with the nomination of George Sand as a candidate
+				<lb facs='#facs_56_r_7_1_tl_41' n='N041'/>for the National Assembly. The women’s clubs enthusiastically
+				<lb facs='#facs_56_r_7_1_tl_42' n='N042'/>endorsed the nomination. The Voix des femmes of April 16 pro
+				<lb facs='#facs_56_r_7_1_tl_43' n='N043'/>claimed, “We have nominated George Sand!&quot; A woman in the
+				<lb facs='#facs_56_r_7_1_tl_44' n='N044'/>National Assembly, one whom men had declared to be a genius,
+				<lb facs='#facs_56_r_7_1_tl_45' n='N045'/>would have to be heard! But in the newspaper La Réforme Sand
+				<lb facs='#facs_56_r_7_1_tl_46' n='N046'/>clearly disassociated herself from the movement. She admitted
+				<lb facs='#facs_56_r_7_1_tl_47' n='N047'/>that freedom of opinion was the right of both sexes, but protested
+				<lb facs='#facs_56_r_7_1_tl_48' n='N048'/>the unsolicited support of women whom she did not know and
+				<lb facs='#facs_56_r_7_1_tl_49' n='N049'/>with whom she did not wish to associate.
+				<lb facs='#facs_56_r_7_1_tl_50' n='N050'/>Eugénie Niboyet had realized that Sand was no women&apos;s
+				<lb facs='#facs_56_r_7_1_tl_51' n='N051'/>rightist. In the Voix on April 10, 1848, she returned the affront.
+				<lb facs='#facs_56_r_7_1_tl_52' n='N052'/>The candidacy of Madame George Sand was decided by men in
+				<lb facs='#facs_56_r_7_1_tl_53' n='N053'/>clubs where women are not permitted.... The republic has not
+				<lb facs='#facs_56_r_7_1_tl_54' n='N054'/>done away with the privileges of the talented, but it has limited
+				<lb facs='#facs_56_r_7_1_tl_55' n='N055'/>them by imposing responsibilities.&quot; In the election on April 23
+				<lb facs='#facs_56_r_7_1_tl_56' n='N056'/>George Sand was defeated. One half of the French people still had
+				<lb facs='#facs_56_r_7_1_tl_57' n='N057'/>no voice.
+				<lb facs='#facs_56_r_7_1_tl_58' n='N058'/>Organizing by Women
+				<lb facs='#facs_56_r_7_1_tl_59' n='N059'/>The right to work meant economic independence, a funda
+				<lb facs='#facs_56_r_7_1_tl_60' n='N060'/>mental step towards women’s liberation. Finding work for
+				<lb facs='#facs_56_r_7_1_tl_61' n='N061'/>women had nothing to do with charity. “Under a republican gov-
+				<lb facs='#facs_56_r_7_1_tl_62' n='N062'/>ernment privilege is replaced by equality, just as charity becomes
+				<lb facs='#facs_56_r_7_1_tl_63' n='N063'/>fraternity....&quot; (commentary in the Voix on April 3, 1848). The
+			</p>
+			<pb n='57'/>
+			<p>
+				<lb facs='#facs_57_r_1_1_tl_1' n='N001'/>women’s demands were
+				<lb facs='#facs_57_r_1_1_tl_2' n='N002'/>Sente
+				<lb facs='#facs_57_r_1_1_tl_3' n='N003'/>efore the Commission du tra
+				<lb facs='#facs_57_r_1_1_tl_4' n='N004'/>pail of the provisional government in a very general and rather
+				<lb facs='#facs_57_r_1_1_tl_5' n='N005'/>feeble form. An address directed to Louis Blanc, the commission
+				<lb facs='#facs_57_r_1_1_tl_6' n='N006'/>chairman, read:
+				<lb facs='#facs_57_r_1_1_tl_7' n='N007'/>Many women are in a desperate situation.... Good
+				<lb facs='#facs_57_r_1_1_tl_8' n='N008'/>morals build republics and it is the women who are re
+				<lb facs='#facs_57_r_1_1_tl_9' n='N009'/>sponsible for good morals! Let the nation praise wom
+				<lb facs='#facs_57_r_1_1_tl_10' n='N010'/>en’s labor through your voice. We hope that through
+				<lb facs='#facs_57_r_1_1_tl_11' n='N011'/>our will work done by women will have a status in the
+				<lb facs='#facs_57_r_1_1_tl_12' n='N012'/>present reorganization of labor and that you will urge
+				<lb facs='#facs_57_r_1_1_tl_13' n='N013'/>that the fundamental principle of association be applied
+				<lb facs='#facs_57_r_1_1_tl_14' n='N014'/>to the kinds of work that are carried out by women.16
+				<lb facs='#facs_57_r_1_1_tl_15' n='N015'/>In a postscript the woman writing this appeal demanded auxili
+				<lb facs='#facs_57_r_1_1_tl_16' n='N016'/>ary protective measures to make it possible for women to work
+				<lb facs='#facs_57_r_1_1_tl_17' n='N017'/>and to make their work easier, such as the establishment of
+				<lb facs='#facs_57_r_1_1_tl_18' n='N018'/>&quot;national restaurants, state laundries, day-care centers and so
+				<lb facs='#facs_57_r_1_1_tl_19' n='N019'/>forth.
+				<lb facs='#facs_57_r_1_1_tl_20' n='N020'/>The women’s movement sought to organize female workers in
+				<lb facs='#facs_57_r_1_1_tl_21' n='N021'/>two ways. First, through the creation of associations at existing
+				<lb facs='#facs_57_r_1_1_tl_22' n='N022'/>places of work. Second, by demanding that the state set up
+				<lb facs='#facs_57_r_1_1_tl_23' n='N023'/>national workshops for women to reduce unemployment.
+				<lb facs='#facs_57_r_1_1_tl_24' n='N024'/>Workers’ associations already existed under the July Monarchy
+				<lb facs='#facs_57_r_1_1_tl_25' n='N025'/>in embryonic forms, but they were constantly exposed to perse
+				<lb facs='#facs_57_r_1_1_tl_26' n='N026'/>cution by Louis-Philippe’s government. However, with the
+				<lb facs='#facs_57_r_1_1_tl_27' n='N027'/>February Revolution of 1848, the concept of an &quot;association’
+				<lb facs='#facs_57_r_1_1_tl_28' n='N028'/>took on an almost magical significance, for it represented both an
+				<lb facs='#facs_57_r_1_1_tl_29' n='N029'/>end to all exploitation and a &quot;brotherliness” which would be real
+				<lb facs='#facs_57_r_1_1_tl_30' n='N030'/>ized in all social realms.1° Women also formed associations.
+				<lb facs='#facs_57_r_1_1_tl_31' n='N031'/>Pauline Roland founded an association for socialist teachers. The
+				<lb facs='#facs_57_r_1_1_tl_32' n='N032'/>alliance of midwives, Sages femmes unies, demanded medical
+				<lb facs='#facs_57_r_1_1_tl_33' n='N033'/>training, better care for the working classes and state wages. The
+				<lb facs='#facs_57_r_1_1_tl_34' n='N034'/>Voix des femmes added that women should reclaim gynecology
+				<lb facs='#facs_57_r_1_1_tl_35' n='N035'/>and no longer surrender their bodies to profit-seeking, incom
+				<lb facs='#facs_57_r_1_1_tl_36' n='N036'/>petent doctors.19
+				<lb facs='#facs_57_r_1_1_tl_37' n='N037'/>The Voix also founded an association for domestic workers,
+				<lb facs='#facs_57_r_1_1_tl_38' n='N038'/>Association des femmes à gages, to eliminate the isolation inher
+				<lb facs='#facs_57_r_1_1_tl_39' n='N039'/>ent in domestic work. In October, 1848, Jeanne Deroin launchec
+				<lb facs='#facs_57_r_1_1_tl_40' n='N040'/>the Association des ouvrières lingères. The female laundry work-
+				<lb facs='#facs_57_r_1_1_tl_41' n='N041'/>ers organized their businesses themselves, from soliciting orders
+				<lb facs='#facs_57_r_1_1_tl_42' n='N042'/>to delivery. One quarter of the profit was paid out in wages, one
+				<lb facs='#facs_57_r_1_1_tl_43' n='N043'/>quarter went into a relief fund for the workers and the other half
+				<lb facs='#facs_57_r_1_1_tl_44' n='N044'/>went back into production.” Finally, in August 1848, Deroin
+				<lb facs='#facs_57_r_1_1_tl_45' n='N045'/>founded a central French labor union movement. In answer to her
+				<lb facs='#facs_57_r_1_1_tl_46' n='N046'/>call delegates from a large number of associations met in Paris to
+				<lb facs='#facs_57_r_1_1_tl_47' n='N047'/>discuss suggestions for a federation — 140 associations formed the
+				<lb facs='#facs_57_r_1_1_tl_48' n='N048'/>alliance. In 1850 Deroin was imprisoned for half a year as an
+				<lb facs='#facs_57_r_1_1_tl_49' n='N049'/>enemy of property, individualism and male domination in the
+				<lb facs='#facs_57_r_1_1_tl_50' n='N050'/>state and in the family.
+				<lb facs='#facs_57_r_1_1_tl_51' n='N051'/>In March 1848, the suggestion was first made, in the Voix des
+				<lb facs='#facs_57_r_1_1_tl_52' n='N052'/>femmes, that the government’s National Workshops also be
+				<lb facs='#facs_57_r_1_1_tl_53' n='N053'/>established for women. In the course of their campaign, delegates
+				<lb facs='#facs_57_r_1_1_tl_54' n='N054'/>of female workers finally established Ateliers des femmes (work
+				<lb facs='#facs_57_r_1_1_tl_55' n='N055'/>shops for women) through the Commission du travail. Désirée
+				<lb facs='#facs_57_r_1_1_tl_56' n='N056'/>Gay, a worker and editorial writer for the Voix, was chosen as a
+				<lb facs='#facs_57_r_1_1_tl_57' n='N057'/>delegate by the female workers of the second arrondissement of
+				<lb facs='#facs_57_r_1_1_tl_58' n='N058'/>Paris. She gave regular reports in the Voix about the organization
+				<lb facs='#facs_57_r_1_1_tl_59' n='N059'/>and development of the newly opened workshops in the second
+				<lb facs='#facs_57_r_1_1_tl_60' n='N060'/>district, and from her reports we get an idea of what was happen
+				<lb facs='#facs_57_r_1_1_tl_61' n='N061'/>ing in other ateliers.
+				<lb facs='#facs_57_r_1_1_tl_62' n='N062'/>Every 100 female workers were under the command of a divi
+				<lb facs='#facs_57_r_1_1_tl_63' n='N063'/>sion leader (daily wage: 3 francs). Every ten women were in turn
+				<lb facs='#facs_57_r_1_1_tl_64' n='N064'/>assigned to a brigade leader (daily wage: 1.50 francs). On March
+				<lb facs='#facs_57_r_1_1_tl_65' n='N065'/>20, 1848, the Voix published figures on the average earnings of
+			</p>
+			<p>
+				<lb facs='#facs_57_r_2_1_tl_1' n='N001'/>seamstresses: for a twelve-hour day they could earn at the most
+				<lb facs='#facs_57_r_2_1_tl_2' n='N002'/>1 franc in the city, in the country no more than 60 centimes. In
+				<lb facs='#facs_57_r_2_1_tl_3' n='N003'/>general, women earned only about one-third of what men
+				<lb facs='#facs_57_r_2_1_tl_4' n='N004'/>earned. Female workers sewed national guard shirts for the gov-
+				<lb facs='#facs_57_r_2_1_tl_5' n='N005'/>ernment and received piece-wages. Since most of them were un
+				<lb facs='#facs_57_r_2_1_tl_6' n='N006'/>trained, many barely received 30 centimes a day, far below the
+				<lb facs='#facs_57_r_2_1_tl_7' n='N007'/>subsistence minimum. The substantial wage differences within
+				<lb facs='#facs_57_r_2_1_tl_8' n='N008'/>the ateliers also made women unhappy. The complaints multi
+				<lb facs='#facs_57_r_2_1_tl_9' n='N009'/>plied. An editorial in the Voix on April 14, 1848, declared:
+				<lb facs='#facs_57_r_2_1_tl_10' n='N010'/>Why do women revolt? Because women’s workshops
+				<lb facs='#facs_57_r_2_1_tl_11' n='N011'/>are controlled by men, because favoritism brings higher
+				<lb facs='#facs_57_r_2_1_tl_12' n='N012'/>wages than work accomplished, finally, because some
+				<lb facs='#facs_57_r_2_1_tl_13' n='N013'/>have too much and others too little. What the female
+				<lb facs='#facs_57_r_2_1_tl_14' n='N014'/>worker wants is not an organized hand-out, but rather
+				<lb facs='#facs_57_r_2_1_tl_15' n='N015'/>a just reward for work done.... We want all people to
+				<lb facs='#facs_57_r_2_1_tl_16' n='N016'/>be able to make a living from their labor....
+				<lb facs='#facs_57_r_2_1_tl_17' n='N017'/>On April 18 Désirée Gay wrote:
+				<lb facs='#facs_57_r_2_1_tl_18' n='N018'/>Female workers are dying of hunger. The work that
+				<lb facs='#facs_57_r_2_1_tl_19' n='N019'/>they are given to do is only bait. The organization of
+				<lb facs='#facs_57_r_2_1_tl_20' n='N020'/>women’s work is only despotism under a new name
+				<lb facs='#facs_57_r_2_1_tl_21' n='N021'/>The appointment of women’s delegates is a false pre
+				<lb facs='#facs_57_r_2_1_tl_22' n='N022'/>tense thought up by men who want to get women off
+				<lb facs='#facs_57_r_2_1_tl_23' n='N023'/>their backs.
+				<lb facs='#facs_57_r_2_1_tl_24' n='N024'/>Because of her energetic advocation of women’s rights, Désirée
+				<lb facs='#facs_57_r_2_1_tl_25' n='N025'/>Gay was fired as division leader several days later. The govern
+				<lb facs='#facs_57_r_2_1_tl_26' n='N026'/>ment threatened to imprison her and close the ateliers, if there
+				<lb facs='#facs_57_r_2_1_tl_27' n='N027'/>was an uprising among women workers.
+				<lb facs='#facs_57_r_2_1_tl_28' n='N028'/>In the government decree of June 23, 1848, on the closing of the
+				<lb facs='#facs_57_r_2_1_tl_29' n='N029'/>National Workshops, the ateliers des femmes did not even need
+				<lb facs='#facs_57_r_2_1_tl_30' n='N030'/>to be mentioned. They had already become ineffectual due to the
+				<lb facs='#facs_57_r_2_1_tl_31' n='N031'/>participation of women in the June insurrection.
+				<lb facs='#facs_57_r_2_1_tl_32' n='N032'/>The most infamous society of female workers formed for the
+				<lb facs='#facs_57_r_2_1_tl_33' n='N033'/>liberation of women was a paramilitary group, a feminist “mili
+				<lb facs='#facs_57_r_2_1_tl_34' n='N034'/>tia,&quot; called the Vesuviennes. The members adopted this nick
+				<lb facs='#facs_57_r_2_1_tl_35' n='N035'/>name, mockingly applied by the public, and gave it their own
+				<lb facs='#facs_57_r_2_1_tl_36' n='N036'/>interpretation. Actually it described their situation superbly: like
+				<lb facs='#facs_57_r_2_1_tl_37' n='N037'/>long dammed-up lava, they would cause social upheaval. With
+				<lb facs='#facs_57_r_2_1_tl_38' n='N038'/>weapons clashing, the Vésuviennes marched in front of the City
+				<lb facs='#facs_57_r_2_1_tl_39' n='N039'/>Hall and at the Place Vendôme under the command of Josephine
+				<lb facs='#facs_57_r_2_1_tl_40' n='N040'/>Frenouillet. This was grist for the mill of Charivari. From the end
+				<lb facs='#facs_57_r_2_1_tl_41' n='N041'/>of March onwards, the house caricaturist Cham was already lash
+				<lb facs='#facs_57_r_2_1_tl_42' n='N042'/>ing out at the “Vesuvian marriage” under the weekly heading
+				<lb facs='#facs_57_r_2_1_tl_43' n='N043'/>Revue comique de la semaine. He had the husband of a Vésuvi
+				<lb facs='#facs_57_r_2_1_tl_44' n='N044'/>enne sigh while minding the children, “Since early morning my
+				<lb facs='#facs_57_r_2_1_tl_45' n='N045'/>wife has been in front of City Hall at a proclamation ceremony
+				<lb facs='#facs_57_r_2_1_tl_46' n='N046'/>and here little Gugusse has been proclaiming for two hours that
+				<lb facs='#facs_57_r_2_1_tl_47' n='N047'/>she wants to be fed!&quot;2
+				<lb facs='#facs_57_r_2_1_tl_48' n='N048'/>The ideal “Vesuvian marriage&quot; is presented in the “constitu
+				<lb facs='#facs_57_r_2_1_tl_49' n='N049'/>tion&quot; of the Vésuviennes.2 Divorce is permitted—but every
+				<lb facs='#facs_57_r_2_1_tl_50' n='N050'/>woman over twenty-one and every man over twenty-six is
+				<lb facs='#facs_57_r_2_1_tl_51' n='N051'/>obliged to marry. If a woman should refuse to marry, or if it is
+				<lb facs='#facs_57_r_2_1_tl_52' n='N052'/>proved that she is adopting her husband’s political views, she will
+				<lb facs='#facs_57_r_2_1_tl_53' n='N053'/>lose all her rights as a female citizen, rights which she otherwise
+				<lb facs='#facs_57_r_2_1_tl_54' n='N054'/>enjoys without restriction from the age of fifteen. In a Vesuvian
+				<lb facs='#facs_57_r_2_1_tl_55' n='N055'/>marriage”...the spouses are partners, united by interest and
+				<lb facs='#facs_57_r_2_1_tl_56' n='N056'/>feelings. Neither one is allowed to dominate.&quot; Both marriage
+				<lb facs='#facs_57_r_2_1_tl_57' n='N057'/>partners are to be gainfully employed; housework is shared. If
+				<lb facs='#facs_57_r_2_1_tl_58' n='N058'/>the husband refuses to do housework, he must then serve in his
+				<lb facs='#facs_57_r_2_1_tl_59' n='N059'/>wife’s place in the Civil Guard as well as his own in the National
+				<lb facs='#facs_57_r_2_1_tl_60' n='N060'/>Guard. It is a program of equality consistent to the last degree:
+				<lb facs='#facs_57_r_2_1_tl_61' n='N061'/>even sex-related clothing was gradually to disappear.
+			</p>
+			<pb n='58'/>
+			<p>
+				<lb facs='#facs_58_r_1_1_tl_1' n='N001'/>In the face of such goals, it is no wonder that the Vésuviennes
+				<lb facs='#facs_58_r_1_1_tl_2' n='N002'/>were the favorite butt of satirical attacks. While Daumier’s
+				<lb facs='#facs_58_r_1_1_tl_3' n='N003'/>Divorce Rightists&quot; series did not appear until August 1848, Char-
+				<lb facs='#facs_58_r_1_1_tl_4' n='N004'/>ivari had already been printing the twenty-plate series Les Vésu
+				<lb facs='#facs_58_r_1_1_tl_5' n='N005'/>viennes by E. de Beaumont since the first of May. Beaumont pic
+				<lb facs='#facs_58_r_1_1_tl_6' n='N006'/>tured the Vésuviennes almost exclusively as capricious young
+				<lb facs='#facs_58_r_1_1_tl_7' n='N007'/>girls, as ballet pupils upon the drill field, their rifles held, as if by
+				<lb facs='#facs_58_r_1_1_tl_8' n='N008'/>accident, in delicate hands.
+				<lb facs='#facs_58_r_1_1_tl_9' n='N009'/>The relationship between the Vésuviennes and other women&apos;s
+				<lb facs='#facs_58_r_1_1_tl_10' n='N010'/>organizations was probably strained due to methods rather than
+				<lb facs='#facs_58_r_1_1_tl_11' n='N011'/>goals. Except for a few stones thrown through the Charivari win
+				<lb facs='#facs_58_r_1_1_tl_12' n='N012'/>dows, the socialist women rejected violence as a political instru
+				<lb facs='#facs_58_r_1_1_tl_13' n='N013'/>ment.
+				<lb facs='#facs_58_r_1_1_tl_14' n='N014'/>The &quot;Socialist Women&quot;
+				<lb facs='#facs_58_r_1_1_tl_15' n='N015'/>After the June (1848) insurrection, all political activities, above
+				<lb facs='#facs_58_r_1_1_tl_16' n='N016'/>all the organization of clubs, were forbidden to women. The Voix
+				<lb facs='#facs_58_r_1_1_tl_17' n='N017'/>des femmes had to cease publication. These measures were based
+				<lb facs='#facs_58_r_1_1_tl_18' n='N018'/>on a decree by the Assemblée, which was initially worded:
+				<lb facs='#facs_58_r_1_1_tl_19' n='N019'/>&quot;Women and minors may not be members of a club nor attend
+				<lb facs='#facs_58_r_1_1_tl_20' n='N020'/>club meetings.&quot; After protests against the defamatory way in
+				<lb facs='#facs_58_r_1_1_tl_21' n='N021'/>which women and minors were put in the same category, minors
+				<lb facs='#facs_58_r_1_1_tl_22' n='N022'/>were eliminated from the decree, but the ban against women
+				<lb facs='#facs_58_r_1_1_tl_23' n='N023'/>remained.24
+				<lb facs='#facs_58_r_1_1_tl_24' n='N024'/>As a consequence, women turned to political banquets (ban
+				<lb facs='#facs_58_r_1_1_tl_25' n='N025'/>kettes), which because of their inflammatory nature, partially re
+				<lb facs='#facs_58_r_1_1_tl_26' n='N026'/>placed the clubs. At the beginning of 1849 Proudhon protested
+				<lb facs='#facs_58_r_1_1_tl_27' n='N027'/>against the participation of women in a banquet presided over by
+				<lb facs='#facs_58_r_1_1_tl_28' n='N028'/>Pierre Leroux. Daumier referred to this on January 25, 1849, in
+				<lb facs='#facs_58_r_1_1_tl_29' n='N029'/>Charivari. A woman in one of his caricatures complains, &quot;And
+				<lb facs='#facs_58_r_1_1_tl_30' n='N030'/>Proudhon does not want us to go to socialist banquets...the
+				<lb facs='#facs_58_r_1_1_tl_31' n='N031'/>unfortunate man has never been in love...otherwise he would
+				<lb facs='#facs_58_r_1_1_tl_32' n='N032'/>realize that a woman graces any occasion by her very presence!” 25
+				<lb facs='#facs_58_r_1_1_tl_33' n='N033'/>The conspiracy against husbands, the resistance to obedience
+				<lb facs='#facs_58_r_1_1_tl_34' n='N034'/>and the neglect of the home are once again presented as the chief
+				<lb facs='#facs_58_r_1_1_tl_35' n='N035'/>goals of Daumier’s Femmes Socialistes.2 In this series, however,
+				<lb facs='#facs_58_r_1_1_tl_36' n='N036'/>he also addresses himself for the first time to contemporary
+				<lb facs='#facs_58_r_1_1_tl_37' n='N037'/>events: the closing of the clubs, the banquets, and the election
+				<lb facs='#facs_58_r_1_1_tl_38' n='N038'/>campaign of Jeanne Deroin, who had intended to capitalize on
+				<lb facs='#facs_58_r_1_1_tl_39' n='N039'/>the fact that there was no law which made women ineligible for
+				<lb facs='#facs_58_r_1_1_tl_40' n='N040'/>public office. At the meetings of the Democrat-Socialists she took
+				<lb facs='#facs_58_r_1_1_tl_41' n='N041'/>the floor and demanded that she be nominated, explaining, “They
+				<lb facs='#facs_58_r_1_1_tl_42' n='N042'/>are Democrat-Socialists, they desire the end of exploitation of
+				<lb facs='#facs_58_r_1_1_tl_43' n='N043'/>one man by another and of women by men, they want a complete
+				<lb facs='#facs_58_r_1_1_tl_44' n='N044'/>and radical abolition of all privileges of sex, race, birth, class and
+				<lb facs='#facs_58_r_1_1_tl_45' n='N045'/>property.... It is in the name of these principles that I present
+				<lb facs='#facs_58_r_1_1_tl_46' n='N046'/>myself as a candidate for the legislative assembly and request the
+				<lb facs='#facs_58_r_1_1_tl_47' n='N047'/>support of the party....&quot;2
+				<lb facs='#facs_58_r_1_1_tl_48' n='N048'/>As a political candidate she went directly to the voters of the
+				<lb facs='#facs_58_r_1_1_tl_49' n='N049'/>Seine district: “A legislative assembly which is made up only of
+				<lb facs='#facs_58_r_1_1_tl_50' n='N050'/>men is just as incapable of making laws to govern a society of
+				<lb facs='#facs_58_r_1_1_tl_51' n='N051'/>men and women as an assembly of privileged persons would be to
+				<lb facs='#facs_58_r_1_1_tl_52' n='N052'/>decide on the interests of the workers, just as an assembly of capi
+				<lb facs='#facs_58_r_1_1_tl_53' n='N053'/>talists would be incapable of upholding the honor of the father
+				<lb facs='#facs_58_r_1_1_tl_54' n='N054'/>land.&quot; When the Democrat-Socialists tried to prevent her from
+				<lb facs='#facs_58_r_1_1_tl_55' n='N055'/>speaking at a meeting, she took the floor anyway and asked what
+				<lb facs='#facs_58_r_1_1_tl_56' n='N056'/>had happened to the principles of those “... who demand the
+				<lb facs='#facs_58_r_1_1_tl_57' n='N057'/>abolition of privilege’ but still try to keep that privilege which
+				<lb facs='#facs_58_r_1_1_tl_58' n='N058'/>they hold in common with the privileged, that privilege which is
+				<lb facs='#facs_58_r_1_1_tl_59' n='N059'/>the source of all privilege and of all social injustice: the domina
+				<lb facs='#facs_58_r_1_1_tl_60' n='N060'/>tion of man over woman?&quot; Although she was finally suggested as
+				<lb facs='#facs_58_r_1_1_tl_61' n='N061'/>a candidate for the Democrat-Socialists, Deroin received only a
+				<lb facs='#facs_58_r_1_1_tl_62' n='N062'/>few votes.
+			</p>
+			<p>
+				<lb facs='#facs_58_r_2_1_tl_1' n='N001'/>George Sand was also suggested and rejected as a candidate.
+				<lb facs='#facs_58_r_2_1_tl_2' n='N002'/>Again she demonstrated that she did not think of herself as a
+				<lb facs='#facs_58_r_2_1_tl_3' n='N003'/>woman, for she disapproved of both active and passive suffrage
+				<lb facs='#facs_58_r_2_1_tl_4' n='N004'/>for members of her own sex. In Sand’s view women were political
+				<lb facs='#facs_58_r_2_1_tl_5' n='N005'/>minors, incapable of making decisions because of their funda
+				<lb facs='#facs_58_r_2_1_tl_6' n='N006'/>mental disenfranchisement. The women’s movement could only
+				<lb facs='#facs_58_r_2_1_tl_7' n='N007'/>cause promiscuity and put the home in danger. Only in the dis
+				<lb facs='#facs_58_r_2_1_tl_8' n='N008'/>tant future, under changed social conditions, would women be
+				<lb facs='#facs_58_r_2_1_tl_9' n='N009'/>able to participate in politics and share in the decision-making
+				<lb facs='#facs_58_r_2_1_tl_10' n='N010'/>process.
+				<lb facs='#facs_58_r_2_1_tl_11' n='N011'/>On the subject of Deroin’s candidacy, Proudhon again spoke
+				<lb facs='#facs_58_r_2_1_tl_12' n='N012'/>out, in the journal Le Peuple, taking a strong position against
+				<lb facs='#facs_58_r_2_1_tl_13' n='N013'/>women’s emancipation: “What woman must free herself from is
+				<lb facs='#facs_58_r_2_1_tl_14' n='N014'/>not man. In our modern society there is little progress to be made
+				<lb facs='#facs_58_r_2_1_tl_15' n='N015'/>in this respect. As with the proletariat, it is capitalist despotism
+				<lb facs='#facs_58_r_2_1_tl_16' n='N016'/>which tyrannizes her heart and throws her into the milieu of the
+				<lb facs='#facs_58_r_2_1_tl_17' n='N017'/>workshop where slowly her morale and her body are de
+				<lb facs='#facs_58_r_2_1_tl_18' n='N018'/>stroyed.
+				<lb facs='#facs_58_r_2_1_tl_19' n='N019'/>And Jeanne Deroin replied in her paper, L’Opinion des
+				<lb facs='#facs_58_r_2_1_tl_20' n='N020'/>femmes: &quot;Pardon me, Monsieur, women are trying to free them
+				<lb facs='#facs_58_r_2_1_tl_21' n='N021'/>selves from men.... it is not so much a question of getting wom
+				<lb facs='#facs_58_r_2_1_tl_22' n='N022'/>en out of the workshop as a need to change the workshop itself
+				<lb facs='#facs_58_r_2_1_tl_23' n='N023'/>and to ennoble it both for women and for the proletarian worker,
+				<lb facs='#facs_58_r_2_1_tl_24' n='N024'/>since it is the source of work and independence.&quot;2
+				<lb facs='#facs_58_r_2_1_tl_25' n='N025'/>1. Cf. Simone de Beauvoir, The Second Sex (New York: Knopf, 1953); Léon
+				<lb facs='#facs_58_r_2_1_tl_26' n='N026'/>Abensour, Histoire Générale du Féminisme (Paris, 1921); Clara Zetkin,
+				<lb facs='#facs_58_r_2_1_tl_27' n='N027'/>Zur Geschichte der proletarischen Frauenbewegung Deutschlands
+				<lb facs='#facs_58_r_2_1_tl_28' n='N028'/>(Berlin, DDR, 1958); Sheila Rowbotham, Hidden from History (London,
+				<lb facs='#facs_58_r_2_1_tl_29' n='N029'/>1973).
+				<lb facs='#facs_58_r_2_1_tl_30' n='N030'/>2. Quoted from Daniel Stern, Histoire de la Révolution de 1848 (Paris,
+				<lb facs='#facs_58_r_2_1_tl_31' n='N031'/>1878), II, pp. 378-379. Cf. also d’Agoult (Daniel Stern), Mémoires 1833-
+				<lb facs='#facs_58_r_2_1_tl_32' n='N032'/>1854 (Paris, 1877).
+				<lb facs='#facs_58_r_2_1_tl_33' n='N033'/>3. Cf. Gazette des femmes, no. 53, 10. 10. 1846.
+				<lb facs='#facs_58_r_2_1_tl_34' n='N034'/>4. Cf. Edith Thomas, Les femmes en 1848 (Paris, 1948), pp. 7ff.
+				<lb facs='#facs_58_r_2_1_tl_35' n='N035'/>5. Ibid., p. 10.
+				<lb facs='#facs_58_r_2_1_tl_36' n='N036'/>6. For the following ef. Zetkin, pp. 161ff. and Thomas, pp. 18ff.
+				<lb facs='#facs_58_r_2_1_tl_37' n='N037'/>7. Thomas, p. 29.
+				<lb facs='#facs_58_r_2_1_tl_38' n='N038'/>8. Brockhaus, Kl. [eines) Konversationslex.sikon (Leipzig, 1886).
+				<lb facs='#facs_58_r_2_1_tl_39' n='N039'/>9. Charivari, 6. 30. 1839; (Loys) Delteil, [Honoré Daumier, 10 vols. (Paris,
+				<lb facs='#facs_58_r_2_1_tl_40' n='N040'/>1925-1930)), no. 629.
+				<lb facs='#facs_58_r_2_1_tl_41' n='N041'/>10. Cf. G. Sand, Gefahrten von der Frankreichwanderschaft [Compagnon
+				<lb facs='#facs_58_r_2_1_tl_42' n='N042'/>du tour de France) (Berlin, DDR, 1954), with an afterword by Rita
+				<lb facs='#facs_58_r_2_1_tl_43' n='N043'/>Schober; Edith Thomas, George Sand (Paris, 1959); Jean Larnac,
+				<lb facs='#facs_58_r_2_1_tl_44' n='N044'/>G.Jeorge) S.sand) als Revolutionarin [George Sand as a Revolutionary).
+				<lb facs='#facs_58_r_2_1_tl_45' n='N045'/>11. Charivari, 1. 30. 1844. Delteil, nos. 1221-1260.
+				<lb facs='#facs_58_r_2_1_tl_46' n='N046'/>12. Voix[desfemmes), 4. 20. 1848.
+				<lb facs='#facs_58_r_2_1_tl_47' n='N047'/>13. The successor to the paper Politique des femmes.
+				<lb facs='#facs_58_r_2_1_tl_48' n='N048'/>14. There were countless other journals for women, but often only a few
+				<lb facs='#facs_58_r_2_1_tl_49' n='N049'/>issues appeared because of the special difficulties involved (financing,
+				<lb facs='#facs_58_r_2_1_tl_50' n='N050'/>organization, marketing and distribution, quality).
+				<lb facs='#facs_58_r_2_1_tl_51' n='N051'/>15. She was editor from 1833 to 1834 in Lyon of the pro-Fourier Conseiller
+				<lb facs='#facs_58_r_2_1_tl_52' n='N052'/>des femmes.
+				<lb facs='#facs_58_r_2_1_tl_53' n='N053'/>16. Stern, II, p. 161.
+				<lb facs='#facs_58_r_2_1_tl_54' n='N054'/>17. Voix des femmes, 3.2. 1848.
+				<lb facs='#facs_58_r_2_1_tl_55' n='N055'/>18. Edith Thomas, Pauline Roland (Paris, 1956), p. 127.
+				<lb facs='#facs_58_r_2_1_tl_56' n='N056'/>19. Voix des femmes, 4.20. 1848.
+				<lb facs='#facs_58_r_2_1_tl_57' n='N057'/>20. Thomas, Lesfemmes en 1848, pp. 71ff.
+				<lb facs='#facs_58_r_2_1_tl_58' n='N058'/>21. Ibid., p. 56.
+				<lb facs='#facs_58_r_2_1_tl_59' n='N059'/>22. Charivari, 4.2. 1848.
+				<lb facs='#facs_58_r_2_1_tl_60' n='N060'/>23. Thomas, Les femmes en 1848, pp. 59-60.
+				<lb facs='#facs_58_r_2_1_tl_61' n='N061'/>24. Ibid., pp. 57ff.
+				<lb facs='#facs_58_r_2_1_tl_62' n='N062'/>25. Delteil, no. 1794.
+				<lb facs='#facs_58_r_2_1_tl_63' n='N063'/>26. Delteil, nos. 1916-1927.
+				<lb facs='#facs_58_r_2_1_tl_64' n='N064'/>27. Thomas, Les femmes en 1848, pp. 63ff. on the candidacy of Deroin.
+				<lb facs='#facs_58_r_2_1_tl_65' n='N065'/>28. Ibid., pp. 68-69.
+			   <lb facs='#facs_58_r_2_1_tl_66' n='N066'/>Cäcilia Rentmeister is an art historian from Berlin. She teaches at the
+				<lb facs='#facs_58_r_2_1_tl_67' n='N067'/>Hochschule für Bildende Kunst and is completing her doctoral disserta
+				<lb facs='#facs_58_r_2_1_tl_68' n='N068'/>tion, “Woman as Sphinx,” on nineteenth-century painting.
+			</p>
+         </div>
+      </body>
+   </text>
+</TEI>
