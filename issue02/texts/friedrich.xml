@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Contributors</title>
-            <author>Collective</author>
+            <title>Mea Culpa</title>
+            <author>Su Friedrich</author>
             <respStmt>
                <persName>Eowyn Andres</persName>
                <resp>Editor (2024-Present)</resp>
@@ -147,15 +147,11 @@
    </teiHeader>
    <text>
       <body>
-         <pb/>
-         <div>
-            <pb n='29'/>
-			<p>
-				<lb facs='#facs_29_r_1_1_tl_1' n='N001'/>MEA CULPA
-			</p>
-			<p>
-				<lb facs='#facs_29_r_2_1_tl_1' n='N001'/>SU FRIEDRICH
-			</p>
+      	<div>            
+      		<pb n='27' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_027.jpg"/>      		
+			<head>Mea Culpa*</head>
+			<byline>Su Friedrich
+			</byline>
 			<p>
 				<lb facs='#facs_29_r_3_1_tl_1' n='N001'/>Iused to read Vogue &quot;for the photography” the way I read Play
 				<lb facs='#facs_29_r_3_1_tl_2' n='N002'/>boy &quot;for the articles.
@@ -261,7 +257,7 @@
 				<lb facs='#facs_29_r_4_1_tl_53' n='N053'/>Reprehension of naked Breasts, etc.
 				<lb facs='#facs_29_r_4_1_tl_54' n='N054'/>Quoted in The Unfashionable Human Body
 			</p>
-			<pb n='30'/>
+      		<pb n='28' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_028.jpg"/>
 			<p>
 				<lb facs='#facs_30_r_1_1_tl_1' n='N001'/>Feeling guilty: &quot;How can I worry about the world of fashion
 				<lb facs='#facs_30_r_1_1_tl_2' n='N002'/>while the world out there is falling apart?&quot; The World and The
@@ -383,7 +379,7 @@
 				<lb facs='#facs_30_r_2_1_tl_58' n='N058'/>the colors of the wings of birds or the petals of flowers.
 				<lb facs='#facs_30_r_2_1_tl_59' n='N059'/>in Feminine Fulfillment
 			</p>
-			<pb n='31'/>
+      		<pb n='29' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_029.jpg"/>
 			<p>
 				<lb facs='#facs_31_r_1_1_tl_1' n='N001'/>We must begin to believe in a value-free body aesthetic; free
 				<lb facs='#facs_31_r_1_1_tl_2' n='N002'/>choice will come only when the options aren’t value-laden.

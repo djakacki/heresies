@@ -148,7 +148,7 @@
    <text>
       <body>
          <div type="essay">
-            			<pb n='2'/>
+         	<pb n='2' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_002.jpg"/>
          	<head>In Her Image*</head>
          	<byline>Deena Metzger</byline>
          	<p>* Revised and excerpted from the manuscript of an unpublished book, In Her Image: Woman’s Culture, 1976.</p>
@@ -248,7 +248,7 @@
 				us, we who are attentive. But now we bring that form into the
 				public domain as one of the new ways.
 			</p>
-			<pb n='3'/>
+         	<pb n='3' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_003.jpg"/>
 
 			<p>
 				"Since childhood, women have always been bricoleurs,
@@ -320,7 +320,7 @@
 				time and space and to a frequent reference to the immediate and
 				the everyday.
 			</p>
-			<pb n='4'/>
+         	<pb n='4' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_004.jpg"/>
 			<p>
 				Perhaps we should pause here, creating an interruption corresponding to the interruptions that women expect and incorporate into our own work, the spaces that permit permeation and
 				invite response. We are not concerned here with the transfer of
@@ -395,7 +395,7 @@
 				more fluently when they were freed from the tyranny of the complete sentence. Given permission to write in fragments and notes,
 				they could record their lives in a way they felt was more appropriate to their experience. The women more than the men responded to the more open form.
 			</p>
-			<pb n='5'/>
+         	<pb n='5' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_005.jpg"/>
 			<p>
 				Integration is a significant characteristic of woman’s work
 				Many parts tend to be represented in a single work. Into the daily
@@ -465,7 +465,7 @@
 				But much of what we know, we know exactly in the condition, in the daily life, the actual, the flux, the contingent and with
 				emotion...
 			</p>
-			<pb n='6'/>
+         	<pb n='6' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_006.jpg"/>
 			<p>
 				“The materials I use in my work are found objects, discards
 				and natural objects. ..shells, feathers, etc. I merely recycle them.
@@ -513,7 +513,7 @@
 				use." (Alice Walker, "In Search of Our Mothers’ Gardens," Ms.
 				Magazine, May 1974.)
 			</p>
-			<pb n='7'/>
+         	<pb n='7' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_007.jpg"/>
 			<p>
 				The leaderless group, the circular form, the non-hierarchical
 				structure are perhaps the most socially significant contributions
@@ -599,7 +599,7 @@
 				shed every month.</p>
 				<p>Is this the reason why women do not make war?
 			</p>
-			<pb n='8'/>
+         	<pb n='8' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_008.jpg"/>
 			<p>
 				The body, as one’s own, and as a woman’s body, is the first
 				force that prevents women from becoming distracted by abstract
@@ -686,7 +686,7 @@
 				know. Which is more awful—an anonymous assault by a stran-
 				ger or by a friend?
 			</p>
-			<pb n='9'/>
+         	<pb n='9' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_009.jpg"/>
 			<p>
 				n struggling to
 				My hands are shaking and he i
@@ -797,7 +797,7 @@
 				ence to ourselves and to others. We create open forms so that
 				someone can answer us.
 			</p>
-			<pb n='10'/>
+         	<pb n='10' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_010.jpg"/>
 			<p>
 				What word can we interject to convey our meaning of tan
 				gible and certain? In lieu of concrete can we say braided, be
@@ -878,7 +878,7 @@
 				the organizers of the Feminist Studio Workshop and the Woman's
 				Building.)
 			</p>
-			<pb n='11'/>
+         	<pb n='11' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_011.jpg"/>
 			<p>
 				Performance is a natural form of expression for women
 				whose history has been limited primarily to oral forms. Perfor
@@ -930,6 +930,9 @@
 				image—as Eve—the image of integration and relationship. In that
 				act woman challenges the dominant world culture.
 			</p>
+         </div>
+      </body>
+   	<back>
 			<p>
 				Deena Metzger is a feminist writer, poet and lecturer who is direc
 				tor of the Writing Program at the Feminist Studio Workshop at
@@ -938,7 +941,6 @@
 				SILENCE
 				The Book of Hags.
 			</p>
-         </div>
-      </body>
+   	</back>
    </text>
 </TEI>

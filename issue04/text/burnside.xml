@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>weaving</title>
+            <title>Weaving</title>
             <author>Madeleine Burnside</author>
             <respStmt>
                <persName>Haley Beardsley</persName>
@@ -125,9 +125,9 @@
    </teiHeader>
   <text>
       <body>
-         <div><!-- hold -->
-            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_030.jpg" n="30" xml:id="img_0030"/>
-            <head><title>weaving</title></head>
+         <div>
+            <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_030.jpg" n="27"/>
+            <head>weaving</head>
             <byline>Madeleine Burnside</byline>
 
             <p>No mistake. Works at the loom a profusion of thoughts and angrily beats the red into place upon the
