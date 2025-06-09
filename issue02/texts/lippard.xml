@@ -147,10 +147,10 @@
    </teiHeader>
    <text>
       <body>
-         <div type="essay">
+         <div type="essay">           
             <pb n="22" facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_022.jpg"/>
-            <head>3 short fictions</head>
-            <byline>lucy r. lippard</byline>
+            <head><title>3 short fictions</title></head>
+            <byline><persName>lucy r. lippard</persName></byline>
             <div>
                <head>1. the cries you hear</head>
                <p> The rocks trembled every day for over two months and in parts of Tibet a sick
@@ -295,10 +295,11 @@
             <div>
                <pb n="24" facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_024.jpg"/>
                <head>3. headwaters</head>
-               <p>
+               
                   <quote>For reasons of their own, women are suspicious of diving and frown on their
                      menfolk going down. D—, who has starred in several underwater films, has never
-                     received a fan letter from a woman. </quote>-<ref>Jacques Cousteau</ref> We are
+                     received a fan letter from a woman. <ref><persName>Jacques Cousteau</persName></ref>-</quote>
+                  <p>We are
                   already down there. We have already gone down, our breasts bumping the boulders
                   struggling to rise. Our menfolk don’t know where to send the fan letters. Can
                   dive, but not delve. Perhaps far down are boundaries between layers of water not
@@ -354,8 +355,8 @@
          </div>
       </body>
       <back>
-         <p>Lucy Lippard is a feminist art critic who also writes "fiction"; it has been published
-            in Center, Big Deal, Tractor, The World and elsewhere. </p>
+         <p><persName role="feminest art critic">Lucy Lippard</persName> is a feminist art critic who also writes "fiction"; it has been published
+            in <title type="journal">Center</title>, <title type="journal">Big Deal</title>, <title type='journal'>Tractor</title>, <title type="journal">The World</title> and elsewhere. </p>
       </back>
    </text>
 </TEI>

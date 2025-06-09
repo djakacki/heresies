@@ -4,494 +4,378 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>The Three Faces of Goddess Spirituality</title>
-            <author>Merlin Stone</author>
-            <respStmt>
-               <persName>Eowyn Andres</persName>
-               <resp>Editor (2024-Present)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Haley Beardsley</persName>
-               <resp>Editor (2021-2024)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Lyndon Beier</persName>
-               <resp>Editor (2023-2025)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Erica Delsandro</persName>
-               <resp>Investigator, editor</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Mia DeRoco</persName>
-               <resp>Editor (2023-2025)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Margaret Hunter</persName>
-               <resp>Editor (2021-2024)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Diane Jakacki</persName>
-               <resp>Invesigator, encoder</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Sophie McQuaide</persName>
-               <resp>Editor (2021-2023)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Olivia Martin</persName>
-               <resp>Editor, encoder (2021)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Zoha Nadeer</persName>
-               <resp>Editor (2022-2023)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Bri Perea</persName>
-               <resp>Editor (2022-2023)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Carrie Pirmann</persName>
-               <resp>HTR editor, encoder (2023-Present)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Ricky Rodriguez</persName>
-               <resp>Editor (2022-2023)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Roger Rothman</persName>
-               <resp>Investigator, editor</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Valeria Riley</persName>
-               <resp>Editor (2024-Present)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Zaely Rodriguez</persName>
-               <resp>Editor (2025-Present)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Kaitlyn Segreti</persName>
-               <resp>Editor (2021-2025)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Maggie Smith</persName>
-               <resp>Editor (2021-2024)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Maya Wadhwa</persName>
-               <resp>Editor (2021-2023)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Kelly Troop</persName>
-               <resp>Editor (2023-2025)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Lucy Wadswoth</persName>
-               <resp>Editor (2022-2025)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Anna Marie Wingard</persName>
-               <resp>Editor (2023-2025)</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Olivia Wychock</persName>
-               <resp>Graduate Editor (2024-Present)</resp>
-            </respStmt>
-            <funder>Bucknell University Humanities Center</funder>
-            <funder>Bucknell University Office of Undergraduate Research</funder>
-            <funder>The Mellon Foundation</funder>
-            <funder>National Endowment for the Humanities</funder>
-         </titleStmt>
-         <publicationStmt>
-            <distributor>
-               <name>Bucknell University</name>
-               <address>
-                  <street>One Dent Drive</street>
-                  <settlement>Lewisburg</settlement>
-                  <region>Pennsylvania</region>
-                  <postCode>17837</postCode>
-               </address>
-            </distributor>
-            <availability>
-               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
-                  International (CC BY-NC 4.0)</licence>
-               <licence>Heresies journal: © Heresies Collective</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <analytic>
-                  <title>The Great Goddess</title>
-               </analytic>
-               <monogr>
-                  <imprint>
-                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
-                     <pubPlace>
-                        <address>
-                           <name>Heresies</name>
-                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
-                           <settlement>New York</settlement>
-                           <region>New York</region>
-                           <postCode>10013</postCode>
-                        </address>
-                     </pubPlace>
-                  </imprint>
-               </monogr>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         			<div><pb n='2'/>
-			<p>
-				<lb/>The Three Faces of Goddess Spirituality
-			</p>
-			<p>
-				<lb/>Merlin Stone
-			</p>
-			<p>
-				<lb/>In considering the already widespread and in
-				<lb/>creasing interest in the diverse manifestations of
-				<lb/>Goddess spirituality within the feminist movement,
-				<lb/>it may be helpful to clarify at least three emerging
-				<lb/>aspects of this relatively new phenomenon. These
-				<lb/>three aspects, of what may be the most unexpected
-				<lb/>occurrence within the feminist movement, have de
-				<lb/>veloped, separately and together, in a rather incred
-				<lb/>ibly organic &quot;grass roots” manner. Perhaps only
-				<lb/>within the flexibility of a feminism that is continual
-				<lb/>ly evolving out of the process of consciousness rais
-				<lb/>ing in its truest sense has this outgrowth of feminist
-				<lb/>consciousness been able to develop and grow.
-				<lb/>Since all three of these aspects of Goddess spir
-				<lb/>ituality appear to be simultaneously growing from
-				<lb/>one central trunk, I drew lots (a method used at the
-				<lb/>prophecy-providing shrines of the Goddess in an
-				<lb/>cient times) to decide their linear placement. This
-				<lb/>placement in no way implies that one aspect is of
-				<lb/>greater importance than another or precedes the
-				<lb/>others in actual development and, as you will see,
-				<lb/>many connections link the three.
-				<lb/>The first aspect of Goddess spirituality is the
-				<lb/>emerging interest in the history and prehistory of
-				<lb/>ancient cultures that worshipped a female deity and
-				<lb/>in the laws and customs of those societies. Through
-				<lb/>research in archaeology, history, anthropology
-				<lb/>and using this information to analyze ancient lit
-				<lb/>erature and mythology—we have begun to discover
-				<lb/>that far from the generally accepted idea that the
-				<lb/>Judeo-Christian religions rescued women from sup
-				<lb/>posedly more barbarian and anti-woman societies
-				<lb/>women have actually lost a great deal of status and
-				<lb/>physical and material autonomy since the inceptior
-				<lb/>of these and other male-worshipping religions. As a
-				<lb/>result of this research, which covers the period fron
-				<lb/>the Neolithic Goddess shrines of about 8000 B.C. to
-				<lb/>the closing of the last Goddess temples in the early
-				<lb/>Christian periods of Byzantium, we have learned
-				<lb/>that many Goddess-worshipping societies were mat
-				<lb/>rilineal, matrilocal and matrifocal. In many of these
-				<lb/>societies, women owned property, engaged in busi
-				<lb/>ness and held the highest positions of the clergy. In
-				<lb/>such societies children automatically belonged to
-				<lb/>their mother’s clan and took their mother’s family
-				<lb/>name.
-			</p>
-			<p>
-				<lb/>Through this research we are discovering the
-				<lb/>roots of today’s attitudes toward women’s bodies
-				<lb/>and minds. These attitudes become clear as we
-				<lb/>study them within the context of the original institu
-				<lb/>tion of patrilineal, patrilocal and patrifocal systems
-				<lb/>under the aegis of the worship of a supreme deity as
-				<lb/>male. Though it required many millennia tosuppress
-				<lb/>the Goddess religion and its social customs, this
-				<lb/>ancient religion was eventually designated as &quot;pa
-				<lb/>gan” and its remaining vestiges were obliterated by
-				<lb/>early Christian emperors, medieval inquisitions and
-				<lb/>witch burnings
-				<lb/>In our growing interest and efforts to explore the
-				<lb/>truth about the past, we are building, and hopefully
-				<lb/>we will continue to build, a body of evidence that
-				<lb/>bears witness to the many millennia in which the
-				<lb/>Creator was regarded as female and in which womer
-				<lb/>held a much higher status than we have known since
-				<lb/>that time. This aspect of Goddess spirituality within
-				<lb/>the feminist movement is motivated by much the
-				<lb/>same feeling that has encouraged us to rediscover
-				<lb/>and reclaim female artists, writers, scientists, polit
-				<lb/>ical leaders and other important women who were
-				<lb/>ignored by the writers of the history books with
-				<lb/>which we were educated. This information affords
-				<lb/>an entirely new perspective on current stereotypes
-				<lb/>of women. It provides a broader view, as the per
-				<lb/>spective which allows us to look into the past also
-				<lb/>allows us to see further ahead.
-				<lb/>The second aspect is that of a growing concern
-				<lb/>with a feminist perception of spirituality and theol
-				<lb/>ogy. It has emerged from feminist consciousness, an
-				<lb/>inkling or more of the first aspect and the perhaps
-				<lb/>ever-present search for answers to such theological
-				<lb/>questions as the possible purposes (or nonpurpose,
-				<lb/>of existence, the true nature of morality (or im
-				<lb/>morality), birth, death and the nature of mind as it is
-				<lb/>revealed in intelligence, intuition and reason. For
-				<lb/>many centuries women have been taught that if they
-				<lb/>cared to consider these questions at all (the implica
-				<lb/>tion being that such questions were actually too
-				<lb/>abstract for female minds), answers were to be
-				<lb/>found in the words and writings of male priests
-				<lb/>male ministers, male rabbis and male gurus —all of
-				<lb/>whom supposedly had greater spiritually contem
-				<lb/>plative abilities as well as more direct access to
-				<lb/>knowledge of The Divine Plan or Cosmic Process.
-			</p>
-			
-			<pb n='3'/>
-			<p>
-				<lb/>A feminist contemplation of spiritual and theo
-				<lb/>logical questions soon makes us painfully aware that
-				<lb/>the answers with which we have so far been provid
-				<lb/>ed have existed in close relationship to, or more
-				<lb/>often within, a personified Life Force that is nearly
-				<lb/>always linguistically, and more often actually, con
-				<lb/>sidered to be of the male gender. Not too surprising
-				<lb/>ly, &quot;answers” about divine intentions are often as
-				<lb/>male-oriented as the men who provide them. The
-				<lb/>exceptional rate of growth of feminist concerns with
-				<lb/>Goddess spirituality in itself reveals a level of con
-				<lb/>sciousness that refuses and refutes this male-de
-				<lb/>signed hierarchy and its appropriation of theological
-				<lb/>and spiritual considerations—and the subsequent
-				<lb/>divine” decrees.
-				<lb/>So far, and let us hope in the future as well, fem
-				<lb/>inists concerned with Goddess spirituality have sel
-				<lb/>dom offered absolute or pat answers to theological
-				<lb/>questions. What has been happening is the experi
-				<lb/>encing, and at times the reporting, of these personal
-				<lb/>or group experiences: how it feels to regard the Ul
-				<lb/>timate Life Force in our own image—as females;
-				<lb/>how it feels to openly embrace and to share our own
-				<lb/>contemplations and intuitive knowledge about the
-				<lb/>role of women on this planet; how it feels to gain a
-				<lb/>sense of direction, a motivating energy, a strength, a
-				<lb/>courage—somehow intuited as coming from a cos
-				<lb/>mic female energy force that fuels and refuels us in
-				<lb/>our struggle against all human oppression and
-				<lb/>planetary destruction.
-				<lb/>Some say they find this force within themselves
-				<lb/>others regard it as external. Some feel it in the
-				<lb/>ocean, the moon, a tree, the flight of a bird or in the
-				<lb/>constant stream of coincidences (or noncoin
-				<lb/>cidences) that occur in our lives. Some find access
-				<lb/>to it in the lighting of a candle, chanting, meditating
-				<lb/>— alone or with other women. From what 1 have so
-				<lb/>far read, heard or experienced myself, I think it safe
-				<lb/>to say that all women who feel they have experi
-				<lb/>enced Goddess spirituality in one way or another al
-				<lb/>so feel that they have gained an inner strength and
-				<lb/>direction that temporarily or permanently has
-				<lb/>helped them to deal with life. Most women interest
-				<lb/>ed or involved in feminist concepts of spirituality do
-				<lb/>not regard this spirituality as an end in itself but as a
-				<lb/>means of gaining and giving strength and under
-				<lb/>standing that will help us to confront the many
-				<lb/>tangible and material issues of the blatant inequities
-				<lb/>of society as we know it today
-				<lb/>The third aspect of Goddess spirituality is con
-				<lb/>cerned with the more circumspect observation of
-				<lb/>the organized male-worshipping, male-clergied
-				<lb/>religions of today—an examination of the specific
-				<lb/>ways in which these religions have instituted and
-			</p>
-			<p>
-				<lb/>maintained a secondary status for women. Involve
-				<lb/>ment in Goddess spirituality has encouraged us to
-				<lb/>take a more careful look at the scriptures, rituals and
-				<lb/>the gender of the decision-making level of the clergy
-				<lb/>of the religions in which we were raised and/or
-				<lb/>those that affect the society in which we live.
-				<lb/>Some of the most urgent issues confronting con
-				<lb/>temporary women all over the planet are those con
-				<lb/>cerning economic survival, abortion, contraception,
-				<lb/>rape, clitorectomy, infibulation, divorce, attitudes
-				<lb/>toward &quot;illegitimacy”, lesbian rights, social pressure
-				<lb/>to marry and to have children, physical and psycho
-				<lb/>logical violence, attitudes toward women’s bodies
-				<lb/>and the stereotypes of woman as follower rather
-				<lb/>than leader and sexual and reproductive being rather
-				<lb/>than as total human being.
-				<lb/>A careful reading of the Bible still used by Judeo
-				<lb/>Christian congregations reveals the ancient origins
-				<lb/>of many of these important feminist issues. The
-				<lb/>proclamation in Gen. 3:16 informs both women and
-				<lb/>men that women are expected, as the result of a
-				<lb/>divine” decree, to be sexually faithful and subser
-				<lb/>vient to their husbands and that the pains of child
-				<lb/>birth are to be regarded as &quot;divine” retribution —the
-				<lb/>will of God” as it is asserted over the will of woman.
-				<lb/>Deut. 22:28,29 requires that a raped virgin be mar
-				<lb/>ried to the man who raped her. Deut. 22:22-24 stip
-				<lb/>ulates that a raped betrothed woman should be put
-				<lb/>to death (unless the rape occurred in the deserted
-				<lb/>countryside). Deut. 22:20-22 states that a bride dis
-				<lb/>covered not to be a virgin should be dragged from
-				<lb/>the house and stoned to death. Deut. 22:22 declares
-				<lb/>that a married woman should be put to death if
-				<lb/>found lying with a man (no excuse for rape is men
-				<lb/>tioned). Deut. 24:1 decrees that a man has the right
-				<lb/>to divorce his wife on his decision alone, while no
-				<lb/>provision is made for a woman who desires to
-				<lb/>divorce her husband. Each of these biblical laws re
-				<lb/>veals the intense efforts made to control reproduc
-				<lb/>tive capacities, and thus the sexual activities of
-				<lb/>women, by the men who wrote these laws and by
-				<lb/>those who followed them.
-				<lb/>Our understanding and analysis of these biblical
-				<lb/>laws and their subsequent effects on contemporary
-				<lb/>women become clear only in the context of histor
-				<lb/>ical information which reveals that these laws were
-				<lb/>devised at much the same time that matrilineal cus
-				<lb/>toms were being destroyed and patrilineal systems
-				<lb/>initiated. In a patrilineal system, knowledge of
-				<lb/>paternity is vital. This knowledge takes on even
-				<lb/>greater import when the system is declared to be an
-				<lb/>integral aspect of The Divine Plan and thus any chal
-				<lb/>lenge to the patrilineal system and certain knowl
-				<lb/>edge of paternity may be considered blasphemy—at
-			</p>
-			<pb n='4'/>
-			<p>
-				<lb/>times punishable by death. Even today, socio
-				<lb/>religious attitudes toward &quot;unwed mothers” and &quot;il
-				<lb/>legitimacy” have not yet been thoroughly examined
-				<lb/>and challenged as a vital feminist issue.
-				<lb/>The institution and maintenance of a patrilineal
-				<lb/>system were further abetted by biblical laws such as
-				<lb/>Num. 30 requiring that a daughter’s or a wife’s vow
-				<lb/>must be regarded as null and void unless confirmed
-				<lb/>by father or husband—making it impossible for most
-				<lb/>women to engage in business activities and thus lim
-				<lb/>iting their access to economic autonomy. Num. 27
-				<lb/>explains that the rights to family inheritance are ac
-				<lb/>cesssible only to sons, unless there are no male
-				<lb/>heirs, and Num. 36 decrees that if a woman does
-				<lb/>inherit in such a situation, she must then marry only
-				<lb/>within her father’s tribe. Written about 3,000 years
-				<lb/>ago, these laws still exist in the Old Testament of the
-				<lb/>Judeo-Christian Bible. Though the last few genera
-				<lb/>tions may have forgotten or rejected these laws, can
-				<lb/>we afford to ignore them in our efforts to understand
-				<lb/>the origins of attitudes toward women as wage
-				<lb/>earners today?
-				<lb/>Judeo-Christian laws and decrees have deeply af
-				<lb/>fected the secular laws and attitudes of our contem
-				<lb/>porary patrilineal society. All too often we discover
-				<lb/>them to be the probable origins of many of the prob
-				<lb/>lems we face today such as the right of each woman
-				<lb/>to be able to control her own physical body and its
-				<lb/>functions; access to abortion; in some countries, ac
-				<lb/>cess to contraception and divorce; the concept of
-				<lb/>&quot;illegitimacy” and the social and legal pressures sur
-				<lb/>rounding it; social and legal attitudes on lesbian
-				<lb/>love; physical violence against women, stereotypes
-				<lb/>of whore and madonna; double standards for pre
-				<lb/>marital virginity and marital fidelity; attitudes toward
-				<lb/>women’s access to earning power (including choice
-				<lb/>of vocation, education, advancement in chosen
-				<lb/>field and levels of economic recompense) and the
-				<lb/>so-called &quot;natural” assumption of male leadership
-				<lb/>in political, intellectual and spiritual spheres
-				<lb/>Each of these issues is an anger-provoking re
-				<lb/>minder of the longstanding power of male-oriented,
-				<lb/>male-dominated religions. It is for this reason that it
-				<lb/>is vital to fully understand the connections between
-				<lb/>these attitudes, biblical laws and the initial institu
-				<lb/>tion of the patrilineal system in which we live. The
-				<lb/>supremacy of “Father in Heaven” is a mere reflec
-				<lb/>tion of the supremacy of &quot;father on earth”. The
-				<lb/>status of father is magnified beyond biological re
-				<lb/>ality by the patrilineal system and it is this system
-				<lb/>that is the underlying foundation of all patriarchal
-				<lb/>ideas and actions. Refusing to acknowledge paternal
-				<lb/>identity may be one of the most revolutionary acts
-				<lb/>possible.
-				<lb/>Even today, the absence or extreme minority of
-				<lb/>women in decision-making levels of the clergy of
-				<lb/>nearly all Jewish, Catholic, and Protestant congrega
-				<lb/>tions ensures that these biblical decrees and sub
-				<lb/>sequent attitudes will retain their original power.
-				<lb/>Perhaps more important, we must remember that
-				<lb/>biblical laws and attitudes have extended far beyond
-			</p>
-			<p>
-				<lb/>the walls of any specific church or temple and are
-				<lb/>now deeply embedded within so-called secular law
-				<lb/>and social custom. Despite the supposed separa
-				<lb/>tion of church and state, women’s demands in early
-				<lb/>feminist struggles for women’s suffrage were contin
-				<lb/>ually challenged and obstructed by clergymen who
-				<lb/>claimed sole access to knowledge of The Divine
-				<lb/>Plan—and women voting was not part of it.
-				<lb/>It is also of interest that along with sexist atti
-				<lb/>tudes, racism and slavery were justified by the &quot;re
-				<lb/>ligious” idea that heathens had no souls—thus al
-				<lb/>lowing &quot;good&quot; Christians to invade the land of the
-				<lb/>Native Americans, decimating them as a people and
-				<lb/>appropriating their property, and to kidnap Africans
-				<lb/>and to use them as slaves. Male-oriented religion&apos;s
-				<lb/>more passive acceptance of racism is still to be seen
-				<lb/>in the racial segregation of churches.
-				<lb/>Goddess spirituality offers us the immediate and
-				<lb/>inherent refutation of the institutionalized &quot;re
-				<lb/>ligious” values that have for too long been used as
-				<lb/>weapons of oppression. From this third aspect of
-				<lb/>Goddess spirituality grows the consciousness of, and
-				<lb/>the direct challenge to, these “religious” laws and
-				<lb/>attitudes that have played such a large part in for
-				<lb/>mulating the roles of women in contemporary
-				<lb/>society
-				<lb/>In all of its aspects, Goddess spirituality has
-				<lb/>grown from our continually feeling, speaking, com
-				<lb/>paring, analyzing, feminist-consciousness-raising
-				<lb/>process—the very core of our new perceptions and
-				<lb/>thus our motivating energies. Our consciousness has
-				<lb/>now been raised—to the point where we can no
-				<lb/>longer ignore the suppression or perversion of
-				<lb/>evidence on the roles of women in the ancient God
-				<lb/>dess-worshipping cultures; the trivializing of wom
-				<lb/>en’s thoughts and ideas on spiritual and theological
-				<lb/>considerations of existence, from personal to
-				<lb/>planetary; and the oppression of women as it has
-				<lb/>been instituted and maintained within the patrilin
-				<lb/>eal, male-worshipping religions and the effect this
-				<lb/>has had on society.
-				<lb/>Though some may want to question the political
-				<lb/>viability of Goddess spirituality within the feminist
-				<lb/>struggle, few would deny its existence within the
-				<lb/>feminist community or the reality of the existence of
-				<lb/>the many contributors to this issue (those included
-				<lb/>as well as those whose work was not included as a
-				<lb/>result of space limitations). We invite you, as a read
-				<lb/>er of this issue of Heresies, not only to view or read
-				<lb/>the many thoughts and ideas that are included but
-				<lb/>to consider them in light of our ever-expanding fem
-				<lb/>inist consciousness, that same consciousness that
-				<lb/>has until now helped us to avoid the undigested ac
-				<lb/>ceptance of other, usually male-developed political
-				<lb/>analyses (party lines). Goddess spirituality has
-				<lb/>grown from our consciousness-raising process; it has
-				<lb/>grown from US. It may be the ultimate heresy—and
-				<lb/>it may ultimately be what allows us to succeed
-				<lb/>where so many others have failed.
-				<lb/>OMERLIN STONE 9978
-			</p>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>The Three Faces of Goddess Spirituality</title>
+				<author>Merlin Stone</author>
+				<respStmt>
+					<persName>Eowyn Andres</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Haley Beardsley</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lyndon Beier</persName>
+					<resp>Editor (2023-2025)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Erica Delsandro</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mia DeRoco</persName>
+					<resp>Editor (2023-2025)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Margaret Hunter</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Invesigator, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sophie McQuaide</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Martin</persName>
+					<resp>Editor, encoder (2021)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zoha Nadeer</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bri Perea</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Carrie Pirmann</persName>
+					<resp>HTR editor, encoder (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Ricky Rodriguez</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Roger Rothman</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zaely Rodriguez</persName>
+					<resp>Editor (2025-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kaitlyn Segreti</persName>
+					<resp>Editor (2021-2025)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maggie Smith</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maya Wadhwa</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kelly Troop</persName>
+					<resp>Editor (2023-2025)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lucy Wadswoth</persName>
+					<resp>Editor (2022-2025)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anna Marie Wingard</persName>
+					<resp>Editor (2023-2025)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Wychock</persName>
+					<resp>Graduate Editor (2024-Present)</resp>
+				</respStmt>
+				<funder>Bucknell University Humanities Center</funder>
+				<funder>Bucknell University Office of Undergraduate Research</funder>
+				<funder>The Mellon Foundation</funder>
+				<funder>National Endowment for the Humanities</funder>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>
+					<name>Bucknell University</name>
+					<address>
+						<street>One Dent Drive</street>
+						<settlement>Lewisburg</settlement>
+						<region>Pennsylvania</region>
+						<postCode>17837</postCode>
+					</address>
+				</distributor>
+				<availability>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial
+						4.0 International (CC BY-NC 4.0)</licence>
+					<licence>Heresies journal: © Heresies Collective</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title>The Great Goddess</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<publisher>HERESIES: A Feminist Publication on Art and
+								Politics</publisher>
+							<pubPlace>
+								<address>
+									<name>Heresies</name>
+									<postBox>P.O. Boxx 766, Canal Street Station</postBox>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<postCode>10013</postCode>
+								</address>
+							</pubPlace>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n="2"/>
+				<head>
+					The Three Faces of Goddess Spirituality </head>
+				<byline>
+					Merlin Stone </byline>
+				<p> In considering the already widespread and increasing interest in the diverse
+					manifestations of Goddess spirituality within the feminist movement, it may be
+					helpful to clarify at least three emerging aspects of this relatively new
+					phenomenon. These three aspects, of what may be the most unexpected occurrence
+					within the feminist movement, have developed, separately and together, in a
+					rather incredibly organic &quot;grass roots” manner. Perhaps only within the
+					flexibility of a feminism that is continually evolving out of the process of
+					consciousness raising in its truest sense has this outgrowth of feminist
+					consciousness been able to develop and grow.</p>
+				<p>Since all three of these aspects of Goddess spirituality appear to be
+					simultaneously growing from one central trunk, I drew lots (a method used at the
+					prophecy-providing shrines of the Goddess in ancient times) to decide their
+					linear placement. This placement in no way implies that one aspect is of greater
+					importance than another or precedes the others in actual development and, as you
+					will see, many connections link the three.</p>
+				<p>The first aspect of Goddess spirituality is the emerging interest in the history
+					and prehistory of ancient cultures that worshipped a female deity and in the
+					laws and customs of those societies. Through research in archaeology, history,
+					anthropology and using this information to analyze ancient lit erature and
+					mythology—we have begun to discover that far from the generally accepted idea
+					that the Judeo-Christian religions rescued women from supposedly more barbarian
+					and anti-woman societies women have actually lost a great deal of status and
+					physical and material autonomy since the inceptior of these and other
+					male-worshipping religions. As a result of this research, which covers the
+					period from the Neolithic Goddess shrines of about 8000 B.C. to the closing of
+					the last Goddess temples in the early Christian periods of Byzantium, we have
+					learned that many Goddess-worshipping societies were matrilineal, matrilocal and
+					matrifocal. In many of these societies, women owned property, engaged in
+					business and held the highest positions of the clergy. In such societies
+					children automatically belonged to their mother’s clan and took their mother’s
+					family name. </p>
+				<p> Through this research we are discovering the roots of today’s attitudes toward
+					women’s bodies and minds. These attitudes become clear as we study them within
+					the context of the original institution of patrilineal, patrilocal and
+					patrifocal systems under the aegis of the worship of a supreme deity as male.
+					Though it required many millennia tosuppress the Goddess religion and its social
+					customs, this ancient religion was eventually designated as &quot;pagan” and its
+					remaining vestiges were obliterated by early Christian emperors, medieval
+					inquisitions and witch burnings</p>
+				<p>In our growing interest and efforts to explore the truth about the past, we are
+					building, and hopefully we will continue to build, a body of evidence that bears
+					witness to the many millennia in which the Creator was regarded as female and in
+					which womer held a much higher status than we have known since that time. This
+					aspect of Goddess spirituality within the feminist movement is motivated by much
+					the same feeling that has encouraged us to rediscover and reclaim female
+					artists, writers, scientists, political leaders and other important women who
+					were ignored by the writers of the history books with which we were educated.
+					This information affords an entirely new perspective on current stereotypes of
+					women. It provides a broader view, as the perspective which allows us to look
+					into the past also allows us to see further ahead.</p>
+				<p>The second aspect is that of a growing concern with a feminist perception of
+					spirituality and theology. It has emerged from feminist consciousness, an
+					inkling or more of the first aspect and the perhaps ever-present search for
+					answers to such theological questions as the possible purposes (or nonpurpose,
+					of existence, the true nature of morality (or immorality), birth, death and the
+					nature of mind as it is revealed in intelligence, intuition and reason. For many
+					centuries women have been taught that if they cared to consider these questions
+					at all (the implication being that such questions were actually too abstract for
+					female minds), answers were to be found in the words and writings of male
+					priests male ministers, male rabbis and male gurus —all of whom supposedly had
+					greater spiritually contemplative abilities as well as more direct access to
+					knowledge of The Divine Plan or Cosmic Process. </p>
+
+				<pb n="3"/>
+				<p> A feminist contemplation of spiritual and theological questions soon makes us
+					painfully aware that the answers with which we have so far been provided have
+					existed in close relationship to, or more often within, a personified Life Force
+					that is nearly always linguistically, and more often actually, considered to be
+					of the male gender. Not too surprisingly, &quot;answers” about divine intentions
+					are often as male-oriented as the men who provide them. The exceptional rate of
+					growth of feminist concerns with Goddess spirituality in itself reveals a level
+					of consciousness that refuses and refutes this male-designed hierarchy and its
+					appropriation of theological and spiritual considerations—and the subsequent
+					divine” decrees.</p>
+				<p>So far, and let us hope in the future as well, feminists concerned with Goddess
+					spirituality have seldom offered absolute or pat answers to theological
+					questions. What has been happening is the experiencing, and at times the
+					reporting, of these personal or group experiences: how it feels to regard the
+					Ultimate Life Force in our own image—as females; how it feels to openly embrace
+					and to share our own contemplations and intuitive knowledge about the role of
+					women on this planet; how it feels to gain a sense of direction, a motivating
+					energy, a strength, a courage—somehow intuited as coming from a cosmic female
+					energy force that fuels and refuels us in our struggle against all human
+					oppression and planetary destruction.</p>
+				<p>Some say they find this force within themselves others regard it as external.
+					Some feel it in the ocean, the moon, a tree, the flight of a bird or in the
+					constant stream of coincidences (or noncoincidences) that occur in our lives.
+					Some find access to it in the lighting of a candle, chanting, meditating — alone
+					or with other women. From what 1 have so far read, heard or experienced myself,
+					I think it safe to say that all women who feel they have experienced Goddess
+					spirituality in one way or another also feel that they have gained an inner
+					strength and direction that temporarily or permanently has helped them to deal
+					with life. Most women interested or involved in feminist concepts of
+					spirituality do not regard this spirituality as an end in itself but as a means
+					of gaining and giving strength and understanding that will help us to confront
+					the many tangible and material issues of the blatant inequities of society as we
+					know it today</p>
+				<p>The third aspect of Goddess spirituality is concerned with the more circumspect
+					observation of the organized male-worshipping, male-clergied religions of
+					today—an examination of the specific ways in which these religions have
+					instituted and </p>
+				<p> maintained a secondary status for women. Involvement in Goddess spirituality has
+					encouraged us to take a more careful look at the scriptures, rituals and the
+					gender of the decision-making level of the clergy of the religions in which we
+					were raised and/or those that affect the society in which we live.</p>
+				<p>Some of the most urgent issues confronting contemporary women all over the planet
+					are those concerning economic survival, abortion, contraception, rape,
+					clitorectomy, infibulation, divorce, attitudes toward &quot;illegitimacy”,
+					lesbian rights, social pressure to marry and to have children, physical and
+					psychological violence, attitudes toward women’s bodies and the stereotypes of
+					woman as follower rather than leader and sexual and reproductive being rather
+					than as total human being.</p>
+				<p>A careful reading of the Bible still used by Judeo-Christian congregations
+					reveals the ancient origins of many of these important feminist issues. The
+					proclamation in Gen. 3:16 informs both women and men that women are expected, as
+					the result of a divine” decree, to be sexually faithful and subservient to their
+					husbands and that the pains of child-birth are to be regarded as &quot;divine”
+					retribution —the will of God” as it is asserted over the will of woman.</p>
+				<p>Deut. 22:28,29 requires that a raped virgin be married to the man who raped her.
+					Deut. 22:22-24 stipulates that a raped betrothed woman should be put to death
+					(unless the rape occurred in the deserted countryside). Deut. 22:20-22 states
+					that a bride discovered not to be a virgin should be dragged from the house and
+					stoned to death. Deut. 22:22 declares that a married woman should be put to
+					death if found lying with a man (no excuse for rape is mentioned). Deut. 24:1
+					decrees that a man has the right to divorce his wife on his decision alone,
+					while no provision is made for a woman who desires to divorce her husband. Each
+					of these biblical laws reveals the intense efforts made to control reproductive
+					capacities, and thus the sexual activities of women, by the men who wrote these
+					laws and by those who followed them.</p>
+				<p>Our understanding and analysis of these biblical laws and their subsequent
+					effects on contemporary women become clear only in the context of historical
+					information which reveals that these laws were devised at much the same time
+					that matrilineal customs were being destroyed and patrilineal systems initiated.
+					In a patrilineal system, knowledge of paternity is vital. This knowledge takes
+					on even greater import when the system is declared to be an integral aspect of
+					The Divine Plan and thus any challenge to the patrilineal system and certain
+					knowledge of paternity may be considered blasphemy—at </p>
+				<pb n="4"/>
+				<p> times punishable by death. Even today, socioreligious attitudes toward
+					&quot;unwed mothers” and &quot;illegitimacy” have not yet been thoroughly
+					examined and challenged as a vital feminist issue.</p>
+				<p>The institution and maintenance of a patrilineal system were further abetted by
+					biblical laws such as Num. 30 requiring that a daughter’s or a wife’s vow must
+					be regarded as null and void unless confirmed by father or husband—making it
+					impossible for most women to engage in business activities and thus limiting
+					their access to economic autonomy. Num. 27 explains that the rights to family
+					inheritance are accesssible only to sons, unless there are no male heirs, and
+					Num. 36 decrees that if a woman does inherit in such a situation, she must then
+					marry only within her father’s tribe. Written about 3,000 years ago, these laws
+					still exist in the Old Testament of the Judeo-Christian Bible. Though the last
+					few generations may have forgotten or rejected these laws, can we afford to
+					ignore them in our efforts to understand the origins of attitudes toward women
+					as wage earners today?</p>
+				<p>Judeo-Christian laws and decrees have deeply affected the secular laws and
+					attitudes of our contemporary patrilineal society. All too often we discover
+					them to be the probable origins of many of the problems we face today such as
+					the right of each woman to be able to control her own physical body and its
+					functions; access to abortion; in some countries, access to contraception and
+					divorce; the concept of &quot;illegitimacy” and the social and legal pressures
+					surrounding it; social and legal attitudes on lesbian love; physical violence
+					against women, stereotypes of whore and madonna; double standards for premarital
+					virginity and marital fidelity; attitudes toward women’s access to earning power
+					(including choice of vocation, education, advancement in chosen field and levels
+					of economic recompense) and the so-called &quot;natural” assumption of male
+					leadership in political, intellectual and spiritual spheres.</p>
+				<p>Each of these issues is an anger-provoking reminder of the longstanding power of
+					male-oriented, male-dominated religions. It is for this reason that it is vital
+					to fully understand the connections between these attitudes, biblical laws and
+					the initial institution of the patrilineal system in which we live. The
+					supremacy of “Father in Heaven” is a mere reflection of the supremacy of
+					&quot;father on earth”. The status of father is magnified beyond biological
+					reality by the patrilineal system and it is this system that is the underlying
+					foundation of all patriarchal ideas and actions. Refusing to acknowledge
+					paternal identity may be one of the most revolutionary acts possible.</p>
+				<p>Even today, the absence or extreme minority of women in decision-making levels of
+					the clergy of nearly all Jewish, Catholic, and Protestant congregations ensures
+					that these biblical decrees and subsequent attitudes will retain their original
+					power. Perhaps more important, we must remember that biblical laws and attitudes
+					have extended far beyond </p>
+				<p> the walls of any specific church or temple and are now deeply embedded within
+					so-called secular law and social custom. Despite the supposed separation of
+					church and state, women’s demands in early feminist struggles for women’s
+					suffrage were continually challenged and obstructed by clergymen who claimed
+					sole access to knowledge of The Divine Plan—and women voting was not part of
+					it.</p>
+				<p>It is also of interest that along with sexist attitudes, racism and slavery were
+					justified by the &quot;religious” idea that heathens had no souls—thus allowing
+					&quot;good&quot; Christians to invade the land of the Native Americans,
+					decimating them as a people and appropriating their property, and to kidnap
+					Africans and to use them as slaves. Male-oriented religion&apos;smore passive
+					acceptance of racism is still to be seen in the racial segregation of
+					churches.</p>
+				<p>Goddess spirituality offers us the immediate and inherent refutation of the
+					institutionalized &quot;religious” values that have for too long been used as
+					weapons of oppression. From this third aspect of Goddess spirituality grows the
+					consciousness of, and the direct challenge to, these “religious” laws and
+					attitudes that have played such a large part in formulating the roles of women
+					in contemporary society.</p>
+				<p>In all of its aspects, Goddess spirituality has grown from our continually
+					feeling, speaking, comparing, analyzing, feminist-consciousness-raising
+					process—the very core of our new perceptions and thus our motivating energies.
+					Our consciousness has now been raised—to the point where we can no longer ignore
+					the suppression or perversion of evidence on the roles of women in the ancient
+					Goddess-worshipping cultures; the trivializing of women’s thoughts and ideas on
+					spiritual and theological considerations of existence, from personal to
+					planetary; and the oppression of women as it has been instituted and maintained
+					within the patrilineal, male-worshipping religions and the effect this has had
+					on society.</p>
+				<p>Though some may want to question the political viability of Goddess spirituality
+					within the feminist struggle, few would deny its existence within the feminist
+					community or the reality of the existence of the many contributors to this issue
+					(those included as well as those whose work was not included as a result of
+					space limitations). We invite you, as a reader of this issue of Heresies, not
+					only to view or read the many thoughts and ideas that are included but to
+					consider them in light of our ever-expanding feminist consciousness, that same
+					consciousness that has until now helped us to avoid the undigested acceptance of
+					other, usually male-developed political analyses (party lines). Goddess
+					spirituality has grown from our consciousness-raising process; it has grown from
+					US. It may be the ultimate heresy—and it may ultimately be what allows us to
+					succeed where so many others have failed.</p>
+				<p>©MERLIN STONE 9978 </p>
 			</div>
-      </body>
-   </text>
+		</body>
+	</text>
 </TEI>
