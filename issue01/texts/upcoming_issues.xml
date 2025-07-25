@@ -7,8 +7,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Around and Around</title>
-				<author>Marty Pottenger</author>
+				<title>Upcoming Issues</title>
+				<author>Joan Braderman</author>
 				<respStmt>
 					<persName>Haley Beardsley</persName>
 					<resp>Editor, encoder</resp>
@@ -116,48 +116,47 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="verse">
-				<pb n='35' facs="https://raw.githubusercontent.com/djakacki/heresies/refs/heads/main/issue01/images/01_037.jpg"/>
+			<div>
+				<pb n="113"
+					facs="https://raw.githubusercontent.com/djakacki/heresies/refs/heads/main/issue01/images/01_115.jpg"/>
 
-					<head>Ten Ways of Looking at Prison Lunch</head>
-						<byline>Gloria Jensen</byline>
-						<note>(With apologies to Wallace Stevens)</note>
-					<lg>
-						<l>1. With both hands over your eyes, releasing</l>
-						<l>one hand slowly to peep.</l>
-						<l>2. Through the eyes of a friend you have by</l>
-						<l>the hand—who reads braille.</l>
-						<l>3. In the bing [solitary] where you can refuse</l>
-						<l>to have the thing brought in at all and just lie</l>
-						<l>there and sleep.</l>
-						<l>4. From across the steam line, where people</l>
-						<l>marvel at your petite body (if only they knew</l>
-						<l>it's not by choice you prefer to remain frail and</l>
-						<l>cautious).</l>
-						<l>5. From a prison visitor's point of view — when</l>
-						<l>suddenly, miraculously, all one sees is steak,</l>
-						<l>greens and potatoes.</l>
-						<l>6. From your window late at night as you</l>
-						<l>watch one man run with a rake, followed by</l>
-						<l>another with a sack, followed by a corrections</l>
-						<l>officer, followed by a ruckus you've not seen</l>
-						<l>but heard — then all three returning, dragging</l>
-						<l>a heavy sack.</l>
-						<l>7. Witnessing something come ashore in the</l>
-						<l>bay and thinking: my, but it gave up a great</l>
-						<l>fight.</l>
-						<l>8. Wondering why they have signs saying DO</l>
-						<l>NOT PEE ON THE GRASS. Then seeing the</l>
-						<l>kitchen girls go out, mow it down and bring it in.</l>
-						<l>9. Good Friday—when all the world's</l>
-						<l>generous and the relief truck pulls up to the</l>
-						<l>kitchen door to drop off loads of potatoes they</l>
-						<l>couldn't unload anywhere else.</l>
-						<l>10. Seeing more clearly the lunch of steak,</l>
-						<l>greens and potatoes—as you attack the steak</l>
-						<l>first and realize the fight you witnessed (#6) is</l>
-						<l>not yet over, for the beast is biting you now too.</l>
-					</lg>
+				<head>WE ARE SOLICITING MATERIAL FOR THE NEXT THREE ISSUES OF HERESIES</head>
+				<p>Patterns of Communication and space Among Women: architectural, social and sexual
+					networks; interactions (past and present) between women — letters, diaries,
+					conversations, groups; the politics of fashion and the body; use and experience
+					of space, narrative, and art; women as a politically demonstrative force;
+					questioning the public / private dichotomy; science fiction, humor, photography,
+					film. <emph>Deadline: mid-February</emph>.</p>
+				<p>Lesbian Art and Artists: the political implica- tions of lebian art forms; the
+					image of lesbians in art; collectivity— getting rid of the male ego; the
+					relationship between eroticism and the intellect; the lesbian as monster;
+					androgyny; passionate friendships; research, documentation and analysis of
+					past lesbian artists and their work; dialogue between contemporary lesbian
+					visual and literary artists; class analysis of lesbian models; lesbian art,
+					form and content: hotography; creative writing. <emph>Deadline: mid-April</emph></p>
+				<p>Women's Traditional Arts and Artmaking: decoration, pattern, ritual,
+					repetition, opulence, self-ornamentation; arts of non-Western women; breaking
+					down barriers between the fine and the decorative arts; the effect of
+					industrialization on women's work and work processes; the exclusion of
+					women's traditional arts from the mainsteam of art history. <emph>Deadline:
+					mid-October.</emph></p>
+			</div>
+			<div>
+				<head>Guidelines for Prospective Contributors:</head>
+				<p>The HERESIES collective wishes to solicit material for future issues. Themes and
+					deadlines for these issues will be announced well in advance. Manuscripts
+					(1,000-5,000 words) should be typewritten, double spaced on 8½ x 11“ paper, and
+					submitted in duplicate. We welcome for consideration either outlines or
+					description of articles, or finished manuscripts with bibliographic foot notes
+					(if necessary) at the end of the paper in numerical order. Writers should feel
+					free to inquire about the possibility of an article. If you are submitting
+					visual material, please send a photograph, xerox, or description ( please do not
+					send the original). All manuscripts and visional material must be accompanied by
+					a stamped self-addressed envelope. HERESIES will pay a fee of $5-$50, as our
+					budget allows, for published material, and it is our hope to offer higher fees
+					in the future. There will be no commissioned articles and we cannot guarantee
+					acceptance of submitted material. We will not include reviews or monographs on
+					contemporary women.</p>
 			</div>
 		</body>
 	</text>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Around and Around</title>
+				<author>Marty Pottenger</author>
+				<respStmt>
+					<persName>Haley Beardsley</persName>
+					<resp>Editor, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Erica Delsandro</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Margaret Hunter</persName>
+					<resp>Editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Invesigator, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sophie McQuaide</persName>
+					<resp>Editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Martin</persName>
+					<resp>Editor, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bri Perea</persName>
+					<resp>Editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Roger Rothman</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kaitlyn Segreti</persName>
+					<resp>Editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maggie Smith</persName>
+					<resp>Editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maya Wadhwa</persName>
+					<resp>Editor</resp>
+				</respStmt>
+				<funder>Bucknell University Humanities Center</funder>
+				<funder>Bucknell University Office of Undergraduate Research</funder>
+				<funder>The Mellon Foundation</funder>
+				<funder>National Endowment for the Humanities</funder>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>
+					<name>Bucknell University</name>
+					<address>
+						<street>One Dent Drive</street>
+						<settlement>Lewisburg</settlement>
+						<region>Pennsylvania</region>
+						<postCode>17837</postCode>
+					</address>
+				</distributor>
+				<availability>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial
+						4.0 International (CC BY-NC 4.0)</licence>
+					<licence>Heresies journal: © Heresies Collective</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a">Juggling Contradictions: Feminism, the Individual and
+							What's Left</title>
+						<author>
+							<surname>Braderman</surname>
+							<forename>Joan</forename>
+						</author>
+						<date when="1977-01">January 1977</date>
+						<textLang xml:lang="eng"/>
+					</analytic>
+					<monogr>
+						<title level="j">Heresies #1: Feminism, Art and Politics</title>
+						<imprint>
+							<publisher ref="https://www.wikidata.org/wiki/Q20857976">The Heresies
+								Collective</publisher>
+							<pubPlace>
+								<address>
+									<name>Heresies</name>
+									<postBox>P.O. Boxx 766, Canal Street Station</postBox>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<postCode>10013</postCode>
+								</address>
+							</pubPlace>
+						</imprint>
+						<biblScope unit="issue">1</biblScope>
+						<biblScope unit="page">88-93</biblScope>
+					</monogr>
+					<series>
+						<title level="s">Heresies: A Feminist Publication on Art and
+							Politics</title>
+						<idno type="Wikidata">https://www.wikidata.org/wiki/Q17022558</idno>
+						<idno type="ISSN">0146-3411, 2469-4908</idno>
+					</series>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="verse">
+				<pb n="102"
+					facs="https://raw.githubusercontent.com/djakacki/heresies/refs/heads/main/issue01/images/01_104.jpg"/>
+
+				<head>Around Coming Around - a performance</head>
+				<byline>Marty Pottenger</byline>
+
+				<lg>
+					<l>I WAS SIXTEEN</l>
+					<l>WAS I A CHILD?</l>
+					<l>I WAS SIXTEEN</l>
+					<l>I CAN'T REMEMBER</l>
+					<l>I CAN'T REMEMBER</l>
+					<l>WAS I A CHILD?</l>
+					<l>I WAS SIXTEEN</l>
+					<l>MY FATHER AND I</l>
+					<l>WERE DRIVING HOME</l>
+					<l>AFTER VISITING A COLLEGE</l>
+					<l>AFTER DRIVING ALL DAY</l>
+					<l>WE STOPPED AT A MOTEL</l>
+					<l>THE WALLS WERE GREEN</l>
+					<l>THAT TERRIBLE LIGHT GREEN</l>
+					<l>USED IN MOTELS</l>
+					<l>THE DESK CLERK SMIRKED</l>
+					<l>AND I WAS EMBARRASSED</l>
+					<l>I DIDN'T KNOW WHY</l>
+					<l>I WAS SIXTEEN</l>
+					<l>WAS I A CHILD?</l>
+					<l>I CAN'T REMEMBER</l>
+					<l>THE DESK CLERK ASKED</l>
+					<l>DO YOU WANT SINGLE</l>
+					<l>OR DOUBLE BEDS, SIR?</l>
+					<l>AND I SAID</l>
+					<l>TWO BEDS TWO BEDS</l>
+					<l>TWO SINGLE BEDS</l>
+					<l>WAS I A CHILD?</l>
+					<l>THE CLERK SMIRKED</l>
+					<l>MY FATHER SAID</l>
+					<l>IT DOESN'T MATTER</l>
+					<l>AND I SAID INSIDE</l>
+					<l>BUT IT DOES MATTER</l>
+					<l>IT DOES MATTER</l>
+					<l>I WAS SIXTEEN</l>
+					<l>I WAS A CHILD</l>
+					<l>AND WE WENT</l>
+					<l>TO THE ROOM</l>
+					<l>WITH THE TWO SINGLE BEDS</l>
+					<l>I WENT INTO THE BATHROOM</l>
+					<l>TO PUT ON MY NIGHTGOWN</l>
+					<l>A SHORT NIGHTGOWN</l>
+					<l>WITH GREEN AND BLUE FLOWERS</l>
+					<l>I CAN'T REMEMBER</l>
+					<l>AND I GOT INTO BED</l>
+					<l>THE BED BY THE BATHROOM</l>
+					<l>AND SAT ON MY BED BEFORE</l>
+					<l>WAS I A CHILD?</l>
+					<l>AND HE WAS IN THE BATHROOM</l>
+					<l>A LONG TIME</l>
+					<l>HE CAME OUT</l>
+					<l>AND SAT</l>
+					<l>I CANT REMEMBER</l>
+					<l>ON MY BED</l>
+					<l>AND PUT HIS HAND</l>
+					<l>ON MY KNEE</l>
+					<l>AND I LAY THERE</l>
+					<l>AND DID NOT MOVE</l>
+					<l>HE TOUCHED MY BREAST</l>
+					<l>I CAN'T REMEMBER</l>
+					<l>STROKING MY BREASTS</l>
+					<l>ON TOP OF MY NIGHTGOWN</l>
+					<l>AND HE CAME DOWN</l>
+					<l>ON TOP OF ME</l>
+					<l>IWAS SIXTEEN</l>
+					<l>WAS I A CHILD?</l>
+					<l>I CAN'T REMEMBER</l>
+					<l>I CAN'T REMEMBER</l>
+					<l>HE LAY THERE</l>
+					<l>I DID NOT MOVE</l>
+					<l>THE BLANKET BETWEEN US</l>
+					<l>I WAS SIXTEEN</l>
+					<l>HE STROKED MY BREASTS</l>
+					<l>BREATHING IN MY FACE</l>
+					<l>AND ASKED ME</l>
+					<l>ICAN'T REMEMBER</l>
+					<l>IF I LIKED IT</l>
+					<l>AND I</l>
+					<l>AND I</l>
+					<l>AND I CAN'T REMEMBER</l>
+					<l>INSIDE I SAID NO</l>
+					<l>INSIDE I SAID NO</l>
+					<l>I CAN'T REMEMBER</l>
+					<l>AND HE STAYED THERE</l>
+					<l>ON TOP OF ME</l>
+					<l>MOVING AROUND</l>
+					<l>TOUCHING MY BREASTS</l>
+					<l>TOUCHING MY NECK</l>
+					<l>AND HE ASKED ME</l>
+					<l>IF I LIKED IT</l>
+					<l>AND I SAID NO</l>
+					<l>AND HE GOT UP</l>
+					<l>AND HE GOT OFF</l>
+					<l>AND THE WHOLE NIGHT</l>
+					<l>I STAYED AWAKE</l>
+					<l>WAITING</l>
+					<l>I CAN'T REMEMBER</l>
+					<l>AND THE NEXT MORNING</l>
+					<l>WE GOT UP</l>
+					<l>WE HAD BREAKFAST</l>
+					<l>AND WE DROVE</l>
+					<l>THE REST OF THE WAY</l>
+					<l>HOME</l>
+				</lg>
+			</div>
+			<div type="verse">
+				<pb n="103"
+					facs="https://raw.githubusercontent.com/djakacki/heresies/refs/heads/main/issue01/images/01_105.jpg"/>
+				<head>mime</head>
+				<lg>
+					<l>open blade pause</l>
+					<l>take small knife out of pocket</l>
+					<l>hold knife in right hand</l>
+					<l>turn left forearm palm up</l>
+					<l>cut lightly/carefully 3 times</l>
+					<l>holding left arm still</l>
+					<l>put knife away closing</l>
+					<l>blade against right thigh</l>
+					<l>turn cut wrist over</l>
+					<l>catch blood in right hand</l>
+					<l>when hand almost full</l>
+					<l>pour blood from right hand</l>
+					<l>into left hand</l>
+					<l>apply pressure/release</l>
+					<l>pressure/release</l>
+					<l>with right fingers</l>
+					<l>upon left wrist</l>
+					<l>stopping flow of blood</l>
+					<l>eyes focus always on action</l>
+					<l>take two right fingers</l>
+					<l>and dip in blood</l>
+					<l>look up as if in the mind's</l>
+					<l>mirror and slowly paint lines</l>
+					<l>down right cheek</l>
+					<l>repeat and paint left cheek</l>
+					<l>repeat and draw a line</l>
+					<l>across forehead</l>
+					<l>repeat and place both fingers</l>
+					<l>on chin</l>
+					<l>drop hands and stare</l>
+					<l>at own reflection</l>
+				</lg>
+			</div>
+			<div type="verse">
+				<lg>
+					<l>one for me. one for you. one for me. (dealing</l>
+					<l>imaginary cards) one for you. one for me. one</l>
+					<l>for you. one for me. let's see what you got?</l>
+					<l>MONEY .... ULCERS ... and a PENIS. how 'bout that—</l>
+					<l>i got LESBIAN... LOVE.. and uh...A TERRIBLE FEAR</l>
+					<l>i tell you what, i'll trade you some of my fear</l>
+					<l>for some of your—no? so ok. we stick with what</l>
+					<l>we got.</l>
+					<l>(photo: Libby Turnock)</l>
+				</lg>
+			</div>
+		</body>
+		<back>
+			<p> Marty Pottenger lives in New York City, is a carpenter, and performs
+				improvisationally "with whoever's in the room, whatever's on hand, and what's inside
+				all of us." </p>
+
+		</back>
+	</text>
+</TEI>
