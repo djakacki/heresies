@@ -2,13 +2,13 @@
 <?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="https://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The enemies of She Who Call her various names</title>
-            <author>Judy Grahn</author>
+            <title>With No Immediate Cause</title>
+            <author>Ntozake Shange</author>
             <respStmt>
                <persName>Eowyn Andres</persName>
                <resp>Editor (2024-Present)</resp>
@@ -125,7 +125,7 @@
          <sourceDesc>
             <biblStruct>
                <analytic>
-                  <title>Lesbian Art and Artists</title>
+                  <title>Heresies #6: On Women and Violence</title>
                </analytic>
                <monogr>
                   <imprint>
@@ -133,7 +133,7 @@
                      <pubPlace>
                         <address>
                            <name>Heresies</name>
-                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <postBox>P.O. Box 766, Canal Street Station</postBox>
                            <settlement>New York</settlement>
                            <region>New York</region>
                            <postCode>10013</postCode>
@@ -147,59 +147,111 @@
    </teiHeader>
    <text>
       <body>
-         <pb n="9" facs="/sites/default/files/2025-08/heresies03_009_1.jpg"/>
-         
-               <head>The enemies of She Who call her various names</head>
-         <byline>Judy Grahn</byline>
-
-
+         <div type="poem">
+            <pb n="12"/>
+            <head>with no immediate cause </head>
             <lg>
-               <l>a whore, a whore</l>
-               <l>a fishwife a cunt a harlot a harlot a pussy</l>
-               <l>a doxie a tail a fishwife a whore a hole a slit</l>
-               <l>a cunt a bitch a slut a slit a hole a whore a hole</l>
-               <l>a vixen/ a piece of ass/ a dame-filly-mare</l>
-               <l>dove-cow-pig-chick-cat-kitten-bird</l>
-               <l>dog-dish/ a dumb blonde</l>
+               <l>every 3 minutes a woman is beaten</l>
+               <l>every five minutes a</l>
+               <l>woman is raped/every ten minutes</l>
+               <l>a lil girl is molested</l>
+               <l>yet i rode the subway today</l>
+               <l>i sat next to an old man who</l>
+               <l>may have beaten his old wife</l>
+               <l>3 minutes ago or 3 days/30 years ago</l>
+               <l>he might have sodomized his</l>
+               <l>daughter but I sat there</l>
+               <l>cuz the young men on the train</l>
+               <l>might beat some young women</l>
+               <l>later in the day or tomorrow</l>
+               <l>i might not shut my door fast</l>
+               <l>enuf push hard enuf</l>
+               <l>every 3 minutes it happens</l>
+               <l>some woman's innocence</l>
+               <l>rushes to her cheeks/</l>
+               <l>pours from her mouth</l>
+               <l>like the betsy wetsy dolls have been torn</l>
+               <l>apart/ their mouths</l>
+               <l>menses red &amp; split/ every</l>
+               <l>three minutes a shoulder</l>
+               <l>is jammed through plaster &amp;</l>
+               <l>the oven door</l>
+               <l>chairs push thru the rib cage</l>
+               <l>hot water or</l>
+               <l>boiling sperm decorate her body</l>
+               <l>i rode the subway today</l>
+               <l>&amp; bought a paper from an</l>
+               <l>east indian man who might</l>
+               <l>have held his old lady onto</l>
+               <l>a hot pressing iron/ i dnt know</l>
+               <l>maybe he catches lil girls in the</l>
+               <l>park &amp; rips open their behinds</l>
+               <l>with steel rods/ i cdnt decide</l>
+               <l>what he might have done i only</l>
+               <l>know every 3 minutes</l>
+               <l>every 5 minutes every 10 minutes</l>
+               <l>i bought the paper</l>
+               <l>looking for the announcement</l>
+               <l>there has to be an announcement</l>
+               <l>of the women's bodies found</l>
+               <l>yesterday the missing little girl</l>
+               <l>i sat in a restaurant with my</l>
+               <l>paper looking for the announcement</l>
+               <l>a yng man served me coffee</l>
+               <l>i wondered did he pour the boiling</l>
+               <l>coffee on the woman cuz she waz stupid</l>
+               <l>did he put the infant girl in</l>
+               <l>the coffee pot cuz she cried too much</l>
+               <l>what exactly did he do with hot coffee</l>
+               <l>i looked for the announcement</l>
+               <l>the discovery of the dismembered</l>
+               <l>woman's body the</l>
+               <l>victims have not all been</l>
+               <l>identified today they are</l>
+               <l>naked &amp; dead/ some refuse to</l>
+               <l>testify one girl out of 10's not</l>
+               <l>coherent/ i took the coffee</l>
+               <l>&amp; spit it up i found an</l>
+               <l>announcement/ not the women"s</l>
+               <l>bloated body in the river floating</l>
+               <l>not the child bleeding in the</l>
+               <l>59th street corridor/ not the baby</l>
+               <l>broken on the floor/</l>
+               <l>"there is some concern</l>
+               <l>that alleged battered women</l>
+               <l>might start to murder their</l>
+               <l>husbands &amp; lovers with no</l>
+               <l>immediate cause'</l>
+               <l>i spit up i vomit i am screaming</l>
+               <l>we all have immediate cause</l>
+               <l>every 3 minutes</l>
+               <l>every 5 minutes</l>
+               <l>every 10 minutes</l>
+               <l>every day</l>
+               <l>women's bodies are found</l>
+               <l>in alleys &amp; bedrooms/</l>
+               <l>at the top of the stairs</l>
+               <l>before i ride the subway/</l>
+               <l>buy a paper or drink</l>
+               <l>coffee from yr hands i must know</l>
+               <l>have you hurt a woman today</l>
+               <l>did you beat a woman today</l>
+               <l>throw a child cross a room</l>
+               <l>are the lil girl's pants</l>
+               <l>in yr pocket</l>
+               <l>did you hurt a woman today</l>
+               <l>i have to ask these obscene questions</l>
+               <l>i must know you see</l>
+               <l>the authorities require us to</l>
+               <l>establish</l>
+               <l>immediate cause</l>
+               <l>every three minutes</l>
+               <l>every five minutes</l>
+               <l>every ten minutes</l>
+               <l>every day</l>
             </lg>
-
-            <lg>
-               <l>you black bitch-you white bitch-you brown bitch-you yellow</l>
-               <l>bitch-you fat bitch-you stupid bitch-you stinking bitch-</l>
-               <l>you little bitch-you old bitch-a cheap bitch-a high class</l>
-               <l>bitch-a 2 bit whore-a 2 dollar whore-a ten dollar</l>
-               <l>whore-a million dollar-mistress</l>
-            </lg>
-
-            <lg>
-               <l>a hole a slut a cunt a slit a cut</l>
-               <l>a slash a hole a slit a piece</l>
-               <l>of shit, a piece of shit, a piece of shit</l>
-            </lg>
-
-            <lg>
-               <l>She Who bears it</l>
-               <l>bear down, breathe</l>
-               <l>bear down, bear down, breathe</l>
-               <l>bear down, bear down, bear down, breathe</l>
-               <l>She Who lies down in the darkness and bears it</l>
-               <l>She Who lies down in the lightness and bears it</l>
-               <l>the labor of She Who carries and bears is the first labor</l>
-               <l>all over the world</l>
-               <l>the waters arę breaking everywhere</l>
-               <l>everywhere the waters are breaking</l>
-               <l>the labor of She Who carries and bears</l>
-               <l>and raises and rears is the first labor,</l>
-               <l>there is no other first labor.</l>
-            </lg>
-
+            <byline>-Ntozake Shange</byline>
+         </div>
       </body>
-            <back>
-               <p>Judy Grahn is a thirty-seven year old poet. Her books include <title>The Common Woman and Edward the Dyke</title>. The above
-               poem is from <title>She Who</title>, A Graphic Book of Poems which was
-               recently published by Diana Press. She is working on a matriarchal novel.</p>
-
-            </back>
-
    </text>
 </TEI>

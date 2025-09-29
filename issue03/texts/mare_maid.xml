@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Miss Willson and Miss Brundidge</title>
+				<author>?</author>
+				<respStmt>
+					<persName>Eowyn Andres</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Haley Beardsley</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lyndon Beier</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Erica Delsandro</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mia DeRoco</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Margaret Hunter</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Invesigator, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sophie McQuaide</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Martin</persName>
+					<resp>Editor, encoder (2021)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zoha Nadeer</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bri Perea</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Carrie Pirmann</persName>
+					<resp>Editor, encoder (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Ricky Rodriguez</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Roger Rothman</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kaitlyn Segreti</persName>
+					<resp>Editor (2021-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maggie Smith</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maya Wadhwa</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kelly Troop</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lucy Wadswoth</persName>
+					<resp>Editor (2022-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anna Marie Wingard</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Wychock</persName>
+					<resp>Graduate Editor (2024-Present)</resp>
+				</respStmt>
+				<funder>Bucknell University Humanities Center</funder>
+				<funder>Bucknell University Office of Undergraduate Research</funder>
+				<funder>The Mellon Foundation</funder>
+				<funder>National Endowment for the Humanities</funder>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>
+					<name>Bucknell University</name>
+					<address>
+						<street>One Dent Drive</street>
+						<settlement>Lewisburg</settlement>
+						<region>Pennsylvania</region>
+						<postCode>17837</postCode>
+					</address>
+				</distributor>
+				<availability>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial
+						4.0 International (CC BY-NC 4.0)</licence>
+					<licence>Heresies journal: © Heresies Collective</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title>Patterns of Communicating and Space Among Women</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<publisher>HERESIES: A Feminist Publication on Art and
+								Politics</publisher>
+							<pubPlace>
+								<address>
+									<name>Heresies</name>
+									<postBox>P.O. Boxx 766, Canal Street Station</postBox>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<postCode>10013</postCode>
+								</address>
+							</pubPlace>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="essay">
+				<head>Miss Willson and Miss Brundidge</head>
+				<pb n="1" facs="/sites/default/files/2025-08/heresies03_001_0.jpg"/>
+				<p> "About two miles below Greenville, on the road to Freehold, there lived, early
+					in the present century, two old maids. </p>
+				<p> “They owned a little log hut there, and a small piece of property surrounding
+					it, in common. They were supposed to be sisters, but in fact were not related by
+					the ties of blood in any way. They had both of them, in their younger days,
+					experienced a romance that had broken their hearts, and the bond of sorrow
+					between them had drawn the two close to each other in womanly sympathy. Together
+					they had come from the old country to Connecticut, and from there to this place,
+					seeking peace and forgetfulness in the wilderness. They never told their story
+					or anything in fact relating to themselves that could serve as a clue to their
+					identity or past life. </p>
+				<p> “They spent their time in the necessary work about the log house and garden
+					which was filled with wild flowers and ferns, and in painting water color
+					pictures which they sold among the neighboring settlers for small sums; the
+					highest price being asked was twenty-five cents. These paintings ... are unique
+					in the extreme, showing great originality in conception, drawing and color, as
+					well as in the medium employed for their production. Their subjects were
+					generally selected from the Bible or profane history, in which they seemed to
+					have been well-versed. The paper they used was the wrapping of candles and tea
+					boxes, or something of that sort. The pigments were of home manufacture. They
+					would hunt through the woods and fields for certain flowers, berries and weeds,
+					which they would boil or bruise to obtain the color they desired. These crude
+					materials were sometimes helped with the addition of brick dust, and in fact by
+					anything that these primitive artists found suitable for the work in hand. </p>
+				<p> “The lady known as Miss Wilson (sic) was the artist-in-chief; the other, Miss
+					Brundage (sic), the farmer and housekeeper.... Their paintings are scattered, by
+					purchase, from Canada to Mobile and are now highly prized by the owners." (1) </p>
+				<p> Mary Ann Willson and Miss Brundidge are more familiar to lesbians as "Patience”
+					and "Sarah," subjects of the fictional biography by Alma Routsong (pseudonym
+					Isabel Miller), self-published for the first time in 1967 as A Place For Us.
+					Information about these women is hard to find; a few of the paintings are
+					reproduced in the December, 1955, issue of American Heritage; the New York
+					Historical Society owns “Mare Maid,” but has no supporting documents on
+					Willson’s life. Most of the available information was included in a 1976 issue
+					of Antiques magazine. </p>
+				<p> In an interview with Jonathan Katz which appears in Gay American History, Alma
+					Routsong describes her discovery of Willson and Brundidge and discusses the
+					problems she faced in trying to market a positive lesbian novel in the 1960’s.
+					The following is an excerpt from their conversation: "My lover and I were
+					touring New York State and were visiting the folk art museum at Cooperstown. I
+					was wandering through it, not really concentrating on anything, when my lover
+					.... called me back, pointing to this picture of a mermaid by Mary Ann Willson.
+					There was a card beside it that said Miss Willson and her ’farmerette&apos;
+					companion lived and worked together in Greenville Town, Greene County, New York,
+					circa 1820. Then we went into the next room—a small library— and found a book by
+					Lipman and Winchester, called Primitive Painters in America, with a short piece
+					about Mary Ann Willson. It said that she and Miss Brundidge had a “romantic
+					attachment." was absolutely taken by it. I didn’t want to travel any more. I
+					didn’t want to see Harriet Tubman’s bed. I wanted to go home and research
+					Willson and Brundidge, find out all about them, and write a book about them. (2)
+				</p>
+			</div>
+		</body>
+		<back>
+			<listBibl>
+				<bibl>1. R. Lionel Selisser, Picturesque Catskills: Green Country, Pictorial
+					Publishing Co., Northampton, Mass., 1894. Republished in 1967 by Hope Farm
+					Press, Cornwallville, New York.</bibl>
+				<bibl>2. Jonathan Kratz, Gay American History, Thomas Crowell Co., New York,
+					1976.</bibl>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

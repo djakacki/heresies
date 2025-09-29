@@ -149,40 +149,49 @@
       <body>
          <div>
             <pb n='6'/>
-            <p>
-               <lb/>Non sumus qualis eramus
-            </p>
-            <p>
-               <lb/>P.M. Pederson
-            </p>
-            <p>
-               <lb/>We are not now as once we used to be,
-               <lb/>Nina Innina, Nana Innana,
-               <lb/>We are not now as once we used to be,
-               <lb/>Anna, Athana, Anantis, Urana,
-               <lb/>For we are slaves, whom once you knew as frée,
-               <lb/>Nina, Innina, Nana Innana,
-               <lb/>For we are slaves, whom once you knew as free,
-               <lb/>Brigit, Blodeuwedd, Danu, Buana,
-               <lb/>Degraded to ensure their property,
-               <lb/>Nina Innina, Nana Innana,
-               <lb/>Degraded to ensure their property.
-               <lb/>Arianhad, Cerridwen, Rhiannon, Rhea,
-               <lb/>Denied our souls for their security,
-               <lb/>Nina Innina, Nana Innana,
-               <lb/>Denied our souls for their security,
-               <lb/>Hilde, Aegea, Britomart, Shala;
-               <lb/>Blind fathers of blind sons, they cannot see,
-               <lb/>Nina Innina, Nana Innana,
-               <lb/>Blind fathers of blind sons, they cannot see,
-               <lb/>Dictinna, Diti, Hera, Diana,
-               <lb/>Whilst we are slaves, they never can be free,
-               <lb/>Nina Innina, Nana Innana.
-               <lb/>Non iam sumus qualis quondam eramus,
-               <lb/>Freya, Ostara, Artemis, Isis,
-               <lb/>Sub regno Bonae Deae Cybele.
-               <lb/>Nina Innina, Nana Innana.
-            </p></div>
+            <head>Non sumus qualis eramus</head>
+            <byline>P.M. Pederson</byline>
+            <lg>
+               <l>We are not now as once we used to be,</l>
+               <l>Nina Innina, Nana Innana,</l>
+            </lg>
+            <lg>
+               <l>We are not now as once we used to be,</l>
+               <l>Anna, Athana, Anantis, Urana,</l>
+               <l>For we are slaves, whom once you knew as free,</l>
+               <l>Nina, Innina, Nana Innana,</l>
+            </lg>
+               <lg>
+                  <l>For we are slaves, whom once you knew as free,</l>
+               <l>Brigit, Blodeuwedd, Danu, Buana,</l>
+               <l>Degraded to ensure their property,</l>
+               <l>Nina Innina, Nana Innana,</l>
+               </lg>
+               <lg>
+                  <l>Degraded to ensure their property.</l>
+               <l>Arianhad, Cerridwen, Rhiannon, Rhea,</l>
+               <l>Denied our souls for their security,</l>
+               <l>Nina Innina, Nana Innana,</l>
+               </lg>
+               <lg>
+                  <l>Denied our souls for their security,</l>
+               <l>Hilde, Aegea, Britomart, Shala;</l>
+               <l>Blind fathers of blind sons, they cannot see,</l>
+               <l>Nina Innina, Nana Innana,</l>
+               </lg>
+               <lg>
+                  <l>Blind fathers of blind sons, they cannot see,</l>
+               <l>Dictinna, Diti, Hera, Diana,</l>
+               <l>Whilst we are slaves, they never can be free,</l>
+               <l>Nina Innina, Nana Innana.</l>
+               </lg>
+               <lg>
+                  <l>Non iam sumus qualis quondam eramus,</l>
+               <l>Freya, Ostara, Artemis, Isis,</l>
+               <l>Sub regno Bonae Deae Cybele.</l>
+               <l>Nina Innina, Nana Innana.</l>
+            </lg>
+         </div>
       </body>
    </text>
 </TEI>

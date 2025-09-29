@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Politics of Rape in Primitive Society</title>
+            <author>Paula Webster</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadsworth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Heresies #6: On Women and Violence</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Box 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="essay">
+            <pb n="16"/>
+            <head>POLITICS OF RAPE IN PRIMITIVE SOCIETY</head>
+
+            <p> Although anthropology has contributed much important work on the status of women in
+               non-state as well as state level societies, there remains the problem of in
+               terpreting what appears to be a universal asymmetry between sexes (Stack et al.,
+               1975; Reiter, 1975). Questions of women's power and/or powerlessness vis-à-vis men
+               have not been sufficiently addressed (Webster, 1975). One way in which our
+               understanding of sexual politics has been limited, and even distorted, is by the
+               omission of behavior that cannot be comforta bly fitted into current theoretical
+               models. I would like to suggest that violence against women (from wife-beating to
+               gang rape) must be included in any general analysis of women's status in society.
+               Models which ignore or minimize the significance of physical force used against women
+               will have to be reformulated, refined, or discarded. To begin this process of
+               "revision" I will discuss the theoretical implication of rape in so-called
+               "egalitarian" societies. I would like to suggest that the egalitarian model has
+               obscured the fundamentally unequal position of women in "primitive" society. Further,
+               its un questioned use by many anthropologists limits our understanding of the nature
+               of non-state, pre-class society, and perpetuates a model of sexual equality which can
+               not possibly account for the data on the physical abuse of women. Because of its
+               implications for social praxis it is vital to understand the factors which influence
+               the relative power of women and men in society. To this end we must begin the long
+               overdue analysis of the relationship between gender, power and physical force.</p>
+            <p>The notion of a politically egalitarian stage of social organization was posited by
+               Morgan and then Engels almost 100 years ago. Since that time much ethnographic data
+               have been collected which challenge this evolutionary model, especially as regards
+               Engels"s understanding of "matriarchy" as a stage of sexual equality. Engels's vision
+               of reciprocity, comple mentarity and even harmony is marred by the accounts of
+               wife-beating, rape and gang rape that occur in foraging and horticultural society.
+               While the contemporary model is not conflict-free, the major portion of ethnographic
+               space devoted to conflict concerns violence between men. Male violence against women
+               is used as anecdotal filler; episodes are merely described, without analytic
+               comment.</p>
+            <p>I am not implying that all women in all primitive societies are raped, or threatened
+               with rape; nor are they completely powerless, trembling before the majesty of men.
+               The excellent work on Igbo women by Van Allen (1972), and Ardener's work on female
+               militancy in the Cameroons (1973), provide evidence that women are not resourceless
+               victims. Social power, being dynamic and diffuse, can be exercised by women, as well
+               as by men, over particular areas of personal and so cial life, with greater or lesser
+               amounts of authority or success. No system of inequality can rest on force alone;
+               therefore if women are subordinate to men in a culture, this cannot be explained by
+               men's greater strength or uncontrollable sex drive.</p>
+            <p>What I am suggesting is that the control over one's body and the right to resist or
+               refuse its violation need to be included in any definition of social equality. In
+               addition, I am suggesting that rape and other forms of physical abuse define an
+               unequal relationship, even in egalitarian society. If, in all human societies
+               regardless of mode of production, the authority to use physical violence as a means
+               of social control is predominantly a <emph>male</emph> prerogative, then the
+               asymmetry we observe is one of gender hierarchy that may be based in part on the
+               threat as well as the use of physical force. This possibility is reason enough for
+               anthropologists to begin an analysis of the significance and function of rape
+               wherever it is found.</p>
+            <p>An attempt to understand the role of rape in human history has been offered by Susan
+               Brownmiller, in her work <title>Against Our Will</title>. She suggests that:</p>
+            <quote>From prehistoric times to the present, I believe, rape has played a critical
+               function. It is nothing more or less than a conconscious <pb n="19"/> process of
+               intimidation by which all men keep all women in a state of fear. .. . Female fear of
+               an open season of rape ... was probably the single causative factor in the original
+               subjugation of woman by man, the most important key to her historic dependence, her
+               domestication by protective mating (1975:15-16).</quote>
+            <p>Brownmiller's assertions are not supported by any of the traditional theories of
+               marriage as exchange, which imply social contract and consensus. Despite her use or
+               misuse of anthropological materials, the questions she raises about the role of force
+               in the origins of female subordination do not deserve our stony silence. If we choose
+               not to respond, and to ignore the question of rape in the Paleolithic, we need at
+               least to explain the presence of rape and its threat in contemporary
+               hunting/gathering and horticultural societies. Unless we are to assume, with
+               Brownmiller, that men rape women because they can, anthropologists must offer a model
+               that can explain the social and cultural motivations for rape in particular societal
+               settings. I am assuming that rape is learned behavior and is therefore amenable to
+               cultural analysis.</p>
+            <p>Perhaps this analysis has not begun be cause, despite its mystique, anthropology has
+               had little to say about the cognitive and ideological aspects of sexual behavior.
+               Most ethnographers find questioning in formants about sexual intimacy difficult
+               and/or embarrassing (Marshall and Suggs, 1972). The data on patterned sexual behavior
+               that are available do not in clude a category for rape. Ethnographic references to
+               rape are scattered, fragmentary, anecdotal and biased. The descriptions are not
+               quantifiable and rarely comparable. There is no organized body of descriptive or
+               theoretical literature, no review articles, no bibliographies. Only one ethnography,
+                  <title>Women of the Forest</title> by Yolanda and Robert Murphy (1974), treats
+               rape seriously. Levine's classic case study of rape in Gusiiland (1959) is the only
+               extended analysis that offers hypotheses for cross-cultural testing. A survey of the
+               Human Relations Area Files is needed so that some of the most basic information which
+               is missing can be made available. For example:</p>
+            <list>
+               <item>1. In how many societies is rape found?</item>
+               <item>2. What social, cultural and demographic factors are correlated with its
+                  incidence?</item>
+               <item>3. With what frequency does rape occur?</item>
+               <item>4. What are the social and personal responses to rape?</item>
+            </list>
+            <p>Although such a cross-cultural study is important, the utility of this approach will
+               depend upon creating a cross-culturally applicable definition of rape. LeVine
+               suggests for the Gusii that rape is a "culturally disvalued use of coercion by a male
+               to achieve the submission of a female to sexual intercourse" (1959:965). But what if
+               coercion in seduction is culturally valued? Is this rape? Holmberg writes, heard of
+               no cases of rape, i.e., of intercourse with a girl who had not yet under gone the
+               rites of puberty. When a man uses a certain amount of force in seducing a potential
+               spouse who has passed through the rites of puberty, this is not regarded as rape"
+               (1968:168-169). Whose definition of rape should we use—the anthropologist's or the
+               male informant's? It is difficult to imagine that men and women always concur on such
+               definitions, even in non-state societies. For example, Murphy and Murphy report that
+               Mundurucu men find the topic of rape a source of great hilarity and sexual joking.
+               Women, who are threatened with gang rape, report it to be oppressive, cruel and
+               arbitrary, a threat to each of them, as it is meant to be (1974:138). The possibility
+               that men and women live in autonomous but overlapping cognitive worlds makes it very
+               likely that women and men conceptualize and experience physical coercion and sexual
+               violence very differently. Until anthropologists record women's perceptions and
+               subjective feelings, the problems of emic or etic definition will be further
+               compounded by female/male biases (E. Ardener, 1975).</p>
+            <p>Despite these problems, the data that we do have raise some critical questions about
+               the role of rape in defining and reflecting <pb n="18"/> women's status in primitive
+               society. It is those data which I would like to examine now.</p>
+            <p>From a cross-cultural survey done in 1952 we know that in a sample of 110 societies
+               culled from the Human Relations Area Files, rape is considered one of the three most
+               heavily sanctioned crimes (Brown, 1952). The severity of punishment ranges from death
+               to the payment of compensation. We would need the full ethnography to explore the
+               relationship between the type of punishment and the conceptualization of the crime.
+               For example, are punishments for raping married women or non-virgins different than
+               those for raping unmarried women, or virgins? Against whom is rape a crime? Who is
+               the injured party, and what are the criteria used to determine guilt?</p>
+            <p>Yet rape occurs in many societies where it is not considered a crime; in fact, it is
+               institutionalized and culturally valued. This category of rape may be the more
+               common, though at this time, no categorization can be inclusive or decisive. As rape
+               is rigorously studied, a mature typology will be developed. In this broad division of
+               institutionalized rape I would select two types which contain analytically important
+               elements: (1) symbolic or ritual rape, and (2) punitive rape. Although these elements
+               refer to how and when rape is used, the elements often blend. Thus, when rape is
+               associated with ritual, it may also be sending a punitive message, and when rape is
+               used as punishment there is a ritual-like quality to the event.</p>
+            <p>Rape in some societies is associated with rituals of male solidarity and initiation
+               into puberty. Kikuyu boys are required to rape a married woman of an enemy group
+               before being eligible for intercourse and marriage with a Kikuyu girl. Eastern Bororo
+               bachelors will gang rape a selected female who will then become a men's house
+               associate, providing sexual services to all the men in turn. Her entrance into the
+               men's house is marked by a ritual which requires her to be "tamed" (Crocker,
+               1969:245). In Brazil the Akwe-Shavante, when asked what they missed most from the
+               past, named their important ritual wai'a, which involved the ceremonial rape of
+               selected women (Maybury-Lewis, 1967:225).</p>
+            <p>For women, gang rape can be associated with their own puberty rites or mar riage
+               rituals. A Canela girl in Brazil is considered sexually available to all men in her
+               community if she has taken or been taken by a lover. If she refuses the attentions of
+               the men for several months, she will be gang raped while alone and away from the
+               village. Her "stinginess" shames her family so that even if she is injured in
+               resisting, compensatory payment will not be sought by her maternal uncles. The
+               ethnographer assures us that "eventually she learns to like to give herself in these
+               group situations which take place in a spirit of gaiety" (Crocker, 1974:187).</p>
+            <p>A young bride among the Marind Anim of southern New Guinea must have sexual
+               intercourse with the male members of her husband's clan before he can have
+               intercourse with her. This wedding ritual, extending over several nights, is
+               supposedly not a particularly satisfying experience for the woman (Money and
+               Ehrhardt, 1972). Edel writes of the Chiga, "It is considered merely touching that a
+               child of six wept bitterly when she heard the crying of her father's girl-bride as
+               the latter's marriage was being consummated in the traditional pattern of virtual
+               rape" (Edel, 1957:63).</p>
+            <p>Rape, or sequential group sex (as it is euphemistically known), could function as an
+               ideological tool, one among many, which serves to impress upon men and women their
+               sexual rights and prerogatives. Normative sexual aggression for men and passivity for
+               females is symbol ically played out in rape. But the fear and pain that are involved
+               in such violation make this act more than symbolic, for it involves physical force
+               and resistance that is real. We might ask if women experience rape in ritual as an
+               act of sexual aggression and violence. Do women share men's reverence for such
+               cultural performances? If they do, might we then ask whether there can be "false
+               consciousness" in primitive society?</p>
+            <p>When rape does not occur as part of a rite of passage we can more clearly see its
+               function as a control of women's "appropriate sex role behavior." It is therefore
+               possible to see rape as a deterrent to or punishment for female insubordination.</p>
+            <p>Adultery, disobedience and sexual assertiveness are punished by gang rape in some
+               egalitarian societies. Wagley writes that the Tapirape would gang rape a woman who
+               refused to work or refused to choose a husband after a number of trial marriages
+               (personal communication). Mead writes that the Omaha may gang rape "wanton" women and
+               that "the age <pb n="20"/> mates of an Iatmul husband may rape his recalcitrant wife
+               into submission at his request" (quoted in Murphy, 1959:94). Murphy reports that
+               Mundurucu women will be raped if they flout male authority by violating the
+               behavioral norms for their sex. In such rapes, "exogamic restrictions connected with
+               moieties and clans are disregarded" (Murphy, 1959:94). A Cheyenne husband who had
+               been cuckolded <emph>indiscreetly</emph> could invite all members of his military
+               society to gang rape his wife. Although it was only reported four times to Hoebel, in
+               one case a woman had been raped by forty men and left to die. Whether it was used
+               sporadically or not, rape was an available form of punishment of women. Hoebel claims
+               elsewhere in his book, "The Cheyennes cherish the individual personality. . . .
+               Punishment, in their view, need go no further than is necessary to make the
+               individual see the right" (Hoebel, 1960:51). This comment, tragically inadequate, is
+               typical of ethnographers who report violence toward women in egalitarian
+               societies.</p>
+            <p>It seems that when women act like men, defying rules that restrict their movement and
+               sexual choices, they must be punished, and the punishment must fit the crime. Murphy
+               claims rape is merely a specific cultural expression of the universal ambivalence
+               that men feel toward women. Mightn't this antagonism go both ways? Women, however,
+               have not invented their version of gang rape for dealing with inappropriate male
+               behavior. Shaming, humiliation and beatings of men by groups of women still are not
+               directly analogous to the violation of the body that rape entails. This all seems to
+               imply a universal double standard for sexual conduct that is extraordinarily harsh
+               and vindictive to women. Mead alludes to the possible reasons for this double
+               standard:</p>
+            <quote>If society is to survive the culture must provide for the disciplining of female
+               receptivity, whether by permitting females no opportunity for unconventional
+               responsiveness or by inculcating standards of modesty and sexual ethics which prevent
+               the majority of females from according sexual access to males to such a degree that
+               they jeopardize the marriage arrangements through which males are persuaded to assume
+               responsibilities of parenthood (1961:1457).</quote>
+            <p>Could this mean that rape or its threat is not only an expression of male solidarity,
+               symbolic male dominance or symbolic fear of female dominance, but a way of
+               controlling women's reproductive potential? By instilling fear in young women there
+               is less possibility that they will violate norms of modesty or sexual propriety, and
+               control over reproduction remains in the domain of men. The obvious problem with such
+               a conjecture is that it assumes that rape has an adaptive significance in terms of
+               community survival. That women are raped and beaten for the good of the community
+               carries the ecological approach too far. If, as I have always be lieved, culture is
+               created by both sexes, the advantage of rape for women, or their part in perpetuating
+               it, is difficult to conceive. Obviously we need to know much more about the
+               socialization to heterosexuality in all cultures, and the biological, cognitive and
+               ideological aspects of human sexual behavior.</p>
+            <p>To begin to unravel the threads that interweave gender, power and physical force, a
+               cross-cultural analysis of considerable depth and sensitivity is required. The
+               meaning and function of rape cannot be understood in any society until we collect
+               more reliable data, construct mean ingful categories and critique existing theories
+               of political power and interpersonal politics in primitive society. We need to
+               correlate the incidence of rape with differing modes of production, kinship structure
+               and political organization. We need to understand more about the sources of sexual
+               antagonism and other forms of conflict between men as a class and women as a class.
+               We have to know more about the role of sexuality and its control in human society. We
+               have to send more female ethnographers into the field to pursue studies of all
+               aspects of women's lives, so that our definition of culture is complete.</p>
+            <p>I am encouraging anthropologists and feminists to reconsider their theoretical and
+               emotional attachment to a model of harmonious sexual equality in egalitarian
+               societies. Such an idealization obscures a fundamental power relationship.</p>
+            <p>What Rubin (1975) has called the sex/ gender system has undoubtedly under gone
+               important historical transformations which we need to study. Only a very static model
+               of sexual politics could explain female/male relations everywhere and at all times.
+               As we begin to construct new paradigms for the political relationship of the sexes,
+               the variable of rape must be in cluded and accounted for.</p>
+            <p>If, as Susan Brownmiller argues, rape is <pb n="22"/> an act of intimidation and
+               control, then we must begin our investigations and the orizing by rephrasing Freud's
+               dilemma, asking "What do these men want? </p>
+            <byline>-Paula Webster</byline>
+         </div>
+      </body>
+      <back>
+         <listBibl>
+            <head>Bibliography</head>
+            <bibl>Ardener, Edwin. "Belief and the Problem of Women," In Perceiving Women, ed.
+               Shirley Ardener. New York: John Wiley and Sons. 1975</bibl>
+            <bibl>Ardener, Shirley G. "Sexual Insult and Female Militancy," Man 8(3):422-440.
+               1973.</bibl>
+            <bibl>Brown, J.S. "A Comparative Study of Deviations from Sexual Mores, American
+               Sociological Review 17:135-146. 1952.</bibl>
+            <bibl>Brownmiller, Susan. Against Our Will: Men, Women, and Rape. New York: Simon and
+               Schuster. 1975.</bibl>
+            <bibl>Crocker, Christopher. "Men's House Associates Among the Eastern Bororo,
+               Southwestern Journal of Anthropology 25:236-259. 1969</bibl>
+            <bibl>Crocker, W.H. "Extra-marital Sexual Practices of the Ramkokamekra-Canela Indians:
+               An Analysis of Socio-cultural Factors," In Native South Americans: Ethnology of the
+               Least-Known Continent, ed. P.J. Lyon. Boston: Little, Brown. 1974.</bibl>
+            <bibl>Edel, May. The Chiga of Western Uganda. New York: Oxford University Press.
+               1957.</bibl>
+            <bibl>Hoebel, E.A. The Cheyenne. New York: Holt, Rinehart and Winston. 1960.</bibl>
+            <bibl>Holmberg, Alan. The Nomads of the Long Bow. New York: American Museum Press.
+               1968.</bibl>
+            <bibl>LeVine, Robert. "Gusii Sex Offenses: A Study in So cial Control," American
+               Anthropologist 61:965-990.</bibl>
+            <bibl>Marshall, D.S. and R.C. Suggs. Human Sexual Be havior: Variations in the
+               Ethnographic Spectrum. New York: Basic Books. 1972.</bibl>
+            <bibl>Maybury-Lewis, David. Akwe-Shavante Society. Ox ford: Clarendon Press.
+               1967.</bibl>
+            <bibl>Mead, Margaret. Male and Female. New York: Mor row Press. 1949.</bibl>
+            <bibl>Mead, Margaret. "The Cultural Determinants of Sex ual Behavior," In Sex and
+               Internal Secretions, ed W.C. Young. Philadelphia: Williams and Wilkins, 1961.</bibl>
+            <bibl>Money, John and Anke A. Erhardt. Man and Wom Boy and Girl. New York: New American
+               Library.</bibl>
+            <bibl>Murphy, Robert. "Social Structure and Sex Antag onism," Southwestern Journal of
+               Anthropology 15:89-98. 1959.</bibl>
+            <bibl>Murphy, Yolanda and Robert Murphy. Women of the Forest. New York: Columbia
+               University Press. 1974.</bibl>
+            <bibl>Reiter, Rayna, ed. Towards an Anthropology of Women. New York: Monthly Review
+               Press. 1975.</bibl>
+            <bibl>Rubin, Gayle. "The Traffic in Women," In Towards an Anthropology of Women, ed. R.
+               Reiter. New York: Monthly Review Press. 1975.</bibl>
+            <bibl>Stack, C., Caulfield, M., et al. "Review Essay: An thropology," Signs: Journal of
+               Women in Culture and Society 1(1):147-159. 1975.</bibl>
+            <bibl>Van Allen, Judith. "Sitting on a Man: Colonialism and the Lost Political
+               Institutions of Igbo Women, Canadian Journal of African Studies 6(2):165-181.</bibl>
+            <bibl>Webster, Paula. "Matriarchy: A Vision of Power, In Towards an Anthropology of
+               Women, ed. R Reiter. New York: Monthly Review Press. 1975.</bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

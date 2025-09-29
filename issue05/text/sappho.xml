@@ -147,37 +147,49 @@
    </teiHeader>
    <text>
       <body>
-         <div><pb n='1'/>
-            <p>
-               <lb/>In the young spring evening
-               <lb/>The moon is shining full
-               <lb/>Girls form a circle
-               <lb/>As though round an altar
-               <lb/>And their feet perform
-               <lb/>Rhythmical steps
-               <lb/>Like the soft feet of Cretan girls
-               <lb/>Must once have danced
-               <lb/>Round and round an altar of love
-               <lb/>Designing a circle
-               <lb/>In the delicate flowering grass
-               <lb/>The stars that are shining
-               <lb/>Around the beautiful moon
-               <lb/>Hide their own bright faces
-               <lb/>When She, at Her fullest
-               <lb/>Paints the earth with Her
-               <lb/>Silvery light
-               <lb/>Now, while we are dancing
-               <lb/>Come! Join us!
-               <lb/>Sweet joy, revelry,
-               <lb/>Bright light!
-               <lb/>Inspire us, Muses
-               <lb/>Oh, you with the beautiful hair.
-               <lb/>—Sappho
-            </p>
-            <p>
-               <lb/>translated from the Greek
-               <lb/>by Charoula
-            </p>
+         <div type="poem">
+            <pb n='1'/>
+            
+               <lg>
+                  <l>In the young spring evening</l>
+               <l>The moon is shining full</l>
+               <l>Girls form a circle</l>
+               <l>As though round an altar</l>
+               </lg>
+               <lg>
+                  <l>And their feet perform</l>
+               <l>Rhythmical steps</l>
+               <l>Like the soft feet of Cretan girls</l>
+               <l>Must once have danced</l>
+               </lg>
+               <lg>
+                  <l>Round and round an altar of love</l>
+               <l>Designing a circle</l>
+               <l>In the delicate flowering grass</l>
+               </lg>
+               <lg>
+                  <l>The stars that are shining</l>
+               <l>Around the beautiful moon</l>
+               <l>Hide their own bright faces</l>
+               </lg>
+               <lg>
+                  <l>When She, at Her fullest</l>
+               <l>Paints the earth with Her</l>
+               <l>Silvery light</l>
+               </lg>
+               <lg>
+                  <l>Now, while we are dancing</l>
+               <l>Come! Join us!</l>
+               <l>Sweet joy, revelry,</l>
+               <l>Bright light!</l>
+               </lg>
+               <lg>
+                  <l>Inspire us, Muses</l>
+               <l>Oh, you with the beautiful hair.</l>
+               </lg>
+               <byline>—Sappho</byline>
+           
+            <note>translated from the Greek by Charoula</note>
          </div>
       </body>
    </text>
