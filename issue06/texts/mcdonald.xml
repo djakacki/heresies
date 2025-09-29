@@ -2,13 +2,13 @@
 <?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="https://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The enemies of She Who Call her various names</title>
-            <author>Judy Grahn</author>
+            <title>August 2nd</title>
+            <author>Lou McDonald</author>
             <respStmt>
                <persName>Eowyn Andres</persName>
                <resp>Editor (2024-Present)</resp>
@@ -125,7 +125,7 @@
          <sourceDesc>
             <biblStruct>
                <analytic>
-                  <title>Lesbian Art and Artists</title>
+                  <title>Heresies #6: On Women and Violence</title>
                </analytic>
                <monogr>
                   <imprint>
@@ -133,7 +133,7 @@
                      <pubPlace>
                         <address>
                            <name>Heresies</name>
-                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <postBox>P.O. Box 766, Canal Street Station</postBox>
                            <settlement>New York</settlement>
                            <region>New York</region>
                            <postCode>10013</postCode>
@@ -147,59 +147,84 @@
    </teiHeader>
    <text>
       <body>
-         <pb n="9" facs="/sites/default/files/2025-08/heresies03_009_1.jpg"/>
-         
-               <head>The enemies of She Who call her various names</head>
-         <byline>Judy Grahn</byline>
-
-
+         <div type="poem">
+            <head>AUGUST 2nd</head>
             <lg>
-               <l>a whore, a whore</l>
-               <l>a fishwife a cunt a harlot a harlot a pussy</l>
-               <l>a doxie a tail a fishwife a whore a hole a slit</l>
-               <l>a cunt a bitch a slut a slit a hole a whore a hole</l>
-               <l>a vixen/ a piece of ass/ a dame-filly-mare</l>
-               <l>dove-cow-pig-chick-cat-kitten-bird</l>
-               <l>dog-dish/ a dumb blonde</l>
+               <l>I am frightened by large men—muscles,</l>
+               <l> or possibly it is fat, the men who</l>
+               <l> make noises at women to prove that</l>
+               <l> they are men.</l>
             </lg>
-
             <lg>
-               <l>you black bitch-you white bitch-you brown bitch-you yellow</l>
-               <l>bitch-you fat bitch-you stupid bitch-you stinking bitch-</l>
-               <l>you little bitch-you old bitch-a cheap bitch-a high class</l>
-               <l>bitch-a 2 bit whore-a 2 dollar whore-a ten dollar</l>
-               <l>whore-a million dollar-mistress</l>
+               <l>I am frightened by these seemingly</l>
+               <l> strong hunks—but whose strength is</l>
+               <l> spent at proving themselves thru</l>
+               <l> Women.</l>
             </lg>
-
             <lg>
-               <l>a hole a slut a cunt a slit a cut</l>
-               <l>a slash a hole a slit a piece</l>
-               <l>of shit, a piece of shit, a piece of shit</l>
+               <l>I am frightened of these men in</l>
+               <l> reality and abstract alike.</l>
             </lg>
-
             <lg>
-               <l>She Who bears it</l>
-               <l>bear down, breathe</l>
-               <l>bear down, bear down, breathe</l>
-               <l>bear down, bear down, bear down, breathe</l>
-               <l>She Who lies down in the darkness and bears it</l>
-               <l>She Who lies down in the lightness and bears it</l>
-               <l>the labor of She Who carries and bears is the first labor</l>
-               <l>all over the world</l>
-               <l>the waters arę breaking everywhere</l>
-               <l>everywhere the waters are breaking</l>
-               <l>the labor of She Who carries and bears</l>
-               <l>and raises and rears is the first labor,</l>
-               <l>there is no other first labor.</l>
+               <l>It frightens me: their size, their hatred,</l>
+               <l> their lack of love or passion, their</l>
+               <l> absence of spirit.</l>
             </lg>
-
+            <lg>
+               <l>But . . . then I realize, the substance</l>
+               <l> or glue that holds them together, that</l>
+               <l> is responsible for their looming presence</l>
+               <l> in my mind—is my fear.</l>
+            </lg>
+            <lg>
+               <l>They are really no more than hollow</l>
+               <l> shapes—kept intact and in the dark</l>
+               <l> shadows I see at night—by women's</l>
+               <l> fears.</l>
+            </lg>
+            <lg>
+               <l>For every woman who overcomes her</l>
+               <l> fears—</l>
+               <l> one of these men dies. Their comrades</l>
+               <l> secretly attend the burial. Secretly.</l>
+            </lg>
+            <lg>
+               <l>That is how they reproduce</l>
+               <l> themselves</l>
+               <l> making women frightened. That is their</l>
+               <l> birthing process. Delivered by all</l>
+               <l> mankind.</l>
+               <l> Doctored by fear. Nursed by women's</l>
+               <l> fear of men.</l>
+            </lg>
+            <lg>
+               <l>Women's silent scream of terror</l>
+               <l> and fear is their scream of life.</l>
+            </lg>
+            <lg>
+               <l>So the world screams alike. Silently.</l>
+            </lg>
+            <lg>
+               <l>Women, by overcoming their fears, will</l>
+               <l> take the glue (that holds these men</l>
+               <l> together) away.</l>
+            </lg>
+            <lg>
+               <l>far far far far away.</l>
+            </lg>
+            <lg>
+               <l>And yet ... I’m still frightened</l>
+               <l> even though I think I understand.</l>
+            </lg>
+            <lg>
+               <l>Give me the strength to become</l>
+               <l> stronger—so I too can overcome my</l>
+               <l> fear,</l>
+               <l> then there will be one less.</l>
+               <l> Of them.</l>
+            </lg>
+            <byline> —Lou McDonald</byline>
+         </div>
       </body>
-            <back>
-               <p>Judy Grahn is a thirty-seven year old poet. Her books include <title>The Common Woman and Edward the Dyke</title>. The above
-               poem is from <title>She Who</title>, A Graphic Book of Poems which was
-               recently published by Diana Press. She is working on a matriarchal novel.</p>
-
-            </back>
-
    </text>
 </TEI>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>From the Lesbian Issue Collective</title>
+				<author>name</author>
+				<respStmt>
+					<persName>Eowyn Andres</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Haley Beardsley</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lyndon Beier</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Erica Delsandro</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mia DeRoco</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Margaret Hunter</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Invesigator, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sophie McQuaide</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Martin</persName>
+					<resp>Editor, encoder (2021)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zoha Nadeer</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bri Perea</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Carrie Pirmann</persName>
+					<resp>Editor, encoder (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Ricky Rodriguez</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Roger Rothman</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kaitlyn Segreti</persName>
+					<resp>Editor (2021-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maggie Smith</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maya Wadhwa</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kelly Troop</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lucy Wadswoth</persName>
+					<resp>Editor (2022-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anna Marie Wingard</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Wychock</persName>
+					<resp>Graduate Editor (2024-Present)</resp>
+				</respStmt>
+				<funder>Bucknell University Humanities Center</funder>
+				<funder>Bucknell University Office of Undergraduate Research</funder>
+				<funder>The Mellon Foundation</funder>
+				<funder>National Endowment for the Humanities</funder>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>
+					<name>Bucknell University</name>
+					<address>
+						<street>One Dent Drive</street>
+						<settlement>Lewisburg</settlement>
+						<region>Pennsylvania</region>
+						<postCode>17837</postCode>
+					</address>
+				</distributor>
+				<availability>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial
+						4.0 International (CC BY-NC 4.0)</licence>
+					<licence>Heresies journal: © Heresies Collective</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title>Patterns of Communicating and Space Among Women</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<publisher>HERESIES: A Feminist Publication on Art and
+								Politics</publisher>
+							<pubPlace>
+								<address>
+									<name>Heresies</name>
+									<postBox>P.O. Boxx 766, Canal Street Station</postBox>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<postCode>10013</postCode>
+								</address>
+							</pubPlace>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n="0" facs="/sites/default/files/2025-08/heresies03_000_0.jpg"/>
+				<p> This issue of Heresies was edited, designed, and put together by lesbians, four
+					of whom are members of the Heresies collective. All contributors to the issue
+					are lesbians. The Collective statement appears below; individual statements by
+					the editors appear on pages Third issue collective: Cunthia Carr, Betsy Crowell,
+					Betsy Damon, Rose Fichtenholtz, Louise Fshman, Su Friedrich, Harmony klammond.,
+					Marty Pottenger, Amy Silman, Christine Wade, Kathy Webster. </p>
+				<p> This issue of Heresies arises out of our need to challenge the heritage of
+					secrecy, silence, and isolation which has been a necessity for lesbians who make
+					art. Because we have no recognizable community with a sense of history, we seek
+					to begin one by affirming and making visible the excellence of our efforts. As
+					lesbians, we choose to create an issue devoted exclusively to work by lesbians
+					in the context of a feminist publication. We understand that in this decision
+					there exists an implicit danger of tokenism: that this may be the only issue of
+					Heresies in which a substantial amount of lesbian material will appear. At the
+					same time, the decision reflects our belief that feminist aesthetics and
+					politics would not exist and willnot continue to develop without the vision and
+					energy of women whose sole commitment is to women. </p>
+				<p> Perhaps our greatest challenge as a collective has been to remain faithful to
+					the truth of our experience, its beauty and its pain, as we present it to an
+					audience which has punished us for our verv existence within it. Because of our
+					position within a predominately heterosexual feminist journal, we had to
+					struggle against the desire to make the definitive lesbian art issue. We
+					resisted this pressure and created an issue which quite frankly reflects the
+					volitical and esthetic bias of the majority of the collective. We share no
+					single political position, vet biases which informed our choice of material were
+					certainly conditioned by the fact that we are all lesbians. white,
+					college-educated, and mostly middle clas women who live in New York and have a
+					background in the arts. Unique constraints governed our choice of selections:
+					the unavailability of material by lesbians not ready to come out, or not willing
+					to participate in a heterosexual journal; our own protectiveness dangerous,
+					either because it presented ideas offensive to which forced us to exclude
+					material which we saw as our personal experience, or presented ideas in an
+					undeveloped manner, or because it invaded our privacy in such a way as to expose
+					us to abuse and misunderstanding. In each and everv instance in the selection of
+					work, we insisted on a clear and responsible exposition of ideas. </p>
+				<p> The difficult process of selection of material always took us to a confrontation
+					with our vulnerability, self-doubt, confusion and personal pain. We wish to
+					thank the hundreds of contributors who, by submitting their work, risked a
+					similar difficulty. It is clear to us that lesbians have merely begun an
+					exploration of their unique experience throuch making and talking about their
+					art. </p>
+				<p> An important responsibility rests with lesbians and with the feminist community;
+					to vigorously seek out and publish lesbian art work in lesbian publications and
+					in feminist journals such as Heresies. Without this effort, a feminist world
+					view cannot be created. </p>
+			</div>
+		</body>
+		<back>
+			<p> HERESIES is an idea-oriented journal devoted to the examination of art and politics
+				from a feminist perspective. We believe that what is commonly called art can have a
+				political impact, and that in the making of art and of all cultural artifacts our
+				identities as women play a distinct role. We hope that HERESIES wil stimulate
+				dialogue around radical political and aesthetic theory, encourage the writing of the
+				history of femina saviens, and generate neu creative energies among women. It will
+				be a place where diversity can be articulated. We are committedto the broadening of
+				the definition and function of art. HERESIES is structured as a collective of
+				feminists, some of whom are also socialists, marxists, lesbian feminists or
+				anarchists; our fields include painting, sculpture, writing, anthropology,
+				literature, performance art history, architecture and filmmaking, While the themes
+				of the individual issues will be determined by the collective, each isue will have a
+				different editorial staff made up of women who want to work on that issue as well as
+				members of the collective. Proposals for issues may be conceived and presented to
+				the HERESIES Collective by groups of women not associated with the collective. Each
+				issue will take a diferent visual form, chosen by the group responsible. HERESIES
+				will try to be accountable to and in touch with the international feminist
+				community. An open evaluation meeting will be held after the appearance of each
+				issue. Themes will be announced well in advance in order to collect material from
+				many sources. (See inside of back cover for list of projected isues.) Posibly
+				satellite pamphlets and broadsides will be produced continuing the discussion of
+				each central theme. </p>
+			<p> As women, we are aware that historically the connections between our lives, our arts
+				and our ideas have been suppressed. Once these connections are clarified they can
+				function as a means to dissolve the alienation between artist and audience, and to
+				understand the relationship between art and politics, work and workers. As a step
+				toward a demystification of art, we reject the standard relation- ship of criticism
+				to art within the present system, which has often become the relationship of
+				advertiser to product. We will not advertise a new set of genius-products just
+				because they are made by women. We are not commited to any particular style or
+				aesthetic, nor to the competitive mentality that pervades the art world. Our view of
+				feminism is one of process and change, and we feel that in the proces of this
+				dialogue we can foster a change inthe meaning of art. </p>
+			<p> THE COLLECTIVE. Ida Applebroog, Patsy Beckert, Joan Braderman, Mary Beth Edelson, Su
+				Friedrich, Janet Froelich, Harmony Hammond. Sue Heinemann, Elizabeth Hess, Joyee
+				Kozloff. Arlene Ladden, Lucy Lippard. Marty Pottenger, Miriam Schapiro, Amy Sillman,
+				Joan Snyder, Elke Solomon, Pat Steir, May Stevens, Susana Torre, Elizabeth
+				Weatherford, Sally Webster, Nina Yankowitz. </p>
+		</back>
+	</text>
+</TEI>

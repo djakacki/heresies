@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
@@ -1007,9 +1007,7 @@
 						intriguing in their social harmony and their knowledgeable, non-exploitative
 						interaction with their environments. Women and men regard each other as
 						equals. Among the BaMbuti, hunting is a joint effort, men care for babies
-						and women enter public discussions.<note type="scholarNote">1. Colin
-							Turnbull, The Forest People (New York: Natural History Library, 1962),
-							pp. 156-157.</note></p>
+						and women enter public discussions.<ref n="1">1</ref></p>
 					<p>In gathering societies women may provide up to eighty percent of the food and
 						as an extension of their expertise in plants and fibers (with which they
 						make nets), they are also the builders. The dwelling the women construct
@@ -1022,9 +1020,7 @@
 						space. Their size and shape maximizes physical and psychological contact
 						among the dwellers. Anthropologists suggest that such human proximity is
 						particularly conducive to intuitive and nonverbal communication, to the
-						development of internalized cultural rhythms.<note type="scholarNote">2.
-							Edward T. Hall, Beyond Culture (Garden City, N.Y.: Doubleday, 1976),
-							Chap. 5, passim.</note> In our Western cultures, such tacit synchrony is
+						development of internalized cultural rhythms.<ref n="2">2</ref> In our Western cultures, such tacit synchrony is
 						usually found only in mother-infant relationships, a vestige of what was
 						once the nature of communication between both sexes and all ages.</p>
 					<p>A freudian theorist might suggest that the organic nature of gatherers'
@@ -1039,9 +1035,7 @@
 						the !Kung) there is flexibility as to who inhabits them. Children do not
 						have to sleep with their parents, and can either stay with their
 						grandparents or make camp with other children of the same sex at either end
-						of the settlement.<note type="scholarNote">3. Patricia Draper, "IKung
-							Women," in Toward an Anthropology of Women, ed. Rayna Reiter (New York:
-							Monthly Review Press, 1975), p. 94.</note> Thus the gatherers' house is
+						of the settlement.<ref n="3">3</ref> Thus the gatherers' house is
 						not a structure enforcing family isolation, but serves as a shelter of great
 						social fluidity.</p>
 
@@ -1059,8 +1053,7 @@
 						clothespins, hooking two or three of them together. When she had enough she
 						started hanging them on the framework like tiles, overlapping each other and
 						forming a waterproof covering. There were leaves left over when she had
-						finished, so she let other women take them for their houses.<note
-							type="scholarNote">4. Turnbull, pp. 59-60.</note></p>
+						finished, so she let other women take them for their houses.<ref n="4">4</ref></p>
 					<p>The dwelling in the gathering culture is the focal point of women's creative
 						activities. Since it is usually constructed from materials that can be
 						replaced from available natural sources, it also binds society to its
@@ -1126,9 +1119,7 @@
 						all the work of joiners, carpenters and masons have blistered hands. In
 						fact, their hands are much harder to the touch than those of the men; and
 						indeed their entire muscular system is far more developed and they are
-						proportionately stronger in the arm.<note type="scholarNote">5. J.G. Kohl,
-							Kitchi-Gami: Wandering Round Lake Superior (London, 1860), p.
-						4.</note></quote>
+						proportionately stronger in the arm.<ref n="5">5</ref></quote>
 					<p>Similarly, the tipi-builders of the Great Plains were responsible for all
 						aspects of the construction of their dwellings. They developed one of the
 						most striking forms in women's vernacular architecture. The Plains societies
@@ -1171,9 +1162,7 @@
 							n="38"
 							facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_038.jpg"
 						/> monial character of the work was recognized, it interfered in no way with
-						the social pleasure of the occasion.<note type="scholarNote">6. Alice
-							Marriott, The Trade Guild of Southern Cheyenne Women," Bulletin of Okla-
-							homa Anthropological Society (April 1956), p. 24.</note></quote>
+						the social pleasure of the occasion.<ref n="6">6</ref></quote>
 				</div>
 				<div>
 					<head>Female Farmers</head>
@@ -1197,9 +1186,7 @@
 						wall and an empty roof cannot protect you from heavy rain nor from the
 						burning sun. It is our careful thatching that makes the hut worth living. We
 						are not chameleons but nyoni ya nyagathanga small songbirds known for their
-						beautiful nests).<note type="scholarNote">7. Jomo Kenyatta, Facing Mount
-							Kenya, Re- print of original 1938 edition (New York: AMS Press, 1976),
-							pp. 80-81.</note></quote>
+						beautiful nests).<ref n="7">7</ref></quote>
 					<p>Separation of the sexes does not necessarily serve as a foundation for male
 						domination. Cultural practices that encourage one sex to feel communal
 						solidarity and to express itself in opposition to the other seem to yield
@@ -1214,9 +1201,7 @@
 						social life. Ritual performances took place there and it was both dwelling
 						and workplace for the many families of the clan to whom it belonged. By
 						controlling the longhouse and the food stores, women played a vital part in
-						the political affairs of the tribes.<note type="scholarNote">8. Judith K.
-							Brown, "Iroquois Women: An Ethnographic Note, in Toward an Anthropology
-							of Women, pp. 235-251</note> Through manipulation of supplies they could
+						the political affairs of the tribes.<ref n="8">8</ref> Through manipulation of supplies they could
 						encourage or prevent war parties. The senior women, who controlled the
 						longhouse, also played an important role in social policy decisions. They
 						appointed spokesmen for the clan in village and tribal councils, and they
@@ -1281,10 +1266,7 @@
 						She is a possession to be protected. In Berber villages, she weaves inside
 						her husband's house; the loom is not considered her tool, but a symbol of
 						male protection. Sitting behind it, she is shielded from the door and from
-						the street life that lies beyond it.<note type="scholarNote">9. Pierre
-							Bourdieu, "The Berber House, or the World Reversed," excerpted in Rules
-							and Meanings, ed. Mary Douglas (Baltimore: Penguin, 1973), p.
-							100.</note> Thus women are isolated from the world of confrontation,
+						the street life that lies beyond it.<ref n="9">9</ref> Thus women are isolated from the world of confrontation,
 						conversation and public interaction.</p>
 					<p>With the advent of industrialism and the wage economy in any society,
 						separation of home life from public work becomes firmly entrenched. The many
@@ -1303,20 +1285,28 @@
 						exclusive province of women, has become a significant cultural image on many
 						levels — almost an archetypal reflection of the privatization of women's
 						lives and the resulting obsession with house/home. So now we paint, write,
-						sculpt our houses; so far, too few of us are creating architecture.<note
-							type="scholarNote">10. Two recently published books have begun the
-							documentation of women in architecture: Doris Cole, From Tipi to
-							Skyscraper: A History of Women in Architecture (Boston: press, 1973) and
-							Susana Torre, ed., Women in American Architecture: A Historic and
-							Contemporary Perspective (New York: Wat- son-Guptill, 1977).</note> In
+						sculpt our houses; so far, too few of us are creating architecture.<ref n="10">10</ref> In
 						learning more about the options available to women in other cultures, we
 						become more conscious of our own untapped potential.</p>
 				</div>
 			</div>
 		</body>
 		<back>
-			<p>A native of Tennessee, Elizabeth Weatherford is an anthropologist on the faculty of
-				the School of Visual Arts.</p>
+			<head>Notes:</head>
+			<listBibl>
+				<bibl resp="OCLC" ref="https://search.worldcat.org/title/252882">1. Colin Turnbull, The Forest People (New York: Natural History Library, 1962), pp. 156-157.</bibl>
+				<bibl resp="OCLC" ref="https://search.worldcat.org/title/1818029">2. Edward T. Hall, Beyond Culture (Garden City, N.Y.: Doubleday, 1976), Chap. 5, passim.</bibl>
+				<bibl resp="OCLC" ref="https://search.worldcat.org/title/995103118">3. Patricia Draper, "IKung Women," in Toward an Anthropology of Women, ed. Rayna Reiter (New York: Monthly Review Press, 1975), p. 94.</bibl>
+				<bibl resp="OCLC" ref="https://search.worldcat.org/title/252882">4. Turnbull, pp. 59-60.</bibl>
+				<bibl resp="HathiTrust" ref="https://catalog.hathitrust.org/Record/000560270">5. J.G. Kohl, Kitchi-Gami: Wandering Round Lake Superior (London, 1860), p. 4.</bibl>
+				<bibl>6. Alice Marriott, "The Trade Guild of Southern Cheyenne Women," Bulletin of Oklahoma Anthropological Society (April 1956), p. 24.</bibl>
+				<bibl resp="OCLC" ref="https://search.worldcat.org/title/18400546">7. Jomo Kenyatta, Facing Mount Kenya, Reprint of original 1938 edition (New York: AMS Press, 1976), pp. 80-81.</bibl>
+				<bibl resp="OCLC" ref="https://search.worldcat.org/title/1501926">8. Judith K. Brown, "Iroquois Women: An Ethnographic Note," in Toward an Anthropology of Women, pp. 235-251</bibl>
+				<bibl resp="OCLC" ref="https://search.worldcat.org/title/852158789">9. Pierre Bourdieu, "The Berber House, or the World Reversed," excerpted in Rules and Meanings, ed. Mary Douglas (Baltimore: Penguin, 1973), p. 100.</bibl>
+				<bibl resp="OCLC" ref="https://search.worldcat.org/title/803833">10. Two recently published books have begun the documentation of women in architecture: Doris Cole, From Tipi to Skyscraper: A History of Women in Architecture (Boston: press, 1973) and Susana Torre, ed., Women in American Architecture: A Historic and Contemporary Perspective (New York: Wat- son-Guptill, 1977).</bibl>
+			</listBibl>
+			<div><p>A native of Tennessee, Elizabeth Weatherford is an anthropologist on the faculty of
+				the School of Visual Arts.</p></div>
 		</back>
 
 

@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Vicki Tapes</title>
+            <author>Martine Barrat</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadsworth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Heresies #6: On Women and Violence</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Box 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="essay">
+            <pb n="3"/>
+            <head>THE VICKI TAPES</head>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Do you find it difficult to use guns? Because you're a girl? Do you feel you need
+                  a lot of strength to use them?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Not really, because since my brothers were Nomads, which was before they were
+                  Roman Kings, they had guns. So the first gun that they had lent to me was a .22.
+                  It was small, and my brother, think it was Ace, told me, "You never shot a gun,
+                  right?" and I told him, "No. So he told me, "Come with me up to the roof." He shot
+                  and says, "Now is your turn." I didn't know what the hell to do, so I said, "What
+                  do I do with this? "Just do straight," he says, and I shot it. The first time you
+                  feel kind of nervous after you shoot a gun because it kicks a lot. From that day
+                  on, every time I'd get a gun I'd start shooting on the roof. And that's how I
+                  learned. But a big gun isn't easy for me to handle.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Like a .45?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>A .45 gives you a lot of kick. Like a rifle. I couldn't handle that.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>How old were you then? When you learned?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>I was small. I was about eleven. But from that day on I have a .32 automatic on
+                  me. They're getting it fixed for me now. I always carry it around, especially when
+                  I get my check . . . or when I'm coming home alone at night. You know, somebody is
+                  going to jump me and stuff, so I just pull it out. I won't shoot to kill, but I'll
+                  shoot them so they know not to fuck around with me no more. That's how I am. But
+                  that time, with that girl, I didn't want to take up the gun because I feel, boy,
+                  I'll just slap her around a few times and the girl will shut her damned I don't
+                  like to talk when I argue with somebody. I'll swing first. I lost my temper fast
+                  ... even with a guy (laughs). That's why most of my boyfriends, they left me. I'm
+                  serious. It's not that I'm a manhandler but it's the type of thing where I don't
+                  like nobody to slap me around. My mother don't hit me. My own mother, she hit me
+                  only twice and that was when I was small.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>You think guys leave you for that. They can't take it?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>They can't take it because they argued with me—I get mad fast. Especially when
+                  they cuss at you, say, "Ah, fuck you" or something like that. And I say, "What?"
+                  They don't have to swing at me first because I’ll turn around and I"Il swing at
+                  them and we just fight right there. I know you know I’m not as strong as a man and
+                  really they kick my ass, you might as well say. But I've proved to them that when
+                  you raise a hand on me, I’m going to raise one back. Because he would lose respect
+                  for me just as much as I am losing respect for him. We just fall sliding all over
+                  the place until one of us gives up ... and most likely he's going to give up
+                  because I lost my temper and if I grab their hair, whatever I got, I won't let
+                  go.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>You are lucky to have brothers teaching you how to fight.</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Yeah. Like when we was the Young Nomads they used to put me up to fight with the
+                  girls.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>For initiation?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Yeah. If I would lose a fight, they'll make me fight her and fight her until I
+                  win. I could be dead on my feet and, boy, they tell me to go ahead and fight,
+                  fight until I’m going to get real mad and I’m going to whip her ass. That's how
+                  they taught me. Don't be scared of nobody. Especially if they raise their hand to
+                  you. So, that's what happened.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>And that's why you want to teach your little girl to fight?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Right. Now she gets real mad. She starts swinging at anybody that's there,
+                  whoever bothers her. I teach her. I tell her, "You hit back because they only
+                  going to fuck over you if you don't hit back. She's like that [laughs]. She's like
+                  that and I’m like that. But I don't tell her go, go around hitting everybody in
+                  the head ... I just tell her, "When somebody hits you, you hit back. And if they
+                  argue with you, you argue with them. If they talk back to you, you talk back to
+                  them. Just don't let nobody talk about your mother or your father or your family."
+                  One thing I don't want anybody calling me is a mother-fucker . ..</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>When there are rumbles between cliques, are they between cliques of girls or do
+                  they involve the guys?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>It was mostly with guys because there wasn't a lot of trouble with girls. Really
+                  and truly.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>You think girls fight as much as guys?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Well, guys fight a lot. Girls don't fight as much. Like if it was all up to them
+                  we’ll fight. The guys, they got to fight be cause their prez tells them to fight.
+                  But if it was up to us girls, we'd hang-out to gether. We would like to have a
+                  brother hood. But sometimes it's the girls. I'm the one who started rumbling with
+                  the Immortals because I have something against that girl from school, Nancy. We
+                  fought and then she told the school I pulled out a <pb n="5"/> knife on her and
+                  they threw me out. couldn't go to school no more so I had something against the
+                  Immortals because of her.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Um-hum.</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>I start messing with her and messing with her until, you know, we rumbled. When I
+                  have something against somebody I take it out in one fight. One fight. As long as
+                  I get my shit off. After that if she want to talk to me, she talk to me but she
+                  could go to hell, too. I tell her, "I was born in this world by myself . . .</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Yeah, like that girl. I grab her alone and we straightened it out and now me an'
+                  her don't have no trouble. I see her. She's in jail right now when I go to see
+                  her.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Why is she in jail?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>She was selling drugs. She sold drugs to a cop and now she's facing ten to
+                  twenty-five.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Were there many fights with knives and guns at the time you were in school?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>No, just with the hands. No guns or knives, we just fight with the hands. Most of
+                  the time that there's fights is be cause someone don't like you or someone try to
+                  take my boyfriend away. So, they fight and scratch each other up.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>But you've fought with knives and stuff. Was that outside of school?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Yeah, outside. That's right. Put it this way, if I was to rumble with somebody,
+                  right? Say I wanted to use my hands but before we fight we don't search each
+                  other. So, let's say I fight somebody and I beat her up. She ain't going to like
+                  that. So she know if she fights with me again, I’m going to beat her up again. So
+                  she'll bring something to stab me with or she'll bring a gun and shoot me with it.
+                  We don't trust them just like they don't trust.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>So you think that's one of the reasons why kids in the clique carry guns?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Yeah. That's why. Because we don't trust them. God knows what they going to do
+                  when we turn our backs, just like God knows what we going to do when they turn
+                  their backs. That's all.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Do you remember when Charlie organized that big meeting with all the cliques
+                  after Benji got killed? To try to get them together so they wouldn't fight
+                  anymore?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>I was upstate at the time. I heard about it. By the time I got back everything
+                  passed and everybody was walking the streets again. All the cliques.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>You're a leader of a clique, too. Did you ever think about getting all the
+                  cliques together?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Yeah. I tried to do that a lot. I would talk to my girls and tell them we should
+                  get all the cliques and the girls together. You know, make truce and then throw
+                  parties. It would be nice having all the girls coming down to a party and shit.
+                  But it could never happen that way. Be cause of the guys ..</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>You know, Vicki, you were telling me about the Outlaw Marriages in the cliques.
+                  You told me that the girl who gets married in certain cliques has to get down with
+                  all the guys in the clique. Do you feel that the girls feel like that is like
+                  being raped?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>I feel that they do, yeah. It's just like rape. When a girl has to get down with
+                  all of them. I wouldn't do that. I couldn't walk in the street proud. They <pb
+                     n="8"/> guys will be saying, "Oh, I got to her. She was a good piece. I can't
+                  stand that. I think a good man is the type that will make love to a woman and
+                  won't talk about it to nobody. It's his personal thing. The thing he should keep
+                  inside. A man that lays with a woman and then tells every guy, "Oh, I lay with
+                  that girl, she's a good fuck," he's bad. That make you feel like a piece of shit
+                  on the floor.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>You think that will change one day.</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Yeah. It will change. Like now. Most of the cliques ain't that way. I got married
+                  Outlaw. We don't do that in the Roman Kings. We get married and say the things
+                  that they say in church.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Can you describe the marriage to me because I've never been to one?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Well, the Roman Queens are on one side and the Kings on their side and everybody
+                  flies their colors. We're clean. We're never dirty. You know, we have our
+                  dungarees, our tee shirt, our jackets with the colors on it and our boots. The
+                  guys have on their Outlaw pants, a tee-shirt, all their colors. Their hats, what
+                  ever. And their M.C.'s. And the girls are on one side and all the guys on the
+                  other side and we get in the middle. Me and him. Well, when I got married to Baba,
+                  his twin brother got married too. So it was me and Baba and in the back of us was
+                     <pb n="9"/> Batusi and Marlene. Behind them was the bridesmaid and the . . .
+                  what you call ... best man. They was in back of us and then we walked down the
+                  aisle. You might as well say the aisle. We walked down there. Like in a church.
+                  The guy that married us was Husky Pekiching. So we walked up to him. We stand
+                  there because it was like a double wedding. And Husky was there telling us, "I now
+                  pronounce you man and wife," like all the things that they say in church.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Because you were a bride did you wear something different?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>No, we all had colors on.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Did he hold a book like a priest or something?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Huh? Oh, yeah.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>What kind of book?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Let me see. It was a Bible. He was holding in his hands. We even had rings You
+                  know, I’m no saying expensive wedding rings but they was real Sterling. Any way he
+                  say, "Kiss your bride and put the ring on the finger," and it was just like a real
+                  church. Except that afterwards, in stead of throwing rice like they do in church,
+                  they're pouring beer all over us. While we're walking down the aisle. Three
+                  quarts.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Did you sing?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>No. But the Roman Kings they buy beer and they get us real high and then we're
+                  allowed to stay in the club. The club was our apartment for three days. It's in
+                  this wrecked building. It was our honey moon. We stayed there for three days ...
+                  without coming out [laughs]. If the Ro man Kings would have seen us out before
+                  three days they would have sent us back in. Yeah.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>The two couples?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Huh?</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>You were four people having a honeymoon in that apartment?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Yeah. There was two rooms, yeah [laughs]. There was two rooms. And we have fun
+                  [laughs].</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Did you cook?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Yeah.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>And love?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Yeah [laughs].</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>And care for each other?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Yep. And from that day on, this happened four months ago, we're still
+                  together.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>And where was your little girl?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Huh? My little girl? My mother was with her. I told me mother about it. She
+                  didn't say nothing. My mother would take care of her and take her outside.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Did your mother come to your wedding?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Are you crazy?</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>There were no parents?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>No, just us. But I feel it was nice, you know, because I've been raised by gangs.
+                  So to me it was nice. It was very nice ...</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>You were telling me about your sister who got raped in your building. What
+                  happened?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Well, she was going to school and she forgot her wallet. She came back up and
+                  this guy was in the elevator with her. They're friends so they was talking to each
+                  other. When they got to his floor he pushed her out and then he raped her right
+                  there. She stayed in her room after that. She didn't want to talk to nobody. She
+                  didn't want to tell nobody until long after She told me. I told my mother. And
+                  till this day he still lives in the building. My sister, she always remember that.
+                  Right now she's living with her husband and when she has sexual, you know, inter
+                  course with him she thinks of that and that fucks her up. But at least she told
+                  him. She told him what happened to her and he don't blame her. He knows what's
+                  happening. Some guys sooner or later ges rough with you when that's happened but
+                  he takes care of her. He knows what she went through. Now they're all right. The
+                  rest of the rapes ain't around here They're a few blocks down ... on Fox Street. I
+                  never heard of none around here.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>There are a lot of abandoned buildings there?</ab>
+            </sp>
+            <pb n="10"/>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Yeah. Most of Fox Street is abandoned. The buildings are standing up by surprise.
+                  The gangs go there and forget it. First they use the basement and from the
+                  basement they move up and up and up. Then they have the whole building. In a few
+                  months the whole building is condemned.</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Like after a war. Your mother and people who live in places like that call those
+                  places "Korea." Do you think it"s getting worse?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Oh, it's getting worser and worser. I've been living here for about eleven years.
+                  Since I was small. I seen buildings that just get put up and then I seen them get
+                  knocked down. I seen this place we live in when it was pretty. Yeah, pretty. When
+                  there was nice pretty buildings all over and now that lam older they're not pretty
+                  anymore. When it was first built it was nice. Locks on the door in the front of
+                  the building and everything. But now it's all knocked down. I remember when that
+                  store [down the street) was built. They knocked it down. They ain't nothing there
+                  no more. There was a movie house up here. Right up the block but it burned down.
+                  It ain't a movie no more. People that are very close to me moved away be cause of
+                  the neighborhood and things like that. But you got to live through it be cause
+                  everywhere you go people are going to move away. There's going to be trouble no
+                  matter. where you are. Trouble always follows. Like I got a friend that died. She
+                  was close to me. Her name was Edna. She was going out with my brother and she ran
+                  away with him for a while. Her mother brang her back home and she was working. As
+                  a matter of fact she was working down Kelly Street where she died. They shot her
+                  four times in the back and she's dead.</ab>
+            </sp>
+            <pb n="11"/>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Who shot her?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>We don't know who shot her. They said she look like another girl that they had a
+                  contract out on and they shot her four times in the back with a .38. She was in a
+                  different gang but she was close to me. Very close to me. When she died I felt it
+                  for a long time. I wouldn't be as happy as I was. I wouldn't talk a lot. I'd just
+                  stay to myself and sit alone. I felt like I lost one of my family when she died. I
+                  went to her funeral. I used to go down there to New Jersey and look at the grave
+                  Now there's nothing. Just her name. But she was only fourteen when she died
+                  Fourteen. Every time four days before my birthday I think about her. I just get
+                  real high and drunk. I try to forget about it be cause if I keep on thinking about
+                  it it would be worse for me. That girl. I'll never forget. They thought she was an
+                  other girl. They shot her because they thought she was the other girl. They shot
+                  her. We still don't know who it was ...</ab>
+            </sp>
+            <sp>
+               <speaker>Martine:</speaker>
+               <ab>Do you think of moving out when you get older?</ab>
+            </sp>
+            <sp>
+               <speaker>Vicki:</speaker>
+               <ab>Sometime. But in a way I can't move because I was raised here so I’m always going
+                  to come back. Either I’m going to come back to look at the place or I’m going to
+                  come back and wind up living down here. I’m never going to leave the place because
+                  I’m used to it. I’m used to one place and if I go to another I’m not going to get
+                  used to it. I love this place no matter how fucked up it looks. I was born here
+                  and raised here and I guess I’m going to stay here. Ain't nobody and no one going
+                  to stop me from doing what I want to do. If your mind is set up to do some thing,
+                  you going to do it. I guess if I’m going to become something or if I’m go ing to
+                  get fucked up I don't have to go out of state to do it. This is the South Bronx
+                  and you take it the way it is. When you come down here you got to live it.</ab>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <p> -Excerpted from <title>Vicki</title>. a videotape by Martine Barrat</p>
+      </back>
+
+   </text>
+</TEI>

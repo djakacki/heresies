@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -6,16 +11,28 @@
 				<author>Betsy Damon</author>
 				<author>Su Friedrich</author>
 				<respStmt>
+					<persName>Eowyn Andres</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
 					<persName>Haley Beardsley</persName>
-					<resp>Editor, encoder</resp>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lyndon Beier</persName>
+					<resp>Editor (2023-2025)</resp>
 				</respStmt>
 				<respStmt>
 					<persName>Erica Delsandro</persName>
 					<resp>Investigator, editor</resp>
 				</respStmt>
 				<respStmt>
+					<persName>Mia DeRoco</persName>
+					<resp>Editor (2023-2025)</resp>
+				</respStmt>
+				<respStmt>
 					<persName>Margaret Hunter</persName>
-					<resp>Editor</resp>
+					<resp>Editor (2021-2024)</resp>
 				</respStmt>
 				<respStmt>
 					<persName>Diane Jakacki</persName>
@@ -23,39 +40,67 @@
 				</respStmt>
 				<respStmt>
 					<persName>Sophie McQuaide</persName>
-					<resp>Editor</resp>
+					<resp>Editor (2021-2023)</resp>
 				</respStmt>
 				<respStmt>
 					<persName>Olivia Martin</persName>
-					<resp>Editor, encoder</resp>
+					<resp>Editor, encoder (2021)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zoha Nadeer</persName>
+					<resp>Editor (2022-2023)</resp>
 				</respStmt>
 				<respStmt>
 					<persName>Bri Perea</persName>
-					<resp>Editor</resp>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Carrie Pirmann</persName>
+					<resp>HTR editor, encoder (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Ricky Rodriguez</persName>
+					<resp>Editor (2022-2023)</resp>
 				</respStmt>
 				<respStmt>
 					<persName>Roger Rothman</persName>
 					<resp>Investigator, editor</resp>
 				</respStmt>
 				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zaely Rodriguez</persName>
+					<resp>Editor (2025-Present)</resp>
+				</respStmt>
+				<respStmt>
 					<persName>Kaitlyn Segreti</persName>
-					<resp>Editor</resp>
+					<resp>Editor (2021-2025)</resp>
 				</respStmt>
 				<respStmt>
 					<persName>Maggie Smith</persName>
-					<resp>Editor</resp>
+					<resp>Editor (2021-2024)</resp>
 				</respStmt>
 				<respStmt>
 					<persName>Maya Wadhwa</persName>
-					<resp>Editor</resp>
+					<resp>Editor (2021-2023)</resp>
 				</respStmt>
 				<respStmt>
-					<persName>Ricky Rodriguez</persName>
-					<resp>Editor</resp>
+					<persName>Kelly Troop</persName>
+					<resp>Editor (2023-2025)</resp>
 				</respStmt>
 				<respStmt>
 					<persName>Lucy Wadsworth</persName>
-					<resp>Editor</resp>
+					<resp>Editor (2022-2025)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anna Marie Wingard</persName>
+					<resp>Editor (2023-2025)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Wychock</persName>
+					<resp>Graduate Editor (2024-Present)</resp>
 				</respStmt>
 				<funder>Bucknell University Humanities Center</funder>
 				<funder>Bucknell University Office of Undergraduate Research</funder>
@@ -73,20 +118,19 @@
 					</address>
 				</distributor>
 				<availability>
-					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial
-						4.0 International (CC BY-NC 4.0)</licence>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+						International (CC BY-NC 4.0)</licence>
 					<licence>Heresies journal: © Heresies Collective</licence>
 				</availability>
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
 					<analytic>
-						<title>Heresies Issue #3: Lesbian Art and Artists</title>
+						<title>Lesbian Art and Artists</title>
 					</analytic>
 					<monogr>
 						<imprint>
-							<publisher>HERESIES: A Feminist Publication on Art and
-								Politics</publisher>
+							<publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
 							<pubPlace>
 								<address>
 									<name>Heresies</name>
@@ -101,509 +145,34 @@
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
-	<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?person_annotation_20230217083927171",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-02-17T13:39:27.171Z",
-	"dcterms:modified": "2023-02-17T13:39:27.171Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/Mayawadhwa",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Maya Wadhwa"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?person_annotation_20230217083927171#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?person_annotation_20230217083927171#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/byline/persName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q43078535",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.1"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?person_annotation_20230217083946400",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-02-17T13:39:46.400Z",
-	"dcterms:modified": "2023-02-17T13:39:46.400Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/Mayawadhwa",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Maya Wadhwa"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?person_annotation_20230217083946400#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?person_annotation_20230217083946400#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/byline[2]/persName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q4492765",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.1"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?place_annotation_20230217084018066",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-02-17T13:40:18.066Z",
-	"dcterms:modified": "2023-02-17T13:40:18.066Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/Mayawadhwa",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Maya Wadhwa"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?place_annotation_20230217084018066#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?place_annotation_20230217084018066#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q65",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.1"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?title_annotation_20230217084143524",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-02-17T13:41:43.524Z",
-	"dcterms:modified": "2023-02-17T13:41:43.524Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/Mayawadhwa",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Maya Wadhwa"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?title_annotation_20230217084143524#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?title_annotation_20230217084143524#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/head/title"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "bf:Title",
-		"@id": "https://www.betsydamon.com/select-writings/7000-year-old-woman",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.1"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?person_annotation_20230217084601920",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-02-17T13:46:01.920Z",
-	"dcterms:modified": "2023-02-17T13:46:01.920Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/Mayawadhwa",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Maya Wadhwa"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?person_annotation_20230217084601920#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?person_annotation_20230217084601920#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p/persName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q481952",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.1"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?place_annotation_20230217085105970",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-02-17T13:51:05.970Z",
-	"dcterms:modified": "2023-02-17T13:51:05.970Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/Mayawadhwa",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Maya Wadhwa"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?place_annotation_20230217085105970#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/damon.xml?place_annotation_20230217085105970#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/back/p/placeName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q60",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.1"
-	}
-}]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader>
+	</teiHeader>
 	<text>
 		<body>
 			<pb n="10" facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue03/Issue3_images/issue3_012.jpg"/>
 			<pb n="11" facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue03/Issue3_images/issue3_013.jpg"/>
 
 
-			<head><title><title>THE 7000 YEAR OLD WOMAN</title></title></head>
-			<byline><persName key="Betsy Damon" ref="http://www.wikidata.org/entity/Q43078535">Betsy Damon</persName></byline>
-			<byline>Photographs by <persName key="Su Friedrich" ref="http://www.wikidata.org/entity/Q4492765">Su Friedrich</persName></byline>
+			<head>THE 7000 YEAR OLD WOMAN</head>
+			<byline>Betsy Damon</byline>
+			<byline>Photographs by Su Friedrich</byline>
 
 			<div>
 				<p> Who is she? I will tell you what I know about her which is very little. She is
 					my sister, mother, my grandmothers, my great grandmothers, friends and lovers.
 					She is my woman line of 7000 years and she is me the me that I know very little
-					about. She found me in <placeName key="Los Angeles" ref="http://www.wikidata.org/entity/Q65">Los Angeles</placeName> in spring, 1975. I began imagining myself
+					about. She found me in Los Angeles in spring, 1975. I began imagining myself
 					covered with small bags filled with flour. For the next two years I constantly
 					saw the image with one change. She became a clown and I decided to paint my body
 					and face white. Only after completing the first Sacred Grove, did I identify her
 					as a 7000-year-old woman. While I was more and more in awe of her and did not
-					know very much about her, naming her was the first step towards performing her.
-					What has become clear is that I am a facilitator for her. I have some skills and
+					know very much about her, naming her was the first step towards performing her.</p>
+					<p>What has become clear is that I am a facilitator for her. I have some skills and
 					discipline but she has her own magic. I learn about her through the
 					performances, that is, through her existence.</p>
-			</div>
-
+			
 
 			<div>
-				<head><title key="Performance #1: A Sacred Grove Collaboration" ref="https://www.betsydamon.com/select-writings/7000-year-old-woman">Performance #1: A Sacred Grove Collaboration</title></head>
+				<head>Performance #1: A Sacred Grove Collaboration</head>
 				<dateline>
 					<orgName>Cayman Gallery,</orgName>
 					<placeName>New York</placeName>
@@ -633,7 +202,7 @@
 					maybe twenty times more burdened than the thirty-year-old by her story. While I
 					don’t understand the mathematics of this I did feel it to be true. If we had had
 					7000 years of celebrated female energy this would be different.</p>
-				<p>During the performance I was</p>
+				<p>During the performance I was
 				<list>
 					<item>a bird</item>
 					<item>a clown</item>
@@ -644,6 +213,7 @@
 					<item>a strip-tease artist</item>
 					<item>sensuous and beautiful</item>
 				</list>
+				</p>
 				<p>After the performance I was certain that at some time in history women were so
 					connected to their strength that the ideas of mother, wife, lesbian, witch as we
 					know them did not exist.</p>
@@ -652,7 +222,7 @@
 
 			<div>
 				<head>Performance f2: A Street Event</head>
-				<dateline><title>Claiming a space</title> on <placeName>Prince Street near West
+				<dateline>Claiming a space on <placeName>Prince Street near West
 						Broadway, New York</placeName>
 					<date>May 21, 1977</date>
 					<time>1-3 p.m.</time></dateline>
@@ -679,7 +249,7 @@
 					the circle cutting the bags away, letting the flour spill out on handing the
 					bags to the viewers. Without the bags to protect me, my sense of vulnerability
 					was intolerable and l returned to the center and squatted to finish the piece.
-					Throughout the performance, <persName key="Amy Sillman" ref="http://www.wikidata.org/entity/Q481952">Amy Sillman</persName> painted yellow triangles around the sand
+					Throughout the performance, Amy Sillman painted yellow triangles around the sand
 					circle. Her activity, more intimately connected with the cobble stones and
 					always at the mercy of the crowd was the only buttress between me and the
 					crowd.</p>
@@ -694,12 +264,16 @@
 			</div>
 			<pb n="13" facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue03/Issue3_images/issue3_015.jpg"/>
 			<div>
-				<head>Performance #2: A Street Event</head>
-				<head>A description by Su Friedrich who assisted in the performance of the
+				<head>Performance #2: A Street Event<lb/>
+				A description by Su Friedrich who assisted in the performance of the
 					event</head>
-				<p>Betsy’s magic circle:</p>
-				<p>The 7000 year old woman’s Sacred Grove.</p>
-				<p>My temporary refuge, my stage.</p>
+				<p>
+					Betsy’s magic circle:
+					<list>					
+				<item>The 7000 year old woman’s Sacred Grove.</item>
+				<item>My temporary refuge, my stage.</item>
+					</list>
+				</p>
 				<p>Private activities becoming public, intimate gestures between Betsy and me being
 					questioned, observed encouraged or debased by the fluctuating crowd. Westchester
 					ladies, street tough boys, perplexed and absorbed girls, Soho thinkers and
@@ -738,16 +312,15 @@
 					pour out and cover the ground, leaving a soft pink trail, a circular trail of
 					footsteps and discarded bags.</p>
 			</div>
+		</div>
 		</body>
 		<back>
-			<p>Betsy Damon is a performer, sculptor and mother who recently moved to <placeName key="New York City" ref="http://www.wikidata.org/entity/Q60">New York City</placeName>.
+			<p>Betsy Damon is a performer, sculptor and mother who recently moved to New York City.
 				Over the last five years she has been a visiting artist and lecturer at many
 				universities, involved in feminist art programs, and founded a Feminist Studio in
 				Ithaca, New York.</p>
 			<p>Su Friedrich is a freelance photographer who is interested in doing projects which
 				explore fantasy and deception.</p>
 		</back>
-
-
 	</text>
 </TEI>
