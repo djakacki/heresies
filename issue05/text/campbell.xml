@@ -147,52 +147,60 @@
    </teiHeader>
    <text>
       <body>
-         <div><pb n='5'/>
-            <p>
-               <lb/>Mother With the
-               <lb/>Moon in Your Mouth
-               <lb/>Alla Bozarth Campbell
-            </p>
-            <p>
-               <lb/>Sitting by the Maiden Well
-               <lb/>with your host of pigs
-               <lb/>suckling and grunting
-               <lb/>Goddess of Spring-to-Life,
-               <lb/>White Sow Goddess
-               <lb/>rolling with desire
-               <lb/>in the hay mounds
-               <lb/>in the Age of the Molten Moon,
-               <lb/>Ishtar, Goddess of Underdeath,
-               <lb/>the moon rising in the east
-               <lb/>over places of burial and birth
-               <lb/>omphalos flowers resting
-               <lb/>in their hollowed nest,
-               <lb/>a bee making honey
-               <lb/>from earth&apos;s bellyhole
-               <lb/>your life shines
-               <lb/>and even the Laughless Rock
-               <lb/>rocks with laughter,
-               <lb/>cracks and rocks,
-               <lb/>unable to attend
-               <lb/>your magic
-               <lb/>You, Woman Impervious,
-               <lb/>Moon Stuck in Her Throat,
-               <lb/>teach me the old ways,
-               <lb/>put me to sleep with
-               <lb/>the old magic,
-               <lb/>make stars rise
-               <lb/>on my breasts
-               <lb/>like silver women
-               <lb/>dancing naked
-               <lb/>encircled by night
-               <lb/>by a legion of wings.
-               <lb/>From ages of ages
-               <lb/>arise from the dark,
-               <lb/>the flash of your buckle,
-               <lb/>the beat of your braceleted
-               <lb/>arms on our breasts,
-               <lb/>Moon Mother and Maiden, Awake!
-            </p>
+         <div type="poem">
+            <pb n='5'/>
+            <head>Mother With the Moon in Your Mouth</head>
+               <byline>Alla Bozarth Campbell</byline>
+            
+               <lg>
+                  <l>Sitting by the Maiden Well</l>
+               <l>with your host of pigs</l>
+               <l>suckling and grunting</l>
+               <l>Goddess of Spring-to-Life,</l>
+               <l>White Sow Goddess</l>
+               <l>rolling with desire</l>
+               <l>in the hay mounds</l>
+               <l>in the Age of the Molten Moon,</l>
+               <l>Ishtar, Goddess of Underdeath,</l>
+               <l>the moon rising in the east</l>
+               <l>over places of burial and birth</l>
+               </lg>
+               <lg>
+                  <l>omphalos flowers resting</l>
+               <l>in their hollowed nest,</l>
+               <l>a bee making honey</l>
+               <l>from earth&apos;s bellyhole</l>
+               </lg>
+               <lg>
+                  <l>your life shines</l>
+               <l>and even the Laughless Rock</l>
+               <l>rocks with laughter,</l>
+               <l>cracks and rocks,</l>
+               <l>unable to attend</l>
+               <l>your magic</l>
+               </lg>
+               <lg>
+                  <l>You, Woman Impervious,</l>
+               <l>Moon Stuck in Her Throat,</l>
+               <l>teach me the old ways,</l>
+               <l>put me to sleep with</l>
+               <l>the old magic,</l>
+               <l>make stars rise</l>
+               <l>on my breasts</l>
+               <l>like silver women</l>
+               <l>dancing naked</l>
+               <l>encircled by night</l>
+               <l>by a legion of wings.</l>
+               </lg>
+               <lg>
+                  <l>From ages of ages</l>
+               <l>arise from the dark,</l>
+               <l>the flash of your buckle,</l>
+               <l>the beat of your braceleted</l>
+               <l>arms on our breasts,</l>
+               <l>Moon Mother and Maiden, Awake!</l>
+               </lg>
+            <figure><caption>The Goddess Yakshi with parrot. Mathura, India. 2nd century A.D.</caption></figure>
          </div>
       </body>
    </text>
