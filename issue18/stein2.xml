@@ -1,15 +1,147 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type='main'>Heresies no 18</title>
+				<title>The Graphic Ordering of Desire</title>
+				<author>Sally Stein</author>
+				<respStmt>
+					<persName>Eowyn Andres</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Haley Beardsley</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lyndon Beier</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Erica Delsandro</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mia DeRoco</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Margaret Hunter</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Invesigator, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sophie McQuaide</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Martin</persName>
+					<resp>Editor, encoder (2021)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zoha Nadeer</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bri Perea</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Carrie Pirmann</persName>
+					<resp>Editor, encoder (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Ricky Rodriguez</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Roger Rothman</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kaitlyn Segreti</persName>
+					<resp>Editor (2021-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maggie Smith</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maya Wadhwa</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kelly Troop</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lucy Wadswoth</persName>
+					<resp>Editor (2022-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anna Marie Wingard</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Wychock</persName>
+					<resp>Graduate Editor (2024-Present)</resp>
+				</respStmt>
+				<funder>Bucknell University Humanities Center</funder>
+				<funder>Bucknell University Office of Undergraduate Research</funder>
+				<funder>The Mellon Foundation</funder>
+				<funder>National Endowment for the Humanities</funder>
 			</titleStmt>
 			<publicationStmt>
-				<publisher>tranScriptorium</publisher>
+				<distributor>
+					<name>Bucknell University</name>
+					<address>
+						<street>One Dent Drive</street>
+						<settlement>Lewisburg</settlement>
+						<region>Pennsylvania</region>
+						<postCode>17837</postCode>
+					</address>
+				</distributor>
+				<availability>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+						International (CC BY-NC 4.0)</licence>
+					<licence>Heresies journal: © Heresies Collective</licence>
+				</availability>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl><publisher>TRP document creator: cmp016@bucknell.edu</publisher></bibl>
+				<biblStruct>
+					<analytic>
+						<title>Feminism and Class</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+							<pubPlace>
+								<address>
+									<name>Heresies</name>
+									<postBox>P.O. Boxx 766, Canal Street Station</postBox>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<postCode>10013</postCode>
+								</address>
+							</pubPlace>
+						</imprint>
+					</monogr>
+				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
@@ -18,779 +150,760 @@
 			<div>
 				<pb n='9'/>
 				<p>
-					<lb facs='#facs_9_l_19' n='N001'/>THE GRAPHIC ORDERING OF DESIRE
+					THE GRAPHIC ORDERING OF DESIRE
 				</p>
 				<p>
-					<lb facs='#facs_9_r_3_1_tl_1' n='N001'/>Modernization of
-					<lb facs='#facs_9_r_3_1_tl_2' n='N002'/>A Middle-Class
-					<lb facs='#facs_9_r_3_1_tl_3' n='N003'/>Women&apos;s Magazine,
-					<lb facs='#facs_9_r_3_1_tl_4' n='N004'/>1914-1939
+					Modernization of
+					A Middle-Class
+					Women&apos;s Magazine,
+					1914-1939
 				</p>
 				<p>
-					<lb facs='#facs_9_r_4_1_tl_1' n='N001'/>SALLY STEIN
+					SALLY STEIN
 				</p>
 				<p>
-					<lb facs='#facs_9_l' n='N001'/>In the 1920s study Middletown, a Muncie, Indiana housewife gave this
-					<lb facs='#facs_9_l_1' n='N002'/>account of her reading habits:
+					In the 1920s study Middletown, a Muncie, Indiana housewife gave this
+					account of her reading habits:
 				</p>
 				<p>
-					<lb facs='#facs_9_l_45' n='N001'/>I just read magazines in my scraps of time. I should so like to do more consecu-
-					<lb facs='#facs_9_l_46' n='N002'/>tive reading but I don’t know of any reading course or how to make one out.
+					I just read magazines in my scraps of time. I should so like to do more consecutive reading but I don’t know of any reading course or how to make one out.
 				</p>
 				<p>
-					<lb facs='#facs_9_l_2' n='N001'/>A key phrase here is the &quot;scraps of time,” the sense of fragmented lei-
-					<lb facs='#facs_9_l_3' n='N002'/>sure time which characterized women’s work in the home. This woman
-					<lb facs='#facs_9_l_4' n='N003'/>was still describing her activity with magazines as &quot;reading,” but she was
-					<lb facs='#facs_9_l_5' n='N004'/>clearly distinguishing between this form of reading and the more continu
-					<lb facs='#facs_9_l_6' n='N005'/>ous reading required of traditional literature. It won’t ever be possible to
-					<lb facs='#facs_9_l_7' n='N006'/>know exactly what she was getting from magazines; but if we are to begin
-					<lb facs='#facs_9_l_8' n='N007'/>to comprehend the kinds of messages transmitted and the reasons for the
-					<lb facs='#facs_9_l_9' n='N008'/>medium’s enormous appeal in this century, we need to develop new meth-
-					<lb facs='#facs_9_l_10' n='N009'/>ods of conceptualizing the content and construction of the modern wom-
-					<lb facs='#facs_9_l_11' n='N010'/>en’s magazine.
+					A key phrase here is the &quot;scraps of time,” the sense of fragmented leisure time which characterized women’s work in the home. This woman
+					was still describing her activity with magazines as &quot;reading,” but she was
+					clearly distinguishing between this form of reading and the more continu
+					ous reading required of traditional literature. It won’t ever be possible to
+					know exactly what she was getting from magazines; but if we are to begin
+					to comprehend the kinds of messages transmitted and the reasons for the
+					medium’s enormous appeal in this century, we need to develop new methods of conceptualizing the content and construction of the modern women’s magazine.
 				</p>
 				<p>
-					<lb facs='#facs_9_l_43' n='N001'/>The magazine’s use of texts implies a fairly rational mode of apprehen-
-					<lb facs='#facs_9_l_44' n='N002'/>sion. It would be inaccurate, however, to describe most magazine reading
-					<lb facs='#facs_9_l_47' n='N003'/>as a straight, linear process; though often referred to as a &quot;book” by editors,
-					<lb facs='#facs_9_l_48' n='N004'/>the typical magazine is not organized along a single continuum. By sand-
-					<lb facs='#facs_9_l_49' n='N005'/>wiching within its covers a variety of discrete texts, the magazine invites us
-					<lb facs='#facs_9_l_50' n='N006'/>to pick and choose, to move backwards as well as forwards, in a way that
-					<lb facs='#facs_9_l_51' n='N007'/>suggests that we not only will the process to continue by physically turning
-					<lb facs='#facs_9_l_52' n='N008'/>the pages (distinctly different from the more passive modes of radio and
-					<lb facs='#facs_9_l_53' n='N009'/>television reception) but that we &quot;freely” negotiate a &quot;personal” path through
-					<lb facs='#facs_9_l_54' n='N010'/>the magazine labyrinth.
+					The magazine’s use of texts implies a fairly rational mode of apprehension. It would be inaccurate, however, to describe most magazine reading
+					as a straight, linear process; though often referred to as a &quot;book” by editors,
+					the typical magazine is not organized along a single continuum. By sandwiching within its covers a variety of discrete texts, the magazine invites us
+					to pick and choose, to move backwards as well as forwards, in a way that
+					suggests that we not only will the process to continue by physically turning
+					the pages (distinctly different from the more passive modes of radio and
+					television reception) but that we &quot;freely” negotiate a &quot;personal” path through
+					the magazine labyrinth.
 				</p>
 				<p>
-					<lb facs='#facs_9_l_12' n='N001'/>We do enjoy considerable freedom in determining our experience with
-					<lb facs='#facs_9_l_13' n='N002'/>magazines, and, as the testimony of the Muncie housewife suggests, the
-					<lb facs='#facs_9_l_14' n='N003'/>flexibility of the magazine format is one of the chief reasons for its popular-
-					<lb facs='#facs_9_l_15' n='N004'/>ity as a modern, mass communication form. Moreover, a regular magazine
-					<lb facs='#facs_9_l_16' n='N005'/>reader develops a routine to avoid perpetual distraction. This technique of
-					<lb facs='#facs_9_l_17' n='N006'/>&quot;reading with blinders” is a logical response to the amount of visual diver
-					<lb facs='#facs_9_l_18' n='N007'/>sion incorporated in the modern magazine.
+					We do enjoy considerable freedom in determining our experience with
+					magazines, and, as the testimony of the Muncie housewife suggests, the
+					flexibility of the magazine format is one of the chief reasons for its popularity as a modern, mass communication form. Moreover, a regular magazine
+					reader develops a routine to avoid perpetual distraction. This technique of
+					&quot;reading with blinders” is a logical response to the amount of visual diversion incorporated in the modern magazine.
 				</p>
 				<p>
-					<lb facs='#facs_9_l_33' n='N001'/>The magazine forces us to discipline our focus in much the same way
-					<lb facs='#facs_9_l_34' n='N002'/>that modern highway driving cultivates split-second timing. But if we em-
-					<lb facs='#facs_9_l_35' n='N003'/>ployed perfect tunnel-vision while driving, the value of billboards would be
-					<lb facs='#facs_9_l_36' n='N004'/>nil. Any description of the highway which focused exclusively on the road
-					<lb facs='#facs_9_l_37' n='N005'/>would fail to address the way this form of mobility allows us to achieve
-					<lb facs='#facs_9_l_38' n='N006'/>specific destinations while constantly recharging our desire for less imme-
-					<lb facs='#facs_9_l_39' n='N007'/>diately attainable ends. The car encloses us, the road directs us, and these
-					<lb facs='#facs_9_l_40' n='N008'/>conditions make ads especially welcome as points of reference and as em-
-					<lb facs='#facs_9_l_41' n='N009'/>blems of our long-term goals.
+					The magazine forces us to discipline our focus in much the same way
+					that modern highway driving cultivates split-second timing. But if we employed perfect tunnel-vision while driving, the value of billboards would be
+					nil. Any description of the highway which focused exclusively on the road
+					would fail to address the way this form of mobility allows us to achieve
+					specific destinations while constantly recharging our desire for less immediately attainable ends. The car encloses us, the road directs us, and these
+					conditions make ads especially welcome as points of reference and as emblems of our long-term goals.
 				</p>
 				<p>
-					<lb facs='#facs_9_l_42' n='N001'/>The picture magazine was refined at the same time that the commercial
-					<lb facs='#facs_9_l_55' n='N002'/>roadscape was being developed. Both forms of communication reflect the
-					<lb facs='#facs_9_l_56' n='N003'/>same impulse in the history of corporate capitalism to mobilize consump-
-					<lb facs='#facs_9_l_57' n='N004'/>tion at a national level. But unlike recent studies of car culture and &quot;the
-					<lb facs='#facs_9_l_58' n='N005'/>strip,” the magazine has rarely been studied as unified cultural artifact.
+					The picture magazine was refined at the same time that the commercial
+					roadscape was being developed. Both forms of communication reflect the
+					same impulse in the history of corporate capitalism to mobilize consumption at a national level. But unlike recent studies of car culture and &quot;the
+					strip,” the magazine has rarely been studied as unified cultural artifact.
 				</p>
 				<p>
-					<lb facs='#facs_9_r_5_1_tl_1' n='N001'/>Author Sally Stein writes
-					<lb facs='#facs_9_r_5_1_tl_2' n='N002'/>cultural criticism on photography,
-					<lb facs='#facs_9_r_5_1_tl_3' n='N003'/>women, and mass media.
+					Author Sally Stein writes
+					cultural criticism on photography,
+					women, and mass media.
 				</p>
 				<pb n='10'/>
 				<p>
-					<lb facs='#facs_10_l' n='N001'/>Studies of magazines have usually treated literary texts, or edi-
-					<lb facs='#facs_10_l_1' n='N002'/>torial images, or ads, as independent entities, and have pro
-					<lb facs='#facs_10_l_2' n='N003'/>ceeded to analyze their meanings divorced from their original
-					<lb facs='#facs_10_l_3' n='N004'/>context. This strategy flattens our conception of the way maga-
-					<lb facs='#facs_10_l_4' n='N005'/>zines came to be assembled and then received. For these ele-
-					<lb facs='#facs_10_l_5' n='N006'/>ments are certainly not apprehended in isolation; rather images
-					<lb facs='#facs_10_l_6' n='N007'/>and texts, ads and editorial matter, are each designed to work
-					<lb facs='#facs_10_l_7' n='N008'/>off each other within the larger ensemble of the magazine.
+					Studies of magazines have usually treated literary texts, or editorial images, or ads, as independent entities, and have pro
+					ceeded to analyze their meanings divorced from their original
+					context. This strategy flattens our conception of the way magazines came to be assembled and then received. For these elements are certainly not apprehended in isolation; rather images
+					and texts, ads and editorial matter, are each designed to work
+					off each other within the larger ensemble of the magazine.
 				</p>
 				<p>
-					<lb facs='#facs_10_l_40' n='N001'/>Historians and sociologists have often referred to the phe
-					<lb facs='#facs_10_l_41' n='N002'/>nomenal increases in ad revenues in the post-World War I era
-					<lb facs='#facs_10_l_42' n='N003'/>as an index of change in the traditional women’s magazine.
-					<lb facs='#facs_10_l_43' n='N004'/>But the statistics alone say very little about the character of
-					<lb facs='#facs_10_l_44' n='N005'/>these changes or the way the magazine remained a coherently
-					<lb facs='#facs_10_l_45' n='N006'/>structured text, a social product whose value derived in part
-					<lb facs='#facs_10_l_46' n='N007'/>from the way it organized its diverse collection of materials
-					<lb facs='#facs_10_l_47' n='N008'/>Thus I am interested in the specific ways new graphic tech-
-					<lb facs='#facs_10_l_48' n='N009'/>niques—color, photography, serial cartoons—were orchestrated
-					<lb facs='#facs_10_l_49' n='N010'/>in a more dynamic layout to sustain the reader’s interest and to
-					<lb facs='#facs_10_l_50' n='N011'/>draw the reader closer to the marketplace. My stress on the chang
-					<lb facs='#facs_10_l_51' n='N012'/>ing material aspects of the magazine is not intended to promote
-					<lb facs='#facs_10_l_52' n='N013'/>a formalist analysis per se. Rather I hope to bring home the
-					<lb facs='#facs_10_l_53' n='N014'/>point that the women’s magazine in the twentieth century, though
-					<lb facs='#facs_10_l_54' n='N015'/>continuing to include lengthy literary texts, was becoming a
-					<lb facs='#facs_10_l_55' n='N016'/>predominantly visual experience, constructing an audience of
-					<lb facs='#facs_10_l_56' n='N017'/>spectators and, by extension, consumers.
+					Historians and sociologists have often referred to the phenomenal increases in ad revenues in the post-World War I era
+					as an index of change in the traditional women’s magazine.
+					But the statistics alone say very little about the character of
+					these changes or the way the magazine remained a coherently
+					structured text, a social product whose value derived in part
+					from the way it organized its diverse collection of materials
+					Thus I am interested in the specific ways new graphic techniques—color, photography, serial cartoons—were orchestrated
+					in a more dynamic layout to sustain the reader’s interest and to
+					draw the reader closer to the marketplace. My stress on the changing material aspects of the magazine is not intended to promote
+					a formalist analysis per se. Rather I hope to bring home the
+					point that the women’s magazine in the twentieth century, though
+					continuing to include lengthy literary texts, was becoming a
+					predominantly visual experience, constructing an audience of
+					spectators and, by extension, consumers.
 				</p>
 				<p>
-					<lb facs='#facs_10_l_57' n='N001'/>The Ladies Home Journal provides a good case study of the
-					<lb facs='#facs_10_l_58' n='N002'/>reshaping of the nineteenth-century women’s magazine into its
-					<lb facs='#facs_10_l_59' n='N003'/>familiar twentieth-century format. For half a century beginning
-					<lb facs='#facs_10_l_60' n='N004'/>in the 1890s, it was the most successful women’s publication
-					<lb facs='#facs_10_l_61' n='N005'/>leading in advertising revenues and circulation figures. It its
-					<lb facs='#facs_10_l_62' n='N006'/>prime, numerous editors and writers published detailed &quot;in-
-					<lb facs='#facs_10_l_63' n='N007'/>side” accounts of the magazine’s operation. Most important is
-					<lb facs='#facs_10_l_64' n='N008'/>the fact that the Journal’s enormous success did not rest upon a
-					<lb facs='#facs_10_l_65' n='N009'/>fixed formula but involved especially aggressive innovation be-
-					<lb facs='#facs_10_l_66' n='N010'/>ginning around World War I—a good twenty years before that
-					<lb facs='#facs_10_l_67' n='N011'/>moment generally thought of as the birth of the modern picture
-					<lb facs='#facs_10_l_68' n='N012'/>magazine. Indeed the more familiar success story of Life
-					<lb facs='#facs_10_l_69' n='N013'/>magazine—born in 1936 with all the fanfare of complete
-					<lb facs='#facs_10_l_70' n='N014'/>&quot;originality&quot;—represents a relatively late development, based
-					<lb facs='#facs_10_l_71' n='N015'/>largely on the earlier transformation of the women’s magazine.
+					The Ladies Home Journal provides a good case study of the
+					reshaping of the nineteenth-century women’s magazine into its
+					familiar twentieth-century format. For half a century beginning
+					in the 1890s, it was the most successful women’s publication
+					leading in advertising revenues and circulation figures. It its
+					prime, numerous editors and writers published detailed &quot;in” accounts of the magazine’s operation. Most important is
+					the fact that the Journal’s enormous success did not rest upon a
+					fixed formula but involved especially aggressive innovation be-
+					ginning around World War I—a good twenty years before that
+					moment generally thought of as the birth of the modern picture
+					magazine. Indeed the more familiar success story of Life
+					magazine—born in 1936 with all the fanfare of complete
+					&quot;originality&quot;—represents a relatively late development, based
+					largely on the earlier transformation of the women’s magazine.
 				</p>
 				<p>
-					<lb facs='#facs_10_l_8' n='N001'/>In order to understand why women’s magazines were re-
-					<lb facs='#facs_10_l_9' n='N002'/>vamped especially early in this century, we need to consider the
-					<lb facs='#facs_10_l_10' n='N003'/>impact of changes in two social spheres: that of industrial pro-
-					<lb facs='#facs_10_l_11' n='N004'/>duction and that of domestic reproduction. These spheres were
-					<lb facs='#facs_10_l_12' n='N005'/>never wholly &quot;separate,&quot; but in this period the two became closely
-					<lb facs='#facs_10_l_13' n='N006'/>synchronized, and women’s magazines played an important me
-					<lb facs='#facs_10_l_14' n='N007'/>diating link in that process.
+					In order to understand why women’s magazines were re-
+					vamped especially early in this century, we need to consider the
+					impact of changes in two social spheres: that of industrial pro-
+					duction and that of domestic reproduction. These spheres were
+					never wholly &quot;separate,&quot; but in this period the two became closely
+					synchronized, and women’s magazines played an important me
+					diating link in that process.
 				</p>
 				<p>
-					<lb facs='#facs_10_l_110' n='N001'/>With the late nineteenth-century emergence of monopoly cap-
-					<lb facs='#facs_10_l_111' n='N002'/>italism, factory work changed drastically. Industrial consolida-
-					<lb facs='#facs_10_l_112' n='N003'/>tion led to larger workplaces, assembling far more workers at a
-					<lb facs='#facs_10_l_113' n='N004'/>single site, thereby leading to new ways of organizing manufac-
-					<lb facs='#facs_10_l_114' n='N005'/>turing processes. The foreman’s traditional authority was rap-
-					<lb facs='#facs_10_l_115' n='N006'/>idly preempted by a new breed of professionally trained industrial
-					<lb facs='#facs_10_l_116' n='N007'/>engineers. With stop watches in hand, these men entered the
-					<lb facs='#facs_10_l_117' n='N008'/>shop floor to study all details of the established production
-					<lb facs='#facs_10_l_118' n='N009'/>techniques with the objective of transforming craft skills in to a
-					<lb facs='#facs_10_l_119' n='N010'/>series of simple, endlessly repeatable tasks. By &quot;deskilling” work,
-					<lb facs='#facs_10_l_120' n='N011'/>the efficiency experts promised to break shopfloor resistance.
-					<lb facs='#facs_10_l_121' n='N012'/>Logically, production rates would soar, for it would now be pos-
-					<lb facs='#facs_10_l_122' n='N013'/>sible to exploit far more efficiently the mass of common labor-
-					<lb facs='#facs_10_l_123' n='N014'/>ers who—lacking long-developed craft skills—were far more
-					<lb facs='#facs_10_l_124' n='N015'/>vulnerable to constant monitoring, thus easily pressured to in-
-					<lb facs='#facs_10_l_125' n='N016'/>crease output.
+					With the late nineteenth-century emergence of monopoly cap-
+					italism, factory work changed drastically. Industrial consolida-
+					tion led to larger workplaces, assembling far more workers at a
+					single site, thereby leading to new ways of organizing manufac-
+					turing processes. The foreman’s traditional authority was rap-
+					idly preempted by a new breed of professionally trained industrial
+					engineers. With stop watches in hand, these men entered the
+					shop floor to study all details of the established production
+					techniques with the objective of transforming craft skills in to a
+					series of simple, endlessly repeatable tasks. By &quot;deskilling” work,
+					the efficiency experts promised to break shopfloor resistance.
+					Logically, production rates would soar, for it would now be pos-
+					sible to exploit far more efficiently the mass of common labor-
+					ers who—lacking long-developed craft skills—were far more
+					vulnerable to constant monitoring, thus easily pressured to in-
+					crease output.
 				</p>
 				<p>
-					<lb facs='#facs_10_l_15' n='N001'/>To Frederick Winslow Taylor goes most credit for promul-
-					<lb facs='#facs_10_l_16' n='N002'/>gating the initial principles of &quot;scientific management.&quot; How-
-					<lb facs='#facs_10_l_17' n='N003'/>ever, the general process of industrial rationalization came to
-					<lb facs='#facs_10_l_18' n='N004'/>be popularly associated with Henry Ford’s introduction of the
-					<lb facs='#facs_10_l_19' n='N005'/>assembly line in 1914, which allowed Ford to hire thousands of
-					<lb facs='#facs_10_l_20' n='N006'/>unskilled workers at the unprecedented rate of S5 per day. The
-					<lb facs='#facs_10_l_21' n='N007'/>increased pay rate was easily matched by an unprecedented
-					<lb facs='#facs_10_l_22' n='N008'/>rate of production (and profit). The justly famous output of Ford’s
-					<lb facs='#facs_10_l_23' n='N009'/>assembly line constituted a truly massive demonstration of the
-					<lb facs='#facs_10_l_24' n='N010'/>value of efficiency.
+					To Frederick Winslow Taylor goes most credit for promul-
+					gating the initial principles of &quot;scientific management.&quot; How-
+					ever, the general process of industrial rationalization came to
+					be popularly associated with Henry Ford’s introduction of the
+					assembly line in 1914, which allowed Ford to hire thousands of
+					unskilled workers at the unprecedented rate of S5 per day. The
+					increased pay rate was easily matched by an unprecedented
+					rate of production (and profit). The justly famous output of Ford’s
+					assembly line constituted a truly massive demonstration of the
+					value of efficiency.
 				</p>
 				<p>
-					<lb facs='#facs_10_l_94' n='N001'/>Of couse, middle-class women had little direct involvement
-					<lb facs='#facs_10_l_95' n='N002'/>with factory work, but their work within the home changed
-					<lb facs='#facs_10_l_96' n='N003'/>quickly with the advent of scientific management. On two dis-
-					<lb facs='#facs_10_l_97' n='N004'/>tinct levels, rationalization altered the character of housework.
-					<lb facs='#facs_10_l_98' n='N005'/>Materially, monopoly capital quickly discovered that marketing
-					<lb facs='#facs_10_l_99' n='N006'/>specialists were as essential as industrial engineers, for accel-
-					<lb facs='#facs_10_l_100' n='N007'/>erated production would yield no profits if consumption were
-					<lb facs='#facs_10_l_101' n='N008'/>not also systematically managed. Ideologically, the rhetoric of
-					<lb facs='#facs_10_l_102' n='N009'/>efficiency had such appeal for the middle class (including fem-
-					<lb facs='#facs_10_l_103' n='N010'/>inists like Charlotte Perkins Gilman), that a variant on the dis-
-					<lb facs='#facs_10_l_104' n='N011'/>course of &quot;scientific management&quot; soon became part of the
-					<lb facs='#facs_10_l_105' n='N012'/>rhetoric directed at women.
+					Of couse, middle-class women had little direct involvement
+					with factory work, but their work within the home changed
+					quickly with the advent of scientific management. On two dis-
+					tinct levels, rationalization altered the character of housework.
+					Materially, monopoly capital quickly discovered that marketing
+					specialists were as essential as industrial engineers, for accel-
+					erated production would yield no profits if consumption were
+					not also systematically managed. Ideologically, the rhetoric of
+					efficiency had such appeal for the middle class (including fem-
+					inists like Charlotte Perkins Gilman), that a variant on the dis-
+					course of &quot;scientific management&quot; soon became part of the
+					rhetoric directed at women.
 				</p>
 				<p>
-					<lb facs='#facs_10_l_25' n='N001'/>But there was a fundamental contradiction in the burgeon-
-					<lb facs='#facs_10_l_26' n='N002'/>ing discourse of &quot;domestic efficiency&quot; Scientific management
-					<lb facs='#facs_10_l_27' n='N003'/>in the factory offered wage incentives in exchange for acceler-
-					<lb facs='#facs_10_l_28' n='N004'/>ated production. Domestic efficiency experts, on the other hand,
-					<lb facs='#facs_10_l_29' n='N005'/>avoided the issue of money, since they maintained the sanctity
-					<lb facs='#facs_10_l_30' n='N006'/>of women’s domestic labor as a labor of love. Without the wage
-					<lb facs='#facs_10_l_31' n='N007'/>motive, other stimuli had to be developed to promote interest in
-					<lb facs='#facs_10_l_32' n='N008'/>higher standards for housework in conjunction with the use of
-					<lb facs='#facs_10_l_33' n='N009'/>new machinery and products. Born-again housework had many
-					<lb facs='#facs_10_l_34' n='N010'/>attributes of a spiritual revival, taking hold in direct relation to
-					<lb facs='#facs_10_l_35' n='N011'/>the decline of actual managerial work and autonomy in the
-					<lb facs='#facs_10_l_36' n='N012'/>home.° And as in many faiths that do not address basic contra-
-					<lb facs='#facs_10_l_37' n='N013'/>dictions, signs were a necessary form of sustenance on the road
-					<lb facs='#facs_10_l_38' n='N014'/>to salvation.
+					But there was a fundamental contradiction in the burgeon-
+					ing discourse of &quot;domestic efficiency&quot; Scientific management
+					in the factory offered wage incentives in exchange for acceler-
+					ated production. Domestic efficiency experts, on the other hand,
+					avoided the issue of money, since they maintained the sanctity
+					of women’s domestic labor as a labor of love. Without the wage
+					motive, other stimuli had to be developed to promote interest in
+					higher standards for housework in conjunction with the use of
+					new machinery and products. Born-again housework had many
+					attributes of a spiritual revival, taking hold in direct relation to
+					the decline of actual managerial work and autonomy in the
+					home.° And as in many faiths that do not address basic contra-
+					dictions, signs were a necessary form of sustenance on the road
+					to salvation.
 				</p>
 				<p>
-					<lb facs='#facs_10_l_39' n='N001'/>Extremely sophisticated graphics appeared early in this dis-
-					<lb facs='#facs_10_l_72' n='N002'/>course. An illustration from Mrs. Christine Frederick’s 1913 home
-					<lb facs='#facs_10_l_73' n='N003'/>efficiency tract, appropriately titled The New Housekeeping,
-					<lb facs='#facs_10_l_74' n='N004'/>stands as a prototype of a new kind of communication in which
-					<lb facs='#facs_10_l_75' n='N005'/>a variety of visual and literary codes—text, drawing, photo—are
-					<lb facs='#facs_10_l_76' n='N006'/>neatly combined to suggest that a feast for the eyes could be
-					<lb facs='#facs_10_l_77' n='N007'/>produced by means of &quot;efficiency” (signified by the business
-					<lb facs='#facs_10_l_78' n='N008'/>file adapted to the kitchen) rather than by time, effort and money
-					<lb facs='#facs_10_l_79' n='N009'/>(Fig. 1). If it seems that I am reading too much into this com-
-					<lb facs='#facs_10_l_80' n='N010'/>posite image, one need only note the title of Frederick’s subse-
-					<lb facs='#facs_10_l_81' n='N011'/>quent publication—Meals that Cook Themselves (1914).
+					Extremely sophisticated graphics appeared early in this dis-
+					course. An illustration from Mrs. Christine Frederick’s 1913 home
+					efficiency tract, appropriately titled The New Housekeeping,
+					stands as a prototype of a new kind of communication in which
+					a variety of visual and literary codes—text, drawing, photo—are
+					neatly combined to suggest that a feast for the eyes could be
+					produced by means of &quot;efficiency” (signified by the business
+					file adapted to the kitchen) rather than by time, effort and money
+					(Fig. 1). If it seems that I am reading too much into this com-
+					posite image, one need only note the title of Frederick’s subse-
+					quent publication—Meals that Cook Themselves (1914).
 				</p>
 				<pb n='11'/>
 				<p>
-					<lb facs='#facs_11_l' n='N001'/>Frederick’s career path is even more revealing of the inter-
-					<lb facs='#facs_11_l_1' n='N002'/>ests best served by the rationalization of housework. Following
-					<lb facs='#facs_11_l_2' n='N003'/>her first book on domestic efficiency, she became an associate
-					<lb facs='#facs_11_l_3' n='N004'/>editor for the Ladies’ Home Journal, a position she held until
-					<lb facs='#facs_11_l_4' n='N005'/>the mid-1920s when she began to work free-lance, advising man-
-					<lb facs='#facs_11_l_5' n='N006'/>ufacturers and retailers on the best sales strategies for captur
-					<lb facs='#facs_11_l_6' n='N007'/>ing the women’s market. Thus, if initially she was committed to
-					<lb facs='#facs_11_l_7' n='N008'/>providing women with more efficient domestic skills, the dis-
-					<lb facs='#facs_11_l_8' n='N009'/>tinction between skills and commodities was then attenuated
-					<lb facs='#facs_11_l_9' n='N010'/>in the commercially sponsored forum of the women’s maga-
-					<lb facs='#facs_11_l_10' n='N011'/>zine, and the distinction was completely abandoned by the time
-					<lb facs='#facs_11_l_11' n='N012'/>she wrote her last book, Selling Mrs. Consumer (1929).
+					Frederick’s career path is even more revealing of the inter-
+					ests best served by the rationalization of housework. Following
+					her first book on domestic efficiency, she became an associate
+					editor for the Ladies’ Home Journal, a position she held until
+					the mid-1920s when she began to work free-lance, advising man-
+					ufacturers and retailers on the best sales strategies for captur
+					ing the women’s market. Thus, if initially she was committed to
+					providing women with more efficient domestic skills, the dis-
+					tinction between skills and commodities was then attenuated
+					in the commercially sponsored forum of the women’s maga-
+					zine, and the distinction was completely abandoned by the time
+					she wrote her last book, Selling Mrs. Consumer (1929).
 				</p>
 				<p>
-					<lb facs='#facs_11_l_70' n='N001'/>In the same period that Frederick’s career advanced along
-					<lb facs='#facs_11_l_71' n='N002'/>these lines, the women’s magazines were themselves rational-
-					<lb facs='#facs_11_l_72' n='N003'/>ized as marketing vehicles, providing an optimal context in which
-					<lb facs='#facs_11_l_73' n='N004'/>to sell new domestic commodities by constructing a paradoxi-
-					<lb facs='#facs_11_l_74' n='N005'/>cal vision of housework: scientifically reducible to its compo-
-					<lb facs='#facs_11_l_75' n='N006'/>nent parts yet containing still an irreducible quality of romance.
-					<lb facs='#facs_11_l_76' n='N007'/>The format could be made to mirror the compartmentalization
-					<lb facs='#facs_11_l_77' n='N008'/>of domestic tasks, while supplying instruction in all phases of
-					<lb facs='#facs_11_l_78' n='N009'/>this minutely detailed work. The magazine neatly categorized
-					<lb facs='#facs_11_l_79' n='N010'/>performance standards in matters of dressing, decorating, clean-
-					<lb facs='#facs_11_l_80' n='N011'/>ing, cooking, child-rearing ... and the repairing of home and mar
-					<lb facs='#facs_11_l_81' n='N012'/>riage if constant attention proved to be insufficient. And unlike
-					<lb facs='#facs_11_l_82' n='N013'/>conventional instruction manuals, it provided a constant stream
-					<lb facs='#facs_11_l_83' n='N014'/>of promises—false promises, or at least inflated ones—of per
-					<lb facs='#facs_11_l_84' n='N015'/>sonal benefits that would result from tending new machines
-					<lb facs='#facs_11_l_85' n='N016'/>and using new materials. What these promises lacked in sub-
-					<lb facs='#facs_11_l_86' n='N017'/>stance, they made up for in vividness—the kind of tantalizing
-					<lb facs='#facs_11_l_87' n='N018'/>but tawdry incentive proposed by the industrial engineer Fred-
-					<lb facs='#facs_11_l_88' n='N019'/>erick Winslow Taylor in his discussion of the &quot;scientific man-
-					<lb facs='#facs_11_l_89' n='N020'/>agement&quot; of young, lowpaid, female factory workers: &quot;encourage-
-					<lb facs='#facs_11_l_90' n='N021'/>ment either in the form of personal attention from those over
-					<lb facs='#facs_11_l_91' n='N022'/>them or an actual reward in sight as often as once an hour.&quot;o
+					In the same period that Frederick’s career advanced along
+					these lines, the women’s magazines were themselves rational-
+					ized as marketing vehicles, providing an optimal context in which
+					to sell new domestic commodities by constructing a paradoxi-
+					cal vision of housework: scientifically reducible to its compo-
+					nent parts yet containing still an irreducible quality of romance.
+					The format could be made to mirror the compartmentalization
+					of domestic tasks, while supplying instruction in all phases of
+					this minutely detailed work. The magazine neatly categorized
+					performance standards in matters of dressing, decorating, clean-
+					ing, cooking, child-rearing ... and the repairing of home and mar
+					riage if constant attention proved to be insufficient. And unlike
+					conventional instruction manuals, it provided a constant stream
+					of promises—false promises, or at least inflated ones—of per
+					sonal benefits that would result from tending new machines
+					and using new materials. What these promises lacked in sub-
+					stance, they made up for in vividness—the kind of tantalizing
+					but tawdry incentive proposed by the industrial engineer Fred-
+					erick Winslow Taylor in his discussion of the &quot;scientific man-
+					agement&quot; of young, lowpaid, female factory workers: &quot;encourage-
+					ment either in the form of personal attention from those over
+					them or an actual reward in sight as often as once an hour.&quot;o
 				</p>
 				<p>
-					<lb facs='#facs_11_l_12' n='N001'/>Of course, since they were underwritten by advertisers, mag-
-					<lb facs='#facs_11_l_13' n='N002'/>azines were well-suited to construct an extended visual argu-
-					<lb facs='#facs_11_l_14' n='N003'/>ment for the rewards of modern domesticity. They had another
-					<lb facs='#facs_11_l_15' n='N004'/>advantage over isolated treatises on &quot;scientific management&quot; of
-					<lb facs='#facs_11_l_16' n='N005'/>the home. Given their periodic appearance, the magazines were
-					<lb facs='#facs_11_l_17' n='N006'/>an especially effective means of inculcating new habits and stan-
-					<lb facs='#facs_11_l_18' n='N007'/>dards. Once a month, the drilling and instructions were repeated
-					<lb facs='#facs_11_l_19' n='N008'/>in slightly different form, and each repetition was accompanied
-					<lb facs='#facs_11_l_20' n='N009'/>by a new representation of the rewards—exactly the type of &quot;sci-
-					<lb facs='#facs_11_l_21' n='N010'/>entific pedagogy” advocated by the industrial psychologist Lilian
-					<lb facs='#facs_11_l_22' n='N011'/>Gilbreth in 1914: &quot;Associations ... lapse more slowly the older
-					<lb facs='#facs_11_l_23' n='N012'/>they are and the oftener they have been reviewed by renewed
-					<lb facs='#facs_11_l_24' n='N013'/>memorizing.&quot;
+					Of course, since they were underwritten by advertisers, mag-
+					azines were well-suited to construct an extended visual argu-
+					ment for the rewards of modern domesticity. They had another
+					advantage over isolated treatises on &quot;scientific management&quot; of
+					the home. Given their periodic appearance, the magazines were
+					an especially effective means of inculcating new habits and stan-
+					dards. Once a month, the drilling and instructions were repeated
+					in slightly different form, and each repetition was accompanied
+					by a new representation of the rewards—exactly the type of &quot;sci-
+					entific pedagogy” advocated by the industrial psychologist Lilian
+					Gilbreth in 1914: &quot;Associations ... lapse more slowly the older
+					they are and the oftener they have been reviewed by renewed
+					memorizing.&quot;
 				</p>
 				<p>
-					<lb facs='#facs_11_l_48' n='N001'/>The mappings presented in Venturi’s, Scott Brown’s, and
-					<lb facs='#facs_11_l_49' n='N002'/>Izenour’s Learning from Las Vegas far surpass photographs or
-					<lb facs='#facs_11_l_50' n='N003'/>any other conventional representations in providing a schematic
-					<lb facs='#facs_11_l_51' n='N004'/>overview of the signifying structure of the commercial strip. I
-					<lb facs='#facs_11_l_52' n='N005'/>sought a comparable form to conceptualize the totality of a sin-
-					<lb facs='#facs_11_l_53' n='N006'/>gle magazine issue, with the idea of then comparing changes at
-					<lb facs='#facs_11_l_54' n='N007'/>five-year intervals in the use and structuring of various graphic
-					<lb facs='#facs_11_l_55' n='N008'/>elements of the Journal between 1914 and 1939. By &quot;exploding&apos;
-					<lb facs='#facs_11_l_56' n='N009'/>the magazine into a synchronically viewed series of double pages
-					<lb facs='#facs_11_l_57' n='N010'/>—each double page being represented by a vertical bar in which
-					<lb facs='#facs_11_l_58' n='N011'/>the right hand page appears above the center line (representing
-					<lb facs='#facs_11_l_59' n='N012'/>the &quot;gutter&quot; or &quot;spine” of the magazine) and the left-hand page
-					<lb facs='#facs_11_l_60' n='N013'/>below—patterns of communication emerge which would have
-					<lb facs='#facs_11_l_61' n='N014'/>been experienced less consciously when the magazine is looked
-					<lb facs='#facs_11_l_62' n='N015'/>at page by page.
+					The mappings presented in Venturi’s, Scott Brown’s, and
+					Izenour’s Learning from Las Vegas far surpass photographs or
+					any other conventional representations in providing a schematic
+					overview of the signifying structure of the commercial strip. I
+					sought a comparable form to conceptualize the totality of a sin-
+					gle magazine issue, with the idea of then comparing changes at
+					five-year intervals in the use and structuring of various graphic
+					elements of the Journal between 1914 and 1939. By &quot;exploding&apos;
+					the magazine into a synchronically viewed series of double pages
+					—each double page being represented by a vertical bar in which
+					the right hand page appears above the center line (representing
+					the &quot;gutter&quot; or &quot;spine” of the magazine) and the left-hand page
+					below—patterns of communication emerge which would have
+					been experienced less consciously when the magazine is looked
+					at page by page.
 				</p>
 				<p>
-					<lb facs='#facs_11_l_63' n='N001'/>Though I ended up making a series of graphs on the changes
-					<lb facs='#facs_11_l_64' n='N002'/>between 1914-1939 in the use of photography, color printing,
-					<lb facs='#facs_11_l_65' n='N003'/>and narrative picture sequences, I began simply by charting the
-					<lb facs='#facs_11_l_66' n='N004'/>breakdown of editorial and advertising space in each issue. Ed-
-					<lb facs='#facs_11_l_67' n='N005'/>itorial space is shaded; advertising space is white. These first
-					<lb facs='#facs_11_l_68' n='N006'/>diagrams should not be mistaken for an economic breakdown
-					<lb facs='#facs_11_l_69' n='N007'/>of publishing costs, but they do indicate how the advertising
-					<lb facs='#facs_11_l_92' n='N008'/>basis of the magazine was reflected (and to some extent con-
+					Though I ended up making a series of graphs on the changes
+					between 1914-1939 in the use of photography, color printing,
+					and narrative picture sequences, I began simply by charting the
+					breakdown of editorial and advertising space in each issue. Ed-
+					itorial space is shaded; advertising space is white. These first
+					diagrams should not be mistaken for an economic breakdown
+					of publishing costs, but they do indicate how the advertising
+					basis of the magazine was reflected (and to some extent con-
 				</p>
 				<p>
-					<lb facs='#facs_11_l_25' n='N001'/>cealed) in the allocation of space within an issue.
+					cealed) in the allocation of space within an issue.
 				</p>
 				<p>
-					<lb facs='#facs_11_l_110' n='N001'/>Between 1914 and 1939, the ratio of advertising to editorial
-					<lb facs='#facs_11_l_111' n='N002'/>space remained relatively constant at 45%, but there are notice-
-					<lb facs='#facs_11_l_112' n='N003'/>able changes in the distribution of advertising material during
-					<lb facs='#facs_11_l_113' n='N004'/>this period. The front of the Journal always contained a dispro-
-					<lb facs='#facs_11_l_114' n='N005'/>portionate amount of editorial pages, a format designed to em-
-					<lb facs='#facs_11_l_115' n='N006'/>phasize the weight of editorial matter. Over twenty-five years,
-					<lb facs='#facs_11_l_116' n='N007'/>the solid block of editorial material was somewhat pushed back,
-					<lb facs='#facs_11_l_117' n='N008'/>allowing more full-page ads to appear on the opening pages.
-					<lb facs='#facs_11_l_118' n='N009'/>By 1939, advertising was so culturally pervasive that it was un-
-					<lb facs='#facs_11_l_119' n='N010'/>necessary to confine it to the back pages. By 1939, Fortune was
-					<lb facs='#facs_11_l_120' n='N011'/>a decade old and had made a trademark of its gallery of full-
-					<lb facs='#facs_11_l_121' n='N012'/>page ads at the front of each issue. In comparison with contem-
-					<lb facs='#facs_11_l_122' n='N013'/>porary magazines like Fortune and Vogue, the Journal still led
-					<lb facs='#facs_11_l_123' n='N014'/>with editorial emphasis, so that the reader was made conscious
-					<lb facs='#facs_11_l_124' n='N015'/>immediately of an authoritative voice which presumably organ-
-					<lb facs='#facs_11_l_125' n='N016'/>ized the following contents with her best interests in mind.
+					Between 1914 and 1939, the ratio of advertising to editorial
+					space remained relatively constant at 45%, but there are notice-
+					able changes in the distribution of advertising material during
+					this period. The front of the Journal always contained a dispro-
+					portionate amount of editorial pages, a format designed to em-
+					phasize the weight of editorial matter. Over twenty-five years,
+					the solid block of editorial material was somewhat pushed back,
+					allowing more full-page ads to appear on the opening pages.
+					By 1939, advertising was so culturally pervasive that it was un-
+					necessary to confine it to the back pages. By 1939, Fortune was
+					a decade old and had made a trademark of its gallery of full-
+					page ads at the front of each issue. In comparison with contem-
+					porary magazines like Fortune and Vogue, the Journal still led
+					with editorial emphasis, so that the reader was made conscious
+					immediately of an authoritative voice which presumably organ-
+					ized the following contents with her best interests in mind.
 				</p>
 				<p>
-					<lb facs='#facs_11_l_26' n='N001'/>The lines running in and out of the bar graph trace the inter-
-					<lb facs='#facs_11_l_27' n='N002'/>nal &quot;page flow&quot;—the way texts are broken up and continued
-					<lb facs='#facs_11_l_28' n='N003'/>elsewhere in the magazine. The interruption of articles may ap-
-					<lb facs='#facs_11_l_29' n='N004'/>pear to the average reader as a commonplace if inconvenient
-					<lb facs='#facs_11_l_30' n='N005'/>occurrence, but the resulting movement back and forth also
-					<lb facs='#facs_11_l_31' n='N006'/>serves as a form of entrapment. Thus the reader will find it
-					<lb facs='#facs_11_l_32' n='N007'/>considerably more difficult to confine her time and attention to
-					<lb facs='#facs_11_l_33' n='N008'/>a single article. She is forced to flip through the rest of the
-					<lb facs='#facs_11_l_34' n='N009'/>magazine in order to pursue her immediate interests.
+					The lines running in and out of the bar graph trace the inter-
+					nal &quot;page flow&quot;—the way texts are broken up and continued
+					elsewhere in the magazine. The interruption of articles may ap-
+					pear to the average reader as a commonplace if inconvenient
+					occurrence, but the resulting movement back and forth also
+					serves as a form of entrapment. Thus the reader will find it
+					considerably more difficult to confine her time and attention to
+					a single article. She is forced to flip through the rest of the
+					magazine in order to pursue her immediate interests.
 				</p>
 				<p>
-					<lb facs='#facs_11_l_35' n='N001'/>The historical evolution of a maze-like page flow is readily
-					<lb facs='#facs_11_l_36' n='N002'/>seen here. In 1914, less than one half of the editorial space was
-					<lb facs='#facs_11_l_37' n='N003'/>thus interwoven; the rest was allowed to stand as isolated pieces
-					<lb facs='#facs_11_l_38' n='N004'/>of text. A marked change occurred between 1914 and 1919, when
-					<lb facs='#facs_11_l_39' n='N005'/>many more direct routes were established from the front, begin-
-					<lb facs='#facs_11_l_40' n='N006'/>ing at page 7, to the middle of the magazine, though the last
-					<lb facs='#facs_11_l_41' n='N007'/>thirty pages were not so integrated. By 1924, the constructed
-					<lb facs='#facs_11_l_42' n='N008'/>flów began on page 3, and extended almost to the back of the
-					<lb facs='#facs_11_l_43' n='N009'/>issue, although some portions of the magazine continued as
-					<lb facs='#facs_11_l_44' n='N010'/>isolated islands. The same held true in 1929, when a prodi-
-					<lb facs='#facs_11_l_45' n='N011'/>gious labyrinth between front and back was created, still leav-
-					<lb facs='#facs_11_l_46' n='N012'/>ing portions of the magazine unconnected. In the Depression
-					<lb facs='#facs_11_l_47' n='N013'/>years of the 1930s, when the Journal shrank from the gargan-
-					<lb facs='#facs_11_l_93' n='N014'/>tuan size of the October 1929 issue, the process of interweaving
+					The historical evolution of a maze-like page flow is readily
+					seen here. In 1914, less than one half of the editorial space was
+					thus interwoven; the rest was allowed to stand as isolated pieces
+					of text. A marked change occurred between 1914 and 1919, when
+					many more direct routes were established from the front, begin-
+					ing at page 7, to the middle of the magazine, though the last
+					thirty pages were not so integrated. By 1924, the constructed
+					flów began on page 3, and extended almost to the back of the
+					issue, although some portions of the magazine continued as
+					isolated islands. The same held true in 1929, when a prodi-
+					gious labyrinth between front and back was created, still leav-
+					ing portions of the magazine unconnected. In the Depression
+					years of the 1930s, when the Journal shrank from the gargan-
+					tuan size of the October 1929 issue, the process of interweaving
 				</p>
 				<pb n='14'/>
 				<p>
-					<lb facs='#facs_14_l' n='N001'/>almost all the editorial contents was finally realized. Moreover,
-					<lb facs='#facs_14_l_1' n='N002'/>the 1939 page flow was achieved with fewer large jumps; as
-					<lb facs='#facs_14_l_2' n='N003'/>indicated by only twelve external links in the chart, the flow
-					<lb facs='#facs_14_l_3' n='N004'/>itself was more continuous. Thus, while the typical magazine
-					<lb facs='#facs_14_l_4' n='N005'/>reader of this period may have believed that the magazine could
-					<lb facs='#facs_14_l_5' n='N006'/>be consumed piecemeal, in &quot;scraps of time,” the diagrams re¬
-					<lb facs='#facs_14_l_6' n='N007'/>veal that the magazine was being redesigned to consume an
-					<lb facs='#facs_14_l_7' n='N008'/>extended period of time.
+					almost all the editorial contents was finally realized. Moreover,
+					the 1939 page flow was achieved with fewer large jumps; as
+					indicated by only twelve external links in the chart, the flow
+					itself was more continuous. Thus, while the typical magazine
+					reader of this period may have believed that the magazine could
+					be consumed piecemeal, in &quot;scraps of time,” the diagrams re¬
+					veal that the magazine was being redesigned to consume an
+					extended period of time.
 				</p>
 				<p>
-					<lb facs='#facs_14_l_40' n='N001'/>At the same time that the magazine succeeded in connect-
-					<lb facs='#facs_14_l_41' n='N002'/>ing almost all of its interior pages, there were considerably fewer
-					<lb facs='#facs_14_l_42' n='N003'/>texts explicitly leading to or from earlier or later issues. While
-					<lb facs='#facs_14_l_43' n='N004'/>this helped create a more integrated, overall text, serialization
-					<lb facs='#facs_14_l_44' n='N005'/>was not abandoned completely. By 1939, advertising literature
-					<lb facs='#facs_14_l_45' n='N006'/>stressed the desirability of newsstand sales (supposedly attract¬
-					<lb facs='#facs_14_l_46' n='N007'/>ing impulse shoppers) which would have been bolstered by dra¬
-					<lb facs='#facs_14_l_47' n='N008'/>matic serialization. Accordingly, in the October 1939 issue, the
-					<lb facs='#facs_14_l_48' n='N009'/>most gripping narrative—illustrated to underscore the title, &quot;An¬
-					<lb facs='#facs_14_l_49' n='N010'/>other Woman,&quot; by positioning the wife precariously at the right
-					<lb facs='#facs_14_l_50' n='N011'/>hand edge of the page (Fig. 2)—breaks off exactly when the
-					<lb facs='#facs_14_l_51' n='N012'/>wife is confronted with the necessity of getting a divorce. Ir
-					<lb facs='#facs_14_l_52' n='N013'/>case the reader failed to sustain concern for the wife’s plight
-					<lb facs='#facs_14_l_53' n='N014'/>through the rest of the issue, the editor’s closing column, “Jour¬
-					<lb facs='#facs_14_l_54' n='N015'/>nal’s End” (equating the magazine with a kind of journey) re¬
-					<lb facs='#facs_14_l_55' n='N016'/>minded the reader that this cliff-hanger would not be resolved
-					<lb facs='#facs_14_l_56' n='N017'/>until the next month. Serialization, therefore, was being used
-					<lb facs='#facs_14_l_57' n='N018'/>more sparingly, and its use indicated those topics thought to be
-					<lb facs='#facs_14_l_58' n='N019'/>most compelling for Journal readers. But it still served a strate
-					<lb facs='#facs_14_l_59' n='N020'/>gic function in insuring the month-to-month loyalty of the mag
-					<lb facs='#facs_14_l_60' n='N021'/>azine reader.
+					At the same time that the magazine succeeded in connect-
+					ing almost all of its interior pages, there were considerably fewer
+					texts explicitly leading to or from earlier or later issues. While
+					this helped create a more integrated, overall text, serialization
+					was not abandoned completely. By 1939, advertising literature
+					stressed the desirability of newsstand sales (supposedly attract¬
+					ing impulse shoppers) which would have been bolstered by dra¬
+					matic serialization. Accordingly, in the October 1939 issue, the
+					most gripping narrative—illustrated to underscore the title, &quot;An¬
+					other Woman,&quot; by positioning the wife precariously at the right
+					hand edge of the page (Fig. 2)—breaks off exactly when the
+					wife is confronted with the necessity of getting a divorce. Ir
+					case the reader failed to sustain concern for the wife’s plight
+					through the rest of the issue, the editor’s closing column, “Jour¬
+					nal’s End” (equating the magazine with a kind of journey) re¬
+					minded the reader that this cliff-hanger would not be resolved
+					until the next month. Serialization, therefore, was being used
+					more sparingly, and its use indicated those topics thought to be
+					most compelling for Journal readers. But it still served a strate
+					gic function in insuring the month-to-month loyalty of the mag
+					azine reader.
 				</p>
 				<p>
-					<lb facs='#facs_14_l_61' n='N001'/>The same set of graphs also reveals a major change in layous
-					<lb facs='#facs_14_l_62' n='N002'/>within the double-page spread. As early as 1919, a marked shift
-					<lb facs='#facs_14_l_63' n='N003'/>appeared in the placement of editorial material in relation to
-					<lb facs='#facs_14_l_64' n='N004'/>ads. In 1914, between pages 60 and 99, two narrow bars of
-					<lb facs='#facs_14_l_65' n='N005'/>editorial columns floated in a sea of ads. By 1919, these col¬
-					<lb facs='#facs_14_l_66' n='N006'/>umns were pushed together at the center of the double page. By
-					<lb facs='#facs_14_l_67' n='N007'/>the 1939 issue, excepting the inside cover and inside back pages,
-					<lb facs='#facs_14_l_68' n='N008'/>which commanded higher ad rates, there was some portion of
-					<lb facs='#facs_14_l_69' n='N009'/>editorial matter at the front of each double spread. Thus, over a
-					<lb facs='#facs_14_l_70' n='N010'/>twenty-five year period, a system of layout emerged which an¬
-					<lb facs='#facs_14_l_71' n='N011'/>chored the bulk of advertising to a constant editorial presence
+					The same set of graphs also reveals a major change in layous
+					within the double-page spread. As early as 1919, a marked shift
+					appeared in the placement of editorial material in relation to
+					ads. In 1914, between pages 60 and 99, two narrow bars of
+					editorial columns floated in a sea of ads. By 1919, these col¬
+					umns were pushed together at the center of the double page. By
+					the 1939 issue, excepting the inside cover and inside back pages,
+					which commanded higher ad rates, there was some portion of
+					editorial matter at the front of each double spread. Thus, over a
+					twenty-five year period, a system of layout emerged which an¬
+					chored the bulk of advertising to a constant editorial presence
 				</p>
 				<p>
-					<lb facs='#facs_14_l_8' n='N001'/>at its center. In effect, there was always an editorial voice so
-					<lb facs='#facs_14_l_9' n='N002'/>that the reader would never forget the &quot;educational” value of the
-					<lb facs='#facs_14_l_10' n='N003'/>magazine.
+					at its center. In effect, there was always an editorial voice so
+					that the reader would never forget the &quot;educational” value of the
+					magazine.
 				</p>
 				<p>
-					<lb facs='#facs_14_l_11' n='N001'/>Though it is difficult to uncover an articulated philosophy
-					<lb facs='#facs_14_l_12' n='N002'/>which determined these changes in layout (the art directors rarely
-					<lb facs='#facs_14_l_13' n='N003'/>published articles on their work), a similarly paternalistic ide¬
-					<lb facs='#facs_14_l_14' n='N004'/>ology is apparent when comparing other choices made by the
-					<lb facs='#facs_14_l_15' n='N005'/>art directors between 1929 and 1939. Two covers, ten years apart,
-					<lb facs='#facs_14_l_16' n='N006'/>have an almost antithetical message. The 1929 mother-as-mature¬
-					<lb facs='#facs_14_l_17' n='N007'/>flapper relies for its effect upon the state of amazement con¬
-					<lb facs='#facs_14_l_18' n='N008'/>veyed by the pint-sized child and pet collie at her side (Fig. 3).
-					<lb facs='#facs_14_l_19' n='N009'/>In contrast, the woman on the October 1939 cover has obvi¬
-					<lb facs='#facs_14_l_20' n='N010'/>ously relinquished her pedestal (Fig. 4). Whatever she has lost
-					<lb facs='#facs_14_l_21' n='N011'/>in terms of high fashion she has &quot;gained&quot; in terms of direct
-					<lb facs='#facs_14_l_22' n='N012'/>resemblance to her daughter, moving towards the other ideal of
-					<lb facs='#facs_14_l_23' n='N013'/>mother-as-older-sister. And she is really &quot;moving,” animated in
-					<lb facs='#facs_14_l_24' n='N014'/>a way which seems directly to encourage her child to master
-					<lb facs='#facs_14_l_25' n='N015'/>difficult balance problems like bike-riding. We can assume from
-					<lb facs='#facs_14_l_26' n='N016'/>the line &quot;The Magazine Women Believe In&quot; which has been added
-					<lb facs='#facs_14_l_27' n='N017'/>to the Journal logos that trust has become a crucial selling point.
-					<lb facs='#facs_14_l_28' n='N018'/>The reader can trust what she learns in the Journal in the same
-					<lb facs='#facs_14_l_29' n='N019'/>way that the daughter, though still tottering, seems assured of a
-					<lb facs='#facs_14_l_30' n='N020'/>safe upbringing.
+					Though it is difficult to uncover an articulated philosophy
+					which determined these changes in layout (the art directors rarely
+					published articles on their work), a similarly paternalistic ide¬
+					ology is apparent when comparing other choices made by the
+					art directors between 1929 and 1939. Two covers, ten years apart,
+					have an almost antithetical message. The 1929 mother-as-mature¬
+					flapper relies for its effect upon the state of amazement con¬
+					veyed by the pint-sized child and pet collie at her side (Fig. 3).
+					In contrast, the woman on the October 1939 cover has obvi¬
+					ously relinquished her pedestal (Fig. 4). Whatever she has lost
+					in terms of high fashion she has &quot;gained&quot; in terms of direct
+					resemblance to her daughter, moving towards the other ideal of
+					mother-as-older-sister. And she is really &quot;moving,” animated in
+					a way which seems directly to encourage her child to master
+					difficult balance problems like bike-riding. We can assume from
+					the line &quot;The Magazine Women Believe In&quot; which has been added
+					to the Journal logos that trust has become a crucial selling point.
+					The reader can trust what she learns in the Journal in the same
+					way that the daughter, though still tottering, seems assured of a
+					safe upbringing.
 				</p>
 				<p>
-					<lb facs='#facs_14_l_86' n='N001'/>The theme of supervised mobility depicted in the cover
-					<lb facs='#facs_14_l_87' n='N002'/>graphic, as well as the motherly tone of the “Journal’s End&apos;
-					<lb facs='#facs_14_l_88' n='N003'/>column, suggests that in the late 1930s the magazine was con¬
-					<lb facs='#facs_14_l_89' n='N004'/>sciously projecting an image of itself as a vicarious trip, while
-					<lb facs='#facs_14_l_90' n='N005'/>providing many assurances that the viewer would travel safely.
-					<lb facs='#facs_14_l_91' n='N006'/>Guided though this journey may have been, a final look at these
-					<lb facs='#facs_14_l_92' n='N007'/>graphs indicates that it hardly shielded the reader from overex¬
-					<lb facs='#facs_14_l_93' n='N008'/>posure to the continuous lure of advertisments. On the contrary,
-					<lb facs='#facs_14_l_94' n='N009'/>the development of a systematic layout principle with a contin¬
-					<lb facs='#facs_14_l_95' n='N010'/>uous editorial thread meant that even if one chose to look only
-					<lb facs='#facs_14_l_96' n='N011'/>at editorial features, one would not miss a single double page,
-					<lb facs='#facs_14_l_97' n='N012'/>and therefore not a single ad. Moreover, the same graphs also
-					<lb facs='#facs_14_l_98' n='N013'/>indicate that the full-page spreads and clusters of page spreads
-					<lb facs='#facs_14_l_99' n='N014'/>which characterize the front of the magazine were replaced by
-					<lb facs='#facs_14_l_100' n='N015'/>smaller and smaller blocks of columns towards the back, where
-					<lb facs='#facs_14_l_101' n='N016'/>the editorial content thinned out and was constantly interspersed
-					<lb facs='#facs_14_l_102' n='N017'/>with advertising. A parallel format is the late-night televised
-					<lb facs='#facs_14_l_103' n='N018'/>movie (pre-cable, or VCR ad-zapping), which, as it progresses,
-					<lb facs='#facs_14_l_104' n='N019'/>is cut at shorter and shorter intervals, interrupted by increas¬
-					<lb facs='#facs_14_l_105' n='N020'/>ingly brief ads. If a compelling program has been established,
-					<lb facs='#facs_14_l_106' n='N021'/>the viewer stays turned all the same and even grows to accept
-					<lb facs='#facs_14_l_107' n='N022'/>this format as part of an evening’s entertainment.
+					The theme of supervised mobility depicted in the cover
+					graphic, as well as the motherly tone of the “Journal’s End&apos;
+					column, suggests that in the late 1930s the magazine was con¬
+					sciously projecting an image of itself as a vicarious trip, while
+					providing many assurances that the viewer would travel safely.
+					Guided though this journey may have been, a final look at these
+					graphs indicates that it hardly shielded the reader from overex¬
+					posure to the continuous lure of advertisments. On the contrary,
+					the development of a systematic layout principle with a contin¬
+					uous editorial thread meant that even if one chose to look only
+					at editorial features, one would not miss a single double page,
+					and therefore not a single ad. Moreover, the same graphs also
+					indicate that the full-page spreads and clusters of page spreads
+					which characterize the front of the magazine were replaced by
+					smaller and smaller blocks of columns towards the back, where
+					the editorial content thinned out and was constantly interspersed
+					with advertising. A parallel format is the late-night televised
+					movie (pre-cable, or VCR ad-zapping), which, as it progresses,
+					is cut at shorter and shorter intervals, interrupted by increas¬
+					ingly brief ads. If a compelling program has been established,
+					the viewer stays turned all the same and even grows to accept
+					this format as part of an evening’s entertainment.
 				</p>
 				<p>
-					<lb facs='#facs_14_l_108' n='N001'/>The Journal was always an illustrated magazine but the pre¬
+					The Journal was always an illustrated magazine but the pre¬
 				</p>
 				<pb n='16'/>
 				<p>
-					<lb facs='#facs_16_l' n='N001'/>dominant modes of illustration changed significantly in this
-					<lb facs='#facs_16_l_1' n='N002'/>period. While photographic reproductions gradually replacec
-					<lb facs='#facs_16_l_2' n='N003'/>a large portion of the traditional drawings, color printing was
-					<lb facs='#facs_16_l_3' n='N004'/>introduced with great fanfare and quickly became the most priv-
-					<lb facs='#facs_16_l_4' n='N005'/>ileged visual rhetoric of the women’s magazine.
+					dominant modes of illustration changed significantly in this
+					period. While photographic reproductions gradually replacec
+					a large portion of the traditional drawings, color printing was
+					introduced with great fanfare and quickly became the most priv-
+					ileged visual rhetoric of the women’s magazine.
 				</p>
 				<p>
-					<lb facs='#facs_16_l_40' n='N001'/>As early as the December 1911 issue, the editorial column
-					<lb facs='#facs_16_l_41' n='N002'/>on the first page of the Journal held out the idea of a color-filled
-					<lb facs='#facs_16_l_42' n='N003'/>magazine as a sort of promissory note which would accrue to
-					<lb facs='#facs_16_l_43' n='N004'/>the loyal reader: &quot;No feature we have ever introduced in the
-					<lb facs='#facs_16_l_44' n='N005'/>magazine has met with satisfaction expressed over our color
-					<lb facs='#facs_16_l_45' n='N006'/>pages. This has encouraged us to add to the number.&quot; What
-					<lb facs='#facs_16_l_46' n='N007'/>also encouraged the pubisher in this novel venture was the pros-
-					<lb facs='#facs_16_l_47' n='N008'/>pect of increased ad revenues; once color’s mass appeal had
-					<lb facs='#facs_16_l_48' n='N009'/>been established, advertising readily paid the higher page rates
-					<lb facs='#facs_16_l_49' n='N010'/>for this proven method of commanding the reader’s attention.
+					As early as the December 1911 issue, the editorial column
+					on the first page of the Journal held out the idea of a color-filled
+					magazine as a sort of promissory note which would accrue to
+					the loyal reader: &quot;No feature we have ever introduced in the
+					magazine has met with satisfaction expressed over our color
+					pages. This has encouraged us to add to the number.&quot; What
+					also encouraged the pubisher in this novel venture was the pros-
+					pect of increased ad revenues; once color’s mass appeal had
+					been established, advertising readily paid the higher page rates
+					for this proven method of commanding the reader’s attention.
 				</p>
 				<p>
-					<lb facs='#facs_16_l_5' n='N001'/>While the volume of color work rose most sharply between
-					<lb facs='#facs_16_l_6' n='N002'/>1914 and 1919, the number of color pages continued to expand
-					<lb facs='#facs_16_l_7' n='N003'/>long after the initial novelty had worn off. The editorial page of
-					<lb facs='#facs_16_l_8' n='N004'/>the October ’29 issue headlined the magazine’s new use of color
-					<lb facs='#facs_16_l_9' n='N005'/>photography, a technology developed quite obviously to accom-
-					<lb facs='#facs_16_l_10' n='N006'/>modate new marketing strategies. After a decade of successful
-					<lb facs='#facs_16_l_11' n='N007'/>marketing based on color ads, the assembly lines of the late
-					<lb facs='#facs_16_l_12' n='N008'/>1920s began turning out goods in assorted shades. If the con-
-					<lb facs='#facs_16_l_13' n='N009'/>sumer needed any encouragement to buy these novel commodi-
-					<lb facs='#facs_16_l_14' n='N010'/>ties, advertisers were quick to insinuate that the colorless life
-					<lb facs='#facs_16_l_15' n='N011'/>was not worth living. The prize for the most desperate attempt
-					<lb facs='#facs_16_l_16' n='N012'/>to keep abreast of the color craze belongs to Kodak; six years
-					<lb facs='#facs_16_l_17' n='N013'/>before the photographic manufacturer was able to offer ama-
-					<lb facs='#facs_16_l_18' n='N014'/>teurs a practical color film, it had already conceded the priority
-					<lb facs='#facs_16_l_19' n='N015'/>of capturing color in 1929 when the conventional, black box-
-					<lb facs='#facs_16_l_20' n='N016'/>camera was refinished in a variety of hues, to serve as &quot;Fashion
-					<lb facs='#facs_16_l_21' n='N017'/>Accents ...for Picture Takers that Reflect the Rainbow.&quot;
+					While the volume of color work rose most sharply between
+					1914 and 1919, the number of color pages continued to expand
+					long after the initial novelty had worn off. The editorial page of
+					the October ’29 issue headlined the magazine’s new use of color
+					photography, a technology developed quite obviously to accom-
+					modate new marketing strategies. After a decade of successful
+					marketing based on color ads, the assembly lines of the late
+					1920s began turning out goods in assorted shades. If the con-
+					sumer needed any encouragement to buy these novel commodi-
+					ties, advertisers were quick to insinuate that the colorless life
+					was not worth living. The prize for the most desperate attempt
+					to keep abreast of the color craze belongs to Kodak; six years
+					before the photographic manufacturer was able to offer ama-
+					teurs a practical color film, it had already conceded the priority
+					of capturing color in 1929 when the conventional, black box-
+					camera was refinished in a variety of hues, to serve as &quot;Fashion
+					Accents ...for Picture Takers that Reflect the Rainbow.&quot;
 				</p>
 				<p>
-					<lb facs='#facs_16_l_22' n='N001'/>The Depression left its mark on both the content and physi
-					<lb facs='#facs_16_l_23' n='N002'/>cal features of the magazine. During the ’30s, the overall length
-					<lb facs='#facs_16_l_24' n='N003'/>of the magazine, which had expanded greatly from 1914 to 1929,
-					<lb facs='#facs_16_l_25' n='N004'/>shrank back to the 1914 size. However, while the number of
-					<lb facs='#facs_16_l_26' n='N005'/>color pages per issue decreased, the proportion of color to black
-					<lb facs='#facs_16_l_27' n='N006'/>and white remained strong. A large number of advertisers con-
-					<lb facs='#facs_16_l_28' n='N007'/>tinued to invest in color, though the need for economy was evi-
-					<lb facs='#facs_16_l_29' n='N008'/>dent in the number of ads which began utilizing a dramatic
+					The Depression left its mark on both the content and physi
+					cal features of the magazine. During the ’30s, the overall length
+					of the magazine, which had expanded greatly from 1914 to 1929,
+					shrank back to the 1914 size. However, while the number of
+					color pages per issue decreased, the proportion of color to black
+					and white remained strong. A large number of advertisers con-
+					tinued to invest in color, though the need for economy was evi-
+					dent in the number of ads which began utilizing a dramatic
 				</p>
 				<p>
-					<lb facs='#facs_16_l_30' n='N001'/>genre of black and white photography. Notwithstanding the rise
-					<lb facs='#facs_16_l_31' n='N002'/>of staight black and white photography in the 1930s women’s
-					<lb facs='#facs_16_l_32' n='N003'/>magazine, the decrease in volume of color printing was some-
-					<lb facs='#facs_16_l_33' n='N004'/>what obscured by a marked change in the positioning of color
-					<lb facs='#facs_16_l_34' n='N005'/>pages between 1934 and 1939. A body of color images was still
-					<lb facs='#facs_16_l_35' n='N006'/>featured at the crucial begining of each issue, with smaller runs
-					<lb facs='#facs_16_l_36' n='N007'/>of color at the middle, and again at the very end of the Journal
-					<lb facs='#facs_16_l_37' n='N008'/>—thus maintaining the image of the magazine as a luxurious
-					<lb facs='#facs_16_l_38' n='N009'/>commodity in its own right.
+					genre of black and white photography. Notwithstanding the rise
+					of staight black and white photography in the 1930s women’s
+					magazine, the decrease in volume of color printing was some-
+					what obscured by a marked change in the positioning of color
+					pages between 1934 and 1939. A body of color images was still
+					featured at the crucial begining of each issue, with smaller runs
+					of color at the middle, and again at the very end of the Journal
+					—thus maintaining the image of the magazine as a luxurious
+					commodity in its own right.
 				</p>
 				<p>
-					<lb facs='#facs_16_l_80' n='N001'/>As the color page in the Depression came to represent a
-					<lb facs='#facs_16_l_81' n='N002'/>more serious investment, we can assume that it was designed
-					<lb facs='#facs_16_l_82' n='N003'/>to be as arresting as possible. To appreciate fully the way these
-					<lb facs='#facs_16_l_83' n='N004'/>brilliant color images figured as &quot;occasions” within the read-
-					<lb facs='#facs_16_l_84' n='N005'/>ing process, we would need to study the variety of color images
-					<lb facs='#facs_16_l_85' n='N006'/>within the extended flow of magazine material. A reading of a
-					<lb facs='#facs_16_l_86' n='N007'/>single page is insufficient; at most it would demonstrate that
-					<lb facs='#facs_16_l_87' n='N008'/>the graphic artists of the 1930s were as adept with the grammar
-					<lb facs='#facs_16_l_88' n='N009'/>of diverse graphic codes as was the anonymous artist who il-
-					<lb facs='#facs_16_l_89' n='N010'/>lustrated the 1913 domestic efficiency book. What is needed is
-					<lb facs='#facs_16_l_90' n='N011'/>a sequential reading (optimally, a number of serial readings
-					<lb facs='#facs_16_l_91' n='N012'/>since, as discussed earlier, the magazine did not work by a single
-					<lb facs='#facs_16_l_92' n='N013'/>continuum). Though space does not permit a review of an en-
-					<lb facs='#facs_16_l_93' n='N014'/>tire magazine issue, a look only at a selected run of pages might
-					<lb facs='#facs_16_l_94' n='N015'/>suggest the way a montage principle was increasingly at work
-					<lb facs='#facs_16_l_95' n='N016'/>in the cumulative meanings produced by the magazine.
+					As the color page in the Depression came to represent a
+					more serious investment, we can assume that it was designed
+					to be as arresting as possible. To appreciate fully the way these
+					brilliant color images figured as &quot;occasions” within the read-
+					ing process, we would need to study the variety of color images
+					within the extended flow of magazine material. A reading of a
+					single page is insufficient; at most it would demonstrate that
+					the graphic artists of the 1930s were as adept with the grammar
+					of diverse graphic codes as was the anonymous artist who il-
+					lustrated the 1913 domestic efficiency book. What is needed is
+					a sequential reading (optimally, a number of serial readings
+					since, as discussed earlier, the magazine did not work by a single
+					continuum). Though space does not permit a review of an en-
+					tire magazine issue, a look only at a selected run of pages might
+					suggest the way a montage principle was increasingly at work
+					in the cumulative meanings produced by the magazine.
 				</p>
 				<p>
-					<lb facs='#facs_16_l_96' n='N001'/>In the run of six pages of editorial fashion in the October’3
-					<lb facs='#facs_16_l_97' n='N002'/>Journal, the first pair of pages was geared to the high-fashion
-					<lb facs='#facs_16_l_98' n='N003'/>market. The layout was sophisticated in its fanning diagonals
-					<lb facs='#facs_16_l_99' n='N004'/>and bold, alternating pattern of black and white and color pho-
-					<lb facs='#facs_16_l_100' n='N005'/>tos (Fig 5). The second spread was aimed at women with less
-					<lb facs='#facs_16_l_101' n='N006'/>money who could only afford to spruce up with accessories.
-					<lb facs='#facs_16_l_102' n='N007'/>The double-page still used color printing to feature the Fall
-					<lb facs='#facs_16_l_103' n='N008'/>shades for handbags, shoes, and gloves: however, the models
-					<lb facs='#facs_16_l_104' n='N009'/>themselves were pictured in black and white. The intended sell-
-					<lb facs='#facs_16_l_105' n='N010'/>ing point was hardly difficult to grasp: a bright note of color
-					<lb facs='#facs_16_l_106' n='N011'/>provided by a new bag would do wonders, as demonstrated by
-					<lb facs='#facs_16_l_107' n='N012'/>the graphic effect of small colorful accents on an otherwise mono-
-					<lb facs='#facs_16_l_108' n='N013'/>chrome page (Fig 6). The final fashion spread was devoted to
-					<lb facs='#facs_16_l_109' n='N014'/>women with even less money. Its color scheme was the most
-					<lb facs='#facs_16_l_110' n='N015'/>resolutely gay, and with its stress on &quot;feminine” floral colors
+					In the run of six pages of editorial fashion in the October’3
+					Journal, the first pair of pages was geared to the high-fashion
+					market. The layout was sophisticated in its fanning diagonals
+					and bold, alternating pattern of black and white and color pho-
+					tos (Fig 5). The second spread was aimed at women with less
+					money who could only afford to spruce up with accessories.
+					The double-page still used color printing to feature the Fall
+					shades for handbags, shoes, and gloves: however, the models
+					themselves were pictured in black and white. The intended sell-
+					ing point was hardly difficult to grasp: a bright note of color
+					provided by a new bag would do wonders, as demonstrated by
+					the graphic effect of small colorful accents on an otherwise mono-
+					chrome page (Fig 6). The final fashion spread was devoted to
+					women with even less money. Its color scheme was the most
+					resolutely gay, and with its stress on &quot;feminine” floral colors
 				</p>
 				<pb n='17'/>
 				<p>
-					<lb facs='#facs_17_l_28' n='N001'/>was a retum to stylized, diminutive figure sketches. Here pho¬
-					<lb facs='#facs_17_l_29' n='N002'/>tography was reserved for the portrait closest to center, mon¬
-					<lb facs='#facs_17_l_30' n='N003'/>taged with a second photo of an ornate gilt frame and compared
-					<lb facs='#facs_17_l_31' n='N004'/>in the caption to a Joshua Reynolds painting. Though more than
-					<lb facs='#facs_17_l_32' n='N005'/>a little surreal in its effect, the art historical reference, brought
-					<lb facs='#facs_17_l_33' n='N006'/>up-to-date in &quot;living color,&quot; was clearly intended to lend a pseudo
-					<lb facs='#facs_17_l_34' n='N007'/>aristocratic dignity to women without means but with the con¬
-					<lb facs='#facs_17_l_35' n='N008'/>siderable time, skill, and ambition to remain &quot;in fashion” by
-					<lb facs='#facs_17_l_36' n='N009'/>sewing their own clothes from patterns (Fig. 7).
+					was a retum to stylized, diminutive figure sketches. Here pho¬
+					tography was reserved for the portrait closest to center, mon¬
+					taged with a second photo of an ornate gilt frame and compared
+					in the caption to a Joshua Reynolds painting. Though more than
+					a little surreal in its effect, the art historical reference, brought
+					up-to-date in &quot;living color,&quot; was clearly intended to lend a pseudo
+					aristocratic dignity to women without means but with the con¬
+					siderable time, skill, and ambition to remain &quot;in fashion” by
+					sewing their own clothes from patterns (Fig. 7).
 				</p>
 				<p>
-					<lb facs='#facs_17_l_56' n='N001'/>On these three double pages of editorial fashion, the use of
-					<lb facs='#facs_17_l_57' n='N002'/>type and graphics ranged form the contemporary, &quot;modernist&apos;
-					<lb facs='#facs_17_l_58' n='N003'/>style of Vogue to a modified version of traditional pattern book
-					<lb facs='#facs_17_l_59' n='N004'/>illustrations. In other words, each of these three spreads spoke
-					<lb facs='#facs_17_l_60' n='N005'/>to a different strata of the magazine’s somewhat diversified read¬
-					<lb facs='#facs_17_l_61' n='N006'/>ership. But the consistent fact of color on all three double-spreads
-					<lb facs='#facs_17_l_62' n='N007'/>at the heart of the editorial section of the magazine glossed over
-					<lb facs='#facs_17_l_63' n='N008'/>these differences and conveyed the editor’s conviction that all
-					<lb facs='#facs_17_l_64' n='N009'/>the readers assigned the same high value to beauty, that the
-					<lb facs='#facs_17_l_65' n='N010'/>ideal of glamour was democratic and unifying.
+					On these three double pages of editorial fashion, the use of
+					type and graphics ranged form the contemporary, &quot;modernist&apos;
+					style of Vogue to a modified version of traditional pattern book
+					illustrations. In other words, each of these three spreads spoke
+					to a different strata of the magazine’s somewhat diversified read¬
+					ership. But the consistent fact of color on all three double-spreads
+					at the heart of the editorial section of the magazine glossed over
+					these differences and conveyed the editor’s conviction that all
+					the readers assigned the same high value to beauty, that the
+					ideal of glamour was democratic and unifying.
 				</p>
 				<p>
-					<lb facs='#facs_17_l_66' n='N001'/>While the run of editorial fashion pages achieved a tight
-					<lb facs='#facs_17_l_67' n='N002'/>coherence, the graphic codes were articulated just as clearly in
-					<lb facs='#facs_17_l_68' n='N003'/>the endless juxtapositions which occurred in each issue be¬
-					<lb facs='#facs_17_l_69' n='N004'/>tween nominally unrelated ads and editorial columns, pictures
-					<lb facs='#facs_17_l_70' n='N005'/>and texts. Consider the interaction between the last full-page
-					<lb facs='#facs_17_l_71' n='N006'/>editorial column and the fairly typical studio ad in color facing
-					<lb facs='#facs_17_l_72' n='N007'/>it (Fig. 8). The column asked whether men were more adventur
-					<lb facs='#facs_17_l_73' n='N008'/>ous, and thus more fulfilled than women, in their choice of hob¬
-					<lb facs='#facs_17_l_74' n='N009'/>bies. The headlined query was set in cool, cyan blue type—the
+					While the run of editorial fashion pages achieved a tight
+					coherence, the graphic codes were articulated just as clearly in
+					the endless juxtapositions which occurred in each issue be¬
+					tween nominally unrelated ads and editorial columns, pictures
+					and texts. Consider the interaction between the last full-page
+					editorial column and the fairly typical studio ad in color facing
+					it (Fig. 8). The column asked whether men were more adventur
+					ous, and thus more fulfilled than women, in their choice of hob¬
+					bies. The headlined query was set in cool, cyan blue type—the
 				</p>
 				<p>
-					<lb facs='#facs_17_l_14' n='N001'/>one spot of color on this page. Directly below the headline, scenes
-					<lb facs='#facs_17_l_15' n='N002'/>of men at play were presented by means of black and white
-					<lb facs='#facs_17_l_16' n='N003'/>photography for added documentary authority. The implication
-					<lb facs='#facs_17_l_17' n='N004'/>was that women should follow their examples, without acknowl-
-					<lb facs='#facs_17_l_18' n='N005'/>edging that a young mother with children, trying also to redeco-
-					<lb facs='#facs_17_l_19' n='N006'/>rate her home and &quot;keep herself up,&quot; had enough on her hands
-					<lb facs='#facs_17_l_20' n='N007'/>without worrying about upgrading her hobbies. But any anxiety
-					<lb facs='#facs_17_l_21' n='N008'/>aroused by invidious comparisons with men’s pastimes was
-					<lb facs='#facs_17_l_22' n='N009'/>resolved as soon as the eye moved to the right. Nothing docu¬
-					<lb facs='#facs_17_l_23' n='N010'/>mented on the left matched the sheer vividness of the well-orderec
-					<lb facs='#facs_17_l_24' n='N011'/>table on which the brilliant RITZ crackers package served both
-					<lb facs='#facs_17_l_25' n='N012'/>as central ornament and principle source of nourishment.
+					one spot of color on this page. Directly below the headline, scenes
+					of men at play were presented by means of black and white
+					photography for added documentary authority. The implication
+					was that women should follow their examples, without acknowl-
+					edging that a young mother with children, trying also to redeco-
+					rate her home and &quot;keep herself up,&quot; had enough on her hands
+					without worrying about upgrading her hobbies. But any anxiety
+					aroused by invidious comparisons with men’s pastimes was
+					resolved as soon as the eye moved to the right. Nothing docu¬
+					mented on the left matched the sheer vividness of the well-orderec
+					table on which the brilliant RITZ crackers package served both
+					as central ornament and principle source of nourishment.
 				</p>
 				<p>
-					<lb facs='#facs_17_l_26' n='N001'/>Of course, many of these editorial/ad juxtapositions were
-					<lb facs='#facs_17_l_27' n='N002'/>not calculated—though my research so far in publishing and
+					Of course, many of these editorial/ad juxtapositions were
+					not calculated—though my research so far in publishing and
 				</p>
 				<p>
-					<lb facs='#facs_17_l_37' n='N001'/>advertising archives indicates that ad agencies sought to con¬
-					<lb facs='#facs_17_l_38' n='N002'/>trol the placement of their ads and, conversely, that magazines
-					<lb facs='#facs_17_l_39' n='N003'/>tried their utmost to maintain agency goodwill by &quot;sensitive”
-					<lb facs='#facs_17_l_40' n='N004'/>layout. No matter how calculated, the recurrence of these mean¬
-					<lb facs='#facs_17_l_41' n='N005'/>ingful juxtapositions suggests a new form of cultural commu¬
-					<lb facs='#facs_17_l_42' n='N006'/>nication. This subject needs further study, but for now I would
-					<lb facs='#facs_17_l_43' n='N007'/>propose that the separate but integrated codes of color and black
-					<lb facs='#facs_17_l_44' n='N008'/>and white enhanced the magazine in two, non-economic ways:
-					<lb facs='#facs_17_l_45' n='N009'/>formally, such divisions provided a dynamic rhythm to the flow
-					<lb facs='#facs_17_l_46' n='N010'/>of the magazine; functionally, the magazine became a richer
-					<lb facs='#facs_17_l_47' n='N011'/>vehicle for this diversity, fulfilling the consumer’s desire for both
-					<lb facs='#facs_17_l_48' n='N012'/>Truth and Beauty, and maintaining the illusion that these were
-					<lb facs='#facs_17_l_49' n='N013'/>easily distingishable categories of experience.
+					advertising archives indicates that ad agencies sought to con¬
+					trol the placement of their ads and, conversely, that magazines
+					tried their utmost to maintain agency goodwill by &quot;sensitive”
+					layout. No matter how calculated, the recurrence of these mean¬
+					ingful juxtapositions suggests a new form of cultural commu¬
+					nication. This subject needs further study, but for now I would
+					propose that the separate but integrated codes of color and black
+					and white enhanced the magazine in two, non-economic ways:
+					formally, such divisions provided a dynamic rhythm to the flow
+					of the magazine; functionally, the magazine became a richer
+					vehicle for this diversity, fulfilling the consumer’s desire for both
+					Truth and Beauty, and maintaining the illusion that these were
+					easily distingishable categories of experience.
 				</p>
 				<p>
-					<lb facs='#facs_17_l_84' n='N001'/>Though having devoted most space to the importance of
-					<lb facs='#facs_17_l_85' n='N002'/>changes in format and color, I must at least point out a differ¬
-					<lb facs='#facs_17_l_86' n='N003'/>ent type of innovation in magazine advertising of the 1930s. Not
-					<lb facs='#facs_17_l_87' n='N004'/>only was this innovation particular to the Depression years, but
-					<lb facs='#facs_17_l_88' n='N005'/>it signalled the limits of the magazine as a perfectly rational¬
-					<lb facs='#facs_17_l_89' n='N006'/>ized marketing vehicle as compared with emerging modern
-					<lb facs='#facs_17_l_90' n='N007'/>media. Throughout this analysis, I have tried to suggest the
-					<lb facs='#facs_17_l_91' n='N008'/>strength of various graphic appeals by describing the page or
-					<lb facs='#facs_17_l_92' n='N009'/>the ad as &quot;speaking&quot; to the magazine reader. In a discussion of
-					<lb facs='#facs_17_l_93' n='N010'/>visual effects, the expression invites charges of mixing meta¬
-					<lb facs='#facs_17_l_94' n='N011'/>phors. I have used it deliberately, for the idea arguably informed
-					<lb facs='#facs_17_l_95' n='N012'/>most of the conscious changes in the magazines; moreover, by
-					<lb facs='#facs_17_l_96' n='N013'/>the 1930s, the idea of the &quot;speaking&quot; graphic was achieved in a
-					<lb facs='#facs_17_l_97' n='N014'/>fairly literal sense as well.
+					Though having devoted most space to the importance of
+					changes in format and color, I must at least point out a differ¬
+					ent type of innovation in magazine advertising of the 1930s. Not
+					only was this innovation particular to the Depression years, but
+					it signalled the limits of the magazine as a perfectly rational¬
+					ized marketing vehicle as compared with emerging modern
+					media. Throughout this analysis, I have tried to suggest the
+					strength of various graphic appeals by describing the page or
+					the ad as &quot;speaking&quot; to the magazine reader. In a discussion of
+					visual effects, the expression invites charges of mixing meta¬
+					phors. I have used it deliberately, for the idea arguably informed
+					most of the conscious changes in the magazines; moreover, by
+					the 1930s, the idea of the &quot;speaking&quot; graphic was achieved in a
+					fairly literal sense as well.
 				</p>
 				<p>
-					<lb facs='#facs_17_l_98' n='N001'/>Throughout the 1920s, a common mode of selling was the
-					<lb facs='#facs_17_l' n='N002'/>personality endorsement. In women’s magazines, film stars and
-					<lb facs='#facs_17_l_1' n='N003'/>&quot;sociolites” most fequently appeared in this role, in the form of
-					<lb facs='#facs_17_l_2' n='N004'/>chatty &quot;direct testimony” along with a photographic portrait.
-					<lb facs='#facs_17_l_3' n='N005'/>This recipe had the virtue of human interest, but the product
-					<lb facs='#facs_17_l_4' n='N006'/>itself was often upstaged. A 1924 ad for laundry soap attempted
-					<lb facs='#facs_17_l_5' n='N007'/>to resolve this contradiction by replacing the standard portrait
-					<lb facs='#facs_17_l_6' n='N008'/>and testimony with a picture of pastel baby clothes accompa¬
-					<lb facs='#facs_17_l_7' n='N009'/>nied by the headline, &quot;If Clothes could talk..., which was fol¬
-					<lb facs='#facs_17_l_8' n='N010'/>lowed by the pitch, &quot;We Want Fels Naptha!&quot; A dramatic form
-					<lb facs='#facs_17_l_9' n='N011'/>was still needed, but the objective was clear.
+					Throughout the 1920s, a common mode of selling was the
+					personality endorsement. In women’s magazines, film stars and
+					&quot;sociolites” most fequently appeared in this role, in the form of
+					chatty &quot;direct testimony” along with a photographic portrait.
+					This recipe had the virtue of human interest, but the product
+					itself was often upstaged. A 1924 ad for laundry soap attempted
+					to resolve this contradiction by replacing the standard portrait
+					and testimony with a picture of pastel baby clothes accompa¬
+					nied by the headline, &quot;If Clothes could talk..., which was fol¬
+					lowed by the pitch, &quot;We Want Fels Naptha!&quot; A dramatic form
+					was still needed, but the objective was clear.
 				</p>
 				<p>
-					<lb facs='#facs_17_l_10' n='N001'/>In the same period that the sound film replaced the silent, a
-					<lb facs='#facs_17_l_11' n='N002'/>new genre of printed ad began to replace the older testimonial.
-					<lb facs='#facs_17_l_12' n='N003'/>The hallmarks of this genre were speech balloons and a serial
-					<lb facs='#facs_17_l_13' n='N004'/>strip form, emphasizing terse dialogue and abbreviated sequen¬
+					In the same period that the sound film replaced the silent, a
+					new genre of printed ad began to replace the older testimonial.
+					The hallmarks of this genre were speech balloons and a serial
+					strip form, emphasizing terse dialogue and abbreviated sequen¬
 				</p>
 				<pb n='18'/>
 				<p>
-					<lb facs='#facs_18_l' n='N001'/>tial activity which revolved around the product (Fig. 9). Though
-					<lb facs='#facs_18_l_1' n='N002'/>similar in look to newspaper comics, probably radio ads were
-					<lb facs='#facs_18_l_2' n='N003'/>as influential a source for this trend (the ad agencies after all
-					<lb facs='#facs_18_l_3' n='N004'/>were creating many of the popular radio programs of the 1930s,
-					<lb facs='#facs_18_l_4' n='N005'/>programs which moved seamlessly from entertainment to prod¬
-					<lb facs='#facs_18_l_5' n='N006'/>uct endorsement). In some cases, these cartoons may have pro¬
-					<lb facs='#facs_18_l_6' n='N007'/>vided a visual guide to audio ads women were hearing with
-					<lb facs='#facs_18_l_7' n='N008'/>growing regularity on radio. Whether or not they were exact tran¬
-					<lb facs='#facs_18_l_8' n='N009'/>scriptions of radio ads, they certainly anticipated the storyboards
-					<lb facs='#facs_18_l_9' n='N010'/>for condensed dramas—consisting largely of close-ups—which
-					<lb facs='#facs_18_l_10' n='N011'/>would make their debut as televised commercials.
+					tial activity which revolved around the product (Fig. 9). Though
+					similar in look to newspaper comics, probably radio ads were
+					as influential a source for this trend (the ad agencies after all
+					were creating many of the popular radio programs of the 1930s,
+					programs which moved seamlessly from entertainment to prod¬
+					uct endorsement). In some cases, these cartoons may have pro¬
+					vided a visual guide to audio ads women were hearing with
+					growing regularity on radio. Whether or not they were exact tran¬
+					scriptions of radio ads, they certainly anticipated the storyboards
+					for condensed dramas—consisting largely of close-ups—which
+					would make their debut as televised commercials.
 				</p>
 				<p>
-					<lb facs='#facs_18_l_35' n='N001'/>Though radio competed with magazines for audiences and
-					<lb facs='#facs_18_l_36' n='N002'/>advertising money, the two media were quite complementary.
-					<lb facs='#facs_18_l_37' n='N003'/>While no magazine could match the perfect continuity of com¬
-					<lb facs='#facs_18_l_38' n='N004'/>mercial broadcast radio programming, a flow which could ac
-					<lb facs='#facs_18_l_39' n='N005'/>company the practice of housework, radio was unable to reveal
-					<lb facs='#facs_18_l_40' n='N006'/>the &quot;look&quot; of a commodified, modernized domestic world. Thus
-					<lb facs='#facs_18_l_41' n='N007'/>before World War II, magazine, ved a central role in devel¬
-					<lb facs='#facs_18_l_42' n='N008'/>oping the visible materiality of coneumer culture. Furthermore,
-					<lb facs='#facs_18_l_43' n='N009'/>the murky antinomies of modernized women’s magazines
-					<lb facs='#facs_18_l_44' n='N010'/>—between editorial and advertising copy, between &quot;pleasurable
-					<lb facs='#facs_18_l_45' n='N011'/>color and &quot;instructive” monochrome images and text, between
-					<lb facs='#facs_18_l_46' n='N012'/>the rhetoric of &quot;scientific&quot; housework and the rhetoric of ro¬
-					<lb facs='#facs_18_l_47' n='N013'/>mance—trained the female viewer for the distinctive flow of
-					<lb facs='#facs_18_l_48' n='N014'/>messages delivered by the predominant cultural institution of
-					<lb facs='#facs_18_l_49' n='N015'/>the postwar era: tv.
+					Though radio competed with magazines for audiences and
+					advertising money, the two media were quite complementary.
+					While no magazine could match the perfect continuity of com¬
+					mercial broadcast radio programming, a flow which could ac
+					company the practice of housework, radio was unable to reveal
+					the &quot;look&quot; of a commodified, modernized domestic world. Thus
+					before World War II, magazine, ved a central role in devel¬
+					oping the visible materiality of coneumer culture. Furthermore,
+					the murky antinomies of modernized women’s magazines
+					—between editorial and advertising copy, between &quot;pleasurable
+					color and &quot;instructive” monochrome images and text, between
+					the rhetoric of &quot;scientific&quot; housework and the rhetoric of ro¬
+					mance—trained the female viewer for the distinctive flow of
+					messages delivered by the predominant cultural institution of
+					the postwar era: tv.
 				</p>
 				<p>
-					<lb facs='#facs_18_l_50' n='N001'/>Far more work needs to be done on the continuity between
-					<lb facs='#facs_18_l_51' n='N002'/>these two forms of mass culture which have profound affect
-					<lb facs='#facs_18_l_52' n='N003'/>upon, and appeal for, women. We need to comprehend better
-					<lb facs='#facs_18_l_53' n='N004'/>the ways these institutional forms structure meaning. We also
-					<lb facs='#facs_18_l_54' n='N005'/>need to pursue the actual and differing ways these messages
-					<lb facs='#facs_18_l_55' n='N006'/>are received—how they are integrated into a larger complex
-					<lb facs='#facs_18_l_56' n='N007'/>pattern of experiences, and also how they are resisted (at least
-					<lb facs='#facs_18_l_57' n='N008'/>partially) because of their inconsistency with the logic of our
-					<lb facs='#facs_18_l_58' n='N009'/>experiences.
+					Far more work needs to be done on the continuity between
+					these two forms of mass culture which have profound affect
+					upon, and appeal for, women. We need to comprehend better
+					the ways these institutional forms structure meaning. We also
+					need to pursue the actual and differing ways these messages
+					are received—how they are integrated into a larger complex
+					pattern of experiences, and also how they are resisted (at least
+					partially) because of their inconsistency with the logic of our
+					experiences.
 				</p>
 				<p>
-					<lb facs='#facs_18_r_3_1_tl_1' n='N001'/>Robert and Helen Lynd, Middle¬
-					<lb facs='#facs_18_r_3_1_tl_2' n='N002'/>town (New York, 1956), p. 235.
-					<lb facs='#facs_18_r_3_1_tl_3' n='N003'/>2 The present article represents a
-					<lb facs='#facs_18_r_3_1_tl_4' n='N004'/>much abbreviated verison of a 1980
-					<lb facs='#facs_18_r_3_1_tl_5' n='N005'/>paper written as a graduate student
-					<lb facs='#facs_18_r_3_1_tl_6' n='N006'/>in Nancy F. Cott&apos;s Women’s Studies
-					<lb facs='#facs_18_r_3_1_tl_7' n='N007'/>seminar, Yale University. In looking
-					<lb facs='#facs_18_r_3_1_tl_8' n='N008'/>for a method with which to analyze
-					<lb facs='#facs_18_r_3_1_tl_9' n='N009'/>the changing structure of women&apos;s
-					<lb facs='#facs_18_r_3_1_tl_10' n='N010'/>magazines, I found little specific
-					<lb facs='#facs_18_r_3_1_tl_11' n='N011'/>ally on magazines or print media in
-					<lb facs='#facs_18_r_3_1_tl_12' n='N012'/>general; on the other hand, recent
-					<lb facs='#facs_18_r_3_1_tl_13' n='N013'/>work on related issues of commer
-					<lb facs='#facs_18_r_3_1_tl_14' n='N014'/>cial culture challenged me to pur¬
-					<lb facs='#facs_18_r_3_1_tl_15' n='N015'/>sue this theme, especially the inno¬
-					<lb facs='#facs_18_r_3_1_tl_16' n='N016'/>vative study of the strip coauthored
-					<lb facs='#facs_18_r_3_1_tl_17' n='N017'/>by Robert Venturi, Denise Scott
-					<lb facs='#facs_18_r_3_1_tl_18' n='N018'/>Brown and Steven Izenour, Leam¬
-					<lb facs='#facs_18_r_3_1_tl_19' n='N019'/>ing from Las Vegas (Cambridge,
-					<lb facs='#facs_18_r_3_1_tl_20' n='N020'/>Mass., 1977), and Raymond Wil¬
-					<lb facs='#facs_18_r_3_1_tl_21' n='N021'/>liams’ more critical cultural analy
-					<lb facs='#facs_18_r_3_1_tl_22' n='N022'/>sis of the &quot;flow&quot; of television, Tele¬
-					<lb facs='#facs_18_r_3_1_tl_23' n='N023'/>vision: Technology and Cultural
-					<lb facs='#facs_18_r_3_1_tl_24' n='N024'/>Form (New York, 1977). Since writ-
-					<lb facs='#facs_18_r_3_1_tl_25' n='N025'/>ing my first version of this article, a
-					<lb facs='#facs_18_r_3_1_tl_26' n='N026'/>considerable body of new work on
-					<lb facs='#facs_18_r_3_1_tl_27' n='N027'/>reception vis-à-vis the &quot;flow&quot; of mod¬
-					<lb facs='#facs_18_r_3_1_tl_28' n='N028'/>ern commercial media has been
-					<lb facs='#facs_18_r_3_1_tl_29' n='N029'/>produced: in particular, the collec¬
-					<lb facs='#facs_18_r_3_1_tl_30' n='N030'/>tively produced series of video¬
-					<lb facs='#facs_18_r_3_1_tl_31' n='N031'/>tapes by Paper Tiger Television
-					<lb facs='#facs_18_r_3_1_tl_32' n='N032'/>which offers critical (and also witty)
-					<lb facs='#facs_18_r_3_1_tl_33' n='N033'/>readings of a wide range of contem¬
-					<lb facs='#facs_18_r_3_1_tl_34' n='N034'/>porary periodicals (see Martha
-					<lb facs='#facs_18_r_3_1_tl_35' n='N035'/>Gever, &quot;Meet the Press: On Paper
-					<lb facs='#facs_18_r_3_1_tl_36' n='N036'/>Tiger Television,&quot; Afterimage, Vol.
-					<lb facs='#facs_18_r_3_1_tl_37' n='N037'/>11, No. 4, November 1983, pp. 7—
-					<lb facs='#facs_18_r_3_1_tl_38' n='N038'/>11); Tania Modleski’s study of the
-					<lb facs='#facs_18_r_3_1_tl_39' n='N039'/>tradition of commercial women&apos;s
-					<lb facs='#facs_18_r_3_1_tl_40' n='N040'/>culture spanning Gothics to Soap
-					<lb facs='#facs_18_r_3_1_tl_41' n='N041'/>Operas (though omitting women&apos;s
-					<lb facs='#facs_18_r_3_1_tl_42' n='N042'/>magazines), Loving with a Ven¬
-					<lb facs='#facs_18_r_3_1_tl_43' n='N043'/>geance (Hamden, Conn., 1982); and
-					<lb facs='#facs_18_r_3_1_tl_44' n='N044'/>Nick Browne’s recent article, “The
-					<lb facs='#facs_18_r_3_1_tl_45' n='N045'/>Political Economy of the Television
-					<lb facs='#facs_18_r_3_1_tl_46' n='N046'/>(Super) Text,&quot; Quarterly Reveiw of
-					<lb facs='#facs_18_r_3_1_tl_47' n='N047'/>Film Studies, Vol. 9, No. 3 (Sum¬
-					<lb facs='#facs_18_r_3_1_tl_48' n='N048'/>mer 1984), pp. 174-182, pursues
+					Robert and Helen Lynd, Middle¬
+					town (New York, 1956), p. 235.
+					2 The present article represents a
+					much abbreviated verison of a 1980
+					paper written as a graduate student
+					in Nancy F. Cott&apos;s Women’s Studies
+					seminar, Yale University. In looking
+					for a method with which to analyze
+					the changing structure of women&apos;s
+					magazines, I found little specific
+					ally on magazines or print media in
+					general; on the other hand, recent
+					work on related issues of commer
+					cial culture challenged me to pur¬
+					sue this theme, especially the inno¬
+					vative study of the strip coauthored
+					by Robert Venturi, Denise Scott
+					Brown and Steven Izenour, Leam¬
+					ing from Las Vegas (Cambridge,
+					Mass., 1977), and Raymond Wil¬
+					liams’ more critical cultural analy
+					sis of the &quot;flow&quot; of television, Tele¬
+					vision: Technology and Cultural
+					Form (New York, 1977). Since writ-
+					ing my first version of this article, a
+					considerable body of new work on
+					reception vis-à-vis the &quot;flow&quot; of mod¬
+					ern commercial media has been
+					produced: in particular, the collec¬
+					tively produced series of video¬
+					tapes by Paper Tiger Television
+					which offers critical (and also witty)
+					readings of a wide range of contem¬
+					porary periodicals (see Martha
+					Gever, &quot;Meet the Press: On Paper
+					Tiger Television,&quot; Afterimage, Vol.
+					11, No. 4, November 1983, pp. 7—
+					11); Tania Modleski’s study of the
+					tradition of commercial women&apos;s
+					culture spanning Gothics to Soap
+					Operas (though omitting women&apos;s
+					magazines), Loving with a Ven¬
+					geance (Hamden, Conn., 1982); and
+					Nick Browne’s recent article, “The
+					Political Economy of the Television
+					(Super) Text,&quot; Quarterly Reveiw of
+					Film Studies, Vol. 9, No. 3 (Sum¬
+					mer 1984), pp. 174-182, pursues
 				</p>
 				<p>
-					<lb facs='#facs_18_r_5_1_tl_1' n='N001'/>the issues raised by Raymond Wil¬
-					<lb facs='#facs_18_r_5_1_tl_2' n='N002'/>liams’ earlier work on television.
-					<lb facs='#facs_18_r_5_1_tl_3' n='N003'/>For this version, I am greatly in¬
-					<lb facs='#facs_18_r_5_1_tl_4' n='N004'/>debted for editorial assistance to
-					<lb facs='#facs_18_r_5_1_tl_5' n='N005'/>Lucy Lippard and Allan Sekula.
-					<lb facs='#facs_18_r_5_1_tl_6' n='N006'/>3 See for example, Robert S. Lynd
-					<lb facs='#facs_18_r_5_1_tl_7' n='N007'/>with the assistance of Alice C. Han¬
-					<lb facs='#facs_18_r_5_1_tl_8' n='N008'/>son, &quot;The People as Consumer,&quot; in
-					<lb facs='#facs_18_r_5_1_tl_9' n='N009'/>Recent Social Trends in the United
-					<lb facs='#facs_18_r_5_1_tl_10' n='N010'/>States (New York, 1933) pp. 871-4.
-					<lb facs='#facs_18_r_5_1_tl_11' n='N011'/>4 See David Montgomery, Workers
-					<lb facs='#facs_18_r_5_1_tl_12' n='N012'/>Control in America: Studies in the
-					<lb facs='#facs_18_r_5_1_tl_13' n='N013'/>History of Work, Technology and
-					<lb facs='#facs_18_r_5_1_tl_14' n='N014'/>Labor Struggles (Cambridge, 1979),
-					<lb facs='#facs_18_r_5_1_tl_15' n='N015'/>especially, pp. 122-127; Loren Bar¬
-					<lb facs='#facs_18_r_5_1_tl_16' n='N016'/>tiz, The Servants of Power (New
-					<lb facs='#facs_18_r_5_1_tl_17' n='N017'/>York, 1965), pp. 28-54; and Harry
-					<lb facs='#facs_18_r_5_1_tl_18' n='N018'/>Braverman, Labor and Monopoly
-					<lb facs='#facs_18_r_5_1_tl_19' n='N019'/>Capital (New York, 1974).
-					<lb facs='#facs_18_r_5_1_tl_20' n='N020'/>5 On Gilman’s contradictory posi¬
-					<lb facs='#facs_18_r_5_1_tl_21' n='N021'/>tion regarding efficiency and the
-					<lb facs='#facs_18_r_5_1_tl_22' n='N022'/>transformation of traditional wom¬
-					<lb facs='#facs_18_r_5_1_tl_23' n='N023'/>en’s work, see Dolores Hayden,
-					<lb facs='#facs_18_r_5_1_tl_24' n='N024'/>&quot;Charlotte Perkins Gilman and the
-					<lb facs='#facs_18_r_5_1_tl_25' n='N025'/>Kitchenless Home,&quot; Radical History
-					<lb facs='#facs_18_r_5_1_tl_26' n='N026'/>Review, 21 (March 1980) pp.
-					<lb facs='#facs_18_r_5_1_tl_27' n='N027'/>225-247.
-					<lb facs='#facs_18_r_5_1_tl_28' n='N028'/>6 Ruth Schwartz Cowan explores
-					<lb facs='#facs_18_r_5_1_tl_29' n='N029'/>these issues in, &quot;The Industrial Rev¬
-					<lb facs='#facs_18_r_5_1_tl_30' n='N030'/>olution in the Home: Household
-					<lb facs='#facs_18_r_5_1_tl_31' n='N031'/>Technology and Social Change in
-					<lb facs='#facs_18_r_5_1_tl_32' n='N032'/>the Twentieth Century,&quot; Technology
-					<lb facs='#facs_18_r_5_1_tl_33' n='N033'/>and Culture, XVII, 1976, 16, 21-23,
-					<lb facs='#facs_18_r_5_1_tl_34' n='N034'/>and at greater length in her later
-					<lb facs='#facs_18_r_5_1_tl_35' n='N035'/>book, More Work for Mother (New
-					<lb facs='#facs_18_r_5_1_tl_36' n='N036'/>York, 1983).
-					<lb facs='#facs_18_r_5_1_tl_37' n='N037'/>7 For a more detailed discussion of
-					<lb facs='#facs_18_r_5_1_tl_38' n='N038'/>this composite illustration, see my
-					<lb facs='#facs_18_r_5_1_tl_39' n='N039'/>earlier essay, &quot;The Composite Pho¬
-					<lb facs='#facs_18_r_5_1_tl_40' n='N040'/>tographic Image and the Com¬
-					<lb facs='#facs_18_r_5_1_tl_41' n='N041'/>position of Consumer Ideology,
-					<lb facs='#facs_18_r_5_1_tl_42' n='N042'/>Art Journal, Spring 1981, pp. 39-45.
-					<lb facs='#facs_18_r_5_1_tl_43' n='N043'/>8 Frederick Winslow Taylor, The
-					<lb facs='#facs_18_r_5_1_tl_44' n='N044'/>Principles of Scientific Management
-					<lb facs='#facs_18_r_5_1_tl_45' n='N045'/>(New York, 1915), p. 94.
-					<lb facs='#facs_18_r_5_1_tl_46' n='N046'/>9 Lilian Gilbreth, The Psychology
-					<lb facs='#facs_18_r_5_1_tl_47' n='N047'/>of Management (New York, 1914),
-					<lb facs='#facs_18_r_5_1_tl_48' n='N048'/>p. 246.
+					the issues raised by Raymond Wil¬
+					liams’ earlier work on television.
+					For this version, I am greatly in¬
+					debted for editorial assistance to
+					Lucy Lippard and Allan Sekula.
+					3 See for example, Robert S. Lynd
+					with the assistance of Alice C. Han¬
+					son, &quot;The People as Consumer,&quot; in
+					Recent Social Trends in the United
+					States (New York, 1933) pp. 871-4.
+					4 See David Montgomery, Workers
+					Control in America: Studies in the
+					History of Work, Technology and
+					Labor Struggles (Cambridge, 1979),
+					especially, pp. 122-127; Loren Bar¬
+					tiz, The Servants of Power (New
+					York, 1965), pp. 28-54; and Harry
+					Braverman, Labor and Monopoly
+					Capital (New York, 1974).
+					5 On Gilman’s contradictory posi¬
+					tion regarding efficiency and the
+					transformation of traditional wom¬
+					en’s work, see Dolores Hayden,
+					&quot;Charlotte Perkins Gilman and the
+					Kitchenless Home,&quot; Radical History
+					Review, 21 (March 1980) pp.
+					225-247.
+					6 Ruth Schwartz Cowan explores
+					these issues in, &quot;The Industrial Rev¬
+					olution in the Home: Household
+					Technology and Social Change in
+					the Twentieth Century,&quot; Technology
+					and Culture, XVII, 1976, 16, 21-23,
+					and at greater length in her later
+					book, More Work for Mother (New
+					York, 1983).
+					7 For a more detailed discussion of
+					this composite illustration, see my
+					earlier essay, &quot;The Composite Pho¬
+					tographic Image and the Com¬
+					position of Consumer Ideology,
+					Art Journal, Spring 1981, pp. 39-45.
+					8 Frederick Winslow Taylor, The
+					Principles of Scientific Management
+					(New York, 1915), p. 94.
+					9 Lilian Gilbreth, The Psychology
+					of Management (New York, 1914),
+					p. 246.
 				</p>
 			</div>
 		</body>
