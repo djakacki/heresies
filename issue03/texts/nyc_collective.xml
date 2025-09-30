@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>A New York City Collective</title>
+				<author>Ellen Turner</author>
+				<author>Flavia Rando</author>
+				<author>Fran Winant</author>
+				<author>Jessica Falstein</author>
+				<author>Maxine Fine</author>
+				<respStmt>
+					<persName>Eowyn Andres</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Haley Beardsley</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lyndon Beier</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Erica Delsandro</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mia DeRoco</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Margaret Hunter</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Invesigator, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sophie McQuaide</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Martin</persName>
+					<resp>Editor, encoder (2021)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zoha Nadeer</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bri Perea</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Carrie Pirmann</persName>
+					<resp>Editor, encoder (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Ricky Rodriguez</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Roger Rothman</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kaitlyn Segreti</persName>
+					<resp>Editor (2021-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maggie Smith</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maya Wadhwa</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kelly Troop</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lucy Wadswoth</persName>
+					<resp>Editor (2022-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anna Marie Wingard</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Wychock</persName>
+					<resp>Graduate Editor (2024-Present)</resp>
+				</respStmt>
+				<funder>Bucknell University Humanities Center</funder>
+				<funder>Bucknell University Office of Undergraduate Research</funder>
+				<funder>The Mellon Foundation</funder>
+				<funder>National Endowment for the Humanities</funder>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>
+					<name>Bucknell University</name>
+					<address>
+						<street>One Dent Drive</street>
+						<settlement>Lewisburg</settlement>
+						<region>Pennsylvania</region>
+						<postCode>17837</postCode>
+					</address>
+				</distributor>
+				<availability>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+						International (CC BY-NC 4.0)</licence>
+					<licence>Heresies journal: © Heresies Collective</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title>Patterns of Communicating and Space Among Women</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+							<pubPlace>
+								<address>
+									<name>Heresies</name>
+									<postBox>P.O. Boxx 766, Canal Street Station</postBox>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<postCode>10013</postCode>
+								</address>
+							</pubPlace>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<head>A New York City Collective</head>
+				<pb n='102' facs="/sites/default/files/2025-08/heresies03_102_0.jpg"/>
+				<p>
+					About fifteen women have been part of the group at
+					various times, and there are five women in the group at
+					present. We are: Ellen Turner, Flavia Rando, Fran
+					Winant, Jessica Falstein, and Maxine Fine. We give each
+					other support, criticism and feedback concerning our
+					work and our lives.
+				</p>
+				<p>
+					We participated in the art shows at the Gay Academic
+					Union Conferences in 1974 and 1975. We offset copies
+					of our drawings at ComelUnity Press with the words
+					"Lesbian Art" written on them and pasted them up on
+					the streets, in subways, and near museums, art schools,
+					and women’s bars. In March, 1976, we gave a slide
+					show at the Women’s Coffee House to bring our work
+					to the community, which might otherwise not see it,
+					and to de-mystify the process of how we make our art.
+					In June, 1976, we had a group show at Mother Courage
+					Restaurant. A day after the show opened, the restaurant
+					called Flavia, and told her they found her semi-abstract
+					painting of a woman’s genitals "offensive and in poor
+					taste, and demanded that she take it down. A series of
+					meetings between the restaurant and our collective followed. Our group was torn between taking down all
+					our work or making some compromise. We finally
+					removed the “offending" painting and put up a statement describing the painting and what had taken place
+					and explaining Flavia’s artistic intentions in creating the
+					work. We allowed this experience to have a destructive
+					effect on the group. After the usual summer break we
+					did not meet again for 5 months. When we resumed
+					meeting, we tried to rediscuss “The Mother Courage
+					Incident" but could never resolve our conflicted feelings
+					about what would have been the best way we could
+					have supported Flavia. We are now trying to expand the
+					focus of the group to deal with more of our interests
+					such as poetry, photography, Tai Chi and dance.
+				</p>
+				<p>
+					The following discussion is about what it means to us
+					to be a lesbian and an artist.
+					MF: I was just wondering if everyone here is a lesbian.
+					(A chorus of "Yes.")
+					ET: Are we lesbian artists or are we just people?
+					FR: Even today when I see a picture of Gertrude
+					Stein, Alice Toklas, or Romaine Brooks or see or read
+					their work, I get a thrill. Knowing about these women
+					has sustained me through a lot of years. Really that’s the
+					value of this lesbian issue of Heresies—showing us that
+					lesbian artists exist. As for what it means to be a lesbian
+					artist—I don’t even know what it means for me to be an
+					artist.
+					MF: In the past we’ve talked about how galleries
+					don’t want to exhibit work by open lesbians, but how
+					does it feel to be a lesbian artist within the lesbian com¬
+					munity? How relevant is it? What kind of an impact on
+				</p>
+				<p>
+					A New York City Collective
+				</p>
+				<p>
+					the politics do we have, and on lesbians’ lives?
+					FR: I can’t even get to that point. I keep thinking that
+					so much of what I do all day, not just working, but the
+					over-all pattern of my life, is a fight to make room for
+					my psyche in both the lesbian community and the out¬
+					side world. l’m fighting to be an artist, fighting for a few
+					hours of free time, for money. Being an artist is extra,
+					you don’t do it to live. Just as being a lesbian is extra, not
+					to me but to the world. We have to fight to make emo-
+					tional space for it.
+					FW: I used to think it was desirable that the com¬
+					munity’s politics and art should influence each other.
+					But, I think what happens with political art is that it
+					reflects the community’s politics; it doesn’t influence
+					them. The majority of creative women appear not to
+					want to do that kind of art. They may feel some pres¬
+					sure from their own politics or the belief that the com¬
+					munity might respond better to this type of art, but they
+					can’t force their creativity to function that way.
+					MF: Did you ever do that kind of art?
+					FW: In my poetry...
+					MF: I mean in your painting.
+					FW: No, I never wanted to. The closest I came to
+					wanting to do something political was wanting to make
+					portraits of women, including some lesbians of the past.
+					ET: I think it’s connected with societal patterns. The
+					Communist Party has their artists do Communist im¬
+					agery. So when we hear about lesbian art, we think we
+					have to document the rhetoric of the lesbian movement
+					to be a full-fledged lesbian artist. There has to be a dif¬
+					ferent way to experience ourselves as lesbian artists in¬
+					stead of having to go by patterns and definitions set up
+					by the straight world. We have to set up new ones. Art
+					can document what’s internalized in our beings, rather
+					than literal and surface realities that political move¬
+					ments deal with.
+					FR: Iused to always think that being a lesbian artist
+					was just the fact that I was a lesbian and an artist, and
+					everything I did was going to reflect my lesbianism.
+					FW: Like anything that’s important to you, your les¬
+					bianism will influence what you create.
+					MF: Part of the problem in struggling with this idea
+					of what lesbian art is, is the implication that there is an
+					already-defined and homogeneous lesbian culture and
+					that any lesbian within that culture would reflect it.
+					FW: We’re supposed to be like an ethnic group.
+					MF: But we’re not even given credit for having that
+					kind of richness. We don’t realize it ourselves and our
+					lesbian culture doesn’t encourage it. I think there is a
+					fear of differences and individualism which really boils
+					down to lesbians not trusting each other. Having to
+					classify ourselves or our work may make things more
+					clear but it’s also a form of control. It’s especially a
+					problem if you’re working as an abstract artist and don&apos;t
+				</p>
+				<pb n='103' facs="/sites/default/files/2025-08/heresies03_103_0.jpg"/>
+				<p>
+					deal with real things.
+					JF: You mean recognizable things.
+					MF: Yes. Then you get into an area of ideas and feel¬
+					ings there’s no room for among our lesbian sisters.
+					There’s no place for you as an artist or a person.
+					FR: The best lesbian art would be if every lesbian in
+					this country claimed everything she did as a lesbian cre¬
+					ation. That’s really what we’re talking about.
+					FW: Feminist artists are eager to do that with their
+					feminist art. Part of the history of the lesbian movement
+					has been an insistence on defining ourselves, and that&apos;s
+					still valid, that still has to continue.
+					FR: Even using the term “lesbian art" is accepting a
+					very narrow definition. Here we are: five lesbian artists
+					in a lesbian art collective. We each do completely dif¬
+					ferent work and only Ellen’s, because it’s autobio¬
+					grafical, is what would generally be recognized as les¬
+					bian art. All we can really say is that our art is a product
+					of everything we are and our lesbianism is an important
+					part of what we are.
+					JF: I think the definition has grown out of our op
+					pression. When we get together we don’t have to keep
+					reinforcing our lesbianism.
+					FR: It matters politically because if I don’t say l’m a
+					lesbian then no one will know and then part of me will
+					constantly be denied.
+					JF: I don’t think there is a single common denom¬
+					inator to all work done by lesbians. We’re oppressed be¬
+					cause of our invisibility. It’s important that a magazine
+					be filled with work done by women and all these women
+					be lesbians. But try to look for the connecting key and
+					you won’t find any
+					FW: I think it would mean something important if we
+					could come out with a statement like, “Tm a lesbian art¬
+					ist because my community gives me the strength to be
+					an artist.
+					(Shouts of "No."
+					FW: l’ve had these feelings very strongly. Like the
+					woman who was ordained as a minister who said, "My
+				</p>
+				<p>
+					lesbian lover gives me great spiritual strength.” If we
+					could say, "My lesbian community, or my lover, gives
+					me creative strength, then I think it would be more
+					meaningful to be a lesbian artist. It would also be much
+					clearer what it meant to be one. The fact that we can’t
+					say these things is a loss to us.
+					FR: I could have said that during a certain time in my
+					life. That kind of outside support of one’s existence can
+					help a person to create art to a degree, for a certain
+					amount of time. But after that you have to pick it up in
+					a different way and have it be more internal.
+					ET: But do you think the exterior support and en¬
+					thusiasm still exists for the women who need them? l’m
+					not experiencing this. A lot that used to happen doesn’t
+					happen any more.
+					FR: The culture we all grew up in is not set up for art.
+					An artist in our culture has to be very aggressive and
+					able to publicize herself. I don’t think we can blame the
+					lesbian community.
+					ET: I don’t think the lesbian community really tries
+					to initiate anything.
+					FR: Art itself is a luxury in our culture and the lesbian
+					community has so much trouble surviving...
+					ET: Certain things are sought out in the lesbian com¬
+					munity. Books, women’s presses, records. It’s more than
+					what’s available for visual artists.
+					FR: Didn’t writers do the presses and musicians cre¬
+					ate the record companies?
+					FW: There are a lot of women’s book stores with wall
+					space and possibly we could have travelling exhibitions.
+					It wouldn’t be one big gallery in New York, but at least
+					somebody could send pieces around to smaller places.
+					MF: I helped Myra Nissim put up a show of photo-
+					graphs in a woman s space where new work hadn’t been
+					hung in over a year. Afterwards, other women put up
+					work. You have to create the idea and make it happen
+					and then other people will be inspired by it. And you
+					have to keep feeding it or it will stop.
+					FW: There’s a tremendous barrier to defining your¬
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

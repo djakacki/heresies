@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>The Graphic Ordering of Desire</title>
+				<author>Sally Stein</author>
+				<respStmt>
+					<persName>Eowyn Andres</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Haley Beardsley</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lyndon Beier</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Erica Delsandro</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mia DeRoco</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Margaret Hunter</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Invesigator, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sophie McQuaide</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Martin</persName>
+					<resp>Editor, encoder (2021)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zoha Nadeer</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bri Perea</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Carrie Pirmann</persName>
+					<resp>Editor, encoder (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Ricky Rodriguez</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Roger Rothman</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kaitlyn Segreti</persName>
+					<resp>Editor (2021-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maggie Smith</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maya Wadhwa</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kelly Troop</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lucy Wadswoth</persName>
+					<resp>Editor (2022-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anna Marie Wingard</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Wychock</persName>
+					<resp>Graduate Editor (2024-Present)</resp>
+				</respStmt>
+				<funder>Bucknell University Humanities Center</funder>
+				<funder>Bucknell University Office of Undergraduate Research</funder>
+				<funder>The Mellon Foundation</funder>
+				<funder>National Endowment for the Humanities</funder>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>
+					<name>Bucknell University</name>
+					<address>
+						<street>One Dent Drive</street>
+						<settlement>Lewisburg</settlement>
+						<region>Pennsylvania</region>
+						<postCode>17837</postCode>
+					</address>
+				</distributor>
+				<availability>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+						International (CC BY-NC 4.0)</licence>
+					<licence>Heresies journal: © Heresies Collective</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title>Feminism and Class</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+							<pubPlace>
+								<address>
+									<name>Heresies</name>
+									<postBox>P.O. Boxx 766, Canal Street Station</postBox>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<postCode>10013</postCode>
+								</address>
+							</pubPlace>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='9'/>
+				<p>
+					THE GRAPHIC ORDERING OF DESIRE
+				</p>
+				<p>
+					Modernization of
+					A Middle-Class
+					Women&apos;s Magazine,
+					1914-1939
+				</p>
+				<p>
+					SALLY STEIN
+				</p>
+				<p>
+					In the 1920s study Middletown, a Muncie, Indiana housewife gave this
+					account of her reading habits:
+				</p>
+				<p>
+					I just read magazines in my scraps of time. I should so like to do more consecutive reading but I don’t know of any reading course or how to make one out.
+				</p>
+				<p>
+					A key phrase here is the &quot;scraps of time,” the sense of fragmented leisure time which characterized women’s work in the home. This woman
+					was still describing her activity with magazines as &quot;reading,” but she was
+					clearly distinguishing between this form of reading and the more continu
+					ous reading required of traditional literature. It won’t ever be possible to
+					know exactly what she was getting from magazines; but if we are to begin
+					to comprehend the kinds of messages transmitted and the reasons for the
+					medium’s enormous appeal in this century, we need to develop new methods of conceptualizing the content and construction of the modern women’s magazine.
+				</p>
+				<p>
+					The magazine’s use of texts implies a fairly rational mode of apprehension. It would be inaccurate, however, to describe most magazine reading
+					as a straight, linear process; though often referred to as a &quot;book” by editors,
+					the typical magazine is not organized along a single continuum. By sandwiching within its covers a variety of discrete texts, the magazine invites us
+					to pick and choose, to move backwards as well as forwards, in a way that
+					suggests that we not only will the process to continue by physically turning
+					the pages (distinctly different from the more passive modes of radio and
+					television reception) but that we &quot;freely” negotiate a &quot;personal” path through
+					the magazine labyrinth.
+				</p>
+				<p>
+					We do enjoy considerable freedom in determining our experience with
+					magazines, and, as the testimony of the Muncie housewife suggests, the
+					flexibility of the magazine format is one of the chief reasons for its popularity as a modern, mass communication form. Moreover, a regular magazine
+					reader develops a routine to avoid perpetual distraction. This technique of
+					&quot;reading with blinders” is a logical response to the amount of visual diversion incorporated in the modern magazine.
+				</p>
+				<p>
+					The magazine forces us to discipline our focus in much the same way
+					that modern highway driving cultivates split-second timing. But if we employed perfect tunnel-vision while driving, the value of billboards would be
+					nil. Any description of the highway which focused exclusively on the road
+					would fail to address the way this form of mobility allows us to achieve
+					specific destinations while constantly recharging our desire for less immediately attainable ends. The car encloses us, the road directs us, and these
+					conditions make ads especially welcome as points of reference and as emblems of our long-term goals.
+				</p>
+				<p>
+					The picture magazine was refined at the same time that the commercial
+					roadscape was being developed. Both forms of communication reflect the
+					same impulse in the history of corporate capitalism to mobilize consumption at a national level. But unlike recent studies of car culture and &quot;the
+					strip,” the magazine has rarely been studied as unified cultural artifact.
+				</p>
+				<p>
+					Author Sally Stein writes
+					cultural criticism on photography,
+					women, and mass media.
+				</p>
+				<pb n='10'/>
+				<p>
+					Studies of magazines have usually treated literary texts, or editorial images, or ads, as independent entities, and have pro
+					ceeded to analyze their meanings divorced from their original
+					context. This strategy flattens our conception of the way magazines came to be assembled and then received. For these elements are certainly not apprehended in isolation; rather images
+					and texts, ads and editorial matter, are each designed to work
+					off each other within the larger ensemble of the magazine.
+				</p>
+				<p>
+					Historians and sociologists have often referred to the phenomenal increases in ad revenues in the post-World War I era
+					as an index of change in the traditional women’s magazine.
+					But the statistics alone say very little about the character of
+					these changes or the way the magazine remained a coherently
+					structured text, a social product whose value derived in part
+					from the way it organized its diverse collection of materials
+					Thus I am interested in the specific ways new graphic techniques—color, photography, serial cartoons—were orchestrated
+					in a more dynamic layout to sustain the reader’s interest and to
+					draw the reader closer to the marketplace. My stress on the changing material aspects of the magazine is not intended to promote
+					a formalist analysis per se. Rather I hope to bring home the
+					point that the women’s magazine in the twentieth century, though
+					continuing to include lengthy literary texts, was becoming a
+					predominantly visual experience, constructing an audience of
+					spectators and, by extension, consumers.
+				</p>
+				<p>
+					The Ladies Home Journal provides a good case study of the
+					reshaping of the nineteenth-century women’s magazine into its
+					familiar twentieth-century format. For half a century beginning
+					in the 1890s, it was the most successful women’s publication
+					leading in advertising revenues and circulation figures. It its
+					prime, numerous editors and writers published detailed &quot;in” accounts of the magazine’s operation. Most important is
+					the fact that the Journal’s enormous success did not rest upon a
+					fixed formula but involved especially aggressive innovation be-
+					ginning around World War I—a good twenty years before that
+					moment generally thought of as the birth of the modern picture
+					magazine. Indeed the more familiar success story of Life
+					magazine—born in 1936 with all the fanfare of complete
+					&quot;originality&quot;—represents a relatively late development, based
+					largely on the earlier transformation of the women’s magazine.
+				</p>
+				<p>
+					In order to understand why women’s magazines were re-
+					vamped especially early in this century, we need to consider the
+					impact of changes in two social spheres: that of industrial pro-
+					duction and that of domestic reproduction. These spheres were
+					never wholly &quot;separate,&quot; but in this period the two became closely
+					synchronized, and women’s magazines played an important me
+					diating link in that process.
+				</p>
+				<p>
+					With the late nineteenth-century emergence of monopoly cap-
+					italism, factory work changed drastically. Industrial consolida-
+					tion led to larger workplaces, assembling far more workers at a
+					single site, thereby leading to new ways of organizing manufac-
+					turing processes. The foreman’s traditional authority was rap-
+					idly preempted by a new breed of professionally trained industrial
+					engineers. With stop watches in hand, these men entered the
+					shop floor to study all details of the established production
+					techniques with the objective of transforming craft skills in to a
+					series of simple, endlessly repeatable tasks. By &quot;deskilling” work,
+					the efficiency experts promised to break shopfloor resistance.
+					Logically, production rates would soar, for it would now be pos-
+					sible to exploit far more efficiently the mass of common labor-
+					ers who—lacking long-developed craft skills—were far more
+					vulnerable to constant monitoring, thus easily pressured to in-
+					crease output.
+				</p>
+				<p>
+					To Frederick Winslow Taylor goes most credit for promul-
+					gating the initial principles of &quot;scientific management.&quot; How-
+					ever, the general process of industrial rationalization came to
+					be popularly associated with Henry Ford’s introduction of the
+					assembly line in 1914, which allowed Ford to hire thousands of
+					unskilled workers at the unprecedented rate of S5 per day. The
+					increased pay rate was easily matched by an unprecedented
+					rate of production (and profit). The justly famous output of Ford’s
+					assembly line constituted a truly massive demonstration of the
+					value of efficiency.
+				</p>
+				<p>
+					Of couse, middle-class women had little direct involvement
+					with factory work, but their work within the home changed
+					quickly with the advent of scientific management. On two dis-
+					tinct levels, rationalization altered the character of housework.
+					Materially, monopoly capital quickly discovered that marketing
+					specialists were as essential as industrial engineers, for accel-
+					erated production would yield no profits if consumption were
+					not also systematically managed. Ideologically, the rhetoric of
+					efficiency had such appeal for the middle class (including fem-
+					inists like Charlotte Perkins Gilman), that a variant on the dis-
+					course of &quot;scientific management&quot; soon became part of the
+					rhetoric directed at women.
+				</p>
+				<p>
+					But there was a fundamental contradiction in the burgeon-
+					ing discourse of &quot;domestic efficiency&quot; Scientific management
+					in the factory offered wage incentives in exchange for acceler-
+					ated production. Domestic efficiency experts, on the other hand,
+					avoided the issue of money, since they maintained the sanctity
+					of women’s domestic labor as a labor of love. Without the wage
+					motive, other stimuli had to be developed to promote interest in
+					higher standards for housework in conjunction with the use of
+					new machinery and products. Born-again housework had many
+					attributes of a spiritual revival, taking hold in direct relation to
+					the decline of actual managerial work and autonomy in the
+					home.° And as in many faiths that do not address basic contra-
+					dictions, signs were a necessary form of sustenance on the road
+					to salvation.
+				</p>
+				<p>
+					Extremely sophisticated graphics appeared early in this dis-
+					course. An illustration from Mrs. Christine Frederick’s 1913 home
+					efficiency tract, appropriately titled The New Housekeeping,
+					stands as a prototype of a new kind of communication in which
+					a variety of visual and literary codes—text, drawing, photo—are
+					neatly combined to suggest that a feast for the eyes could be
+					produced by means of &quot;efficiency” (signified by the business
+					file adapted to the kitchen) rather than by time, effort and money
+					(Fig. 1). If it seems that I am reading too much into this com-
+					posite image, one need only note the title of Frederick’s subse-
+					quent publication—Meals that Cook Themselves (1914).
+				</p>
+				<pb n='11'/>
+				<p>
+					Frederick’s career path is even more revealing of the inter-
+					ests best served by the rationalization of housework. Following
+					her first book on domestic efficiency, she became an associate
+					editor for the Ladies’ Home Journal, a position she held until
+					the mid-1920s when she began to work free-lance, advising man-
+					ufacturers and retailers on the best sales strategies for captur
+					ing the women’s market. Thus, if initially she was committed to
+					providing women with more efficient domestic skills, the dis-
+					tinction between skills and commodities was then attenuated
+					in the commercially sponsored forum of the women’s maga-
+					zine, and the distinction was completely abandoned by the time
+					she wrote her last book, Selling Mrs. Consumer (1929).
+				</p>
+				<p>
+					In the same period that Frederick’s career advanced along
+					these lines, the women’s magazines were themselves rational-
+					ized as marketing vehicles, providing an optimal context in which
+					to sell new domestic commodities by constructing a paradoxi-
+					cal vision of housework: scientifically reducible to its compo-
+					nent parts yet containing still an irreducible quality of romance.
+					The format could be made to mirror the compartmentalization
+					of domestic tasks, while supplying instruction in all phases of
+					this minutely detailed work. The magazine neatly categorized
+					performance standards in matters of dressing, decorating, clean-
+					ing, cooking, child-rearing ... and the repairing of home and mar
+					riage if constant attention proved to be insufficient. And unlike
+					conventional instruction manuals, it provided a constant stream
+					of promises—false promises, or at least inflated ones—of per
+					sonal benefits that would result from tending new machines
+					and using new materials. What these promises lacked in sub-
+					stance, they made up for in vividness—the kind of tantalizing
+					but tawdry incentive proposed by the industrial engineer Fred-
+					erick Winslow Taylor in his discussion of the &quot;scientific man-
+					agement&quot; of young, lowpaid, female factory workers: &quot;encourage-
+					ment either in the form of personal attention from those over
+					them or an actual reward in sight as often as once an hour.&quot;o
+				</p>
+				<p>
+					Of course, since they were underwritten by advertisers, mag-
+					azines were well-suited to construct an extended visual argu-
+					ment for the rewards of modern domesticity. They had another
+					advantage over isolated treatises on &quot;scientific management&quot; of
+					the home. Given their periodic appearance, the magazines were
+					an especially effective means of inculcating new habits and stan-
+					dards. Once a month, the drilling and instructions were repeated
+					in slightly different form, and each repetition was accompanied
+					by a new representation of the rewards—exactly the type of &quot;sci-
+					entific pedagogy” advocated by the industrial psychologist Lilian
+					Gilbreth in 1914: &quot;Associations ... lapse more slowly the older
+					they are and the oftener they have been reviewed by renewed
+					memorizing.&quot;
+				</p>
+				<p>
+					The mappings presented in Venturi’s, Scott Brown’s, and
+					Izenour’s Learning from Las Vegas far surpass photographs or
+					any other conventional representations in providing a schematic
+					overview of the signifying structure of the commercial strip. I
+					sought a comparable form to conceptualize the totality of a sin-
+					gle magazine issue, with the idea of then comparing changes at
+					five-year intervals in the use and structuring of various graphic
+					elements of the Journal between 1914 and 1939. By &quot;exploding&apos;
+					the magazine into a synchronically viewed series of double pages
+					—each double page being represented by a vertical bar in which
+					the right hand page appears above the center line (representing
+					the &quot;gutter&quot; or &quot;spine” of the magazine) and the left-hand page
+					below—patterns of communication emerge which would have
+					been experienced less consciously when the magazine is looked
+					at page by page.
+				</p>
+				<p>
+					Though I ended up making a series of graphs on the changes
+					between 1914-1939 in the use of photography, color printing,
+					and narrative picture sequences, I began simply by charting the
+					breakdown of editorial and advertising space in each issue. Ed-
+					itorial space is shaded; advertising space is white. These first
+					diagrams should not be mistaken for an economic breakdown
+					of publishing costs, but they do indicate how the advertising
+					basis of the magazine was reflected (and to some extent con-
+				</p>
+				<p>
+					cealed) in the allocation of space within an issue.
+				</p>
+				<p>
+					Between 1914 and 1939, the ratio of advertising to editorial
+					space remained relatively constant at 45%, but there are notice-
+					able changes in the distribution of advertising material during
+					this period. The front of the Journal always contained a dispro-
+					portionate amount of editorial pages, a format designed to em-
+					phasize the weight of editorial matter. Over twenty-five years,
+					the solid block of editorial material was somewhat pushed back,
+					allowing more full-page ads to appear on the opening pages.
+					By 1939, advertising was so culturally pervasive that it was un-
+					necessary to confine it to the back pages. By 1939, Fortune was
+					a decade old and had made a trademark of its gallery of full-
+					page ads at the front of each issue. In comparison with contem-
+					porary magazines like Fortune and Vogue, the Journal still led
+					with editorial emphasis, so that the reader was made conscious
+					immediately of an authoritative voice which presumably organ-
+					ized the following contents with her best interests in mind.
+				</p>
+				<p>
+					The lines running in and out of the bar graph trace the inter-
+					nal &quot;page flow&quot;—the way texts are broken up and continued
+					elsewhere in the magazine. The interruption of articles may ap-
+					pear to the average reader as a commonplace if inconvenient
+					occurrence, but the resulting movement back and forth also
+					serves as a form of entrapment. Thus the reader will find it
+					considerably more difficult to confine her time and attention to
+					a single article. She is forced to flip through the rest of the
+					magazine in order to pursue her immediate interests.
+				</p>
+				<p>
+					The historical evolution of a maze-like page flow is readily
+					seen here. In 1914, less than one half of the editorial space was
+					thus interwoven; the rest was allowed to stand as isolated pieces
+					of text. A marked change occurred between 1914 and 1919, when
+					many more direct routes were established from the front, begin-
+					ing at page 7, to the middle of the magazine, though the last
+					thirty pages were not so integrated. By 1924, the constructed
+					flów began on page 3, and extended almost to the back of the
+					issue, although some portions of the magazine continued as
+					isolated islands. The same held true in 1929, when a prodi-
+					gious labyrinth between front and back was created, still leav-
+					ing portions of the magazine unconnected. In the Depression
+					years of the 1930s, when the Journal shrank from the gargan-
+					tuan size of the October 1929 issue, the process of interweaving
+				</p>
+				<pb n='14'/>
+				<p>
+					almost all the editorial contents was finally realized. Moreover,
+					the 1939 page flow was achieved with fewer large jumps; as
+					indicated by only twelve external links in the chart, the flow
+					itself was more continuous. Thus, while the typical magazine
+					reader of this period may have believed that the magazine could
+					be consumed piecemeal, in &quot;scraps of time,” the diagrams re¬
+					veal that the magazine was being redesigned to consume an
+					extended period of time.
+				</p>
+				<p>
+					At the same time that the magazine succeeded in connect-
+					ing almost all of its interior pages, there were considerably fewer
+					texts explicitly leading to or from earlier or later issues. While
+					this helped create a more integrated, overall text, serialization
+					was not abandoned completely. By 1939, advertising literature
+					stressed the desirability of newsstand sales (supposedly attract¬
+					ing impulse shoppers) which would have been bolstered by dra¬
+					matic serialization. Accordingly, in the October 1939 issue, the
+					most gripping narrative—illustrated to underscore the title, &quot;An¬
+					other Woman,&quot; by positioning the wife precariously at the right
+					hand edge of the page (Fig. 2)—breaks off exactly when the
+					wife is confronted with the necessity of getting a divorce. Ir
+					case the reader failed to sustain concern for the wife’s plight
+					through the rest of the issue, the editor’s closing column, “Jour¬
+					nal’s End” (equating the magazine with a kind of journey) re¬
+					minded the reader that this cliff-hanger would not be resolved
+					until the next month. Serialization, therefore, was being used
+					more sparingly, and its use indicated those topics thought to be
+					most compelling for Journal readers. But it still served a strate
+					gic function in insuring the month-to-month loyalty of the mag
+					azine reader.
+				</p>
+				<p>
+					The same set of graphs also reveals a major change in layous
+					within the double-page spread. As early as 1919, a marked shift
+					appeared in the placement of editorial material in relation to
+					ads. In 1914, between pages 60 and 99, two narrow bars of
+					editorial columns floated in a sea of ads. By 1919, these col¬
+					umns were pushed together at the center of the double page. By
+					the 1939 issue, excepting the inside cover and inside back pages,
+					which commanded higher ad rates, there was some portion of
+					editorial matter at the front of each double spread. Thus, over a
+					twenty-five year period, a system of layout emerged which an¬
+					chored the bulk of advertising to a constant editorial presence
+				</p>
+				<p>
+					at its center. In effect, there was always an editorial voice so
+					that the reader would never forget the &quot;educational” value of the
+					magazine.
+				</p>
+				<p>
+					Though it is difficult to uncover an articulated philosophy
+					which determined these changes in layout (the art directors rarely
+					published articles on their work), a similarly paternalistic ide¬
+					ology is apparent when comparing other choices made by the
+					art directors between 1929 and 1939. Two covers, ten years apart,
+					have an almost antithetical message. The 1929 mother-as-mature¬
+					flapper relies for its effect upon the state of amazement con¬
+					veyed by the pint-sized child and pet collie at her side (Fig. 3).
+					In contrast, the woman on the October 1939 cover has obvi¬
+					ously relinquished her pedestal (Fig. 4). Whatever she has lost
+					in terms of high fashion she has &quot;gained&quot; in terms of direct
+					resemblance to her daughter, moving towards the other ideal of
+					mother-as-older-sister. And she is really &quot;moving,” animated in
+					a way which seems directly to encourage her child to master
+					difficult balance problems like bike-riding. We can assume from
+					the line &quot;The Magazine Women Believe In&quot; which has been added
+					to the Journal logos that trust has become a crucial selling point.
+					The reader can trust what she learns in the Journal in the same
+					way that the daughter, though still tottering, seems assured of a
+					safe upbringing.
+				</p>
+				<p>
+					The theme of supervised mobility depicted in the cover
+					graphic, as well as the motherly tone of the “Journal’s End&apos;
+					column, suggests that in the late 1930s the magazine was con¬
+					sciously projecting an image of itself as a vicarious trip, while
+					providing many assurances that the viewer would travel safely.
+					Guided though this journey may have been, a final look at these
+					graphs indicates that it hardly shielded the reader from overex¬
+					posure to the continuous lure of advertisments. On the contrary,
+					the development of a systematic layout principle with a contin¬
+					uous editorial thread meant that even if one chose to look only
+					at editorial features, one would not miss a single double page,
+					and therefore not a single ad. Moreover, the same graphs also
+					indicate that the full-page spreads and clusters of page spreads
+					which characterize the front of the magazine were replaced by
+					smaller and smaller blocks of columns towards the back, where
+					the editorial content thinned out and was constantly interspersed
+					with advertising. A parallel format is the late-night televised
+					movie (pre-cable, or VCR ad-zapping), which, as it progresses,
+					is cut at shorter and shorter intervals, interrupted by increas¬
+					ingly brief ads. If a compelling program has been established,
+					the viewer stays turned all the same and even grows to accept
+					this format as part of an evening’s entertainment.
+				</p>
+				<p>
+					The Journal was always an illustrated magazine but the pre¬
+				</p>
+				<pb n='16'/>
+				<p>
+					dominant modes of illustration changed significantly in this
+					period. While photographic reproductions gradually replacec
+					a large portion of the traditional drawings, color printing was
+					introduced with great fanfare and quickly became the most priv-
+					ileged visual rhetoric of the women’s magazine.
+				</p>
+				<p>
+					As early as the December 1911 issue, the editorial column
+					on the first page of the Journal held out the idea of a color-filled
+					magazine as a sort of promissory note which would accrue to
+					the loyal reader: &quot;No feature we have ever introduced in the
+					magazine has met with satisfaction expressed over our color
+					pages. This has encouraged us to add to the number.&quot; What
+					also encouraged the pubisher in this novel venture was the pros-
+					pect of increased ad revenues; once color’s mass appeal had
+					been established, advertising readily paid the higher page rates
+					for this proven method of commanding the reader’s attention.
+				</p>
+				<p>
+					While the volume of color work rose most sharply between
+					1914 and 1919, the number of color pages continued to expand
+					long after the initial novelty had worn off. The editorial page of
+					the October ’29 issue headlined the magazine’s new use of color
+					photography, a technology developed quite obviously to accom-
+					modate new marketing strategies. After a decade of successful
+					marketing based on color ads, the assembly lines of the late
+					1920s began turning out goods in assorted shades. If the con-
+					sumer needed any encouragement to buy these novel commodi-
+					ties, advertisers were quick to insinuate that the colorless life
+					was not worth living. The prize for the most desperate attempt
+					to keep abreast of the color craze belongs to Kodak; six years
+					before the photographic manufacturer was able to offer ama-
+					teurs a practical color film, it had already conceded the priority
+					of capturing color in 1929 when the conventional, black box-
+					camera was refinished in a variety of hues, to serve as &quot;Fashion
+					Accents ...for Picture Takers that Reflect the Rainbow.&quot;
+				</p>
+				<p>
+					The Depression left its mark on both the content and physi
+					cal features of the magazine. During the ’30s, the overall length
+					of the magazine, which had expanded greatly from 1914 to 1929,
+					shrank back to the 1914 size. However, while the number of
+					color pages per issue decreased, the proportion of color to black
+					and white remained strong. A large number of advertisers con-
+					tinued to invest in color, though the need for economy was evi-
+					dent in the number of ads which began utilizing a dramatic
+				</p>
+				<p>
+					genre of black and white photography. Notwithstanding the rise
+					of staight black and white photography in the 1930s women’s
+					magazine, the decrease in volume of color printing was some-
+					what obscured by a marked change in the positioning of color
+					pages between 1934 and 1939. A body of color images was still
+					featured at the crucial begining of each issue, with smaller runs
+					of color at the middle, and again at the very end of the Journal
+					—thus maintaining the image of the magazine as a luxurious
+					commodity in its own right.
+				</p>
+				<p>
+					As the color page in the Depression came to represent a
+					more serious investment, we can assume that it was designed
+					to be as arresting as possible. To appreciate fully the way these
+					brilliant color images figured as &quot;occasions” within the read-
+					ing process, we would need to study the variety of color images
+					within the extended flow of magazine material. A reading of a
+					single page is insufficient; at most it would demonstrate that
+					the graphic artists of the 1930s were as adept with the grammar
+					of diverse graphic codes as was the anonymous artist who il-
+					lustrated the 1913 domestic efficiency book. What is needed is
+					a sequential reading (optimally, a number of serial readings
+					since, as discussed earlier, the magazine did not work by a single
+					continuum). Though space does not permit a review of an en-
+					tire magazine issue, a look only at a selected run of pages might
+					suggest the way a montage principle was increasingly at work
+					in the cumulative meanings produced by the magazine.
+				</p>
+				<p>
+					In the run of six pages of editorial fashion in the October’3
+					Journal, the first pair of pages was geared to the high-fashion
+					market. The layout was sophisticated in its fanning diagonals
+					and bold, alternating pattern of black and white and color pho-
+					tos (Fig 5). The second spread was aimed at women with less
+					money who could only afford to spruce up with accessories.
+					The double-page still used color printing to feature the Fall
+					shades for handbags, shoes, and gloves: however, the models
+					themselves were pictured in black and white. The intended sell-
+					ing point was hardly difficult to grasp: a bright note of color
+					provided by a new bag would do wonders, as demonstrated by
+					the graphic effect of small colorful accents on an otherwise mono-
+					chrome page (Fig 6). The final fashion spread was devoted to
+					women with even less money. Its color scheme was the most
+					resolutely gay, and with its stress on &quot;feminine” floral colors
+				</p>
+				<pb n='17'/>
+				<p>
+					was a retum to stylized, diminutive figure sketches. Here pho¬
+					tography was reserved for the portrait closest to center, mon¬
+					taged with a second photo of an ornate gilt frame and compared
+					in the caption to a Joshua Reynolds painting. Though more than
+					a little surreal in its effect, the art historical reference, brought
+					up-to-date in &quot;living color,&quot; was clearly intended to lend a pseudo
+					aristocratic dignity to women without means but with the con¬
+					siderable time, skill, and ambition to remain &quot;in fashion” by
+					sewing their own clothes from patterns (Fig. 7).
+				</p>
+				<p>
+					On these three double pages of editorial fashion, the use of
+					type and graphics ranged form the contemporary, &quot;modernist&apos;
+					style of Vogue to a modified version of traditional pattern book
+					illustrations. In other words, each of these three spreads spoke
+					to a different strata of the magazine’s somewhat diversified read¬
+					ership. But the consistent fact of color on all three double-spreads
+					at the heart of the editorial section of the magazine glossed over
+					these differences and conveyed the editor’s conviction that all
+					the readers assigned the same high value to beauty, that the
+					ideal of glamour was democratic and unifying.
+				</p>
+				<p>
+					While the run of editorial fashion pages achieved a tight
+					coherence, the graphic codes were articulated just as clearly in
+					the endless juxtapositions which occurred in each issue be¬
+					tween nominally unrelated ads and editorial columns, pictures
+					and texts. Consider the interaction between the last full-page
+					editorial column and the fairly typical studio ad in color facing
+					it (Fig. 8). The column asked whether men were more adventur
+					ous, and thus more fulfilled than women, in their choice of hob¬
+					bies. The headlined query was set in cool, cyan blue type—the
+				</p>
+				<p>
+					one spot of color on this page. Directly below the headline, scenes
+					of men at play were presented by means of black and white
+					photography for added documentary authority. The implication
+					was that women should follow their examples, without acknowl-
+					edging that a young mother with children, trying also to redeco-
+					rate her home and &quot;keep herself up,&quot; had enough on her hands
+					without worrying about upgrading her hobbies. But any anxiety
+					aroused by invidious comparisons with men’s pastimes was
+					resolved as soon as the eye moved to the right. Nothing docu¬
+					mented on the left matched the sheer vividness of the well-orderec
+					table on which the brilliant RITZ crackers package served both
+					as central ornament and principle source of nourishment.
+				</p>
+				<p>
+					Of course, many of these editorial/ad juxtapositions were
+					not calculated—though my research so far in publishing and
+				</p>
+				<p>
+					advertising archives indicates that ad agencies sought to con¬
+					trol the placement of their ads and, conversely, that magazines
+					tried their utmost to maintain agency goodwill by &quot;sensitive”
+					layout. No matter how calculated, the recurrence of these mean¬
+					ingful juxtapositions suggests a new form of cultural commu¬
+					nication. This subject needs further study, but for now I would
+					propose that the separate but integrated codes of color and black
+					and white enhanced the magazine in two, non-economic ways:
+					formally, such divisions provided a dynamic rhythm to the flow
+					of the magazine; functionally, the magazine became a richer
+					vehicle for this diversity, fulfilling the consumer’s desire for both
+					Truth and Beauty, and maintaining the illusion that these were
+					easily distingishable categories of experience.
+				</p>
+				<p>
+					Though having devoted most space to the importance of
+					changes in format and color, I must at least point out a differ¬
+					ent type of innovation in magazine advertising of the 1930s. Not
+					only was this innovation particular to the Depression years, but
+					it signalled the limits of the magazine as a perfectly rational¬
+					ized marketing vehicle as compared with emerging modern
+					media. Throughout this analysis, I have tried to suggest the
+					strength of various graphic appeals by describing the page or
+					the ad as &quot;speaking&quot; to the magazine reader. In a discussion of
+					visual effects, the expression invites charges of mixing meta¬
+					phors. I have used it deliberately, for the idea arguably informed
+					most of the conscious changes in the magazines; moreover, by
+					the 1930s, the idea of the &quot;speaking&quot; graphic was achieved in a
+					fairly literal sense as well.
+				</p>
+				<p>
+					Throughout the 1920s, a common mode of selling was the
+					personality endorsement. In women’s magazines, film stars and
+					&quot;sociolites” most fequently appeared in this role, in the form of
+					chatty &quot;direct testimony” along with a photographic portrait.
+					This recipe had the virtue of human interest, but the product
+					itself was often upstaged. A 1924 ad for laundry soap attempted
+					to resolve this contradiction by replacing the standard portrait
+					and testimony with a picture of pastel baby clothes accompa¬
+					nied by the headline, &quot;If Clothes could talk..., which was fol¬
+					lowed by the pitch, &quot;We Want Fels Naptha!&quot; A dramatic form
+					was still needed, but the objective was clear.
+				</p>
+				<p>
+					In the same period that the sound film replaced the silent, a
+					new genre of printed ad began to replace the older testimonial.
+					The hallmarks of this genre were speech balloons and a serial
+					strip form, emphasizing terse dialogue and abbreviated sequen¬
+				</p>
+				<pb n='18'/>
+				<p>
+					tial activity which revolved around the product (Fig. 9). Though
+					similar in look to newspaper comics, probably radio ads were
+					as influential a source for this trend (the ad agencies after all
+					were creating many of the popular radio programs of the 1930s,
+					programs which moved seamlessly from entertainment to prod¬
+					uct endorsement). In some cases, these cartoons may have pro¬
+					vided a visual guide to audio ads women were hearing with
+					growing regularity on radio. Whether or not they were exact tran¬
+					scriptions of radio ads, they certainly anticipated the storyboards
+					for condensed dramas—consisting largely of close-ups—which
+					would make their debut as televised commercials.
+				</p>
+				<p>
+					Though radio competed with magazines for audiences and
+					advertising money, the two media were quite complementary.
+					While no magazine could match the perfect continuity of com¬
+					mercial broadcast radio programming, a flow which could ac
+					company the practice of housework, radio was unable to reveal
+					the &quot;look&quot; of a commodified, modernized domestic world. Thus
+					before World War II, magazine, ved a central role in devel¬
+					oping the visible materiality of coneumer culture. Furthermore,
+					the murky antinomies of modernized women’s magazines
+					—between editorial and advertising copy, between &quot;pleasurable
+					color and &quot;instructive” monochrome images and text, between
+					the rhetoric of &quot;scientific&quot; housework and the rhetoric of ro¬
+					mance—trained the female viewer for the distinctive flow of
+					messages delivered by the predominant cultural institution of
+					the postwar era: tv.
+				</p>
+				<p>
+					Far more work needs to be done on the continuity between
+					these two forms of mass culture which have profound affect
+					upon, and appeal for, women. We need to comprehend better
+					the ways these institutional forms structure meaning. We also
+					need to pursue the actual and differing ways these messages
+					are received—how they are integrated into a larger complex
+					pattern of experiences, and also how they are resisted (at least
+					partially) because of their inconsistency with the logic of our
+					experiences.
+				</p>
+				<p>
+					Robert and Helen Lynd, Middle¬
+					town (New York, 1956), p. 235.
+					2 The present article represents a
+					much abbreviated verison of a 1980
+					paper written as a graduate student
+					in Nancy F. Cott&apos;s Women’s Studies
+					seminar, Yale University. In looking
+					for a method with which to analyze
+					the changing structure of women&apos;s
+					magazines, I found little specific
+					ally on magazines or print media in
+					general; on the other hand, recent
+					work on related issues of commer
+					cial culture challenged me to pur¬
+					sue this theme, especially the inno¬
+					vative study of the strip coauthored
+					by Robert Venturi, Denise Scott
+					Brown and Steven Izenour, Leam¬
+					ing from Las Vegas (Cambridge,
+					Mass., 1977), and Raymond Wil¬
+					liams’ more critical cultural analy
+					sis of the &quot;flow&quot; of television, Tele¬
+					vision: Technology and Cultural
+					Form (New York, 1977). Since writ-
+					ing my first version of this article, a
+					considerable body of new work on
+					reception vis-à-vis the &quot;flow&quot; of mod¬
+					ern commercial media has been
+					produced: in particular, the collec¬
+					tively produced series of video¬
+					tapes by Paper Tiger Television
+					which offers critical (and also witty)
+					readings of a wide range of contem¬
+					porary periodicals (see Martha
+					Gever, &quot;Meet the Press: On Paper
+					Tiger Television,&quot; Afterimage, Vol.
+					11, No. 4, November 1983, pp. 7—
+					11); Tania Modleski’s study of the
+					tradition of commercial women&apos;s
+					culture spanning Gothics to Soap
+					Operas (though omitting women&apos;s
+					magazines), Loving with a Ven¬
+					geance (Hamden, Conn., 1982); and
+					Nick Browne’s recent article, “The
+					Political Economy of the Television
+					(Super) Text,&quot; Quarterly Reveiw of
+					Film Studies, Vol. 9, No. 3 (Sum¬
+					mer 1984), pp. 174-182, pursues
+				</p>
+				<p>
+					the issues raised by Raymond Wil¬
+					liams’ earlier work on television.
+					For this version, I am greatly in¬
+					debted for editorial assistance to
+					Lucy Lippard and Allan Sekula.
+					3 See for example, Robert S. Lynd
+					with the assistance of Alice C. Han¬
+					son, &quot;The People as Consumer,&quot; in
+					Recent Social Trends in the United
+					States (New York, 1933) pp. 871-4.
+					4 See David Montgomery, Workers
+					Control in America: Studies in the
+					History of Work, Technology and
+					Labor Struggles (Cambridge, 1979),
+					especially, pp. 122-127; Loren Bar¬
+					tiz, The Servants of Power (New
+					York, 1965), pp. 28-54; and Harry
+					Braverman, Labor and Monopoly
+					Capital (New York, 1974).
+					5 On Gilman’s contradictory posi¬
+					tion regarding efficiency and the
+					transformation of traditional wom¬
+					en’s work, see Dolores Hayden,
+					&quot;Charlotte Perkins Gilman and the
+					Kitchenless Home,&quot; Radical History
+					Review, 21 (March 1980) pp.
+					225-247.
+					6 Ruth Schwartz Cowan explores
+					these issues in, &quot;The Industrial Rev¬
+					olution in the Home: Household
+					Technology and Social Change in
+					the Twentieth Century,&quot; Technology
+					and Culture, XVII, 1976, 16, 21-23,
+					and at greater length in her later
+					book, More Work for Mother (New
+					York, 1983).
+					7 For a more detailed discussion of
+					this composite illustration, see my
+					earlier essay, &quot;The Composite Pho¬
+					tographic Image and the Com¬
+					position of Consumer Ideology,
+					Art Journal, Spring 1981, pp. 39-45.
+					8 Frederick Winslow Taylor, The
+					Principles of Scientific Management
+					(New York, 1915), p. 94.
+					9 Lilian Gilbreth, The Psychology
+					of Management (New York, 1914),
+					p. 246.
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

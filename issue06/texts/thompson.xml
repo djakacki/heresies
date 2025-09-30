@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pink Victory</title>
+            <author>Sharon Thompson</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadsworth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Heresies #6: On Women and Violence</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Box 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="2"/>
+         <div>
+            <head> PINK VICTORY</head>
+            <p> Washing machine went downhill slow, like my marriage. Each time it got worse, I
+               wasn't sure: Hadn't it worked like that before? After all, like me, it was a small ma
+               chine had to do a big job. No wonder it clanked. No wonder it shook, rattled, and
+               rolled on dry spin, shaking the dishes in my kitchen cupboard like it was ready to
+               send them and me heavenward. Baby Jesus, I'm ready, listen, I'm ready.</p>
+            <p>The way that machine made a racket, I'm telling you, it scared me sometimes like I
+               scare my kid. Maybe that's why I didn't call the repair company for so long. Knew I
+               wouldn't hurt my kid—that I'd keep feeding and rocking him no matter how mad he made
+               me. Guess I thought the machine had my same mentality: What I mean is, in my idea, it
+               would grumble and holler but it would keep on washing. Or maybe since I knew there
+               was no repairman coming around for me, I felt hopeless in the same way about the
+               machine. Yesterday, though, sun broke out and I called the company.</p>
+            <p>Now another reason I couldn't believe my machine was breaking so bad: It was
+               practically new. Bought it three months short of two years ago. I was still working
+               but I was pregnant. Bought it on time. Knew I'd need it, what with the kid. And I
+               have given it a working out, I'll tell you, not enough to account for it breaking
+               down so soon, though, don't try that line on me, I don't want to hear it. One thing I
+               made sure of: I got a guarantee. It was for one year, renewable for one more year,
+               with nothing said about how many washes.</p>
+            <p>I had a sinking feeling trouble was coming when I called that repair company. First
+               thing, they interrupted my story with, Did I have a contract. I went, You kidding? Of
+               course I have a contract. You think they even bothered to pretend to look for it? Not
+               on your. Right away they went, Sorry, we don't have a guarantee for you on file. I
+               knew there was a reason I hadn't called. They always try that number. I said, Well, I
+               have a contract. They said, You got a copy? I said, I'll check my records and hung up
+               fast to keep from saying something nasty. You get mean with the guys on the phone,
+               you're finished, no matter if you got a contract signed in blood.</p>
+            <p>Thank God for my mother. I'm going to say three extra Hail Mary's for her to night
+               before I got to bed. See, it's because of my mother that I have records. She was
+               really a case about records. Records and washing machines. Those were her two
+               numbers. I remember one Christmas dad gave her a washing machine. Mom was kid-pleased
+               up until she looked inside and didn't find any guarantee. Her face fell. Old dad, he
+               got mad. He didn't like how she went straight for the evidence. I don't know what he
+               expected. Something ridick. He was always wanting her to put on a happy-happy act.
+               Never did understand how she wasn't phony, how she never put on an act unless she had
+               the goods to back it up, that was one of the best things about mom, but old dad
+               couldn't understand what was good about that. Women were supposed to be phony, how he
+               saw it. That was what they were for. To put a goddamn gloss on life. Which was
+               exactly what she wouldn't do, not anymore than she would shut up about the guarantee,
+               which she needed for her "records."</p>
+            <p>When old dad didn't come up with it immediately, she started in saying about how he
+               must have lost it, or maybe he bought the machine hot on the street, didn't he know
+               it wasn't worth the money you saved if you didn't get a guarantee, plus having to
+               worry about cops coming to check the registration. Old dad almost slammed her into
+               the washing machine but then he must've remembered how it was Christmas or else he
+               couldn't resist proving her wrong for once. Anyway he pulled the guarantee out of his
+               pocket and waved it in front of her face. Soon as she saw it, she quieted down like a
+               hungry kid's just got a bottle. Thank you, she said, saint sweet. Then she showed me
+               how to file the guarantee in her records. "This guarantee is for five years, honey,
+               she said. "If I should die before five years and the washing machine breaks, you look
+               right in here and get out the guarantee." <pb n="4"/> Nowadays guarantees are only
+               for one year, with one renewable. Not much chance I’ll die before then unless my ex
+               comes back to finish what he started so I haven't shown my son where I keep my
+               records. Besides, he can't read yet. And what do men need to know about washing
+               machines. They've got women to keep them clean.</p>
+            <p>Looking for the guarantee, I remembered: They didn't send me the contract back when I
+               sent it in. Did I hold my breath until I found my cancelled check! You better
+               believe. When I found it, I held on tight and called them back. Listen, I said, you
+               guys didn't send me the contract back in the mail. He said, If you don't have a
+               contract, what can I do. I said, Forget that line, I've got my cancelled check. Do
+               you know what he had the nerve to try to get away with? He said, If you cancelled the
+               check, it don't prove anything. I said, You cancelled it, smart guy, what are you
+               trying to pull. How much is it for? he said. I told him thirty seven dollars. He
+               said, Who is it made out to. I read him the name of his own com pany and his bank
+               too, just for good housekeeping. Sorry lady, he said. Bookkeeper must have slipped
+               up. I’ll send a man out tomorrow. Like hell she did, I thought, but I didn't say it.
+               Enough was said already, the way I saw it.</p>
+            <p>All the same, I was furious. Doing me that way was bad enough, those blow joes, but
+               at least I had records. Listen: Other women in this town didn't have my mother. I bet
+               they even pull that number on the doctor's wife. Only difference is, She's got money
+               so she pays the extra fee, while the women around here they just end up with a broke
+               machine in their kit chens. Then they start decorating it up because what else is it
+               good for and the social workers come and make fun, those player pianos, they've only
+               got about two tunes inside them, and you can't dance to either one.</p>
+            <p>Well, wouldn't you know it, sun was still out today and the snow was all melted. For
+               the first day in months, I could take my kid out in his stroller, and I had to wait
+               inside for the washing machine re pairman. Then I remembered, some of those
+               wishywashies made a law that says the repair places have to tell you if they're
+               coming morning or afternoon and stick to what they tell you or else. So I called the
+               place to find out when the man was coming. You called the wrong number, he grumped
+               the way my husband used to when he had to work Saturdays. My bad moods come on later,
+               when the day starts getting to me, so I apologized and asked for the right number.
+               The guy got all of a sudden kind and said he'd go over and find out what time the man
+               was coming. When he came back, he said, The repairman has five calls before you so
+               it'll be afternoon. So I can stroll my kid this morning? I said to make sure. You
+               heard me, he said. Glad I’m not married to you, I said, and he laughed, gruffy soft,
+               the way that kind of bear-man can be sometimes.</p>
+            <p>Well, I wished that hadn't happened because all the while I was stuffing my kid into
+               his bunny snowsuit with the white tuftballs on the front and behind, I was feeling
+               that love longing. It's just spring, I told myself, but it kept on. Listen: I don't
+               like that feeling. It's landed me in trouble one time too many. So when the sun had
+               gone under a gray rippled cloud by the time I got my kid downstairs and stuck the
+               bottle in his mouth and the graham crackers in his fist and rolled on outside, I was
+               glad. It's a lot easier to stomp out longing when it's gray out. Hey, I said to my
+               kid, sky looks like your diapers the way they come out of the machine nowadays. He
+               spit some milk my way and we set off. </p>
+            <p> Hardly any good things about the wop slum I live in but one of them is: Wops like
+               good food. For instance, there's a homebake place where they got a long bread with a
+               crunchy top. I got some of that and then I stopped at the butcher too and he'd just
+               finished making that sau sage you can only get at Eastertime, the kind that tastes
+               like black jelly beans. Well, I packed my groceries alongside my kid in the stroller
+               and headed back home. About halfway, the sun came out again (inagainoutagainfinnegan,
+               my mom used <pb n="6"/> to say) so I stopped by a bus waiting place where there was a
+               patch of light just big enough to warm me and my kid and I sat down on the peeling
+               green bench, tore off a big hunk of bread for myself and a little one for the kid,
+               and we sat there in the sun chewing. These little breezes got to me be tween the
+               bench slats, you know, and I felt these small human chills. If God ever asked me what
+               I wanted out of life, I’d tell him to feel like a human being all the time. He
+               probably wouldn't like that. Doesn't seem like a whole lot to ask, though, does it? I
+               mean when you think of all the things I could ask for. Doesn't seem like the kind of
+               wish you get turned into a fish for.</p>
+            <p>Well, it was getting late, so I started back. Noticed my kid was looking behind us,
+               so I looked too: The sidewalks were all dry, you know, pale dry, and hardly any
+               people had walked yet, so you could see these clear dark footprints caused by me
+               walking in a puddle and then stepping on the dry walk and there were stroller tracks
+               too and it was like we had had an effect, my kid and me, and it was like our path
+               behind us and my kid was smiling and so was I. We went most of the way home like
+               that, going forward but looking back. I felt like a kid in the back seat watching the
+               road, you know. I wanted to drive then so bad. I never did know when I had it good,
+               still don't, and I felt that longing again, and I wished my husband back so bad,
+               lying on top of the white chenille spread, in the sunlight, that time of spring when
+               the light goes from white to yellow, the whole room smelling of the sex that was all
+               we did in those days. We never fought. All the time we were going out we never
+               fought. The slapping didn't start until we got married, and then when I got pregnant
+               it was all over. He acted like I was a punching bag and I told him, Cut it out or get
+               out. It was his fault anyway I got pregnant. He wouldn't let me use anything. Well,
+               it wasn't his fault entirely. I let him be that way. Listen: I loved him better than
+               myself. But not better than my kid. It was for my kid I told him, Cut it out or get
+               out. Listen: You probably think I asked for it, the way I've been shooting off at the
+               mouth but I didn't. I was too scared to talk out in those days. It's only since I've
+               been on my own with my kid to fend for I've gotten so tough talking. I figure, Things
+               can't get any worse. I might as well speak my mind.</p>
+            <p>Time we got home, my kid was crabby.</p>
+            <pb n="7"/>
+            <p>At the door, this repairman was punching the doorbell like he thought it would let
+               him in if he hit it hard enough, an attitude I am all too familiar with. All too. The
+               name of the washing machine repair com pany was embroidered in shiny red thread on
+               his blue hat and shirt so I knew it was him. I greeted him real friendly even though
+               he was early. He didn't return the courtesy. He says, Where the hell have you been?
+               I’m going to have to charge you extra for waiting. Well, I remembered how they acted
+               about my contract on the phone and what that meant for all the women who didn't have
+               my mother and I tell you my Irish started going up. I said, Listen, there's a law
+               that says you people have to say whether you're coming morning or afternoon and I
+               called and they said afternoon so you better shut up about charging extra or I’m
+               reporting you to the Better Business. Now, I know the Better Business isn't worth
+               shit, but I wanted to give him the idea to be scared of me. Sometimes they quiet
+               right down when you go at them like that, but not this one. He was so perumpety you'd
+               think he was trained by the power company. Only thing shuts him up is my kid starts
+               in howling. My kid is like a dog almost, the way he picks out meanness. I say, You
+               stay outside while I put my kid in for a nap, okay? He says, If you don't let me in
+               now, I’m not fixing your machine. I said, Listen, I can't watch you while I’m putting
+               my kid in. I’m not going to steal nothing, he said. I said, I know, but if I let you
+               stand around and anything goes wrong, my hus band will kill me, you know what I
+               mean?</p>
+            <p>What can you do? With men, lies work a lot better than the truth. He tamped himself
+               down and hung around the door way while I stuck my kid in bed and gave him a bottle.
+               Then I went out and let the washing machine man in, thinking: You know, this isn't so
+               great. I protected my belongings but who's going to protect me. He was a short,
+               stumpy man, kind that keeps hair growing stubby on his face to remind you he's a man
+               because he's so small otherwise you might not treat him with proper respect. Course,
+               when you treat them with proper respect, you don't get any bonus back except maybe
+               they aren't quite as lousy as they would be otherwise, but you don't know that
+               because they're so lousy already it's hard to imagine them worse. One thing for sure
+               You don't keep them around long enough for a comparison, not unless you're married to
+               them.</p>
+            <p>Think he asked me any questions about <pb n="8"/> what was wrong with that machine?
+               Fat chance. He was the kind of a man doesn't think women know anything. He started
+               right in fiddling with it, ignoring me completely. Well, that got my goat. I am a
+               specialist in what's wrong with that machine. I've got two years' experience. I said,
+               Don't you want to know what's wrong with it? (You big lunk, I almost added; tell the
+               truth, he reminded me so much of my ex, it was all I could do to keep myself from
+               talking to him that same old way; might've in fact, except I didn't want him slapping
+               me across the room bad enough when your own husband does it, let alone a stranger.)
+               What's wrong with it? he said, real sarcastic. I told him best I could about how it
+               goes on different cycles than the dial says and it jerks around the wash so much acts
+               like it wants to kill it instead of just clean it and when it goes on dry spin it
+               bangs around some thing awful. Unplugged itself last week. (A lot like my marriage,
+               that machine. A lot like everything in my life, that machine. Good thing I’m not
+               superstitious.) You finished? he said. I nodded. He opened the machine. Half my last
+               week's wash was still in there stinking. I didn't know what else to do with it. You
+               got this wash in wrong, he said. It wasn't like that before, I said. I wanted to
+               leave the scene of the crime exactly as it was, but my kid had to have some clean
+               clothes so I've been taking stuff out piece by piece, rinsing them myself and drying
+               them on the radiators. The clothes were even before. Honest. You got this wash in
+               wrong, he said again in exactly the same tone. I got it, I thought. You're that kind
+               of man can't even hear a woman talking. So I shut my mouth and backed up.</p>
+            <p>Next thing I know he's throwing wet stinking clothes at my belly. Thanks a lot, I
+               say, catching some socks and gray diapers. He doesn't do all the clothes like that,
+               just enough to get me wet, then he hooks the washer to the sink and starts turning it
+               off and on. Next he whips a kitchen knife out of his tool belt and uses it to press
+               some button that isn't in the in structions and it lets water out. Then he takes the
+               dial off, then he lets some more water out with the kitchen knife, then he puts the
+               dial back on and says it's all right. Yeah? I said. Show me. He puts it on spin and
+               water starts going in. It's not all right, I say. Water's supposed to be going out
+               not in. This machine's mixed up. So he opens the top of the washer, not the top that
+               usually opens but the whole top, and he fiddles with something, I don't know what,
+               I’m too horrified by how dirty the machine is outside and I’m grabbing for my sponge
+               and starting to clean. That's the only time he looks nice at me the whole visit. Then
+               he spins the dial again and takes it off and puts it on again and sets it on rinse
+               and pushes with his knife and lets out the water and then he says it again: It's all
+               right. You're going to have to show me, I said. He's not happy but he puts it on spin
+               and it makes a peculiar noise but it spins all right and hardly any new water goes in
+               but some does and say, More water is going in and he makes up some cock and bull
+               story about how that always happens and I make him run it all the way through spin
+               and it gets to the end and in this real ass-in-your-nose fash ion, he says,
+               Satisfied? Well, I’m not and I say, We'll see how it works in real life. He says,
+               Yeah? It doesn't work in real life, you're in real trouble. I say, What're you
+               talking about? He says, I’ll tell you what went wrong here. I say, So tell me He
+               says, You took this dial off and put it back on wrong. I said, I didn't take no dial
+               off. He said, He took this dial off and when he put it back on wrong that was the
+               problem. I said, He? Who's . . . and then I remembered I couldn't say I didn't have a
+               husband because I already said I did have one so I changed it to, My husband's always
+               out with his shit girlfriends, fat chance he'd lay a hand on my washing machine. </p>
+            <pb n="10"/>
+            <p> I thought this would get some sympathy out of him, but you know what my mother used
+               to say: You can't get sympathy out of a stone. Next he blames my kid. Then he makes
+               me sign a receipt and then he says, I don't care who did it, happens again, you pay.
+               We aren't making free service calls when it's the customer's fault. Free service
+               calls? I said. Listen: I paid S37 for that crummy contract that you people are
+               dodging and I haven't called you once in a year. He said, you took that dial off and
+               that's what I’m writing in my report. Well, I got furious. He was head ing for the
+               door. I was hollering. Creep, thinking he could scare me with his big man report. Fat
+               chance. Well, I am writing in my report, I said, that's going to the Better Business
+               and to the company that franchises your company and to the news paper, that your
+               company lies and that you came in here and were rude to me and insulted my husband
+               and called my kid a destroyer...</p>
+            <p>Well, water starts coming out of me when it shouldn't, same way it comes out of the
+               machine. Meanwhile, he pockets the receipt and takes off. I breathe twice and start
+               making up the letter in my mind and all the people I am going to carbon in and then I
+               remember I don't have his name or a receipt either so I go out in the street and run
+               to catch up with him and I can hear my kid crying from the bedroom and I yell, What
+               is your name? and he says, I don't have to tell you my name. and I say, Yes, you do,
+               you work for a crummy company tries to gyp people but you do have to tell me your
+               name. He kepi on walking stone silent. I could have killed that jerk, I mean it. And
+               I yelled, TELL ME YOUR NAME. He looked around to see if anyone on the street was
+               going to attack him on my behalf, fat chance, but he didn't know that and he gave up
+               half his name. He said, Bill. Well, this cool happy chill went right through me along
+               with the words from that song, my kid sister used to sing it to me when I was
+               practically still a baby, that just plain bill song, you know that song. I almost
+               lost it thanks to that song, but I got it back and remembered his last name was on
+               the receipt so I said, Give me the receipt. And he said, You don't get no receipt.
+               And I said, Yes, I do, yes, I do. Give me my receipt. And he pulled the receipt he'd
+               waved in my face before when he was going to give me a bad report and he tore a copy
+               off from under the carbon paper and I thought for a minute he was going to punch it
+               into my mouth the way he punched at that doorbell but he didn't, he let go of it, and
+               he got in his truck and drove off and I watched him and all the time I clutched the
+               receipt in my hand and when he was gone, I looked at it, and it was pink, baby girl
+               pink.</p>
+            <p>But I won you know, anyway, I won.</p>
+            <p>When I go to sleep tonight, I am going to think about that instead of thinking about
+               my ex on a chenille spread, and I am going to think about him going home at five
+               o'clock and hitting his wife because may be she cooked something he doesn't like and
+               then after he's had some beers and cooled off he'll go upstairs where she's lying in
+               bed feeling sorry for herself, watching TV, and he'll say he's sorry, honey, and see
+               he had this bad day, some crazy woman tried to cheat his company and was yelling at
+               him in the street, and she'll pat his shoulder and say, It's all right, snooks, she
+               knows how he feels, he works so hard for her and the kids, and he shouldn't take so
+               much to heart. To heart! As if he had a heart. And then I guess they'll "make love,"
+               what a joke, and I’ll go to sleep. I wonder who'll have worse dreams, her, or him?
+               Not me, that's for sure.</p>
+            <p>Tomorrow, if the sun's out again, I am going to take the kid to the store and get me
+               a frame for that pink slip, and if any body asks me why it's hanging on my bed room
+               wall, like that social worker, for instance, who's always snooping around trying to
+               find out that I am committing adultery so she can throw me off ADC, I am going to
+               tell her it's a symbol of my victory. I don't care either if she writes maybe I am
+               making it with a washing ma- chine repair man. She can't prove any thing because
+               there's nothing to prove. I don't care if she does throw me off either. My kid's
+               almost old enough to go to day care. I can go to work. I can do almost anything.
+               Listen: I got something out of a man he didn't want to give.</p>
+            <byline>—Sharon Thompson</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

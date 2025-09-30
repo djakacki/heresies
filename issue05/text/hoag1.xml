@@ -147,30 +147,31 @@
    </teiHeader>
    <text>
       <body>
-         <div>
-            <pb n='39'/>
-            <p>
-               <lb/>Isis at the Supermarket
-               <lb/>Linda Ann Hoag
-               <lb/>You could tear
-               <lb/>The veil
-               <lb/>Anywhere
-               <lb/>And show the trembling.
-               <lb/>Look! There
-               <lb/>Among the canned goods:
-               <lb/>The silver shimmer
-               <lb/>Of the crescent moon!
-               <lb/>And in the dairy case,
-               <lb/>Homage to the sacred cow!
-               <lb/>You wear
-               <lb/>Your mythology
-               <lb/>As easily as a house dress;
-               <lb/>Even under fluorescent lighting,
-               <lb/>In this much too bright room,
-               <lb/>You wheel by your shining cart
-               <lb/>Andl see
-               <lb/>The gleaming disk, the horns, the plumes.
-            </p></div>
+         <div type="poem">
+            <pb n="39"/>
+            <head>Isis at the Supermarket</head>
+            <lg>
+               <l>Linda Ann Hoag </l>
+               <l>You could tear </l>
+               <l>The veil </l>
+               <l>Anywhere </l>
+               <l>And show the trembling. </l>
+               <l>Look! There </l>
+               <l>Among the canned goods: </l>
+               <l>The silver shimmer </l>
+               <l>Of the crescent moon! </l>
+               <l>And in the dairy case, </l>
+               <l>Homage to the sacred cow! </l>
+               <l>You wear </l>
+               <l>Your mythology </l>
+               <l>As easily as a house dress; </l>
+               <l>Even under fluorescent lighting, </l>
+               <l>In this much too bright room, </l>
+               <l>You wheel by your shining cart </l>
+               <l>Andl see</l>
+               <l>The gleaming disk, the horns, the plumes.</l>
+            </lg>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
@@ -176,8 +176,7 @@
 				<p> Just as someone who has never seen the color yellow has no way of conceiving
 					what that color is like, people bound into specific body controls cannot
 					experience the vivacity of bodily freedom until they break those controls.
-						<note>1. Ann Halprin, "Community Art as Life Process," The Drama Review
-						(Sept. 1973), p. 66.</note></p>
+						<ref n="1">1</ref></p>
 				<p> Summer 1975. I went to California to participate in Anna Halprin's dance
 					workshop. Anna explains:</p>
 				<quote>In our approach to theatre and dance, art grows directly out of our lives.
@@ -189,15 +188,12 @@
 					working is their old dance. The old dance is made up of imprints imbedded in the
 					muscles anc nerves that is reflected in behavior patterns manifested in the way
 					that person participates, interrelates and performs their life and their
-						art.<note>2. Quoted in: Frañtisek Déak and Norma Jean (Déak), "Ann Halprin's
-						Theatre and Therapy Workshop, The Drama Review (March, 1976), p.
-					51.</note></quote>
+						art.<ref n="2">2</ref></quote>
 				<p>Each morning we performed "movement ritual," a series of exercises through which
 					we listened to our bodies, "hearing" how we felt. According to Anna, "Daily
 					movement ritual is a way of becoming aware of self, of your body and all the
 					spaces and areas of your body, what you feel like and where your mind
-						is."<note>3. Anna Halprin, "Life/art workshop processes," in Taking Part by
-						Lawrence Halprin and Jim Burns (Cambridge: MIT Press, 1974), p. 174.</note>
+						is."<ref n="3">3</ref>
 					One <pb n="13" facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_013.jpg"/> morning at the end of movement ritual, Anna told us just to let
 					our bodies move themselves, without imposing any preset pat terns, without
 					interfering with notions of what might look "graceful." I lay there, not
@@ -215,8 +211,7 @@
 					wrote: "Because menstruation is obvious and uncontestable evidence of
 					femaleness, many neurotic attitudes become attached to it; many painful
 					menstrual periods are not due to organic difficulties at all but to protests
-					against being female.<note>4. Clara M. Thompson, On Women (New York: New
-						American Library, 1964), p. 25.</note>"" The secrecy of menstruation, not to
+					against being female."<ref n="4">4</ref> The secrecy of menstruation, not to
 					be mentioned, not accepted. If I let my lower spine and pelvis move slowly,
 					unrestricted, as they want to move, I can allow the flow to happen. Without the
 					cramps of protest.</p>
@@ -226,22 +221,16 @@
 					their bodies. Margaret Mead notes: "It may be that the fact that women's bodies
 					are prepared for a so much lengthier participation in the creation of a human
 					being may make females — even those who bear no children — more prone to take
-					their own bodies as the theater of action."<note>5. Margaret Mead, "On Freud's
-						View of Female Psychology," in Women &amp; Analysis, ed. Jean Strouse (New
-						York: Dell, 1974), p. 127.</note></p>
+					their own bodies as the theater of action."<ref n="5">5</ref></p>
 				<p> I think about Erik Erikson's article "Womanhood and Inner Space, and the
-					controversy it raised.<note>6. Originally published in 1968, reprinted with a
-						reply to criticisms in Women &amp; Analysis.</note> Believing that play
+					controversy it raised.<ref n="6">6</ref> Believing that play
 					represents the child's experience of her/his own body, Erikson found that the
 					differing spatial configurations of play scenes constructed by children
 					reflected the girls' preoccupation with inner space (womb) and the boys' with
 					outer space (penis). In a recent replication of Erikson's study, Phebe Cramer
 					concludes, "In other words, the exciting events of a boy's life are exterior —
 					and here I would say exterior to his own body ... Girls, on the other hand,
-					focus on the interior. Excitement occurs within...."<note>7. Phebe Cramer, "The
-						Development of Play and Fantasy in Boys and Girls," in Psychoanalysis and
-						Contemporary Science, Vol. 4 (New York: International Universities Press,
-						1975), p. 561.</note> I read this as a positive assertion. My body is
+					focus on the interior. Excitement occurs within...."<ref n="7">7</ref> I read this as a positive assertion. My body is
 					constructed differently from a man's. The sense of inner space —not a void,
 					empty, waiting to be filled, but a possibility, in touch with growth, alive,
 					whole.</p>
@@ -366,8 +355,7 @@
 				<quote>I have people clearly looking at their old dance, confronting it and
 					accepting what it is and by dancing it, experiencing that it is not working.
 					Once this has happened, all that vital energy locked up in the old dance is
-					rechanneled as energy and motivation to be used in creating a new one.<note>8.
-						Anna Halprin, quoted in Déak, p. 51.</note></quote>
+					rechanneled as energy and motivation to be used in creating a new one.<ref n="8">8</ref></quote>
 				<p> After two days of separation, the women and men came back together. Each group
 					presented its experience to the other. The women chose to perform in a redwood
 					grove. First we sketched out a collective score, each of us offering suggestions
@@ -424,39 +412,54 @@
 					with the women. I don't think so. In later discussions, the men admitted how
 					difficult it had been for them to come together as a group, how hard it had been
 					to relate physically, to get close to each other.)</p>
-				<p> Differences in communication patterns. In Marge Piercy's novel Small Changes,
+				<p> Differences in communication patterns. In Marge Piercy's novel <title level="m">Small Changes</title>,
 					Wanda is showing the members of her theatre group the different ways men and
 					women occupy space. She chooses for illustration how people sit in public
 					places. "Men expanded into available space. They sprawled, or they sat with
 					spread legs.... Women condensed.... Women sat protectively using elbows not to
 					dominate space, not to mark territory, but to protect their soft
-						tissues."<note>9. Marge Piercy, Small Changes (Garden City, N.Y.: Doubleday,
-						1973), p. 438.</note> And I wonder again about the ways women have been
+						tissues."<ref n="9">9</ref> And I wonder again about the ways women have been
 					taught to hold their bodies.</p>
 				<p> It's almost two years since I became aware of my body. And l'm still learning.
 					Finding my center. Me. A woman.</p>
-				<p> Research into sex-role differences in movement patterns is still limited. Nancy
-					Henley's new book, Body Politics: Sex, Power and Nonverbal Communication,
-						<note>10. Nancy Henley, Body Politics (New York: Prentice-Hall,
-						1977).</note> provides a much-needed compilation and review of the research
+				
+				<epigraph>
+					<p> Research into sex-role differences in movement patterns is still limited. Nancy
+					Henley's new book, <title level="m">Body Politics: Sex, Power and Nonverbal Communication</title><ref n="10">10</ref>,
+						 provides a much-needed compilation and review of the research
 					on male-female differences, and what this means in terms of status. Just the
 					title implies the importance of body language in regard to social "position." In
 					another study, Martha Davis, a clinical psychologist, points out that a number
 					of aspects of non-verbal communication have both sex-role and status
 					significance—"frequently confirming the expectation of lower status associated
-					with female, higher status with male."<note>11. Martha Davis, "Nonverbal
-						Dimensions of Sex and Status Differences (presented at American
-						Anthropological Association Meetings, Nov. 1976).</note> Davis concludes her
+					with female, higher status with male."<ref n="11">11</ref> Davis concludes her
 					paper with a description of the pictures of man and woman sent into outer space
 					on the Pioneer 10 spaceship: "The man stands upright, wide, ready to go into
 					action. The woman stands with her weight shifted to one side, one knee slightly
 					bent and inward, her attitude more passive, a role difference apparently
 					considered important enough to propel beyond our solar system."</p>
 				<p> My thanks to Jacqueline Morrison who took all the photos at Anna's workshop.</p>
+				</epigraph>
 			</div>
 		</body>
 		<back>
-			<p> Sue Heinemann is an artist, critic and sometimes dancer living in New York.</p>
+			<listBibl>
+				<bibl>1. Ann Halprin, "Community Art as Life Process," <title level="j">The Drama Review</title> (Sept. 1973), p. 66.</bibl>
+				<bibl>2. Quoted in: Frañtisek Déak and Norma Jean (Déak), "Ann Halprin's Theatre and Therapy Workshop," <title level="j">The Drama Review</title> (March, 1976), p. 51.</bibl>
+				<bibl>3. Anna Halprin, "Life/art workshop processes," in <title level="m">Taking Part</title> by Lawrence Halprin and Jim Burns (Cambridge: MIT Press, 1974), p. 174.</bibl>
+				<bibl>4. Clara M. Thompson, <title level="m">On Women</title> (New York: New American Library, 1964), p. 25.</bibl>
+				<bibl>5. Margaret Mead, "On Freud's View of Female Psychology," in <title level="m">Women &amp; Analysis</title>, ed. Jean Strouse (New York: Dell, 1974), p. 127.</bibl>
+				<bibl>6. Originally published in 1968, reprinted with a reply to criticisms in <title level="m">Women &amp; Analysis</title>.</bibl>
+				<bibl>7. Phebe Cramer, "The Development of Play and Fantasy in Boys and Girls," in <title level="m">Psychoanalysis and Contemporary Science</title>, Vol. 4 (New York: International Universities Press, 1975), p. 561.</bibl>
+				<bibl>8. Anna Halprin, quoted in Déak, p. 51.</bibl>
+				<bibl>9. Marge Piercy, <title level="m">Small Changes</title> (Garden City, N.Y.: Doubleday, 1973), p. 438.</bibl>
+				<bibl>10. Nancy Henley, <title level="m">Body Politics</title> (New York: Prentice-Hall, 1977).</bibl>
+				<bibl>11. Martha Davis, "Nonverbal Dimensions of Sex and Status Differences (presented at American Anthropological Association Meetings, Nov. 1976).</bibl>
+			</listBibl>
+			
+			<div>
+				<p> Sue Heinemann is an artist, critic and sometimes dancer living in New York.</p>
+			</div>
 		</back>
 	</text>
 </TEI>

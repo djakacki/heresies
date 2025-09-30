@@ -2,13 +2,13 @@
 <?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="https://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The enemies of She Who Call her various names</title>
-            <author>Judy Grahn</author>
+            <title>The Collective Statement</title>
+            <author>The 6th Issue Collective</author>
             <respStmt>
                <persName>Eowyn Andres</persName>
                <resp>Editor (2024-Present)</resp>
@@ -125,7 +125,7 @@
          <sourceDesc>
             <biblStruct>
                <analytic>
-                  <title>Lesbian Art and Artists</title>
+                  <title>Heresies #6: On Women and Violence</title>
                </analytic>
                <monogr>
                   <imprint>
@@ -133,7 +133,7 @@
                      <pubPlace>
                         <address>
                            <name>Heresies</name>
-                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <postBox>P.O. Box 766, Canal Street Station</postBox>
                            <settlement>New York</settlement>
                            <region>New York</region>
                            <postCode>10013</postCode>
@@ -147,59 +147,61 @@
    </teiHeader>
    <text>
       <body>
-         <pb n="9" facs="/sites/default/files/2025-08/heresies03_009_1.jpg"/>
-         
-               <head>The enemies of She Who call her various names</head>
-         <byline>Judy Grahn</byline>
-
-
-            <lg>
-               <l>a whore, a whore</l>
-               <l>a fishwife a cunt a harlot a harlot a pussy</l>
-               <l>a doxie a tail a fishwife a whore a hole a slit</l>
-               <l>a cunt a bitch a slut a slit a hole a whore a hole</l>
-               <l>a vixen/ a piece of ass/ a dame-filly-mare</l>
-               <l>dove-cow-pig-chick-cat-kitten-bird</l>
-               <l>dog-dish/ a dumb blonde</l>
-            </lg>
-
-            <lg>
-               <l>you black bitch-you white bitch-you brown bitch-you yellow</l>
-               <l>bitch-you fat bitch-you stupid bitch-you stinking bitch-</l>
-               <l>you little bitch-you old bitch-a cheap bitch-a high class</l>
-               <l>bitch-a 2 bit whore-a 2 dollar whore-a ten dollar</l>
-               <l>whore-a million dollar-mistress</l>
-            </lg>
-
-            <lg>
-               <l>a hole a slut a cunt a slit a cut</l>
-               <l>a slash a hole a slit a piece</l>
-               <l>of shit, a piece of shit, a piece of shit</l>
-            </lg>
-
-            <lg>
-               <l>She Who bears it</l>
-               <l>bear down, breathe</l>
-               <l>bear down, bear down, breathe</l>
-               <l>bear down, bear down, bear down, breathe</l>
-               <l>She Who lies down in the darkness and bears it</l>
-               <l>She Who lies down in the lightness and bears it</l>
-               <l>the labor of She Who carries and bears is the first labor</l>
-               <l>all over the world</l>
-               <l>the waters arę breaking everywhere</l>
-               <l>everywhere the waters are breaking</l>
-               <l>the labor of She Who carries and bears</l>
-               <l>and raises and rears is the first labor,</l>
-               <l>there is no other first labor.</l>
-            </lg>
-
+         <div type="essay">
+            <p><pb n="1"/> We came together almost a year ago to examine violence. We operated as a
+               study group, a work group and a support group. Our individual reasons for joining
+               together to work on this issue included years of involvement in workplace organizing,
+               work with tortured political prisoners in Chile, work with battered women in New York
+               City, three years' work as a whore; to substantiate a psycho-sexual curiosity in
+               violence; being molested and beaten by a father, being raised by working-class
+               communist parents, being lesbian, being Indian in a White supremacist society. And
+               all of us shared a commitment, as women, to the radical restructuring of this
+               society.</p>
+            <p>Readings and discussions about our individual experiences have helped us clarify the
+               inextricable connection between power, control and privilege: that violence, in its
+               broadest sense, is essential in maintaining any unequal relation ship. We were forced
+               to abandon linear notions about the causes, functions and manifestations of violence
+               and to replace them with an understanding that was both multidimensional and itself a
+               process.</p>
+            <p>In one-to-one relations, most of us at times have felt in control, powerful: mothers
+               over children, whores over tricks, females withholding something a male wants. In a
+               larger sense, however, this power is relative. If the laws, jobs, money, and values
+               that affect our lives are determined by men with power, then the personal power we
+               experience as mother, whore or girlfriend is never outside of this context.</p>
+            <p>Actual power can be elusive, not something you can hold in your hand. Power does not
+               have a life of its own, but is established over and over again through interaction.
+               The power of some individuals, whether a caseworker, a husband or a boss, and some
+               institutions over others is culturally sanctioned and enforced.</p>
+            <p>We recognize that violence is woven throughout the fabric of all social structures
+               and that this violence is experienced differently according to cultural, racial,
+               sexual, class, ethnic, age and national identity. Those of us who are poor in a
+               classist society, Third World in a racist society, female in a sexist society,
+               homosexual in a heterosexist society know daily the violence directed at us because
+               of who we are and the importance of uniting along these lines. But to examine class
+               and not race, class and race but not sex, or sex and nothing else, perpetuates our
+               isolation and undercuts the clarity of our analysis and the strength of our united
+               action.</p>
+            <p>Women have always fought back. We have fought for survival, for change and for
+               revolution. Recognizing and examining our identity as a gender class enables us to
+               challenge one of the most deep-rooted and long-lasting instances of domination: that
+               of men over women.</p>
+            <p>Feminism takes as a central assumption that women as women are every where oppressed.
+               The nature of this oppression may be modified by the particular male-dominated social
+               system that a woman is part of, but as variable as male domination may be, the
+               central feature of the relations between the sexes is differential access to societal
+               resources and expropriation of one group's labor power by another group. So not only
+               are women oppressed by social custom and laws that deny them economic
+               self-sufficiency, political visibility and social status vis-à-vis men, but the labor
+               power of all women (including productive and reproductive) is ultimately under the
+               control of men.</p>
+            <p>We have been working toward an issue that is more than a documentation of the
+               violence endured by women throughout herstory or a simple collection of individual
+               solutions. We have been working toward an issue that will stimulate debate and
+               contribute to the momentum of women effecting radical change. Within the intersection
+               of gender, violence and power exists one of the keys to understanding oppression and
+               resistance.</p>
+            <byline>—The 6th Issue Collective</byline>
+         </div>
       </body>
-            <back>
-               <p>Judy Grahn is a thirty-seven year old poet. Her books include <title>The Common Woman and Edward the Dyke</title>. The above
-               poem is from <title>She Who</title>, A Graphic Book of Poems which was
-               recently published by Diana Press. She is working on a matriarchal novel.</p>
-
-            </back>
-
    </text>
 </TEI>
